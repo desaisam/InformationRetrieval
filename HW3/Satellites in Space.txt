@@ -1,0 +1,100 @@
+1.List of Kosmos satellites.txt Score : 0.6619203
+2.Space technology.txt Score : 0.5328729
+3.Colombian Space Commission.txt Score : 0.48935038
+4.List of TDRS satellites.txt Score : 0.46496934
+5.List of NRO Launches.txt Score : 0.43941593
+6.Timeline of artificial satellites and space probes.txt Score : 0.43151924
+7.Outline of space science.txt Score : 0.39701217
+8.List of GOES satellites.txt Score : 0.36860695
+9.Asia-Pacific Space Cooperation Organization.txt Score : 0.35990345
+10.Timeline of space exploration.txt Score : 0.35739478
+11.List of communications satellite firsts.txt Score : 0.35103884
+12.Turkmenistan National Space Agency.txt Score : 0.34975937
+13.Commercial use of space.txt Score : 0.32969832
+14.Commercialization of space.txt Score : 0.32969832
+15.Earth observation satellite.txt Score : 0.32678884
+16.Natural satellite.txt Score : 0.3229197
+17.United Arab Emirates Space Agency.txt Score : 0.31941885
+18.Instituto Nacional de Técnica Aeroespacial.txt Score : 0.31692404
+19.Space observatory.txt Score : 0.3160323
+20.Space telescope.txt Score : 0.3160323
+21.China Academy of Space Technology.txt Score : 0.31491554
+22.National Authority for Remote Sensing and Space Sciences.txt Score : 0.3132427
+23.Ghana Space Science and Technology Centre.txt Score : 0.3040706
+24.CNES.txt Score : 0.29435083
+25.Antrix Corporation.txt Score : 0.29355872
+26.List of government space agencies.txt Score : 0.29294524
+27.Institute of Space and Astronautical Science.txt Score : 0.28933588
+28.South African National Space Agency.txt Score : 0.28889322
+29.Satellite.txt Score : 0.28871983
+30.Air Force Space Command.txt Score : 0.2874061
+31.Department of Space.txt Score : 0.28560442
+32.List of USA satellites.txt Score : 0.28174487
+33.Outline of space exploration.txt Score : 0.2787936
+34.Low Earth orbit.txt Score : 0.2771314
+35.China Aerospace Science and Technology Corporation.txt Score : 0.27614588
+36.Intersputnik.txt Score : 0.27463496
+37.List of climate research satellites.txt Score : 0.27367532
+38.List of Earth observation satellites.txt Score : 0.27367532
+39.Reconnaissance satellite.txt Score : 0.269354
+40.Weather satellite.txt Score : 0.2649378
+41.Space research.txt Score : 0.26450965
+42.Satellite communications.txt Score : 0.26446792
+43.Telecommunications satellite.txt Score : 0.26446792
+44.Registration Convention.txt Score : 0.2635071
+45.List of Solar System objects.txt Score : 0.26154014
+46.Iranian Space Agency.txt Score : 0.26108074
+47.Canadian Space Agency.txt Score : 0.2601003
+48.Satellite navigation system.txt Score : 0.25478408
+49.Satellite navigation.txt Score : 0.25478408
+50.National Aerospace Development Administration.txt Score : 0.2544902
+51.Space Liability Convention.txt Score : 0.25367427
+52.Mission control center.txt Score : 0.25228947
+53.Mission Control.txt Score : 0.25228947
+54.Space law.txt Score : 0.25187123
+55.KAIST Satellite Technology Research Center.txt Score : 0.24800219
+56.National Committee for Space Research.txt Score : 0.24731721
+57.Space policy.txt Score : 0.24681613
+58.Militarisation of space.txt Score : 0.24591449
+59.Militarization of space.txt Score : 0.24591449
+60.TIROS-1.txt Score : 0.24521747
+61.Comisión Nacional de Actividades Espaciales.txt Score : 0.24410097
+62.Israel Space Agency.txt Score : 0.24339926
+63.Israeli Space Agency.txt Score : 0.24339926
+64.Algerian Space Agency.txt Score : 0.24111068
+65.Geo-Informatics and Space Technology Development Agency.txt Score : 0.240343
+66.Pass (spaceflight).txt Score : 0.23875713
+67.Timeline of first orbital launches by country.txt Score : 0.23423234
+68.Indian Space Research Organisation.txt Score : 0.23406745
+69.Geosynchronous orbit.txt Score : 0.2340514
+70.Belgian Institute for Space Aeronomy.txt Score : 0.22946206
+71.National Space Agency (Malaysia).txt Score : 0.22938412
+72.National Space Research and Development Agency.txt Score : 0.22865807
+73.Space and Upper Atmosphere Research Commission.txt Score : 0.22859773
+74.UK Space Agency.txt Score : 0.2285622
+75.Space archaeology.txt Score : 0.22624232
+76.National Institute for Space Research.txt Score : 0.225568
+77.Asia's Space Race.txt Score : 0.2242679
+78.Comparison of Asian national space programs.txt Score : 0.2242679
+79.National Space Development Agency of Japan.txt Score : 0.22197172
+80.List of Arab Astronauts.txt Score : 0.22155806
+81.Brazilian Space Agency.txt Score : 0.22077653
+82.Space Research and Technology Institute.txt Score : 0.22036767
+83.State Space Agency of Ukraine.txt Score : 0.21989499
+84.Space policy of the United States.txt Score : 0.2173811
+85.EUMETSAT.txt Score : 0.21679953
+86.Azerbaijan National Aerospace Agency.txt Score : 0.21501037
+87.KazCosmos.txt Score : 0.21501037
+88.Belarus Space Agency.txt Score : 0.21477914
+89.Bolivarian Agency for Space Activities.txt Score : 0.21318899
+90.List of PSLV launches.txt Score : 0.21144384
+91.Romanian Space Agency.txt Score : 0.21106178
+92.Spacefaring.txt Score : 0.21057406
+93.Space policy of the European Union.txt Score : 0.20888694
+94.Private spaceflight.txt Score : 0.2083123
+95.Chinese space program.txt Score : 0.20691413
+96.Satellite imagery.txt Score : 0.20676565
+97.Roscosmos.txt Score : 0.20655343
+98.Japan Aerospace Exploration Agency.txt Score : 0.20479882
+99.JAXA.txt Score : 0.20479882
+100.Space launch.txt Score : 0.20410846

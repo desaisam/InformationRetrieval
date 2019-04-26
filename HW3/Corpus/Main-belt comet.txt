@@ -1,0 +1,53 @@
+main-belt comets mbcs are bodies orbiting within the asteroid belt that have shown comet-like activity during part of their orbit the jet propulsion laboratory defines a main-belt asteroid as an asteroid with a semi-major axis average distance from the sun of more than 2 au but less than 3.2 au and a perihelion closest approach distance to the sun of no less than 1.6 au david jewitt from ucla points out that these objects are most likely not comets with sublimating ice but asteroids that exhibit dust activity and hence he and others started calling these class of objects active asteroidsthe first main-belt comet discovered is 7968 elst–pizarro it was discovered in 1979 and was found to have a tail by eric elst and guido pizarro in 1996 and given the cometary designation 133pelst-pizarro
+
+
+ orbits 
+ 
+unlike comets which spend most of their orbit at jupiter-like or greater distances from the sun main-belt comets follow near-circular orbits within the asteroid belt that are undistinguishable from the orbits of many standard asteroids although quite a few short-period comets have semimajor axes well within jupiters orbit main-belt comets differ in having small eccentricities and inclinations similar to main-belt asteroids the first three identified main-belt comets all orbit within the outer part of the asteroid beltit is not known how an outer solar system body like the other comets could have made its way into a low-eccentricity orbit typical of the asteroid belt which is only weakly perturbed by the planets hence it is assumed that unlike other comets the main-belt comets are simply icy asteroids which formed in an inner solar system orbit close to their present positions and that many outer asteroids may be icy
+
+
+ activity 
+some main-belt comets display a cometary dust tail only for a part of their orbit near perihelion this strongly suggests that volatiles at their surfaces are sublimating driving off the dust activity in 133pelst–pizarro is recurrent having been observed at each of the last three perihelia the activity persists for a month or several out of each 5-6 year orbit and is presumably due to ice being uncovered by minor impacts in the last 100 to 1000 years these impacts are suspected to excavate these subsurface pockets of volatile material helping to expose them to solar radiationwhen discovered in january 2010 p2010 a2 linear was initially given a cometary designation and considered a member of this group but p2010 a2 is now thought to be the remnant of an asteroid-on-asteroid impact observations of 596 scheila indicated that large amounts of dust were kicked up by the impact of another asteroid of approximately 35 meters in diameter
+
+
+ p2013 r3 
+
+in october 2013 observations of p2013 r3 taken with the 10.4 m gran telescopio canarias on the island of la palma showed that this comet was breaking apart inspection of the stacked ccd images obtained on october 11 and 12 showed that the main-belt comet presented a central bright condensation that was accompanied on its movement by three more fragments abc the brightest a fragment was also detected at the reported position in ccd images obtained at the 1.52 m telescope of the sierra nevada observatory in granada on october 12nasa reported on a series of images taken by the hubble space telescope between october 29 2013 and january 14 2014 that show the increasing separation of the four main bodies the yarkovsky–okeefe–radzievskii–paddack effect caused by sunlight increased the spin rate until the centrifugal force caused the rubble pile to separate
+
+
+ composition 
+it has been hypothesized that main-belt comets may have been the source of earths water because the deuterium–hydrogen ratio of earths oceans is too low for classical comets to have been the principal source european scientists have proposed a sample-return mission from a mbc called caroline to analyse the content of volatiles and collect dust samples
+
+
+ members 
+the term main-belt comet is a classification based on orbit and the presence of an extended morphology it does not imply that these objects are comets or that the material surrounding their nuclei was ejected by the sublimation of volatiles as on comets
+identified members of this morphology class include
+
+
+ exploration 
+castalia is a proposed mission concept for a robotic spacecraft to explore 133pelst–pizarro and make the first in situ measurements of water in the asteroid belt and thus help solve the mystery of the origin of earths water the lead is colin snodgrass from the open university in the uk castalia was proposed in 2015 and 2016 to the european space agency within the cosmic vision programme missions m4 and m5 but it was not selected the team continues to mature the mission concept and science objectives because of the construction time required and orbital dynamics a launch date of october 2028 was proposed
+
+
+ see also 
+centaur minor planet
+extinct comet
+
+
+ references 
+
+
+ external links 
+proper elements of active asteroids at asteroid families portal
+henry hsiehs main-belt comets page has extensive details on main-belt comets
+david jewitt main belt comets
+planetary society article on mbcs
+discussion of possible differences in characteristics of the water in mbcs and other comets
+youtube interview with david jewitt discussion on main-belt comets starts around 9 minutes into video
+impact trigger mechanism diagram by david jewitt
+comet-like appearance of 596 scheila
+project t3 finding comets in the asteroid population
+the active asteroids dave jewitt  22 dec 2011 arxiv1112.5220
+discovery of main-belt comet p2006 vw139 by pan-starrs1 henry h hsieh  9 feb 2012 arxiv1202.2126
+new comet p2012 t1 panstarrs remanzacco observatory  16 oct 2012
+the location of asteroidal belt comets abcs in a comets evolutionary diagram the lazarus comets arxiv1305.2621  14 may 2013
+p2013 r3 a main belt comet that is breaking apart j licandro new images obtained with the gtc

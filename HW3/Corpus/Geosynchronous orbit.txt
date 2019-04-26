@@ -1,0 +1,105 @@
+a geosynchronous orbit sometimes abbreviated gso is an orbit around earth of a satellite with an orbital period that matches earths rotation on its axis which takes one sidereal day about 23 hours 56 minutes and 4 seconds the synchronization of rotation and orbital period means that for an observer on earths surface an object in geosynchronous orbit returns to exactly the same position in the sky after a period of one sidereal day over the course of a day the objects position in the sky traces out a path typically in a figure-8 form whose precise characteristics depend on the orbits inclination and eccentricity satellites are typically launched in an eastward direction  a geosynchronous orbit is 35,786 km 22,236 mi above the earths surface those closer to earth orbit faster than earth rotates so from earth they appear to move eastward while those that orbit beyond geosynchronous distances appear to move westward 
+a special case of geosynchronous orbit is the geostationary orbit which is a circular geosynchronous orbit in earths equatorial plane that is directly above the equator a satellite in a geostationary orbit appears stationary always at the same point in the sky to observers on the surface popularly or loosely the term geosynchronous may be used to mean geostationary specifically geosynchronous earth orbit geo may be a synonym for geosynchronous equatorial orbit or geostationary earth orbit communications satellites are often given geostationary or close to geostationary orbits so that the satellite antennas that communicate with them do not have to move but can be pointed permanently at the fixed location in the sky where the satellite appears
+a semi-synchronous orbit has an orbital period of half a sidereal day ie 11 hours and 58 minutes relative to earths surface it has twice this period and hence appears to go around earth once every day examples include the molniya orbit and the orbits of the satellites in the global positioning system
+
+
+ orbital characteristics 
+circular earth geosynchronous orbits have a radius of 42,164 km 26,199 mi all earth geosynchronous orbits whether circular or elliptical have the same semi-major axis in fact orbits with the same period always share the same semi-major axis
+
+  
+    
+      
+        a
+        
+        
+          
+            
+              
+                
+                  
+                  
+                    
+                      p
+                      
+                        2
+                        π
+                      
+                    
+                  
+                  
+                
+                
+                  2
+                
+              
+              μ
+            
+            
+              3
+            
+          
+        
+      
+    
+    displaystyle asqrt3leftfrac p2pi right2mu 
+  where a is the semi-major axis p is the orbital period and μ is the geocentric gravitational constant equal to 398,600.4418 km3s2
+in the special case of a geostationary orbit the ground track of a satellite is a single point on the equator in the general case of a geosynchronous orbit with a non-zero inclination or eccentricity the ground track is a more or less distorted figure-eight returning to the same places once per sidereal day
+
+
+ geostationary orbit 
+
+a geostationary equatorial orbit geo is a circular geosynchronous orbit in the plane of the earths equator with a radius of approximately 42,164 km 26,199 mi measured from the center of the earth a satellite in such an orbit is at an altitude of approximately 35,786 km 22,236 mi above mean sea level it maintains the same position relative to the earths surface if one could see a satellite in geostationary orbit it would appear to hover at the same point in the sky ie not exhibit diurnal motion while the sun moon and stars would traverse the skies behind it the theoretical basis for this novel phenomenon of the sky goes back to newtons theory of motion and gravity in that theory the existence of a geostationary satellite is made possible because the earth rotates with respect to an inertial frame in which newtons laws of motion and gravity hold however as a practical device the geostationary satellite owes much for its realisation to arthur c clarke who proposed it during the 20th century and in whose honour the orbit is called the clarke orbit such orbits are useful for telecommunications satellites
+a perfectly stable geostationary orbit is an ideal that can only be approximated in practice the satellite drifts out of this orbit because of perturbations such as the solar wind radiation pressure variations in the earths gravitational field and the gravitational effect of the moon and sun and thrusters are used to maintain the orbit in a process known as station-keeping
+
+
+ other geosynchronous orbits 
+elliptical geosynchronous orbits are used in communications satellites to keep the satellite in view of its assigned ground stations and receivers a satellite in an elliptical geosynchronous orbit appears to oscillate in the sky from the viewpoint of a ground station tracing an analemma in the sky satellites in highly elliptical orbits must be tracked by steerable ground stations
+the infrared space observatory was in a highly elliptical geosynchronous orbit with an orbital height of apogee 70,600 km and perigee 1,000 km  it was controlled by two ground stations
+navic is a regional — ie non-global — indian navigation system currently operating with 7 satellites of which 3 are in geostationary orbit and 4 in geosynchronous orbit
+the quasi-zenith satellite system qzss is a three-satellite regional time transfer system and enhancement for gps covering japan at high elevation from a tundra orbit
+an active geosynchronous orbit is a hypothetical orbit that could be maintained if forces other than gravity were also used such as a solar sail such a statite could be geosynchronous in an orbit different higher lower more or less elliptical or some other path from the conic section orbit dictated by the laws of gravity
+a further form of geosynchronous orbit is proposed for the theoretical space elevator in which one end of the structure is tethered to the ground maintaining a shorter orbital period than by gravity alone if under tension
+other related orbit types are
+
+supersynchronous orbit a disposal  storage orbit above gsogeo  satellites drift in a westerly direction
+subsynchronous orbit a drift orbit close to but below gsogeo  used for satellites undergoing station changes in an eastern direction
+graveyard orbit a supersynchronous orbit where spacecraft are intentionally placed at the ends of their operational lives
+
+
+ other synchronous orbits 
+
+synchronous orbits can only exist for bodies that have a fixed surface eg moons rocky planets  without such a surface eg gas giants black holes there is no fixed point an orbit can be said to synchronise with  no synchronous orbit exists if the body rotates so slowly that the orbit would be outside its hill sphere or so quickly that it would be inside the body  large bodies held together by gravity cannot rotate that quickly since they would fly apart so the last condition only applies to small bodies held together by other forces eg smaller asteroids  most inner moons of planets have synchronous rotation so their synchronous orbits are in practice limited to their leading and trailing l4 and l5 lagrange points as well as the l1 and l2 lagrange points assuming they do not fall within the body of the moon objects with chaotic rotations such as exhibited by hyperion are also problematic as their synchronous orbits change unpredictably
+
+
+ history 
+
+author arthur c clarke is credited with proposing the notion of using a geostationary orbit for communications satellites the orbit is also known as the clarke orbit  together the collection of artificial satellites in these orbits is known as the clarke belt
+the first communications satellite placed in a geosynchronous orbit was syncom 2 launched in 1963 however it was in an inclined orbit still requiring the use of moving antennas  the first communications satellite placed in a geostationary orbit was syncom 3  geostationary orbits have been in common use ever since in particular for satellite television
+geostationary satellites also carry international telephone traffic but they are being replaced by fiber optic cables in heavily populated areas and along the coasts of less developed regions because of the greater bandwidth available and lower latency due to the inherent disconcerting delay in communicating via a satellite in such a high orbit it takes electromagnetic waves about a quarter of a second to travel from one end to the other end of the link thus two parties talking via satellite are subject to about a half second delay in a round-trip messageresponse sequence
+although many populated land locations on the planet now have terrestrial communications facilities microwave fiber-optic even undersea with more than sufficient capacity  telephone and internet access is still available only via satellite in many places in africa latin america and asia as well as isolated locations that have no terrestrial facilities such as canadas arctic islands antarctica the far reaches of alaska and greenland and ships at sea
+
+
+ see also 
+
+geostationary orbit
+geosynchronous satellite
+graveyard orbit
+high earth orbit
+list of orbits
+list of satellites in geosynchronous orbit
+low earth orbit
+medium earth orbit
+molniya orbit
+
+
+ references 
+
+
+ external links 
+satellites currently in geosynchronous orbit list updated daily
+sciencenasa – geosynchronous orbit
+nasa – planetary orbits
+science presse data on geosynchronous orbits including historical data and launch statistics
+orbital mechanics rocket and space technology
+filshtml
+nasa astronomy picture of the day time lapse of geostationary satellites beyond the alps 11 april 2012

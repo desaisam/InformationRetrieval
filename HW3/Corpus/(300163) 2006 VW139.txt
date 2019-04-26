@@ -1,0 +1,42 @@
+300163 2006 vw139 provisional designations 2006 vw139 and p2006 vw139 as well as periodic cometary number 288p is a kilometer-sized asteroid from the outer regions of the asteroid belt and the first binary main-belt comet ever discovered 
+2006 vw139 belongs to the exclusive class of main-belt comets which display properties of both comets and asteroids it is also a synchronous binary system and potentially the slowest rotator known to exist the object was discovered by spacewatch in 2006 its binary nature was confirmed by the hubble space telescope in september 2016 both primary and its minor-planet moon are similar in mass and size making it a true binary system the components are estimated to measure 1.8 kilometers in diameter orbiting each other at a wide separation of 104 kilometers every 135 days
+
+
+ discovery 
+2006 vw139 was discovered on 15 november 2006 by the spacewatch survey at kitt peak national observatory near tucson arizona the possible cometary activity was seen in november 2011 by pan-starrs both spacewatch and pan-starrs are asteroid survey projects of nasas near earth object observations program after the pan-starrs observations it was also given a comet designation of 288p
+
+
+ orbit and classification 
+2006 vw139 is a non-family asteroid of the main-belts background population it is both a binary asteroid and a main-belt comet also known as active asteroid it orbits the sun in the outer main-belt at a distance of 2.4–3.7 au once every 5 years and 4 months 1,944 days semi-major axis of 3.05 au its orbit has an eccentricity of 0.20 and an inclination of 3° with respect to the eclipticthe bodys observation arc begins on september 2000 with a precovery taken by the sloan digital sky survey at apache point observatory new mexico more than six years prior to its official discovery observation by spacewatch at kitt peak
+
+
+ first binary main-belt comet 
+2006 vw139 was first observed by the hubble space telescope hst in december 2011 it was imaged by hst in september 2016 just before it made its closest approach to the sun and confirmed its binary nature with two asteroids orbiting each other and revealed ongoing cometary activity this makes the object the first known binary asteroid that is also classified as a main-belt comet the binary is thought to be the result of fission of the precursor caused by yorp-driven spinupobservations of the hst revealed ongoing activity in this binary system the combined features of this binary asteroid - wide separation near-equal component size high eccentricity orbit and comet-like activity also make it unique among the few known binary asteroids that have a wide separation
+
+
+ physical characteristics 
+
+
+ diameter albedo and mass 
+2006 vw139 has a derived diameter of 1.8±0.2 kilometer the collaborative asteroid lightcurve link assumes an albedo of 0.057 and calculates a diameter of 3.20 kilometers based on an absolute magnitude of 16.2 the binary system has an estimated mass between 1.3×1012 kg and 1.1×1013 kg a single component has a derived mass of 6.15±4.85×1012 kg
+
+
+ numbering and naming 
+this minor planet was numbered by the minor planet center on 12 october 2011 mpc 76600 as of 2017 it has not been named
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+comet or asteroid hubble discovers that a unique object is a binary hubblesite september 2017
+asteroids with satellites robert johnston johnstonsarchivenet
+asteroid lightcurve database lcdb query form info
+dictionary of minor planet names google books
+asteroids and comets rotation curves cdr – observatoire de genève raoul behrend
+discovery circumstances numbered minor planets 300001-305000 – minor planet center
+300163 2006 vw139 at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

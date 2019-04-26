@@ -1,0 +1,94 @@
+the crab nebula catalogue designations m1 ngc 1952 taurus a is a supernova remnant in the constellation of taurus the now-current name is due to william parsons who observed the object in 1840 using a 36-inch telescope and produced a drawing that looked somewhat like a crab corresponding to a bright supernova recorded by chinese astronomers in 1054 the nebula was observed later by english astronomer john bevis in 1731 the nebula was the first astronomical object identified with a historical supernova explosion
+at an apparent magnitude of 8.4 comparable to that of saturns moon titan it is not visible to the naked eye but can be made out using binoculars under favourable conditions the nebula lies in the  perseus arm of the milky way galaxy at a distance of about 2.0 kiloparsecs 6,500 ly from earth it has a diameter of 3.4 parsecs 11 ly corresponding to an apparent diameter of some 7 arcminutes and is expanding at a rate of about 1,500 kilometres per second 930 mis or 0.5% of the speed of light
+at the center of the nebula lies the crab pulsar a neutron star 28–30 kilometres 17–19 mi across with a spin rate of 30.2 times per second which emits pulses of radiation from gamma rays to radio waves at x-ray and gamma ray energies above 30 kev the crab nebula is generally the brightest persistent source in the sky with measured flux extending to above 10 tev the nebulas radiation allows for the detailed studying of celestial bodies that occult it in the 1950s and 1960s the suns corona was mapped from observations of the crab nebulas radio waves passing through it and in 2003 the thickness of the atmosphere of saturns moon titan was measured as it blocked out x-rays from the nebula
+the inner part of the nebula is a much smaller pulsar wind nebula that appears as a shell surrounding the pulsar some sources consider the crab nebula to be an example of both a pulsar wind nebula as well as a supernova remnant while others separate the two phenomena based on the different sources of energy production and behaviour for the crab nebula the divisions are superficial but remain meaningful to researchers and their lines of study
+
+
+ observational history 
+
+modern understanding that the crab nebula was created by a supernova traces back to 1921 when carl otto lampland announced he had seen changes in its structure this eventually led to the conclusion that the creation of the crab nebula corresponds to the bright sn 1054 supernova recorded by chinese astronomers in ad 1054  there is a 13th-century japanese reference to this guest star in meigetsukithe event was long considered unrecorded in islamic astronomy but in 1978 a reference was found in a 13th-century copy made by ibn abi usaibia of a work by ibn butlan a nestorian christian physician active in baghdad at the time of the supernova
+
+
+ first identification 
+
+the crab nebula was first identified in 1731 by john bevis the nebula was independently rediscovered in 1758 by charles messier as he was observing a bright comet messier catalogued it as the first entry in his catalogue of comet-like objects in 1757 alexis clairaut reexamined the calculations of edmund halley and predicted the return of halleys comet in late 1758 the exact time of the comets return required the consideration of perturbations to its orbit caused by planets in the solar system such as jupiter which clairaut and his two colleagues jérôme lalande and nicole-reine lepaute carried out more precisely than halley finding that the comet should appear in the constellation of taurus it is in searching in vain for the comet that charles messier found the crab nebula which he at first thought to be halleys comet after some observation noticing that the object that he was observing was not moving across the sky messier concluded that the object was not a comet messier then realised the usefulness of compiling a catalogue of celestial objects of a cloudy nature but fixed in the sky to avoid incorrectly cataloguing them as cometswilliam herschel observed the crab nebula numerous times between 1783 and 1809 but it is not known whether he was aware of its existence in 1783 or if he discovered it independently of messier and bevis after several observations he concluded that it was composed of a group of stars the 3rd earl of rosse observed the nebula at birr castle in 1844 using a 36-inch 0.9 m telescope and referred to the object as the crab nebula because a drawing he made of it looked like a crab he observed it again later in 1848 using a 72-inch 1.8 m telescope and could not confirm the supposed resemblance but the name stuck nevertheless
+
+
+ connection to sn 1054 
+
+in 1913 when vesto slipher registered his spectroscopy study of the sky the crab nebula was again one of the first objects to be studied in the early twentieth century the analysis of early photographs of the nebula taken several years apart revealed that it was expanding tracing the expansion back revealed that the nebula must have become visible on earth about 900 years ago historical records revealed that a new star bright enough to be seen in the daytime had been recorded in the same part of the sky by chinese astronomers in 1054changes in the cloud suggesting its small extent were discovered by carl lampland in 1921 that same year john charles duncan demonstrated that the remnant is expanding while knut lundmark noted its proximity to the guest star of 1054in 1928 edwin hubble proposed associating the cloud to the star of 1054 an idea which remained controversial until the nature of supernovae was understood and it was nicholas mayall who indicated that the star of 1054 was undoubtedly the supernova whose explosion produced the crab nebula the search for historical supernovae started at that moment seven other historical sightings have been found by comparing modern observations of supernova remnants with astronomical documents of past centuries given its great distance the daytime guest star observed by the chinese could only have been a supernova—a massive exploding star having exhausted its supply of energy from nuclear fusion and collapsed in on itself
+recent analysis of historical records have found that the supernova that created the crab nebula probably appeared in april or early may rising to its maximum brightness of between apparent magnitude −7 and −4.5 brighter than everything in the night sky except the moon by july the supernova was visible to the naked eye for about two years after its first observation thanks to the recorded observations of far eastern and middle eastern astronomers of 1054 crab nebula became the first astronomical object recognized as being connected to a supernova explosion
+
+
+ crab pulsar 
+
+in the 1960s because of the prediction and discovery of pulsars the crab nebula again became a major center of interest it was then that franco pacini predicted the existence of the crab pulsar for the first time which would explain the brightness of the cloud the star was observed shortly afterwards in 1968 the discovery of the crab pulsar and the knowledge of its exact age almost to the day allows for the verification of basic physical properties of these objects such as characteristic age and spin-down luminosity the orders of magnitude involved notably the strength of the magnetic field along with various aspects related to the dynamics of the remnant the role of this supernova to the scientific understanding of supernova remnants was crucial as no other historical supernova created a pulsar whose precise age is known for certain the only possible exception to this rule would be sn 1181 whose supposed remnant 3c 58 is home to a pulsar but its identification using chinese observations from 1181 is sometimes contested
+
+
+ physical conditions 
+
+in visible light the crab nebula consists of a broadly oval-shaped mass of filaments about 6 arcminutes long and 4 arcminutes wide by comparison the full moon is 30 arcminutes across surrounding a diffuse blue central region in three dimensions the nebula is thought to be shaped either like an oblate spheroid estimated as 1,380 pc4,500 ly away or a prolate spheroid estimated as 2,020 pc6,600 ly away the filaments are the remnants of the progenitor stars atmosphere and consist largely of ionised helium and hydrogen along with carbon oxygen nitrogen iron neon and sulfur the filaments temperatures are typically between 11,000 and 18,000 k and their densities are about 1,300 particles per cm3in 1953 iosif shklovsky proposed that the diffuse blue region is predominantly produced by synchrotron radiation which is radiation given off by the curving motion of electrons in a magnetic field the radiation corresponded to electrons moving at speeds up to half the speed of light three years later the theory was confirmed by observations in the 1960s it was found that the source of the curved paths of the electrons was the strong magnetic field produced by a neutron star at the centre of the nebula
+
+
+ distance 
+even though the crab nebula is the focus of much attention among astronomers its distance remains an open question owing to uncertainties in every method used to estimate its distance in 2008 the consensus was that its distance from earth is 2.0 ± 0.5 kpc 6,500 ± 1,600 ly along its longest visible dimension it thus measures about 4.1 ± 1 pc 13 ± 3 ly acrossthe crab nebula currently is expanding outward at about 1,500 kms 930 mis images taken several years apart reveal the slow expansion of the nebula and by comparing this angular expansion with its spectroscopically determined expansion velocity the nebulas distance can be estimated in 1973 an analysis of many methods used to compute the distance to the nebula had reached a conclusion of about 1.9 kpc 6,300 ly consistent with the currently cited valuethe crab pulsar itself was discovered in 1968 tracing back its expansion assuming a constant decrease of expansion speed due to the nebulas mass yielded a date for the creation of the nebula several decades after 1054 implying that its outward velocity has decelerated less than assumed since the supernova explosion this reduced deceleration is believed to be caused by energy from the pulsar that feeds into the nebulas magnetic field which expands and forces the nebulas filaments outward
+
+
+ mass 
+estimates of the total mass of the nebula are important for estimating the mass of the supernovas progenitor star the amount of matter contained in the crab nebulas filaments ejecta mass of ionized and neutral gas mostly helium is estimated to be 4.6±1.8 m☉
+
+
+ helium-rich torus 
+one of the many nebular components or anomalies of the crab nebula is a helium-rich torus which is visible as an east-west band crossing the pulsar region the torus composes about 25% of the visible ejecta however it is suggested by calculation that about 95% of the torus is helium as yet there has been no plausible explanation put forth for the structure of the torus
+
+
+ central star 
+
+at the center of the crab nebula are two faint stars one of which is the star responsible for the existence of the nebula it was identified as such in 1942 when rudolf minkowski found that its optical spectrum was extremely unusual the region around the star was found to be a strong source of radio waves in 1949 and x-rays in 1963 and was identified as one of the brightest objects in the sky in gamma rays in 1967 then in 1968 the star was found to be emitting its radiation in rapid pulses becoming one of the first pulsars to be discoveredpulsars are sources of powerful electromagnetic radiation emitted in short and extremely regular pulses many times a second they were a great mystery when discovered in 1967 and the team who identified the first one considered the possibility that it could be a signal from an advanced civilization however the discovery of a pulsating radio source in the centre of the crab nebula was strong evidence that pulsars were formed by supernova explosions they now are understood to be rapidly rotating neutron stars whose powerful magnetic field concentrates their radiation emissions into narrow beamsthe crab pulsar is believed to be about 28–30 km 17–19 mi in diameter it emits pulses of radiation every 33 milliseconds pulses are emitted at wavelengths across the electromagnetic spectrum from radio waves to x-rays like all isolated pulsars its period is slowing very gradually occasionally its rotational period shows sharp changes known as glitches which are believed to be caused by a sudden realignment inside the neutron star the energy released as the pulsar slows down is enormous and it powers the emission of the synchrotron radiation of the crab nebula which has a total luminosity about 75,000 times greater than that of the sunthe pulsars extreme energy output creates an unusually dynamic region at the centre of the crab nebula while most astronomical objects evolve so slowly that changes are visible only over timescales of many years the inner parts of the crab nebula show changes over timescales of only a few days the most dynamic feature in the inner part of the nebula is the point where the pulsars equatorial wind slams into the bulk of the nebula forming a shock front the shape and position of this feature shifts rapidly with the equatorial wind appearing as a series of wisp-like features that steepen brighten then fade as they move away from the pulsar to well out into the main body of the nebula
+
+
+ progenitor star 
+
+the star that exploded as a supernova is referred to as the supernovas progenitor star two types of stars explode as supernovae white dwarfs and massive stars in the so-called type ia supernovae gases falling onto a dead white dwarf raise its mass until it nears a critical level the chandrasekhar limit resulting in a runaway nuclear fusion explosion that obliterates the star in type ibc and type ii supernovae the progenitor star is a massive star whose core runs out of fuel to power its nuclear fusion reactions and collapses in on itself releasing gravitational potential energy in a form that blows away the stars outer layers the presence of a pulsar in the crab nebula means that it must have formed in a core-collapse supernova type ia supernovae do not produce pulsarstheoretical models of supernova explosions suggest that the star that exploded to produce the crab nebula must have had a mass of between 9 and 11 m☉ stars with masses lower than 8 m☉ are thought to be too small to produce supernova explosions and end their lives by producing a planetary nebula instead while a star heavier than 12 m☉ would have produced a nebula with a different chemical composition from that observed in the crab nebula recent studies however suggest the progenitor could have been a super-asymptotic giant branch star in the 8 to 10 m☉ range that would have exploded in an electron-capture supernovaa significant problem in studies of the crab nebula is that the combined mass of the nebula and the pulsar add up to considerably less than the predicted mass of the progenitor star and the question of where the missing mass is remains unresolved estimates of the mass of the nebula are made by measuring the total amount of light emitted and calculating the mass required given the measured temperature and density of the nebula estimates range from about 1–5 m☉ with 2–3 m☉ being the generally accepted value the neutron star mass is estimated to be between 1.4 and 2 m☉
+the predominant theory to account for the missing mass of the crab nebula is that a substantial proportion of the mass of the progenitor was carried away before the supernova explosion in a fast stellar wind a phenomenon commonly seen in wolf-rayet stars however this would have created a shell around the nebula although attempts have been made at several wavelengths to observe a shell none has yet been found
+
+
+ transits by solar system bodies 
+
+the crab nebula lies roughly 1.5 degrees away from the ecliptic—the plane of earths orbit around the sun this means that the moon—and occasionally planets—can transit or occult the nebula although the sun does not transit the nebula its corona passes in front of it these transits and occultations can be used to analyse both the nebula and the object passing in front of it by observing how radiation from the nebula is altered by the transiting body
+
+
+ lunar 
+lunar transits have been used to map x-ray emissions from the nebula before the launch of x-ray-observing satellites such as the chandra x-ray observatory x-ray observations generally had quite low angular resolution but when the moon passes in front of the nebula its position is very accurately known and so the variations in the nebulas brightness can be used to create maps of x-ray emission when x-rays were first observed from the crab nebula a lunar occultation was used to determine the exact location of their source
+
+
+ solar 
+the suns corona passes in front of the crab nebula every june variations in the radio waves received from the crab nebula at this time can be used to infer details about the coronas density and structure early observations established that the corona extended out to much greater distances than had previously been thought later observations found that the corona contained substantial density variations
+
+
+ other objects 
+very rarely saturn transits the crab nebula its transit in 2003 was the first since 1296 another will not occur until 2267 researchers used the chandra x-ray observatory to observe saturns moon titan as it crossed the nebula and found that titans x-ray shadow was larger than its solid surface due to absorption of x-rays in its atmosphere these observations showed that the thickness of titans atmosphere is 880 km 550 mi the transit of saturn itself could not be observed because chandra was passing through the van allen belts at the time
+
+
+ gallery 
+
+
+ see also 
+crab nebula in fiction
+lists of nebulae
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+
+crab nebula on wikisky dss2 sdss galex iras hydrogen α x-ray astrophoto sky map articles and images
+crab nebula in the university of cambridge catalogue of galactic supernova remnants
+crab nebula in the seds messier index
+crab nebula in the chandra x-ray observatory field guide series
+crab nebula images by the hubble space telescope
+animation of expansion from 2008-2017 by detlef hartmann

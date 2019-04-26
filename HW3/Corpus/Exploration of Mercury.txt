@@ -1,0 +1,79 @@
+the exploration of mercury has played only a minor role in the space interests of the world it is the least explored inner planet as of 2015 the mariner 10 and messenger missions have been the only missions that have made close observations of mercury messenger made three flybys before entering orbit around mercury a third mission to mercury bepicolombo a joint mission between the japan aerospace exploration agency jaxa and the european space agency is to include two probes messenger and bepicolombo are intended to gather complementary data to help scientists understand many of the mysteries discovered by mariner 10s flybys
+compared to other planets mercury is difficult to explore the increased speed required to reach it is relatively high and due to the proximity to the sun orbits around it are rather unstable messenger was the first probe to orbit mercury
+
+
+ interest in mercury 
+mercury has not been a primary focus of many space programs because the planet is so close to the sun and spins on its own axis very slowly its surface temperature varies from 427 °c 801 °f to −173 °c −279 °f the current interest in mercury is derived from the unexpected observations of mariner 10 before mariner 10 astronomers thought that the planet simply revolved around the sun in a highly elliptical orbit the planet had been observed through ground-based telescopes and mariner 10 provided data that clarified or contradicted many of their inferencesanother reason why so few missions have targeted mercury is that it is very difficult to obtain a satellite orbit around the planet on account of its proximity to the sun which causes the sun’s gravitational field to pull on any satellite that would be set into mercurys orbit the planets orbit is inclined to the ecliptic by 7° and its orbital velocity varies from 24.25 miles per second 39.03 kms at aphelion to almost 30 miles per second 48 kms at perihelion spacecraft would be even faster because they accelerate as they approach the greater gravitational pull of the sun but must slow down for orbit insertion so this entails considerable fuel requirements this is different with superior planets beyond earth’s orbit where the satellite works against the pull of the sun therefore reaching an orbit around mercury requires especially expensive rocketry mercurys lack of an atmosphere poses further challenges because it precludes aerobraking thus a landing mission would have even more demanding fuel requirements
+
+
+ past missions 
+
+
+ mariner 10 
+
+mariner 10 was a nasa probe whose primary objective was to observe the atmosphere surface and physical characteristics of mercury and venus it was a low-cost mission completed for under 98 million mariner 10 was launched at 1245 am est on november 3 1973 from cape canaveral since mercury is so close to the sun it was too difficult to incorporate an orbit around mercury in the route so mariner 10 orbited the sun in order to reach its destination the satellite was accelerated with the gravity field of venus it then passed close to mercury on march 29 1974 as it flew towards the sun this was the first observation made of mercury at close range after the encounter mariner 10 was in an orbit around the sun such that for every one of its orbits mercury made two and the spacecraft and the planet would be able to meet again this allowed the probe to pass by mercury two additional times before completing the mission these encounters were made on september 21 1974 and march 16 1975 however since the same side of mercury was illuminated during each of the flybys at the conclusion of the mission mariner 10 had only photographed 45% of its surface the mission ended when the probes attitude control gas ran out on march 24 1975 as the spacecraft was no longer controllable without its nitrogen gas thrusters a command was sent to the probe to shut down its transmitterthe close observations collected two important sets of data the probe detected mercury’s magnetic field which is very similar to earth’s this was a surprise to scientists because mercury spins so slowly on its axis secondly visual data was provided which showed the high number of craters on the surface of the planet the visual data also allowed scientists to determine that mercury had “not experienced significant crustal modification” this also added to the mystery of the magnetic field as it was previously believed that the magnetic fields are caused by a molten dynamo effect but since there was little crustal modification this undermined that idea the visual data also allowed scientists to investigate the composition and age of the planet
+
+
+ messenger 
+
+messenger was a nasa orbital probe of mercury messenger stands for mercury surface space environment geochemistry and ranging it was launched from cape canaveral on august 3 2004 after a one-day delay due to bad weather it took the probe about six and a half years before it entered orbit around mercury in order to correct the speed of the satellite it undertook several gravitational slingshot flybys of earth venus and mercury it passed by the earth in february 2005 and then venus in october 2006 and in october 2007 furthermore the probe made three passes of mercury one in january 2008 one in october 2008 and one in september 2009 before entering orbit in 2011 during these flybys of mercury enough data was collected to produce images of over 95% of its surface
+messenger used a chemical bi-propellant system both to reach mercury and achieve orbit messengers scheduled orbital insertion took place successfully on march 18 2011 the mission was scheduled to end sometime in 2012 when it was estimated that there would no longer be enough fuel to maintain the probes orbit the primary mission was completed on march 17 2012 having collected close to 100,000 images messenger achieved 100% mapping of mercury on march 6 2013 and completed its first year-long extended mission on march 17 2013 the probe continued collecting scientific data until april 30 2015 when under a decaying orbit the probe was allowed to crash onto the surface of mercurythe messenger mission was designed to study the characteristics and environment of mercury from orbit specifically the scientific objectives of the mission are
+characterize the chemical composition of mercurys surface
+study the geologic history
+elucidate the nature of mercurys magnetic field magnetosphere
+determine the size and state of the core
+determine the volatile inventory at the poles
+study the nature of mercurys exosphere
+
+
+ ongoing missions 
+
+
+ bepicolombo 
+
+this mission to mercury is to include two satellites the mercury planetary orbiter mpo and mio mercury magnetospheric orbiter mmo each orbiter has a distinct purpose the mpo is to acquire images in several wavelengths to map the surface and exosphere composition of mercury and mio’s is to study the magnetosphere the european space agency and japan aerospace exploration agency are working in conjunction on bepicolombo and will each provide one of the orbiters the esa will provide mpo while jaxa will provide mio the bepicolombo mission will attempt to gather enough information to answer these questions
+
+what can we learn from mercury about the composition of the solar nebula and the formation of the planetary system
+why is mercurys normalized density markedly higher than that of all other terrestrial planets as well as the moon
+is the core of mercury liquid or solid
+is mercury tectonically active today
+why does such a small planet possess an intrinsic magnetic field while venus mars and the moon do not have any
+why do spectroscopic observations not reveal the presence of any iron while this element is supposedly the major constituent of mercury
+do the permanently shadowed craters of the polar regions contain sulfur or water ice
+what are the production mechanisms of the exosphere
+in the absence of any ionosphere how does the magnetic field interact with the solar wind
+is mercurys magnetised environment characterized by features reminiscent of the aurorae radiation belts and magnetospheric substorms observed on earth
+since the advance of mercurys perihelion was explained in terms of space-time curvature can we take advantage of the proximity of the sun to test general relativity with improved accuracylike mariner 10 and messenger bepicolombo will use gravity slingshots from venus and earth bepicolombo will use solar electric propulsion ion engines and then also use similar manoeuvres at the moon venus and mercury these techniques will slow the orbiters as they approach mercury it is essential to avoid using fuel to slow the orbiters as they get closer to the sun to minimize the gravitational influence of the sunthe bepicolombo mission was approved in november 2009 and successfully launched on october 20 2018  it is scheduled to enter orbit around mercury in february 2024 it will then gather data for one or possibly two years
+
+
+ proposed missions 
+
+
+ mercury-p 
+
+mercury-p меркурий-п is a proposed mission to mercury by the russian space agency the currently anticipated launch date is 2031 it is planned to be a lander
+
+
+ canceled missions 
+
+
+ mercury observer 
+
+mercury observer was a cancelled proposal in the planetary observer program
+
+
+ comparison of messenger and bepicolombo 
+bepicolombo was designed to complement the findings of messenger and is equipped with far more measuring equipment than messenger to obtain a larger range of data the orbit patterns of bepicolombo and messenger are significantly differentthe bepicolombo mission comprises two satellites launched together the mercury planetary orbiter mpo and mio mercury magnetospheric orbiter mmo the mpo will have a circular orbit much closer to mercury the reason for this orbit is that the mpo will be measuring the composition of the surface and exosphere and the close orbit will aid on data quality on the other hand miommo and messenger took largely elliptical orbits this is because of the stability of the orbit and the lower amount of fuel required to obtain and maintain the orbit another reason for the different orbits of mmo and messenger was to provide complementary data the data of the two combined satellites will provide more accurate measurements
+
+
+ see also 
+colonization of mercury
+
+
+ references 
+
+
+ external links 
+mariner 10
+messenger probe
+shirley donna l august 2003  the mariner 10 mission to venus and mercury acta astronautica aug 2003 vol 53 issue 4-10 p375 11p an 11471527

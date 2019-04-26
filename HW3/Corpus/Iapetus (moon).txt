@@ -1,0 +1,96 @@
+iapetus  greek ιαπετόσ or occasionally japetus  is the third-largest natural satellite of saturn eleventh-largest in the solar system and the largest body in the solar system known not to be in hydrostatic equilibrium  iapetus is best known for its dramatic two-tone coloration  discoveries by the cassini mission in 2007 revealed several other unusual features such as a massive equatorial ridge running three-quarters of the way around the moon
+
+
+ discovery 
+
+iapetus was discovered by giovanni domenico cassini an italian astronomer in october 1671 he had discovered it on the western side of saturn and tried viewing it on the eastern side some months later but was unsuccessful this was also the case the following year when he was again able to observe it on the western side but not the eastern side cassini finally observed iapetus on the eastern side in 1705 with the help of an improved telescope finding it two magnitudes dimmer on that sidecassini correctly surmised that iapetus has a bright hemisphere and a dark hemisphere and that it is tidally locked always keeping the same face towards saturn this means that the bright hemisphere is visible from earth when iapetus is on the western side of saturn and that the dark hemisphere is visible when iapetus is on the eastern side the dark hemisphere was later named cassini regio in his honor
+
+
+ name 
+
+iapetus is named after the titan iapetus from greek mythology the name was suggested by john herschel son of william herschel discoverer of mimas and enceladus in his 1847 publication results of astronomical observations made at the cape of good hope in which he advocated naming the moons of saturn after the titans brothers and sisters of the titan cronus whom the romans equated with their god saturn
+when first discovered iapetus was among four saturnian moons labelled the sidera lodoicea by their discoverer giovanni cassini after king louis xiv the other three were tethys dione and rhea however astronomers fell into the habit of referring to them using roman numerals with iapetus being saturn v once mimas and enceladus were discovered in 1789 the numbering scheme was extended and iapetus became saturn vii and with the discovery of hyperion in 1848 iapetus became saturn viii which it is still known by today see naming of moons
+geological features on iapetus are named after characters and places from the french epic poem the song of roland examples of names used include the craters charlemagne and baligant and the northern bright region roncevaux terra the one exception is cassini regio the dark region of iapetus named after the regions discoverer giovanni cassini
+
+
+ orbit 
+the orbit of iapetus is somewhat unusual although it is saturns third-largest moon it orbits much farther from saturn than the next closest major moon titan it has also the most inclined orbital plane of the regular satellites only the irregular outer satellites like phoebe have more inclined orbits the cause of this is unknown
+because of this distant inclined orbit iapetus is the only large moon from which the rings of saturn would be clearly visible from the other inner moons the rings would be edge-on and difficult to see from iapetus saturn would appear to be 1°56 in diameter four times the size of the moon viewed from earth
+
+
+ physical characteristics 
+
+the low density of iapetus indicates that it is mostly composed of ice with only a small 20 amount of rocky materialsunlike most of the large moons its overall shape is neither spherical nor ellipsoid but has a bulging waistline and squashed poles also its unique equatorial ridge see below is so high that it visibly distorts iapetuss shape even when viewed from a distance these features often lead it to be characterized as walnut-shaped
+iapetus is heavily cratered and cassini images have revealed large impact basins at least five of which are over 350 km 220 mi wide the largest turgis has a diameter of 580 km 360 mi its rim is extremely steep and includes a scarp about 15 km 9.3 mi high
+iapetus is known to support long-runout landslides or sturzstroms possibly supported by ice sliding
+
+
+ two-tone coloration 
+
+in the 17th century giovanni cassini observed that he could see iapetus only on the west side of saturn and never on the east he correctly deduced that iapetus is locked in synchronous rotation about saturn and that one side of iapetus is darker than the other conclusions later confirmed by larger telescopes
+
+the difference in colouring between the two iapetian hemispheres is striking the leading hemisphere and sides are dark albedo 0.03–0.05 with a slight reddish-brown coloring while most of the trailing hemisphere and poles are bright albedo 0.5–0.6 almost as bright as europa thus the apparent magnitude of the trailing hemisphere is around 10.2 whereas that of the leading hemisphere is around 11.9—beyond the capacity of the best telescopes in the 17th century the pattern of coloration is analogous to a spherical yin-yang symbol or the two sections of a tennis ball the dark region is named cassini regio and the bright region is divided into roncevaux terra north of the equator and saragossa terra south of it  before optical observations could be made by deep space probes theories about the reason for this dichotomy included an asteroid shearing off part of the moons crust the original dark material is believed to have come from outside iapetus but now it consists principally of lag from the sublimation of ice from the warmer areas of iapetuss surface it contains organic compounds similar to the substances found in primitive meteorites or on the surfaces of comets earth-based observations have shown it to be carbonaceous and it probably includes cyano-compounds such as frozen hydrogen cyanide polymers
+
+on september 10 2007 the cassini orbiter passed within 1,227 kilometres 762 mi of iapetus and returned images showing that both hemispheres are heavily cratered the color dichotomy of scattered patches of light and dark material in the transition zone between cassini regio and the bright areas exists at very small scales down to the imaging resolution of 30 metres 98 ft there is dark material filling in low-lying regions and light material on the weakly illuminated pole-facing slopes of craters but no shades of grey the dark material is a very thin layer only a few tens of centimeters approx one foot thick at least in some areas according to cassini radar imaging and the fact that very small meteor impacts have punched through to the ice underneatha better hypothesis is that the dark material is lag residue from the sublimation evaporation of water ice on the surface of iapetus possibly darkened further upon exposure to sunlight because of its slow rotation of 79 days equal to its revolution and the longest in the saturnian system iapetus would have had the warmest daytime surface temperature and coldest nighttime temperature in the saturnian system even before the development of the color contrast near the equator heat absorption by the dark material results in a daytime temperatures of 129 k in the dark cassini regio compared to 113 k in the bright regions the difference in temperature means that ice preferentially sublimates from cassini regio and deposits in the bright areas and especially at the even colder poles over geologic time scales this would further darken cassini regio and brighten the rest of iapetus creating a positive feedback thermal runaway process of ever greater contrast in albedo ending with all exposed ice being lost from cassini regio it is estimated that over a period of one billion years at current temperatures dark areas of iapetus would lose about 20 metres 66 ft of ice to sublimation while the bright regions would lose only 10 centimetres 3.9 in not considering the ice transferred from the dark regions this model explains the distribution of light and dark areas the absence of shades of grey and the thinness of the dark material covering cassini regio the redistribution of ice is facilitated by iapetuss weak gravity which means that at ambient temperatures a water molecule can migrate from one hemisphere to the other in just a few hopshowever a separate process of color segregation would be required to get the thermal feedback started the initial dark material is thought to have been debris blasted by meteors off small outer moons in retrograde orbits and swept up by the leading hemisphere of iapetus the core of this model is some 30 years old and was revived by the september 2007 flybylight debris outside of iapetuss orbit either knocked free from the surface of a moon by micrometeoroid impacts or created in a collision would spiral in as its orbit decays it would have been darkened by exposure to sunlight a portion of any such material that crossed iapetuss orbit would have been swept up by its leading hemisphere coating it once this process created a modest contrast in albedo and so a contrast in temperature the thermal feedback described above would have come into play and exaggerated the contrast in support of the hypothesis simple numerical models of the exogenic deposition and thermal water redistribution processes can closely predict the two-toned appearance of iapetus a subtle color dichotomy between iapetuss leading and trailing hemispheres with the former being more reddish can in fact be observed in comparisons between both bright and dark areas of the two hemispheres in contrast to the elliptical shape of cassini regio the color contrast closely follows the hemisphere boundaries the gradation between the differently colored regions is gradual on a scale of hundreds of km the next moon inward from iapetus chaotically rotating hyperion also has an unusual reddish color
+
+the largest reservoir of such infalling material is phoebe the largest of the outer moons although phoebes composition is closer to that of the bright hemisphere of iapetus than the dark one dust from phoebe would only be needed to establish a contrast in albedo and presumably would have been largely obscured by later sublimation the discovery of a tenuous disk of material in the plane of and just inside phoebes orbit was announced on 6 october 2009 supporting the model the disk extends from 128 to 207 times the radius of saturn while phoebe orbits at an average distance of 215 saturn radii it was detected with the spitzer space telescope
+
+
+ overall shape 
+current triaxial measurements of iapetus give it radial dimensions of 746 km × 746 km × 712 km 464 mi × 464 mi × 442 mi with a mean radius of 734.5 ± 2.8 km 456.4 ± 1.7 mi however these measurements may be inaccurate on the kilometer scale as iapetuss entire surface has not yet been imaged in high enough resolution the observed oblateness corresponds to a rotation period of 10 hours not to the 79 days observed a possible explanation for this is that the shape of iapetus was frozen by formation of a thick crust shortly after its formation while its rotation continued to slow afterwards due to tidal dissipation until it became tidally locked
+
+
+ equatorial ridge 
+
+a further mystery of iapetus is the equatorial ridge that runs along the center of cassini regio about 1,300 km 810 mi long 20 km 12 mi wide and 13 km 8.1 mi high it was discovered when the cassini spacecraft imaged iapetus on december 31 2004 peaks in the ridge rise more than 20 km 12 mi above the surrounding plains making them some of the tallest mountains in the solar system the ridge forms a complex system including isolated peaks segments of more than 200 km 120 mi and sections with three near parallel ridges  within the bright regions there is no ridge but there are a series of isolated 10 km 6.2 mi peaks along the equator the ridge system is heavily cratered indicating that it is ancient the prominent equatorial bulge gives iapetus a walnut-like appearance
+it is not clear how the ridge formed one difficulty is to explain why it follows the equator almost perfectly there are at least four current hypotheses but none of them explains why the ridge is confined to cassini regio
+
+a team of scientists associated with the cassini mission have argued that the ridge could be a remnant of the oblate shape of the young iapetus when it was rotating more rapidly than it does today the height of the ridge suggests a maximum rotational period of 17 hours if iapetus cooled fast enough to preserve the ridge but remained plastic long enough for the tides raised by saturn to have slowed the rotation to its current tidally locked 79 days iapetus must have been heated by the radioactive decay of aluminium-26 this isotope appears to have been abundant in the solar nebula from which saturn formed but has since all decayed the quantities of aluminium-26 needed to heat iapetus to the required temperature give a tentative date to its formation relative to the rest of the solar system iapetus must have come together earlier than expected only two million years after the asteroids started to form
+the ridge could be icy material that welled up from beneath the surface and then solidified if it had formed away from the position of the equator at the time this hypothesis requires that the rotational axis would have been driven to its current position by the ridge
+iapetus could have had a ring system during its formation due to its large hill sphere of 49 iapetian radii and that the equatorial ridge was then produced by collisional accretion of this ring
+the ridge and the bulge are the result of ancient convective overturn this hypothesis states that the bulge is in isostatic equilibrium typical for terrestrial mountains it means that under the bulge there is material of low density roots the weight of the bulge is compensated by buoyancy forces acting on the roots the ridge is also built of less dense matter its position along the equator is probably a result of the coriolis force acting on a liquid interior of iapetus
+
+
+ formation 
+the moons of saturn are typically thought to have formed through co-accretion a similar process to that believed to have formed the planets in the solar system as the young gas giants formed they were surrounded by discs of material that gradually coalesced into moons however a proposed model on the formation of titan suggests that titan was instead formed in a series of giant impacts between pre-existing moons iapetus and rhea are thought to have formed from part of the debris of these collisions more-recent studies however suggest that all of saturns moons inward of titan are no more than 100 million years old thus iapetus is unlikely to have formed in the same series of collisions as rhea and all the other moons inward of titan and—along with titan—may be a primordial satellite
+
+
+ exploration 
+iapetus has been imaged multiple times from moderate distances by the cassini orbiter however its great distance from saturn makes close observation difficult cassini made one targeted close flyby at a minimum range of 1,227 kilometres 762 mi on september 10 2007
+
+
+ in popular culture 
+the monolith featured at the climax of arthur c clarkes 1968 novel 2001 a space odyssey is located on iapetus
+
+
+ gallery 
+
+
+ see also 
+former classification of planets
+iapetus in fiction
+list of tallest mountains in the solar system
+subsatellite
+
+
+ references 
+
+
+ external links 
+
+cassini mission page – iapetus
+discussion of iapetus dated october 2007
+iapetus profile at nasas solar system exploration site
+the planetary society iapetus
+google iapetus 3d interactive map of the moon
+nasa astronomy picture of the day saturns iapetus moon with a strange surface 1 february 2005
+mirror objects in the solar system—refereed article discussing the speculative mirror matter and iapetus in this context
+a moon with a view—richard c hoaglands imaginative discussion of iapetuss oddities
+new attempts to crack saturns walnut moon—equatorial ridge formation theories
+cassini images of iapetus
+images of iapetus at jpls planetary photojournal
+movie of iapetuss rotation at the national oceanic and atmospheric administration site
+iapetus basemap may 2008 from cassini images
+iapetus atlas october 2008 from cassini images
+iapetus nomenclature and iapetus map with feature names from the usgs planetary nomenclature page
+flight over iapetus video

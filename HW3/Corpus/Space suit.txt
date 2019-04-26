@@ -1,0 +1,294 @@
+a space suit is a garment worn to keep a human alive in the harsh environment of outer space vacuum and temperature extremes space suits are often worn inside spacecraft as a safety precaution in case of loss of cabin pressure and are necessary for extravehicular activity eva work done outside spacecraft space suits have been worn for such work in earth orbit on the surface of the moon and en route back to earth from the moon modern space suits augment the basic pressure garment with a complex system of equipment and environmental systems designed to keep the wearer comfortable and to minimize the effort required to bend the limbs resisting a soft pressure garments natural tendency to stiffen against the vacuum a self-contained oxygen supply and environmental control system is frequently employed to allow complete freedom of movement independent of the spacecraft
+three types of space suits exist for different purposes iva intravehicular activity eva extravehicular activity and ieva intraextravehicular activity iva suits are meant to be worn inside a pressurized spacecraft and are therefore lighter and more comfortable ieva suits are meant for use inside and outside the spacecraft such as the gemini g4c suit they include more protection from the harsh conditions of space such as protection from micrometeorites and extreme temperature change eva suits such as the emu are used outside spacecraft for either planetary exploration or spacewalks they must protect the wearer against all conditions of space as well as provide mobility and functionalitysome of these requirements also apply to pressure suits worn for other specialized tasks such as high-altitude reconnaissance flight at altitudes above the armstrong limit around 19,000 m 62,000 ft water boils at body temperature and pressurized suits are needed
+the first full-pressure suits for use at extreme altitudes were designed by individual inventors as early as the 1930s the first space suit worn by a human in space was the soviet sk-1 suit worn by yuri gagarin in 1961
+
+
+ requirements 
+
+a space suit must perform several functions to allow its occupant to work safely and comfortably inside or outside a spacecraft it must provide
+
+a stable internal pressure this can be less than earths atmosphere as there is usually no need for the space suit to carry nitrogen which comprises about 78% of earths atmosphere and is not used by the body lower pressure allows for greater mobility but requires the suit occupant to breathe pure oxygen for a time before going into this lower pressure to avoid decompression sickness
+mobility movement is typically opposed by the pressure of the suit mobility is achieved by careful joint design see the theories of space suit design section
+supply of breathable oxygen and elimination of carbon dioxide these gases are exchanged with the spacecraft or a portable life support system plss
+temperature regulation unlike on earth where heat can be transferred by convection to the atmosphere in space heat can be lost only by thermal radiation or by conduction to objects in physical contact with the exterior of the suit since the temperature on the outside of the suit varies greatly between sunlight and shadow the suit is heavily insulated and air temperature is maintained at a comfortable level
+a communication system with external electrical connection to the spacecraft or plss
+means of collecting and containing solid and liquid bodily waste such as a maximum absorbency garment
+
+
+ secondary requirements 
+
+advanced suits better regulate the astronauts temperature with a liquid cooling and ventilation garment lcvg in contact with the astronauts skin from which the heat is dumped into space through an external radiator in the plss
+additional requirements for eva include
+
+shielding against ultraviolet radiation
+limited shielding against particle radiation
+means to maneuver dock release andor tether onto a spacecraft
+protection against small micrometeoroids some traveling at up to 27,000 kilometers per hour provided by a puncture-resistant thermal micrometeoroid garment which is the outermost layer of the suit experience has shown the greatest chance of exposure occurs near the gravitational field of a moon or planet so these were first employed on the apollo lunar eva suits see united states suit models belowas part of astronautical hygiene control ie protecting astronauts from extremes of temperature radiation etc a space suit is essential for extravehicular activity the apolloskylab a7l suit included eleven layers in all an inner liner a lcvg a pressure bladder a restraint layer another liner and a thermal micrometeoroid garment consisting of five aluminized insulation layers and an external layer of white ortho-fabric this space suit is capable of protecting the astronaut from temperatures ranging from −156 °c −249 °f to 121 °c 250 °fduring exploration of the moon or mars there will be the potential for lunarmartian dust to be retained on the space suit when the space suit is removed on return to the spacecraft there will be the potential for the dust to contaminate surfaces and increase the risks of inhalation and skin exposure astronautical hygienists are testing materials with reduced dust retention times and the potential to control the dust exposure risks during planetary exploration novel ingressegress approaches such as suitports are being explored as well
+in nasa space suits communications are provided via a cap worn over the head which includes earphones and a microphone due to the coloration of the version used for apollo and skylab which resembled the coloration of the comic strip character snoopy these caps became known as snoopy caps
+
+
+ operating pressure 
+
+generally to supply enough oxygen for respiration a space suit using pure oxygen must have a pressure of about 32.4 kpa 240 torr 4.7 psi equal to the 20.7 kpa 160 torr 3.0 psi partial pressure of oxygen in the earths atmosphere at sea level plus 5.3 kpa 40 torr 0.77 psi co2 and 6.3 kpa 47 torr 0.91 psi water vapor pressure both of which must be subtracted from the alveolar pressure to get alveolar oxygen partial pressure in 100% oxygen atmospheres by the alveolar gas equation the latter two figures add to 11.6 kpa 87 torr 1.7 psi which is why many modern space suits do not use 20.7 kpa 160 torr 3.0 psi but 32.4 kpa 240 torr 4.7 psi this is a slight overcorrection as alveolar partial pressures at sea level are slightly less than the former in space suits that use 20.7 kpa the astronaut gets only 20.7 kpa − 11.7 kpa  9.0 kpa 68 torr 1.3 psi of oxygen which is about the alveolar oxygen partial pressure attained at an altitude of 1,860 m 6,100 ft above sea level this is about 78% of normal partial pressure of oxygen at sea level about the same as pressure in a commercial passenger jet aircraft and is the realistic lower limit for safe ordinary space suit pressurization which allows reasonable capacity for work
+when space suits below a specific operating pressure are used from craft that are pressurized to normal atmospheric pressure such as the space shuttle this requires astronauts to pre-breathe meaning pre-breathe pure oxygen for a period before donning their suits and depressurizing in the air lock this procedure purges the body of dissolved nitrogen so as to avoid decompression sickness due to rapid depressurization from a nitrogen-containing atmosphere
+
+
+ physical effects of unprotected space exposure 
+
+the human body can briefly survive the hard vacuum of space unprotected despite contrary depictions in some popular science fiction human flesh expands to about twice its size in such conditions giving the visual effect of a body builder rather than an overfilled balloon consciousness is retained for up to 15 seconds as the effects of oxygen starvation set in no snap freeze effect occurs because all heat must be lost through thermal radiation or the evaporation of liquids and the blood does not boil because it remains pressurized within the body
+in space there are many different highly energized subatomic protons that will expose the body to extreme radiation although these compounds are minimal in amount their high energy is liable to disrupt essential physical and chemical processes in the body such as altering dna or causing cancers exposure to radiation can create problems via two methods the particles can react with water in the human body to produce free radicals that break dna molecules apart or by directly breaking the dna moleculestemperature in space can vary extremely depending on where the sun is temperatures from solar radiation can reach up to 250 °f 121 °c and lower down to −387 °f −233 °c because of this space suits must provide proper insulation and coolingthe vacuum in space creates zero pressure causing the gases and processes in the body to expand in order to prevent chemical processes in the body from overreacting it is necessary to develop a suit that counteracts against the pressure in space the greatest danger is in attempting to hold ones breath before exposure as the subsequent explosive decompression can damage the lungs these effects have been confirmed through various accidents including in very-high-altitude conditions outer space and training vacuum chambers human skin does not need to be protected from vacuum and is gas-tight by itself instead it only needs to be mechanically compressed to retain its normal shape this can be accomplished with a tight-fitting elastic body suit and a helmet for containing breathing gases known as a space activity suit sas
+
+
+ design concepts 
+a space suit should allow its user natural unencumbered movement nearly all designs try to maintain a constant volume no matter what movements the wearer makes this is because mechanical work is needed to change the volume of a constant pressure system if flexing a joint reduces the volume of the space suit then the astronaut must do extra work every time he bends that joint and he has to maintain a force to keep the joint bent even if this force is very small it can be seriously fatiguing to constantly fight against ones suit it also makes delicate movements very difficult the work required to bend a joint is dictated by the formula
+
+  
+    
+      
+        w
+        
+        
+          ∫
+          
+            
+              v
+              
+                i
+              
+            
+          
+          
+            
+              v
+              
+                f
+              
+            
+          
+        
+        
+        p
+        
+        d
+        v
+      
+    
+    displaystyle wint vivfpdv
+  where vi and vf are respectively the initial and final volume of the joint p is the pressure in the suit and w is the resultant work it is generally true that all suits are more mobile at lower pressures however because a minimum internal pressure is dictated by life support requirements the only means of further reducing work is to minimize the change in volume
+all space suit designs try to minimize or eliminate this problem the most common solution is to form the suit out of multiple layers the bladder layer is a rubbery airtight layer much like a balloon the restraint layer goes outside the bladder and provides a specific shape for the suit since the bladder layer is larger than the restraint layer the restraint takes all of the stresses caused by the pressure inside the suit since the bladder is not under pressure it will not pop like a balloon even if punctured the restraint layer is shaped in such a way that bending a joint causes pockets of fabric called gores to open up on the outside of the joint while folds called convolutes fold up on the inside of the joint the gores make up for the volume lost on the inside of the joint and keep the suit at a nearly constant volume however once the gores are opened all the way the joint cannot be bent any further without a considerable amount of work
+in some russian space suits strips of cloth were wrapped tightly around the cosmonauts arms and legs outside the space suit to stop the space suit from ballooning when in spacethe outermost layer of a space suit the thermal micrometeoroid garment provides thermal insulation protection from micrometeoroids and shielding from harmful solar radiation
+there are four main conceptual approaches to suit design
+
+
+ soft suits 
+soft suits typically are made mostly of fabrics all soft suits have some hard parts some even have hard joint bearings intra-vehicular activity and early eva suits were soft suits
+
+
+ hard-shell suits 
+hard-shell suits are usually made of metal or composite materials and do not use fabric for joints hard suits joints use ball bearings and wedge-ring segments similar to an adjustable elbow of a stove pipe to allow a wide range of movement with the arms and legs the joints maintain a constant volume of air internally and do not have any counter force therefore the astronaut does not need to exert to hold the suit in any position hard suits can also operate at higher pressures which would eliminate the need for an astronaut to pre-breathe oxygen to use a 34 kpa 4.9 psi space suit before an eva from a 101 kpa 14.6 psi spacecraft cabin the joints may get into a restricted or locked position requiring the astronaut to manipulate or program the joint the nasa ames research center experimental ax-5 hard-shell space suit had a flexibility rating of 95 the wearer could move into 95% of the positions he or she could while nude
+
+
+ hybrid suits 
+hybrid suits have hard-shell parts and fabric parts nasas extravehicular mobility unit emu uses a fiberglass hard upper torso hut and fabric limbs ilc dovers i-suit replaces the hut with a fabric soft upper torso to save weight restricting the use of hard components to the joint bearings helmet waist seal and rear entry hatch virtually all workable space suit designs incorporate hard components particularly at interfaces such as the waist seal bearings and in the case of rear-entry suits the back hatch where all-soft alternatives are not viable
+
+
+ skintight suits 
+
+skintight suits also known as mechanical counterpressure suits or space activity suits are a proposed design which would use a heavy elastic body stocking to compress the body the head is in a pressurized helmet but the rest of the body is pressurized only by the elastic effect of the suit this mitigates the constant volume problem reduces the possibility of a space suit depressurization and gives a very lightweight suit when not worn the elastic garments may appear to be that of clothing for a small child these suits may be very difficult to put on and face problems with providing a uniform pressure most proposals use the bodys natural perspiration to keep cool sweat evaporates readily in vacuum and may desublime or deposit on objects nearby optics sensors the astronauts visor and other surfaces  the icy film and sweat residue may contaminate sensitive surfaces and affect optical performance
+
+
+ contributing technologies 
+related preceding technologies include the gas mask used in world war ii the oxygen mask used by pilots of high flying bombers in world war ii the high altitude or vacuum suit required by pilots of the lockheed u-2 and sr-71 blackbird the diving suit rebreather scuba diving gear and many others
+many space suit designs are taken from the us air force suits which are designed to work in “high altitude aircraft pressures” such as the mercury iva suit or the gemini g4c or the advanced crew escape suits
+
+
+ glove technology 
+the mercury iva the first us space suit design included lights at the tips of the gloves in order to provide visual aid as the need for extravehicular activity grew suits such as the apollo a7l included gloves made of a metal fabric called chromel-r in order to prevent punctures in order to retain a better sense of touch for the astronauts the fingertips of the gloves were made of silicone with the shuttle program it became necessary to be able to operate spacecraft modules so the aces suits featured gripping on the gloves emu gloves which are used for spacewalks are heated to keep the astronauts hands warm the phase vi gloves meant for use with the mark iii suit are the first gloves to be designed with laser scanning technology 3d computer modeling stereo lithography laser cutting technology and cnc machining  this allows for cheaper more accurate production as well as increased detail in joint mobility and flexibility
+
+
+ life support technology 
+prior to the apollo missions life support in space suits was connected to the space capsule via an umbilical cord-like device however with the apollo missions life support was configured into a removable capsule called the portable life support system that allowed the astronaut to explore the moon without having to be attached to the space craft the emu space suit used for spacewalks allows the astronaut to manually control the internal environment of the suit the mark iii suit has a backpack filled with about 12 pounds of liquid air as well as pressurization and heat exchange
+
+
+ helmet technology 
+the development of the spheroidal dome helmet was key in balancing the need for field of view pressure compensation and low weight one inconvenience with some space suits is the head being fixed facing forwards and being unable to turn to look sideways astronauts call this effect alligator head
+
+
+ high-altitude suits 
+
+evgeniy chertovsky created his full-pressure suit or high-altitude skafandr скафандр in 1931 скафандр also means diving apparatus
+emilio herrera linares designed and built a full-pressure suit escafandra estratonáutica in 1935 which was to have been used during an open-basket balloon stratospheric flight scheduled for early 1936
+wiley post experimented with a number of pressure suits for record-breaking flights
+russell colley created the space suits worn by the project mercury astronauts including fitting alan shepard for his ride as americas first man in space on may 5 1961
+
+
+ models of historical significance 
+
+
+ soviet and russian suit models 
+sk series ck the space suit used for the vostok program 1961–1963 worn by yuri gagarin on the first manned space flight
+no pressures suits were worn aboard voskhod 1
+berkut беркут  golden eagle the space suit was a modified sk-1 used by the crew of voskhod 2 which included alexey leonov on the first spacewalk during 1965
+from soyuz 1 to soyuz 11 1967–1971 no pressure suits were worn during launch and reentry
+yastreb ястреб  hawk extravehicular activity space suit used during a crew exchange between soyuz 4 and soyuz 5 1969
+krechet-94 кречет  gyrfalcon space suit designed for the canceled soviet manned moon landing
+strizh стриж  swift bird space suit developed for pilots of the buran space shuttle
+sokol сокол  falcon suits worn by soyuz crew members during launch and reentry they were first worn on soyuz 12 they have been used from 1973 to present
+orlan орлан  sea-eagle or bald eagle suits for extravehicular activity originally developed for the soviet lunar program as a lunar orbit eva suit it is russias current eva suit used from 1977 to present
+
+		
+		
+		
+		
+		
+		
+
+
+ united states suit models 
+in the early 1950s siegfried hansen and colleagues at litton industries designed and built a working hard-shell suit which was used inside vacuum chambers and was the predecessor of space suits used in nasa missions
+navy mark iv high-altitudevacuum suit used for project mercury 1961–1963
+gemini space suits 1965–1966 there were three main variants developed g3c designed for intra-vehicle use g4c specially designed for eva and intra-vehicle use and a special g5c suit worn by the gemini 7 crew for 14 days inside the spacecraft
+manned orbital laboratory mh-7 space suits for the canceled mol program
+apollo block i a1c suit 1966–1967 was a derivative of the gemini suit worn by primary and backup crews in training for two early apollo missions the nylon pressure garment melted and burned through in the apollo 1 cabin fire this suit became obsolete when manned block i apollo flights were discontinued after the fire
+apolloskylab a7l eva and moon suits the block ii apollo suit was the primary pressure suit worn for eleven apollo flights three skylab flights and the us astronauts on the apollo–soyuz test project between 1968 and 1975 the pressure garments nylon outer layer was replaced with fireproof beta cloth after the apollo 1 fire this suit was the first to employ a liquid-cooled inner garment and outer micrometeroid garment
+shuttle ejection escape suit used from sts-1 1981 to sts-4 1982 by a two-man crew used in conjunction with the then-installed ejection seats derived from a usaf model these were removed once the shuttle became certified
+from sts-5 1982 to sts-25 1986 no pressure suits were worn during launch and reentry the crew would wear only a blue-flight suit with an oxygen helmet
+launch entry suit first used on sts-26 1988 the first flight after the challenger disaster it was a partial pressure suit derived from a usaf model it was used from 1988 to 1998
+advanced crew escape suit used on the space shuttle starting in 1994 the advanced crew escape suit or aces suit is a full-pressure suit worn by all space shuttle crews for the ascent and entry portions of flight the suit is a direct descendant of the united states air force high-altitude pressure suits worn by sr-71 blackbird and u-2 spy plane pilots north american x-15 and gemini pilot-astronauts and the launch entry suits worn by nasa astronauts starting on the sts-26 flight it is derived from a usaf model
+extravehicular mobility unit emu used on both the space shuttle and international space station iss the emu is an independent anthropomorphic system that provides environmental protection mobility life support and communications for a space shuttle or iss crew member to perform an eva in earth orbit used from 1982 to present
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+ chinese suit models 
+shuguang space suit first generation eva space suit developed by china for the 1967 canceled project 714 manned space program with a mass of about 10 kilograms 20 lb of orange colour made of high-resistance  multi-layers polyester fabric the astronaut could use it inside the cabin and conduct an eva as well
+project 863 space suit cancelled project of second generation chinese eva space suit
+shenzhou iva 神舟 space suit the suit was first worn by yang liwei on shenzhou 5 the first manned chinese space flight it closely resembles a sokol-kv2 suit but it is believed to be a chinese-made version rather than an actual russian suit pictures show that the suits on shenzhou 6 differ in detail from the earlier suit they are also reported to be lighter
+haiying 海鹰号航天服 eva space suit the imported russian orlan-m eva suit is called haiying used on shenzhou 7
+feitian 飞天号航天服 eva space suit new generation indigenously developed chinese-made eva space suit also used for the shenzhou 7 mission the suit was designed for a spacewalk mission of up to seven hours chinese astronauts have been training in the out-of-capsule space suits since july 2007 and movements are seriously restricted in the suits with a mass of more than 110 kilograms each
+
+		
+
+
+ emerging technologies 
+several companies and universities are developing technologies and prototypes which represent improvements over current space suits
+
+
+ additive manufacturing 
+3d printing additive manufacturing can be used to reduce the mass of hard-shell space suits while retaining the high mobility they provide this fabrication method also allows for the potential for in-situ fabrication and repair of suits a capability which is not currently available but will likely be necessary for martian exploration the university of maryland began development of a prototype 3d printed hard suit in 2016 based on the kinematics of the ax-5 the prototype arm segment is designed to be evaluated in the space systems laboratory glovebox to compare mobility to traditional soft suits initial research has focused on the feasibility of printing rigid suit elements bearing races ball bearings seals and sealing surfaces
+
+
+ astronaut glove challenge 
+there are certain difficulties in designing a dexterous space suit glove and there are limitations to the current designs for this reason the centennial astronaut glove challenge was created to build a better glove competitions have been held in 2007 and 2009 and another is planned the 2009 contest required the glove to be covered with a micro-meteorite layer
+
+
+ aoudax 
+
+since 2009 the austrian space forum has been developing aoudax an experimental mars analogue space suit focusing on an advanced human-machine interface and on-board computing network to increase situational awareness the suit is designed to study contamination vectors in planetary exploration analogue environments and create limitations depending on the pressure regime chosen for a simulation
+since 2012 for the mars2013 analogue mission by the austrian space forum to erfoud morocco the aoudax analogue space suit has a sister in the form of aoudas this is a slightly less sophisticated suit meant primarily to assist aoudax operations and be able to study the interactions between two analogue astronauts in similar suits
+the aoudax and aoudas space suits have been named after the fictional princess from the jules vernes 1873 novel around the world in eighty days and can be followed on facebook a public display mock-up of aoudax called aoudad is currently on display at the dachstein ice cave in obertraun austria after the experiments done there in 2012
+
+
+ bio-suit 
+bio-suit is a space activity suit under development at the massachusetts institute of technology which as of  2006 consisted of several lower leg prototypes bio-suit is custom fit to each wearer using laser body scanning
+
+
+ constellation space suit system 
+on august 2 2006 nasa indicated plans to issue a request for proposal rfp for the design development certification production and sustaining engineering of the constellation space suit to meet the needs of the constellation program nasa foresees a single suit capable of supporting survivability during launch entry and abort zero-gravity eva lunar surface eva and mars surface eva
+on june 11 2008 nasa awarded a usd745 million contract to oceaneering international to create the new space suit
+
+
+ final frontier design iva space suit 
+
+final frontier design ffd is developing a commercial full iva space suit with their first suit completed in 2010 ffds suits are intended as a light-weight highly mobile and inexpensive commercial space suits since 2011 ffd has upgraded iva suits designs hardware processes and capabilities ffd has built a total of 7 iva space suit 2016 assemblies for various institutions and customers since founding and has conducted high fidelity human testing in simulators aircraft microgravity and hypobaric chambers ffd has a space act agreement with nasa’s commercial space capabilities office to develop and execute a human rating plan for ffd iva suit ffd categorizes their iva suits according to their mission terra for earth-based testing stratos for high altitude flights and exos for orbital space flights each suit category has different requirements for manufacturing controls validations and materials but are of a similar architecture
+
+
+ i-suit 
+the i-suit is a space suit prototype also constructed by ilc dover which incorporates several design improvements over the emu including a weight-saving soft upper torso both the mark iii and the i-suit have taken part in nasas annual desert research and technology studies d-rats field trials during which suit occupants interact with one another and with rovers and other equipment
+
+
+ mark iii 
+the mark iii is a nasa prototype constructed by ilc dover which incorporates a hard lower torso section and a mix of soft and hard components the mark iii is markedly more mobile than previous suits despite its high operating pressure 57 kpa or 8.3 psi which makes it a zero-prebreathe suit meaning that astronauts would be able to transition directly from a one atmosphere mixed-gas space station environment such as that on the international space station to the suit without risking decompression sickness which can occur with rapid depressurization from an atmosphere containing nitrogen or another inert gas
+
+
+ mx-2 
+the mx-2 is a space suit analogue constructed at the university of marylands space systems laboratory the mx-2 is used for manned neutral buoyancy testing at the space systems labs neutral buoyancy research facility by approximating the work envelope of a real eva suit without meeting the requirements of a flight-rated suit the mx-2 provides an inexpensive platform for eva research compared to using emu suits at facilities like nasas neutral buoyancy laboratory
+the mx-2 has an operating pressure of 2.5–4 psi it is a rear-entry suit featuring a fiberglass hut air lcvg cooling water and power are open loop systems provided through an umbilical the suit contains a mac mini computer to capture sensor data such as suit pressure inlet and outlet air temperatures and heart rate resizable suit elements and adjustable ballast allow the suit to accommodate subjects ranging in height from 68 to 75 inches 170–190 cm and with a weight range of 120 lb 54 kg
+
+
+ north dakota suit 
+beginning in may 2006 five north dakota colleges collaborated on a new space suit prototype funded by a usd100,000 grant from nasa to demonstrate technologies which could be incorporated into a planetary suit the suit was tested in the theodore roosevelt national park badlands of western north dakota the suit has a mass of 47 pounds 21 kg without a life support backpack and costs only a fraction of the standard usd12,000,000 cost for a flight-rated nasa space suit  the suit was developed in just over a year by students from the university of north dakota north dakota state dickinson state the state college of science and turtle mountain community college the mobility of the north dakota suit can be attributed to its low operating pressure while the north dakota suit was field tested at a pressure of 1 psi 6.9 kpa 52 torr differential nasas emu suit operates at a pressure of 4.7 psi 32 kpa 240 torr a pressure designed to supply approximately sea-level oxygen partial pressure for respiration see discussion above
+
+
+ pxs 
+nasas prototype exploration suit pxs like the z-series is a rear-entry suit compatible with suitports the suit has components which could be 3d printed during missions to a range of specifications to fit different individuals or changing mobility requirements
+
+
+ spacex suit 
+
+in february 2015 spacex began developing a space suit for astronauts to wear within the dragon 2 space capsule the first images of the suit were revealed in september 2017 a mannequin wore the spacex space suit during the maiden launch of the falcon heavy in february 2018 according to musk the spacex suit is intended for intravehicular activity use only iva type meant to be worn inside a pressurized spacecraft for this exhibition launch the suit was not pressurized and carried no sensorsin 2018 nasa commercial crew astronauts bob behnken and doug hurley tested the spacesuit inside the dragon 2 spacecraft in order to familiarize themselves with the suit
+
+
+ suitports 
+a suitport is a theoretical alternative to an airlock designed for use in hazardous environments and in human spaceflight especially planetary surface exploration in a suitport system a rear-entry space suit is attached and sealed against the outside of a spacecraft such that an astronaut can enter and seal up the suit then go on eva without the need for an airlock or depressurizing the spacecraft cabin suitports require less mass and volume than airlocks provide dust mitigation and prevent cross-contamination of the inside and outside environments patents for suitport designs were filed in 1996 by philip culbertson jr of nasas ames research center and in 2003 by joerg boettcher stephen ransom and frank steinsiek
+
+
+ z-series 
+
+in 2012 nasa introduced the z-1 space suit the first in the z-series of space suit prototypes designed by nasa specifically for planetary extravehicular activity the z-1 space suit includes an emphasis on mobility and protection for space missions it features a soft torso versus the hard torsos seen in previous nasa eva space suits which provides reduced mass it has been labeled the buzz lightyear suit due to its green streaks for a design
+in 2014 nasa released the design for the z-2 prototype the next model in the z-series nasa conducted a poll asking the public to decide on a design for the z-2 space suit the designs created by fashion students from philadelphia university were technology trends in society and biomimicry the design technology won and the prototype is built with technologies like 3d printing the z-2 suit will also differ from the z-1 suit in that the torso reverts to the hard shell as seen in nasas emu suit
+
+
+ in fiction 
+the earliest space fiction ignored the problems of traveling through a vacuum and launched its heroes through space without any special protection  in the later 19th century however a more realistic brand of space fiction emerged in which authors have tried to describe or depict the space suits worn by their characters  these fictional suits vary in appearance and technology and range from the highly authentic to the utterly improbable
+a very early fictional account of space suits can be seen in garrett p serviss novel edisons conquest of mars 1898  later comic book series such as buck rogers 1930s and dan dare 1950s also featured their own takes on space suit design science fiction authors such as robert a heinlein contributed to the development of fictional space suit concepts
+
+
+ see also 
+ space suits portal
+ effect of spaceflight on the human body
+ extravehicular activity – lists
+by era
+ list of spacewalks and moonwalks 1965–1999
+ list of spacewalks 2000–2014
+by station
+ list of mir spacewalks
+ list of international space station spacewalks
+ list of cumulative spacewalk records
+ manned maneuvering unit
+
+
+ references 
+
+
+ bibliography 
+
+
+ external links 
+ media related to space suits at wikimedia commons
+
+space suits at a field guide to american spacecraft a list compiled by lee sledge and james h gerard of american space suits and the museum locations where they are displayed
+space suits at encyclopedia astronautica a complete listing of space suits
+russian space suits at npp zvezda
+space suit in russian english by g ilyin vladimir ivanov and ivan pavlov originally published by nauka i zhizn no 6 1978
+us human spaceflight history at the johnson space center see link near page end to walking to olympus an eva chronology pdf
+nasda online space notes at the national space development agency of japan nasda 2001
+analysis of the space shuttle extravehicular mobility unit – 1986 pdf
+nasa space shuttle eva tools and equipment reference book – 1993 pdf
+space suit evolution from custom tailored to off-the-rack pdf
+engineering aspects of apollo at the apollo lunar surface journal section on the apollo space suit and the portable life support system
+space suit photos at historic spacecraft
+space suit and spacewalk history image gallery at nasa
+zvezda history in russian english
+eva space suits extravehicular activity at ilc dover
+klesius michael june 10 2009 space suits past and future airspacemagcom washington dc smithsonian institution retrieved june 20 2013
+in april 2011 the voa special english service of the voice of america broadcast a 15-minute program on the evolution of space suits a transcript and mp3 of the program intended for english learners can be found at the evolution of spacesuits
+helmet oddity on youtube 0327

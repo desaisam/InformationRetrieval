@@ -1,0 +1,315 @@
+the german aerospace center german deutsches zentrum für luft- und raumfahrt ev abbreviated dlr is the national center for aerospace energy and transportation research of germany its headquarters are located in cologne and it has multiple other locations throughout germany the dlr is engaged in a wide range of research and development projects in national and international partnerships in addition to conducting its own research projects dlr also acts as the german space agency as such it is responsible for planning and implementing the german space programme on behalf of the german federal government as a project management agency dlr also coordinates and answers the technical and organisational implementation of projects funded by a number of german federal ministries
+
+
+ overview 
+
+dlr has approximately 8000 employees at 20 locations in germany its institutes and facilities are spread over 13 sites as well as offices in brussels paris and washington dc dlr has a budget of about 670 million euro to cover its own research development and operations approximately one third of this sum comes from competitively allocated third-party funds german drittmittel in addition to this dlr administers around 500 million euro in german funds for the european space agency esa in its capacity as project management agency it manages over 650 million euro in research on behalf of german federal ministries dlr is a full member of the consultative committee for space data systems ccsds and a member of the helmholtz association of german research centres
+in the context of dlrs initiatives to promote young research talent ten dlr school labs were set up in berlin-adlershof braunschweig bremen cologne-porz dortmund göttingen hamburg-harburg lampoldshausenstuttgart neustrelitz and oberpfaffenhofen over the past years in the dlr school labs school pupils can become acquainted with the practical aspects of natural and engineering sciences by conducting interesting experiments
+the members of the dlr executive board are
+
+pascale ehrenfreund chair since august 2015
+klaus hamacher vice chairman since april 2006
+hansjörg dittus executive board member for space research and development since october 2011
+rolf henke executive board member for aeronautics since november 2010
+karsten lemmer executive board member for energy and transport since march 2017
+gerd gruppe executive board member for space administration since april 2011on 18 june 2015 pascale ehrenfreund was named chair of the dlr executive board following the departure of johann-dietrich wörner appointed director general of the european space agency esa
+
+
+ history 
+the modern dlr was created in 1997 but was the culmination of over half a dozen space aerospace and research institutes from across the 20th century
+the oldest predecessor organization of dlr was established by ludwig prandtl in göttingen in 1907 this modellversuchsanstalt der motorluftschiff-studiengesellschaft mlstg german for institute for testing of aerodynamic models of the powered airship society later became the aerodynamische versuchsanstalt aerodynamics laboratory or aerodynamic experimental station in the 1940s the dvl an ava sister organization funded konrad zuses work on the z3 and z4 computers another german aviation technology research facility the 1935-founded top-secret luftfahrtforschungsanstalt at völkenrode which conducted research — much of it for military aviation to suit the luftwaffes needs — in parallel to the then-existing forerunners of the dlr of today would not be discovered by the allies until after the wars end
+in 1947 the arbeitsgemeinschaft weltraumfahrt consortium on space flight was formed leading to the gesellschaft für weltraumforschung gfw  society for space research being formed in 1948in 1954 the research institute of jet propulsion physics fps was established at the stuttgart airportwhat was later called the dlr was formed in 1969 as the deutsche forschungs- und versuchsanstalt für luft- und raumfahrt dfvlr  german test and research institute for aviation and space flight through the merger of several institutions these were the aerodynamische versuchsanstalt ava the deutsche versuchsanstalt für luftfahrt dvl german laboratory for aviation the deutsche forschungsanstalt für luftfahrt dfl german research institute for aviation and in 1972 the gesellschaft für weltraumforschung gfw society for space research
+in 1989 the dfvlr was renamed deutsche forschungsanstalt für luft- und raumfahrt dlr  german research institute for aviation and space flight  also in 1989 the deutsche agentur für raumfahrtangelegenheiten dara  german agency for space flight affairs was createdfollowing the merger with the deutsche agentur für raumfahrtangelegenheiten dara german for german agency for space flight affairs on 1 october 1997 the name was changed to deutsches zentrum für luft- und raumfahrt dlr literally german center for aviation and space flight the shorter translation german aerospace center is used in english-language publications
+other german space organizations include the institut für raumfahrtsysteme irs institute for space systems founded in 1970 this should not be confused with dlrs institut für raumfahrtsysteme located in bremen also significant contributions are made to the european space organization
+
+
+ research 
+
+dlr’s mission comprises the exploration of the earth and the solar system as well as research aimed at protecting the environment and developing environmentally compatible technologies and at promoting mobility communication and security dlr’s research portfolio which covers the four focus areas aeronautics space transportation and energy ranges from basic research to innovative applications dlr operates large-scale research centres both for the benefit of its own projects and as a service for its clients and partners from the worlds of business and science
+the objective of dlr’s aeronautics research is to strengthen the competitive advantage of the national and european aeronautical industry and aviation sector and to meet political and social demands – for instance with regard to climate-friendly aviation german space research activities range from experiments under conditions of weightlessness to the exploration of other planets and environmental monitoring from space in addition to these activities dlr performs tasks of public authority pertaining to the planning and implementation of the german space programme in its capacity as the official space agency of the federal republic of germany dlr’s project management agency german projektträger im dlr has also been entrusted with tasks of public authority pertaining to the administration of subsidies in the field of energy research dlr is working on highly efficient low-co2 power generation technologies based on gas turbines and fuel cells on solar thermal power generation and on the efficient use of heat including cogeneration based on fossil and renewable energy sources the topics covered by dlr’s transportation research are maintaining mobility protecting the environment and saving resources and improving transportation safety
+in addition to the already existing projects mars express global navigation satellite system galileo and shuttle radar topography mission the institute of space systems german institut für raumfahrtsysteme was founded in bremen on 26 january 2007 in the future 80 scientists and engineers will be doing research into topics such as space mission concepts satellite development and propulsion technology
+
+
+ planetary research 
+
+
+ mars express 
+
+the high resolution stereo camera hrsc is the most important german contribution to the european space agency’s mars express mission it is the first digital stereo camera that also generates multispectral data and that has a very high resolution lens the camera records images of the martian surface which formed the basis for a large number of scientific studies with the hrsc which was developed at the german aerospace center’s institute of planetary research german institut für planetenforschung it is possible to analyse details no larger than 10 to 30 meters in three dimensions
+
+
+ rosetta and philae 
+
+the comet orbiter rosetta is controlled from the european space operations centre esoc in darmstadt germany the dlr has provided the structure thermal subsystem flywheel the active descent system procured by dlr but made in switzerland rolis downward-looking camera sesame acoustic sounding and seismic instrument for philae the orbiters landing unit it has also managed the project and did the level product assurance the university of münster built mupus it was designed and built in space research centre of polish academy of sciences  and the braunschweig university of technology the romap instrument the max planck institute for solar system research made the payload engineering eject mechanism landing gear anchoring harpoon central computer cosac apxs and other subsystems
+
+
+ dawn 
+the framing cameras provided by the max planck institute for solar system research and the dlr are the main imaging instruments of dawn a multi-destination space probe to the protoplanets 4 vesta and 1 ceres launched in 2007 the cameras offer resolutions of 17 mpixel for vesta and 66 mpixel for ceres because the framing cameras are vital for both science and navigation the payload has two identical and physically separate cameras fc1  fc2 for redundancy each with its own optics electronics and structure
+
+
+ manned spaceflight 
+
+
+ columbus 
+
+dlr operates the columbus control center in oberpfaffenhofen germany it is responsible for the coordination of scientific activities as well as for systems operations and life support on board the orbiting columbus laboratory
+in february 2008 the columbus laboratory europe’s core contribution to the international space station iss was brought into space by the space shuttle and docked to the iss the cylindrical module which has a diameter of 4.5 metres 14 ft 9 in contains state-of-the-art scientific equipment it is planned to enable researchers on earth to conduct thousands of experiments in biology materials science fluid physics and many other fields under conditions of weightlessness in space
+
+
+ spacelab shuttle mir soyuz 
+germany has near ten astronauts and participates in esa manned space programs including flights of german astronauts aboard us space shuttles and russian spacecraft besides missions under esa and flights on soyuz and mir two space shuttle missions with the european built spacelab were fully funded and organizationally and scientifically controlled by germany like a separate few by esa and one by japan with german astronauts on board as hosts and not guests the first west german mission deutschland 1 spacelab-d1 dlr-1 nasa designation sts-61-a took place in 1985 
+the second similar mission deutschland 2 spacelab-d2 dlr-2 nasa designation sts-55 was first planned for 1988 but then due to the space shuttle challenger disaster was delayed until 1993 when it became the first german manned space mission after german reunification
+
+
+ earth-bound research and aeronautics 
+
+
+ remote sensing of the earth 
+in remote sensing of the earth satellites provide comprehensive and continually updated information on system earth this remote sensing data is used to investigate the earth’s atmosphere land and ocean surfaces and ice sheets practical applications of this technology include environmental monitoring and disaster relief
+following the indian ocean tsunami of 26 december 2004 for instance up-to-date maps could be compiled very quickly using earth observation satellites these maps could then be used for orientation during relief missions dlr conducts these research activities at the german remote sensing data center dfd german deutsches fernerkundungsdatenzentrum a dlr institute based in oberpfaffenhofen nowadays satellite data is also important for climate research it is used to measure temperatures co2 levels particulate matter levels rainforest deforestation and the radiation conditions of the earth’s surface land oceans polar ice
+
+
+ terrasar-x 
+the new german earth observation satellite terrasar-x was launched in june 2007 the objective of this five-year mission is to provide radar remote sensing data to scientific and commercial users the satellite’s design is based on the technology and expertise developed in the x-sar and srtm sar missions synthetic aperture radar the sensor has a number of different modes of operation with a maximum resolution of one meter and is capable of generating elevation profiles
+terrasar-x is the first satellite that was jointly paid for by government and industry dlr contributed about 80 percent of the total expenses with the remainder being covered by eads astrium the satellites core component is a radar sensor operating in the x band and capable of recording the earth’s surface using a range of different modes of operation capturing an area of 10 to 100 kilometers in size with  a resolution of 1 to 16 meters
+
+
+ astronomical surveys 
+the uppsala-dlr trojan survey udts was a search for asteroids near jupiter in the 1990s in collaboration with the swedish uppsala astronomical observatory when it concluded there was another survey the uao-dlr asteroid survey this time with a focus on near earth asteroids and both surveys discovered numerous objects
+
+
+ suborbital spaceplane 
+studying a suborbital spaceplane dlr conducted falke prototype for hermes spaceplane program participates in non-realized sanger ii project and since 2005 work under the concept making fast intercontinental passenger transport possible the spaceliner is a reusable vehicle lifting-off vertically and landing like a glider
+
+
+ research aircraft 
+
+dlr operates europe’s largest fleet of research aircraft the aircraft are used both as research objects and as research tools dlr’s research aircraft provide platforms for all kinds of research missions scientists and engineers can use them for practical application-oriented purposes earth observation atmospheric research or testing new aircraft components dlr is for instance investigating wing flutter and possible ways of eliminating it which would also help to reduce aircraft noise so-called flying simulators can be used to simulate the flight performance of aircraft that have not been built yet this method was for instance used to test the airbus a380 in the early stages of its development the vfw 614 attas was used to test several systemsthe high-altitude research aircraft halo high altitude and long range research aircraft will be used for atmospheric research and earth observation from 2009 with a cruising altitude of more than 15 kilometers and a range of over 8,000 kilometers halo will provide for the first time the capability to gather data on a continental scale at all latitudes from the tropics to the poles and at altitudes as high as the lower stratosphere
+the airbus a320-232 d-atra the latest and largest addition to the fleet has been in use by the german aerospace center since late 2008 atra advanced technology research aircraft is a modern and flexible flight test platform which sets a new benchmark for flying test beds in european aerospace research – and not just because of its size
+dlr and nasa jointly operate the flying infrared telescope sofia stratospheric observatory for infrared astronomy a boeing 747sp with a modified fuselage enabling it to carry a reflecting telescope developed in germany is used as an airborne research platform the aircraft is operated by the dryden flight research center at site 9 usaf plant 42 in palmdale california observation flights will be flown 3 or 4 nights a week for up to eight hours at a time and at an altitude of 12 to 14 kilometers sofia has been designed to remain operational for a period of 20 years it is the successor to the kuiper airborne observatory kao which was deployed from 1974 to 1995
+
+
+ emissions research 
+
+dlr conducts research into co2 and noise emissions caused by air transport in order to ensure that increasing traffic volumes do not lead to an increase in the noise pollution caused by air transport dlr is investigating options for noise reduction the low-noise approach and departure procedures research project german lärmoptimierte an- und abflugverfahren for instance forms part of the national research project quiet traffic german leiser verkehr the objective of this project is to find flight procedures that can reduce the amount of noise generated during takeoff and landing one approach is to analyse noise propagation at ground level during takeoff using a large number of microphones researchers are also trying to reduce the noise at source focusing for instance on airframe and engine noise they hope to minimise noise generated in the engines using so-called antinoise
+the german aerospace centers research work on co2 emissions caused by air transport focuses for instance on model calculations concerning the effects of converting the global aircraft fleet to hydrogen propulsion the growth rates of aviation are above average this raises the question if co2 emission-free hydrogen propulsion could perhaps limit the effects of growing air traffic volumes on the environment and the climate
+
+
+ hydrogen as an energy carrier 
+the hydrosol and hydrosol-2 is one of the energy research projects in which dlr scientists are engaged for the first time scientists have achieved thermal water splitting using solar energy generating hydrogen and oxygen without co2 emissions for this achievement the dlr team and several other research groups received the descartes prize a research award created by the european commission  the fp6 hydrosol ii pilot reactor around 100 kw for solar thermochemical hydrogen production at the plataforma solar de almería in spain started in november 2005 and is in operation since 2008
+
+
+ traffic congestion 
+
+during the 2006 fifa world cup football championship dlr implemented the soccer project aimed at preventing traffic congestion in this transportation research project traffic data was obtained from the air in berlin stuttgart and cologne and used as input for traffic forecasting a sensor system combining a conventional and a thermographic camera was used to obtain the data a zeppelin an aeroplane and a helicopter served as flying research platforms an image analysis software package generated aerial photos showing the current traffic parameters as well as traffic forecasts in this way traffic control centres could be provided with almost-real-time traffic information and road users could be diverted whenever necessary
+
+
+ solar tower power plant 
+
+in 2007 the first commercially operated solar tower power plant the ps10 solar power tower was commissioned it has a capacity of eleven megawatt and it is located near sevilla in sanlúcar la mayor spain dlr is prominently involved in developing the technology for this type of power plant in solar tower power plants sun-tracking mirrors heliostats redirect the solar radiation onto a central heat exchanger receiver on top of a tower this generates high-temperature process heat which can then be used in gas or steam turbine power plants to generate electrical power for the public electricity grid in the future solar thermal tower plant technology could also be used to generate solar fuels such as hydrogen without co2 emissions
+
+
+ locations 
+
+dlr is present in germany at fourteen locations
+augsburg
+
+augsburg-universitätsviertel
+center for lightweight production technology zentrum für leichtbauproduktionstechnik
+berlin
+
+berlin-adlershof
+institute of planetary research institut für planetenforschung
+institute of transport research institute of transport research
+institute of optical sensor systems institut für optische sensorsysteme
+applied remote sensing cluster
+project management agency - information technology
+institute of space systems department of system conditioning abt systemkonditionierung
+dlr school lab
+located at tu berlin
+institute of propulsion technology department of engine acoustics abt triebwerksakustik
+berlin-charlottenburg
+berlin-carnot-strasse
+berlin-zentrum
+project management agencies at dlr
+simulation and software technologybonn
+
+bonn-oberkassel
+space agency raumfahrt-agentur
+project management for aerospace research and technology projektträger luftfahrtforschung und -technologie
+project management for dlr projektträger im dlr
+international office of the federal ministry of education and research bmbf - pursues the goal of expanding the international connections of german universities research institutions and companies
+eurekacost office
+eu office of the bmbf
+bad godesberg
+project management for dlrbraunschweig
+
+flight operations
+institute of aerodynamics and fluid mechanics
+institute of composite structures and adapative systems
+institute of flight control flugführung
+institute of flight systems engineering
+institute of transportation systems
+simulation and software engineering
+german-dutch wind tunnels dnw
+dlr school labbremen
+
+institute of space systems
+maritime security centre
+dlr school labgöttingen
+
+institute of aerodynamics and fluid mechanics
+institute of aeroelasticity
+institute of drive systems
+german-dutch wind tunnels dnw
+dlr school lab
+dlr systems engineering systemhaus technik
+dlr technology marketing
+dlr central archivehanover
+
+institute of quantum technologyhamburg
+
+department of aerospace psychology besides research also involved in the selection of astronauts and lufthansa pilots
+institute of aerospace medicine
+research center for air transport systems
+dlr school labköln
+
+executive board vorstand
+institute of airport operations and air traffic
+institute of propulsion technology
+institute of aerospace medicine
+institute of material physics in space
+institute of materials research
+institute of aerodynamics and fluid mechanics köln wind tunnel department
+institute of technical thermodynamics solar research department
+space flight and astronaut training
+simulation and software engineering
+center for solidification of supercooled melts zeus zentrum für erstarrung unterkühlter schmelzen
+dlr school lab
+german-dutch wind tunnels dnwlampoldshausen
+
+institute of space propulsion
+institute of technical physicsneustrelitz
+
+institute of communications and navigation gnss validation and completion techniques validierungs- und ergänzungstechniken
+institute of communications and navigation ionospheric effects and corrections
+remote sensing technology institute atmospheric processes atmosphärenprozessoren
+german remote sensing data centre - national ground segment
+technology marketing
+dlr school laboberpfaffenhofen 
+
+applied remote sensing cluster
+space operations and astronaut training
+german remote sensing data center dfd
+flight operations
+institute of microwaves and radar systems institut für hochfrequenztechnik und radarsysteme
+institute of communications and navigation institut für kommunikation und navigation
+institute of remote sensing technology
+institute of atmospheric physics institut für physik der atmosphäre
+institute of robotics and mechatronics institut für robotik und mechatronik
+institute of system dynamics and control institut für systemdynamik und regelungstechnik
+german space operations center gsoc 
+dlr school laboldenburg
+
+institute of networked energy systems institut für vernetzte energiesystemestuttgart
+
+institute of structures and design
+institute of vehicle concepts
+institute of technical physics
+institute of engineering thermodynamics
+institute of combustion technology
+dlr school labtrauen
+weilheim oberbayern
+
+
+ manned spaceflight 
+examples of dlr or parent institution manned spaceflight missions
+fslp 1983 with ulf merbold using spaceman on sts-9
+d1 1985 with reinhard furrer and ernst messerschmid  with netherlands wubbo ockels on sts-61-a
+d2 1993 with hans schlegel and ulrich walter
+mir 92/92e 1992 with klaus-dietrich flade
+euromir 94 with ulf merbold
+euromir 95 with thomas reiter
+mir 97 with reinhold ewald
+x-sarsrtm 2000 with gerhard thiele
+
+
+ research aircraft 
+
+examples of research aircraft
+bo 105 for atthes in-flight simulator
+ec 135 for flying helicopter simulator fhs
+vfw 614 for attas
+boeing 747sp dlrnasa project for sofia
+airbus a320-232 d-atra
+zeppelin nt for traffic analysis
+cessna 208b grand caravan d-fdlr
+dassault falcon 20e d-cmet
+dg 300 elan-17 glider
+dornier do 228-101 d-code
+dornier do 228-212 d-cffu
+dr 400/200r remorqueur d-edve
+gulfstream g550 d-adlr for halo
+lfu 205 d-elfu since 1985
+grob strato 2c d-cdlr retired
+
+
+ space missions 
+
+examples of dlr or parent institution current and past space missions many of these are also joint or international missions
+
+
+ current 
+tandem-x - terrasar-x add-on for digital elevation measurement
+prisma
+satcombw
+terrasar-x
+columbus
+automated transfer vehicle atv
+bird - bispectral infrared detector
+firebird the bird successor mission consisting of tet-1 technology experiment carrier and biros bispectral infrared optical satellite formerly berlin infrared optical satellite
+grace - gravity recovery and climate experiment
+sar-lupe
+eucropis euglena and combined regenerative organic-food production in space
+
+
+ past 
+champ - challenging minisatellite payload
+azur
+aeros
+dawn spacecraft
+helios
+ampte
+galileo
+rosat
+express
+equator-s
+moms-2p
+abrixas
+symphonie ab
+tv-sat 1  2
+dfs kopernikus 1,2,3
+eutelsat ii f1 f2 f3 f4 f5 f6
+eutelsat w w2 w3 w4 w1r hb6 w5
+rosetta
+
+
+ dlr magazine 
+dlr magazine is the institutes flagship publication also published in english as of june 2010 subject matter includes science editorials and images
+
+
+ see also 
+open access in germany
+list of aerospace flight test centres
+list of government space agencies
+
+
+ references 
+
+
+ external links 
+homepage of the dlr
+dlr homepage english
+dlr school lab  schülerlabor
+website of the washington dc dlr office
+helmholtz community hgf

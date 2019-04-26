@@ -1,0 +1,100 @@
+1.List of missions to Mars.txt Score : 0.49063817
+2.List of Mars orbiters.txt Score : 0.46978575
+3.Exploration of Mars.txt Score : 0.45801112
+4.Mars Curse.txt Score : 0.45801112
+5.Mars sample return mission.txt Score : 0.45471185
+6.List of artificial objects on Mars.txt Score : 0.44591767
+7.Aurora Programme.txt Score : 0.44482863
+8.Mars probe program.txt Score : 0.43312982
+9.Outline of space exploration.txt Score : 0.4091152
+10.Outline of the Solar System.txt Score : 0.37625548
+11.Mars 3.txt Score : 0.3673195
+12.Flexible path.txt Score : 0.3653435
+13.Flyby (spaceflight).txt Score : 0.36418045
+14.Mars to Stay.txt Score : 0.36102638
+15.Mars.txt Score : 0.35694045
+16.Deimos (moon).txt Score : 0.34937528
+17.Lander (spacecraft).txt Score : 0.327481
+18.Colonization of Mars.txt Score : 0.32651418
+19.Exploration of Phobos.txt Score : 0.31286484
+20.Phobos (moon).txt Score : 0.31286484
+21.Rover (space exploration).txt Score : 0.30660927
+22.Moons of Mars.txt Score : 0.30492902
+23.Timeline of planetary exploration.txt Score : 0.3048051
+24.Timeline of Solar System exploration.txt Score : 0.3048051
+25.Mars Orbiter Mission.txt Score : 0.30151415
+26.Review of United States Human Space Flight Plans Committee.txt Score : 0.3002852
+27.Emirates Mars Mission.txt Score : 0.29344857
+28.Space advocacy.txt Score : 0.28431088
+29.Sample return mission.txt Score : 0.27783728
+30.Sample-return mission.txt Score : 0.27783728
+31.Vision for Space Exploration.txt Score : 0.27622324
+32.Mariner 4.txt Score : 0.27116156
+33.List of active Solar System probes.txt Score : 0.26011863
+34.Interplanetary contamination.txt Score : 0.25751448
+35.Future of space exploration.txt Score : 0.25482634
+36.United Arab Emirates Space Agency.txt Score : 0.25156912
+37.Discovery program.txt Score : 0.24336338
+38.Deep space exploration.txt Score : 0.24304254
+39.Space exploration.txt Score : 0.24257576
+40.Space missions.txt Score : 0.24257576
+41.Viking 1.txt Score : 0.24184269
+42.In-situ resource utilization.txt Score : 0.23803723
+43.List of NASA missions.txt Score : 0.23330134
+44.Space technology.txt Score : 0.23251304
+45.Human outpost.txt Score : 0.226037
+46.Planetary flyby.txt Score : 0.22417255
+47.Swiss Space Office.txt Score : 0.22231826
+48.Phobos program.txt Score : 0.22096431
+49.Outline of space science.txt Score : 0.21323316
+50.Discovery and exploration of the Solar System.txt Score : 0.21069025
+51.Mars Exploration Rover.txt Score : 0.20672601
+52.Exploration of Antarctica.txt Score : 0.20420738
+53.Exploration of the Americas.txt Score : 0.20420738
+54.Space architecture.txt Score : 0.2022447
+55.Constellation program.txt Score : 0.20151927
+56.Russian Space Research Institute.txt Score : 0.19814241
+57.Space probe.txt Score : 0.19729224
+58.National Aerospace Development Administration.txt Score : 0.19014257
+59.NASA.txt Score : 0.18721315
+60.National Aeronautics and Space Administration.txt Score : 0.18721315
+61.Space policy of the United States.txt Score : 0.18719459
+62.List of Mars-crossing minor planets.txt Score : 0.182087
+63.Interplanetary spaceflight.txt Score : 0.18208224
+64.Spacecraft.txt Score : 0.18155436
+65.Astrobiology.txt Score : 0.17969981
+66.Colonization of Venus.txt Score : 0.17909889
+67.Soviet space program.txt Score : 0.1785398
+68.Mars trojan.txt Score : 0.17820571
+69.In-space propulsion technologies.txt Score : 0.17809086
+70.Fobos-Grunt.txt Score : 0.17510682
+71.Asia's Space Race.txt Score : 0.17429492
+72.Comparison of Asian national space programs.txt Score : 0.17429492
+73.Colonization of the asteroids.txt Score : 0.16812941
+74.Colonization of Mercury.txt Score : 0.16673869
+75.Colonization of Phobos.txt Score : 0.16673869
+76.Space colonization.txt Score : 0.16673869
+77.Italian Space Agency.txt Score : 0.16502853
+78.Jet Propulsion Laboratory.txt Score : 0.16087487
+79.List of Solar System probes.txt Score : 0.15717433
+80.Space Launch System.txt Score : 0.15715444
+81.Chinese space program.txt Score : 0.15204242
+82.Orbiter.txt Score : 0.15197434
+83.List of unmanned spacecraft by program.txt Score : 0.14439642
+84.List of objects at Lagrangian points.txt Score : 0.14356118
+85.Valeri Polyakov.txt Score : 0.14356118
+86.Orion (spacecraft).txt Score : 0.14278658
+87.List of artificial objects in heliocentric orbit.txt Score : 0.14247593
+88.Lunokhod programme.txt Score : 0.14113662
+89.Life support system.txt Score : 0.14105508
+90.Exploration of the Moon.txt Score : 0.13821337
+91.History of spaceflight.txt Score : 0.13767427
+92.Harrison Schmitt.txt Score : 0.13614158
+93.Atmospheric reentry.txt Score : 0.13558078
+94.Ceres (dwarf planet).txt Score : 0.13531247
+95.Exploration of Ceres.txt Score : 0.13531247
+96.Japan Aerospace Exploration Agency.txt Score : 0.13474523
+97.JAXA.txt Score : 0.13474523
+98.Landings on other planets.txt Score : 0.13297755
+99.List of landings on extraterrestrial bodies.txt Score : 0.13297755
+100.Timeline of space exploration.txt Score : 0.13263659

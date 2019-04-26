@@ -1,0 +1,66 @@
+commercial use of space is the provision of goods or services of commercial value by using equipment sent into earth orbit or outer space examples of the commercial use of space include satellite navigation satellite television and commercial satellite imagery operators of such services typically contract the manufacturing of satellites and their launch to private or public companies which form an integral part of the space economy some commercial ventures have long-terms plans to exploit natural resources originating outside earth for example asteroid mining space tourism currently an exceptional activity could also be an area of future growth as new businesses strive to reduce the costs and risks of human spaceflight
+the first commercial use of outer space occurred in 1962 when the telstar 1 satellite was launched to transmit television signals over the atlantic ocean by 2004 global investment in all space sectors was estimated to be 50.8 billion
+as of 2010 31% of all space launches were commercial
+
+
+ history 
+
+the first commercial use of satellites may have been the telstar 1 satellite launched in 1962 which was the first privately sponsored space launch funded by att and bell telephone laboratories telstar 1 was capable of relaying television signals across the atlantic ocean and was the first satellite to transmit live television telephone fax and other data signals two years later the hughes aircraft company developed the syncom 3 satellite a geosynchronous communications satellite leased to the department of defense commercial possibilities of satellites were further realized when the syncom 3 orbiting near the international date line was used to telecast the 1964 olympic games from tokyo to the united statesbetween 1960 and 1966 nasa launched a series of early weather satellites known as television infrared observation satellites tiros these satellites greatly advanced meteorology worldwide as satellite imagery was used for better forecasting for both public and commercial interestson april 6 1965 the hughes aircraft company placed the intelsat i communications satellite geosynchronous orbit over the atlantic ocean intelsat i was built for the communications satellite corporation comsat and demonstrated that satellite-based communication was commercially feasible intelsat i allowed for near-instantaneous contact between europe and north america by handling television telephone and fax transmissions two years later the soviet union launched the orbita satellite which provided television signals across russia and started the first national satellite television network similarly the 1972 anik a satellite launched by telesat canada allowed the canadian broadcasting corporation to reach northern canada for the first timebeginning in 1997 iridium communications began launching a series of satellites known as the iridium satellite constellation which provided the first satellites for direct satellite telephone service
+
+
+ space transportation 
+
+the commercial space transportation industry derives the bulk of its revenue from the launching of satellites into the earth’s orbit commercial launch providers typically place private and government satellites into low earth orbit leo and geosynchronous earth orbit geo in 2002 commercial space transportation generated 6.6 billion dollars which made up 6% of the total gross of commercial space activitiesthe federal aviation administration faa has licensed four commercial spaceports in the united states the virginia space flight centerwallops flight facility kodiak launch complex spaceport floridakennedy space centercape canaveral air force station and the california spaceportvandenberg afb launch sites within russia and china have added to the global commercial launch capacity the delta iv and atlas v family of launch vehicles are made available for commercial ventures for the united states while russia promotes eight families of vehicles the three largest russian systems are the proton soyuz and zenitbetween 1996 and 2002 245 launches were made for commercial ventures while government non-classified launches only total 167 for the same period commercial space flight has spurred investment into the development of an efficient reusable launch vehicle rlv which can place larger payloads into orbit several companies such as spacex and blue origin are currently developing new rlv designs
+in the united states office of commercial space transportation generally referred to as faaast or simply ast is the branch of federal aviation administration faa that approves any commercial rocket launch operations—that is any launches that are not classified as model amateur or by and for the government
+
+
+ satellites and equipment 
+satellite manufacturingcommercial satellite manufacturing is defined by the united states government as satellites manufactured for civilian government or non-profit use not included are satellites constructed for military use nor for activities associated with any human space flight program between the years of 1996 and 2002 satellite manufacturing within the united states experienced an annual growth of 11 percent the rest of the world experienced higher growth levels of around 13 percent
+ground equipment manufacturingoperating satellites communicate via receivers and transmitters on earth the manufacturing of satellite ground station communication terminals including vsats mobile satellite telephones and home television receivers are a part of the ground equipment manufacturing sector this sector grew through the latter half of the 1990s as it manufactured equipment for the satellite services sector between the years of 1996 and 2002 this industry saw a 14 percent annual increase
+transponder leasingbusinesses that operate satellites often lease or sell access to their satellites to data relay and telecommunication firms this service is often referred to as transponder leasing between 1996 and 2002 this industry experienced a 15 percent annual growth the united states accounts for about 32 percent of the world’s transponder market
+
+
+ subscription satellite services 
+in 1994 directv debuted direct broadcast satellite by introducing a signal receiving dish 18inches in diameter in 1996 astro started in malaysia with the launch of the measat satellite in november 1999 the satellite home viewer improvement act became law and local stations were then made available in satellite channel packages fueling the industry’s growth in the years that followed by the end of 2000 dth subscriptions totaled over 67 millionsatellite radio was pioneered by xm satellite radio and sirius satellite radio xm’s first satellite was launched on march 18 2001 and its second on may 8 2001 its first broadcast occurred on september 25 2001 nearly four months before sirius sirius launched the initial phase of its service in four cities on february 14 2002 expanding to the rest of the contiguous united states on july 1 2002 the two companies spent over 3 billion combined to develop satellite radio technology build and launch the satellites and for various other business expenses
+
+
+ satellite imagery 
+several operators of earth observation satellites such as geoeye and spot image provide images commercially
+
+
+ satellite navigation 
+
+a satellite navigation system is a system of satellites that provide autonomous geo-spatial positioning with global coverage it allows small electronic receivers to determine their location longitude latitude and altitudeelevation to high precision within a few metres using time signals transmitted along a line of sight by radio from satellites the signals also allow the electronic receivers to calculate the current local time to high precision which allows time synchronisation a satellite navigation system with global coverage may be termed a global navigation satellite system gnss
+
+
+ space tourism 
+
+space tourism is space travel by individuals for the purpose of personal pleasure  the space tourism industry is being targeted by spaceports in numerous locations including the mojave air and space port in california the clinton-sherman industrial airpark near burns flat oklahoma spaceport america in sierra county new mexico the mid-atlantic regional spaceport on the delmarva peninsula in virginia the kodiak launch complex on kodiak island alaska and the esrange space center in kiruna sweden
+
+
+ commercial recovery of space resources 
+
+commercial recovery of space resources is the exploitation of raw materials from asteroids comets and other space objects including near-earth objects minerals and volatiles could be mined then used in space for in-situ utilization eg construction materials and rocket propellant or taken back to earth these include gold iridium silver osmium palladium platinum rhenium rhodium ruthenium and tungsten for transport back to earth iron cobalt manganese molybdenum nickel aluminium and titanium for construction water and oxygen to sustain astronauts as well as hydrogen ammonia and oxygen for use as rocket propellant
+there are several commercial enterprises working in this field including planetary resources and deep space industries
+
+
+ regulation 
+beyond the many technological factors that could make space commercialization more widespread it has been suggested that the lack of private property the difficulty or inability of individuals in establishing property rights in space has been an impediment to the development of space for both human habitation and commercial developmentsince the advent of space technology in the latter half of the twentieth century the ownership of property in space has been murky with strong arguments both for and against  in particular the making of national territorial claims in outer space and on celestial bodies has been specifically proscribed by the outer space treaty which had been as of  2012 ratified by all spacefaring nationsin november 25 2015 president obama signed the us commercial space launch competitiveness act hr 2262 into law the law recognizes the right of us citizens to own space resources they obtain and encourages the commercial exploration and utilization of resources from asteroids according to the article § 51303 of the law
+a united states citizen engaged in commercial recovery of an asteroid resource or a space resource under this chapter shall be entitled to any asteroid resource or space resource obtained including to possess own transport use and sell the asteroid resource or space resource obtained in accordance with applicable law including the international obligations of the united states
+
+
+ see also 
+
+
+ references 
+
+futron corporation 2001 trends in space commerce retrieved january 24 2006
+
+
+ external links 
+ethical issues
+lunar land grab
+office of space commercialization
+property rights
+government policy
+mir space station privatization

@@ -1,0 +1,103 @@
+this article constitutes a list of rocket launch sites some of these sites are known as spaceports or cosmodromes a single rocket launch is sufficient for inclusion in the table as long as the site is properly documented through a reference missile locations with no launches are not included in the list proposed and planned sites and sites under construction are not included in the main tabulation but may appear in condensed lists under the tables
+a shorter list of spaceports for human spaceflight and satellite launches is available in the article spaceport
+
+
+ table specification 
+
+
+ sorting order 
+operational date
+countries in alphabetical order within a table
+launch sites within a country are sorted chronologically according to start of operationsrocket names
+
+
+ column specification 
+country – territory of the site the organisation responsible for the launches may reside elsewhere as indicated in the notes column
+location – name of launch site sometimes also province etc
+coordinates – geographical coordinates
+operational date – the period of years of launch activities
+number of rocket launches – the total number of launches including failed launches
+heaviest rocket launched – total mass at lift-off
+highest achieved altitude – height in km above launch site
+notes – comments
+
+
+ africa 
+
+
+ asia 
+note that some russian cosmodromes appear in this section some in the europe section
+
+
+ proposed or planned spaceports and rocket launch sites in asia 
+morotai spaceport indonesia
+kulasekarapattinam spaceport tamil nadu india
+changi spaceport singapore
+
+
+ europe 
+note that some european countries operate spaceports in africa south america or other equatorial regions these spaceports are listed in this article according to their geographical location some russian-controlled launch sites are listed as being in asia
+note that some russian cosmodromes appear in this section some in the section asia
+
+
+ proposed or planned spaceports in europe 
+spaceport sweden kiruna
+newquay cornwall england uk
+sutherland spaceport scotland uk
+
+
+ north america 
+
+
+ additional rocket launch sites in north america 
+please delete items or move them to the table above with appropriate data and references
+
+
+ proposed or planned spaceports in north america 
+maritime launch services canso nova scotia
+cape breton spaceport aka cape breton space center nova scotia
+cape rich lfcatc meaford ontario
+oklahoma spaceport burns flat
+spacex south texas launch site brownsville texas 25.996°n 97.154°w﻿  25.996 -97.154﻿ boca chica spaceport
+spaceport washington moses lake washington this project was proposed in 2005 by a small real estate brokerage firm operating from an office in renton washington and has since proven to have been a scam the principal party - mr andy shin fong chen ceo of aspi group llc - was charged with fraud by the us securities and exchange commission on 15 march 2017 no licensing was ever issued by any local state or federal government agency nor was any construction ever initiated
+
+
+ south america 
+
+
+ oceania 
+
+
+ proposed or planned spaceports in oceania 
+cape york australia 12.25000°s 143.10000°e﻿  -12.25000 143.10000﻿ cape york proposed site for ukrainian zenit launches
+christmas island planned by australia and japan
+whalers way orbital launch complex approved by australia and to be build in 2019
+
+
+ launches at sea 
+
+
+ additional rocket launch sites in the oceans and antarctica 
+please delete items or move them to the table above with appropriate data and references
+
+
+ see also 
+
+launch pad
+spaceport including lists of spaceports that have achieved satellite launches and launches of humans
+
+
+ references 
+
+
+ external links 
+overview of rocket launch sites worldwide – astronautixcom
+kennedy space center cape canaveral – nasagov
+description and map of cape canaveral – astronautixcom
+missile range tool – carlos labs
+baikonur – russianspacewebcom
+description and map of baikonur – astronautixcom
+description and map of kourou – astronautixcom
+rocket launch site kiruna – astronautixcom
+homepage of esrange – sscse
+rocket launch site salto di quirra – astronautixcom

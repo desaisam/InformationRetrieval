@@ -1,0 +1,227 @@
+national institute of aeronautics and space indonesian lembaga penerbangan dan antariksa nasionallapan is the indonesian government space agency  it was established on november 27 1963 by former indonesian president sukarno after one years existence of an informal space agency organization lapan is responsible for long-term civilian and military aerospace research for over two decades it has managed satellites and domain-developed small scientific-technology satellites lapan and telecommunication satellites palapa which were built by hughes now boeing satellite systems and launched from the us on delta rockets or from french guiana using ariane 4 and ariane 5 rockets it has also developed sounding rockets and has been trying to develop small orbital space launchers the  lapan a1 in 2007 and lapan a2 satellites were launched by india in 2015
+
+
+ history 
+on may 31 1962 indonesia commenced aeronautics exploration when the aeronautics committee was established by the indonesian prime minister juanda who was also the head of indonesian aeronautics  the secretary of indonesian aeronautics rj salatun was also involved in the establishmenton september 22 1962 the initial scientific and military rocket project known in indonesia as proyek roket ilmiah dan militer awal or prima was formed as an affiliation of auri indonesian air force and itb bandung institute of technology  the outcome of the project was the launching of two kartikastar series rockets and their telemetric ordnances
+after two informal projects which had no national contribution the national institute of aeronautics and space lapan was established in 1963 by presidential decree 236
+
+
+ programmes 
+for more than 20 years lapan has done research on rocket remote sensing satellites and space sciences
+
+
+ satellites 
+
+
+ palapa a1 and a2 
+the first program was the palapa a1 launched august 7 1976 and a2 launched october 3 1977 the satellites were almost identical to canadas anik and western unions westars although the satellites belonged to the government-owned company perumtel the spacecraft were made in the united states
+
+
+ lapan satellites 
+the development of microsatellites has become an opportunity for lapan in developing its space program the development of such satellites requires only limited budget and facilities compared to the development of big satellites meanwhile the capability to develop micro-satellite will brings lapan to the readiness state to implement a future space program that will have measurable economic impact and therefore contribute to the country’s sustainable development effort
+
+
+ lapan-a1 
+lapan-a1 or lapan-tubsat is designed to transfer of knowledge skill and experience on micro-satellite technology development from technische universität berlin germany to lapan the spacecraft is based the german dlr-tubsat but includes a new star sensor and features a new 45 × 45 × 27 cm structure the satellite payload is a cots video camera with 1000 mm lens resulting in nadir resolution of 5 m and nadir swath of 3.5 km from 650 km altitude in addition to that the satellite carries another video camera with 50 mm lens resulting in 200 m resolution video image with swath of 80 km at nadir the uplink and downlink for telemetry tracking and command ttc is done in uhf and downlink for video is done in s-band analog the satellite was successfully launched to sso of 635 km as auxiliary payload in polar satellite launch vehicle pslv c7 from sriharikota india on january 10 2007 lapan tubsat performed technological experiments earth observation and attitude control experiments
+
+
+ lapan-a2 
+the mission for lapan-a2 or lapan-orari is earth observation using rgb camera maritime traffic monitoring using an automatic identification system ais which can know about name and flag of the ship registered ship type physical and tonnage of the ship correct and current route departure and arrival port and amateur radio communication text and voice orari is indonesian amateur radio organization the satellite will be launched as a secondary payload of indias astrosat mission into a circular orbit of 650 km with an inclination of 8 degrees the purpose of the project is to develop capability to design assembly integration and test ait process of a micro-satellite in indonesia the satellite was successfully launched on 28 september 2015 using indias isro polar satellite launch vehicle pslv and will monitor indonesia every 97 minutes or 14 times a day
+
+
+ lapan-a3 
+lapan-a3 or lapan-ipb will perform experimental remote sensing mission in addition to that the satellite will support global ais mission and amateur radio communication the satellite payload is a four-band push broom multi-spectral imaging camera landsat band b g r nir which will give resolution of 18 m and coverage of 120 km from 650 km altitude the satellite has been launched in june 2016
+
+
+ international cooperation 
+in 2008 indonesia signed an agreement with the ukrainian national space agency nsau that will allow access to rocket and satellite technologies
+
+
+ spaceport development plan 
+
+
+ biak spaceport plan 2006 
+since 2006 indonesia and russia have been discussing the possibility of launching a satellite from biak island using air launch technology lapan and russian federal space agency rka have worked on a government-to-government agreement in space cooperation in order to enable such activities in indonesia it is planned that antonov an-124 aircraft will deliver a polyot space launch vehicle to the new indonesian spaceport on biak island west papua province this spaceport is well suited to commercial launches as it sits almost exactly on the equator - any space vehicle launched at the equator has a greater initial velocity imparted to it making higher velocity or heavier payloads possible in the spaceport the launch vehicle will be fuelled and the satellites will be loaded on it the antonov an-124 carrying the launch vehicle is to fly at 10 km altitude above the ocean east of biak island to jettison the launch vehicle  in 2012 discussions resumed the main stumbling block is russian concerns over compliance with the terms of the missile technology control regime russia is a co-signatory indonesia is not
+
+
+ enggano launchpad plan 2011 
+in 2011 lapan planned to build a satellite launchpad at enggano island bengkulu province located at the westernmost part of indonesia at the indian ocean coast there are three possible locations two in kioyo natural park and one in gunung nanua bird park the most strategic site for this launchpad is inside nanua bird park a place called tanjung laboko which is 20 meters above sea level and far from residential areas the satellite launch pad requires area only one hectare but the safety zone requires 200 hectares the cost to be disbursed is rp40 trillion around 4.5 billion the location is also available for assembly of the rockets and launch preparations for satellites of up to 3.8 tonnes
+the plan has concerned from the bengkulu natural resources conservation agency because both parks are habitat for a number of bird species native to enggano island which ended by rejetion by bengkulu province government
+
+
+ morotai spaceport plan 2012 
+after studying the surrounding environment in three potential spaceport island sites enggano-bengkulu morotai-north maluku and biak-papua lapan 21/11 announced morotai island as a future spaceport site planning started in december 2012 the launch sites completion is expected in 2025 in 2013 lapan planned to launch an rx-550 experimental satellite launcher from a location in morotai to be decided this island was selected according to the following criteria
+
+morotai islands location near the equator which makes the launch more economical
+the island has seven runways one of them 2,400 meters easily extended to 3,000 meters
+the ease of building on morotai which is not densely populated and little potential for social conflict with native inhabitants
+morotai islands east side faces the pacific ocean directly reducing downrange risks to other island populations
+
+
+ field installations 
+
+
+ ground stations 
+
+
+ remote-sensing satellite ground station 
+the stasiun bumi satelit penginderaan jauh eo satellite ground station is located at parepare south sulawesi its main functions include receiving and recording data from earth observation satellites such as landsat spot ers-1 jers-1  terraaqua modis and npp operation since 1993
+
+
+ weather satellite ground stations 
+these ground stations located at pekayon jakarta and biak receive record and process data from noaa metop and himawari weather satellites 24 times a day since 1982lapan-tubsat was the first indonesian surveillance micro-satellite launched on 10 january 2007 by isro pslv-c7 with cartosat-2 developed with technical university tu berlin where the satellite was manufactured it circles the earth 14.5 times a day at an altitude of 630 km in a polar orbit with an inclination of 97.60° and a period of 99.039 minutes the longitude shift per orbit is about 24.828° with a ground track velocity of 6.744 kms with an angular velocity of 3.635 degs and a circular velocity of 7.542 kms
+
+
+ rocket launch site 
+lapan manages a launch site called stasiun peluncuran roket literally rocket launching station located at pameungpeuk beach in the garut regency on west java 7.646643°s 107.689018°e﻿  -7.646643 107.689018 the facility was built from 1963 through cooperation between indonesia and japan as the station was designed by hideo itokawa with the aim to support high atmospheric research using kappa-8 rockets this installation comprises a motor assembly building a launch control center a meteorological sounding system building a rocket motor storage hangar and a dormitory
+
+
+ radar 
+
+
+ koto tabang equator atmospheric radar 
+the radar atmosfer khatulistiwa koto tabang is a radar facility located at koto tabang west sumatra it commenced operations in 2001 this facility is used for atmospheric dynamics research especially areas concerning global climate change such as el niño and la niña climate anomalies
+
+
+ laboratory 
+
+
+ remote sensing technology and data laboratory 
+the remote sensing technology and data laboratory is located at pekayon in jakarta its functions include data acquisition systems development satellite payload imager systems development satellite ground station system development preliminary satellite imagery image processing such as geometric correction radiometric correction and national remote sensing data bank
+
+
+ remote sensing applications laboratory 
+the remote sensing applications laboratory at pekayon jakarta has  main function works with remote sensing satellite data applications for land resource coastal-marine resources environment monitoring and disaster mitigation
+
+
+ rocket motor laboratory 
+the laboratorium motor roket is located at tarogong west java it designs and produces rocket propulsion systems
+
+
+ propellant laboratory 
+the laboratorium bahan baku propelan combustion propellant laboratory researches propellant such as oxidizer ammonium perchlorate and hydroxyl-terminated polybutadiene
+
+
+ satellite technology laboratory 
+the satellite technology laboratory is located at bogor west java its functions include research development and engineering of the satellite payload the satellite bus and facilities of the ground segment
+
+
+ aviation technology laboratory 
+the aviation technology laboratory is located at rumpin west java its functions include research development and engineering of aerodynamics flight mechanics technology propulsion technology avionics technology and aerostructure
+
+
+ observatories 
+
+
+ equatorial atmosphere observatory 
+the equatorial atmosphere observatory of lapan are located at koto tabang west sumatera has a function for research on 1 high-resolution observations of wind vectors will make it possible to study the detailed structure of the equatorial atmosphere that is related to the growth and decay of cumulus convection 2 from long-term continuous observations relationships between atmospheric waves and global atmospheric circulation will be clarified 3 by conducting observations from near the surface to the ionosphere it will be possible to reveal dynamical couplings between the equatorial atmosphere and ionosphere 4 based on these results transports of atmospheric constituents such as ozone and greenhouse gases and the variations of the earths atmosphere that lead to climatic change such as el-nino and la-nina will be revealed
+
+
+ solar radiation observatory 
+the stasiun pengamat radiasi matahari monitoring stations for solar radiation observe ultraviolet radiation of the sun operations began in 1992 these facilities were developed by eko instrument from japan and are located at bandung and pontianak
+
+
+ aerospace observatory 
+the aerospace observatory of lapan are located at pontianak-west kalimantan pontianak-north sulawesi kupang-east nusa tenggara and watukosek-east java has a function for the observations in the field of climatology atmosphere sun and geomagnet
+
+
+ rockets 
+lapan rockets are classified rx roket eksperimental followed by the diameter in millimeters for example the rx-100 has a diameter of 100 mm
+lapans current workhouse rocket propulsion system consists of four stages namely the three-stage rx 420 and the rx-320 level it is planned to use the rx-420 as a booster rocket booster rps for the planned roket pengorbit satelit orbital satellite rocket planned to fly in 2014
+in 2008 optimistic hopes were that this rocket known as slv satellite launch vehicle would first be launched in indonesia to 2012 and if there were extra funds pursuant to the good economic situation of 2007-8 possibly the year 2010
+in fact the lapan budget for 2008 and 2007 was rp 200 billion approximately usd 20 million budgetary issues surrounding the international credit crises of 2008–2009 placed many indonesian technical projects in jeopardy most especially the complete development of rx-420 and associated micro-satellite program to world-class standards ahead of project finalization schedule and the opportunity to work together with the world institutions lapan hopes to be an educating partner with indian aerospace in sciences related to satelliteon november 11 2010 lapan spokesman said the rx-550 rocket would undergo a static test in december 2010 and a flight test in 2012 the rocket will consist of four stages will be part of an rps-01 rocket to put a satellite in orbit before the polar lapan-tubsat lapan-a1 satellite created in cooperation with germany was successfully placed in orbit and until now still functioning well the aim is to have home-made rockets and satelliteslapan has re-established and rejuvenated indonesian expertise in rocket and missile based weapons systems in cooperation with the tni al armed forces of indonesia began in 2005 in april 2008 indonesian tni began a new missile research program alongside lapan prior to this eight projects were sponsored by the tni in malacca monitoring with satellite remote lapan-tubsat most especially the theft of timber and alleged encroachment on indonesian territorial waters in the 2009 escalation over malaysias claims to the huge gas fields off ambalat-island
+
+
+ rx-100 
+rx-100 has
+diameter of 110 mm
+length of 1900 mm
+mass of 30 kg and length of 1900 mm
+functions to test rocket payload subsystems
+propellant type solid-composite
+fuel time 2.5 seconds
+flight time 70 seconds
+maximum speed mach 1
+range 11 km 7000 m altitude
+payload diagnostic gps altitude meter gyro 3-axis accelerometer cpu processor and battery
+
+
+ rx-150  120 
+two-stage rocket launching rx-150-120 supported by tni-ad indonesian army and pt pindad
+rocket with cruise distance 24 km was successfully launched from moving vehicle pindad panser on march 31 2009
+
+
+ r-han 122 
+r-han 122 rocket has capability of a land-to-land weapon with a shooting range up to 15 kilometers with 1.8 mach speed and on march 28 2012 fifty r-han 122 have been successfully launched the rocket are the result of the six years lapans work by 2014 at least 500 r-han 122 rockets will be part of army arsenal
+
+
+ rx-250 
+the main rocket the lapan rx-250 were launched regularly between 1987 and 2005
+
+
+ rx-320 
+in 2008 lapan successfully flew two rx-320 these 320 mm diameter rockets were launched on 2 july and 30 may 2008 at pameungpeuk west java
+
+
+ space launchers 
+
+
+ rps-420 pengorbitan-1 
+category micro-satellites orbital launch vehicle similar to lambda from japan but with lighter modern materials and modern avionics launch unguided at a 70-degree angle of inclination with a four-stage solid rocket motor launcherdiameter 420 mm
+length 6200 mm
+lift-off mass 1000 kg
+propellant solid composite firing time 13 seconds
+thrust 9.6 tons
+flight duration 205 seconds
+maximum velocity mach 4.5
+range 101 km 53000 m altitude
+payload diagnostic gps altimeter gyro 3-axis accelerometer processor and battery
+the rx-420 was entirely built using local materialslapan carried out a stationary test on rx-420 on 23 december 2008 in tarogong west java the rx-420 missile was tested at the launching station cilauteureun pameungpeuk district garut regency west java
+the lapan rx-420 is the test bed for the entirely indigenously developed satellite launch vehicle rx-420 is suitable for launch of micro-satellites 50 kg or less and nano-satellites 5 kg or less currently in co-development with technical university of berlin
+the rocket launching plan will be extended in 2010 by launching combined rx-420-420 and in 2011 for combined rx-420-420 – 320 and sob 420
+
+
+ rps-420/520 pengorbitan-2 
+at planning stage are the rx-420 with multiple customizable configuration boosters and the planned 520mm rx-520 the rx-520 is predicted to be able to launch 100 kg payload into orbit this large rocket is intended to be fueled by high-pressure liquid hydrogen peroxide and various hydrocarbons are under evaluation addition of rx-420 boosters to the rx-520 is calculated to increase lifting capacity to 500 kg payload although if too expensive the proven russian soyuz and energiya will likely be employed
+rx-520 consists of one rx-420 and two boosters of rx-420 in stage-1 one rx-420 in stage-2 one rx-420 in stage-3 and as a payload launcher one rx-320 in stage-4
+
+
+ rx-550 
+in 2013 lapan intends to launch an rx-550 experimental satellite launcher from some point in morotai to be decidee
+
+
+ lapan library 
+in june 2009 lapan launched its extensive online library of over 8000 titles on aeronautics and astronautics this is the largest dedicated aerospace library in asean and it is hoped to bring indonesian and asean talent into the lapan program especially for those disadvantaged by location it is unclear how much content will be available freely to the public and what specific form of library will operate
+
+
+ komurindo 
+komurindo or kompetisi muatan roket indonesia means indonesia payload rocket competition the competition is established by lapan education ministry and some universities etc for enhance rocket research in the universities the third competition has been done in late june 2011 in the  pandansimo beach of bantul yogyakarta
+
+
+ aircraft 
+lapan xt-400
+lsu-02
+lsu-03
+
+
+ logo 
+
+		
+
+
+ see also 
+list of government space agencies
+
+
+ references 
+
+
+ external links 
+official website
+lapan remote sensing
+httpswebarchiveorgweb20090815080000httpwwwlapangoidlombarum2009indexphp
+lapan aviation technology
+lapan satellite technology
+state ministry of research and technology indonesia ristek
+polyot rocket
+air launch aerospace corporation

@@ -1,0 +1,66 @@
+the space shuttle was a partially reusable low earth orbital spacecraft system operated by the us national aeronautics and space administration nasa  its official program name was space transportation system sts taken from a 1969 plan for a system of reusable spacecraft of which it was the only item funded for development operational missions launched numerous satellites conducted science experiments in orbit and participated in construction and servicing of the international space station iss the first of four orbital test flights occurred in 1981 leading to operational flights beginning in 1982
+from 1981 to 2011 a total of 135 missions were flown all launched from kennedy space center ksc in florida during that time period the fleet logged 1,322 days 19 hours 21 minutes and 23 seconds of flight time the longest orbital flight of the shuttle was sts-80 at 17 days 15 hours while the shortest flight was sts-51-l at one minute 13 seconds when the space shuttle challenger broke apart during launch the shuttles docked with russian space station mir nine times and visited the iss thirty-seven times the highest altitude apogee achieved by the shuttle was 350 miles 560km when servicing the hubble space telescope  the program flew a total of 355 people representing 16 countries the kennedy space center served as the landing site for 78 missions while 54 missions landed at edwards air force base in california and 1 mission landed at white sands new mexicothe first orbiter enterprise was built solely for atmospheric flight tests and had no orbital capability four fully operational orbiters were initially built columbia challenger discovery and atlantis challenger and columbia were destroyed in mission accidents in 1986 and 2003 respectively killing a total of fourteen astronauts a fifth operational orbiter endeavour was built in 1991 to replace challenger the space shuttle was retired from service upon the conclusion of sts-135 by atlantis on 21 july 2011
+
+
+ flight numbering 
+
+the us space shuttle program was officially referred to as the space transportation system sts specific shuttle missions were therefore designated with the prefix sts initially the launches were given sequential numbers indicating order of launch such as sts-7  subsequent to the apollo 13 mishap due to nasa administrator james m beggss triskaidekaphobia and consequent unwillingness to number a forthcoming flight as sts-13 beginning in 1984 each mission was assigned a code such as sts-41-b with the first digit indicating the federal fiscal year offset into the program so 41-b was scheduled for fy 1984 51-l originally for fy 1985 and the third flight in fy 1995 would have been named 151-c the second digit indicating the launch site 1 was kennedy space center and 2 was space launch complex slc 6 at vandenberg air force base although vandenberg was never used and the letter indicating scheduling sequence these codes were assigned when the launches were initially scheduled and were not changed as missions were delayed or rescheduled the codes were adopted from sts-41-b through sts-51-l although the highest code used was actually sts-61-c and the sequential numbers were used internally at nasa on all processing paperwork
+after the challenger disaster nasa returned to using a sequential numbering system with the number counting from the beginning of the sts program unlike the initial system however the numbers were assigned based on the initial mission schedule and did not always reflect actual launch order this numbering scheme started at 26 with the first flight as sts-26r—the r suffix stood for reflight to disambiguate from prior missions the suffix was used for two years through sts-33r then the r was dropped as a result of the changes in systems flights under different numbering systems could have the same number with one having a letter appended eg flight sts-51 a mission carried out by discovery in 1993 was many years after sts-51-a discoverys second flight in 1984
+
+
+ shuttle flights 
+
+
+ test flights 
+
+the approach and landing test program encompassed 16 separate tests of enterprise covering taxi tests unmanned and manned flights on the shuttle carrier aircraft and finally the free flight tests the following list includes the free-flight tests durations listed count only the orbiter free-flight time  the list does not include total time aloft along with airborne time atop of the boeing 747 shuttle carrier aircraft sca
+
+
+ launches and orbital flights 
+
+
+ cancelled missions 
+
+one initial emergency flight abort rtls sub-orbital test mission was canceled due to high risk many other planned missions were canceled due to the late development of the shuttle and the challenger and columbia disasters
+four missions were cut short by a day or more while in orbit sts-2 equipment failure sts-35 weather sts-44 equipment failure and sts-83 equipment failure relaunched as sts-94
+
+
+ contingency missions 
+
+sts-300 was the designation for the space shuttle launch on need lon missions to be launched on short notice for sts-114 and sts-121 in the event that the shuttle became disabled or damaged and could not safely return to earth the rescue flight for sts-115 if needed would have been sts-301 after sts-115 the rescue mission designations were based on the corresponding regular mission that would be replaced should the rescue mission be needed for example the sts-116 rescue mission was branded sts-317 because the normal mission scheduled after sts-116 was sts-117 should the rescue mission have been needed the crew and vehicle for sts-117 would assume the rescue mission profile and become sts-317 all potential rescue missions were to be launched with a crew of four and would return with ten or eleven crew members depending on the number of crew launched on the rescued shuttle missions were expected to last approximately eleven days none of the planned contingency missions was ever flownno contingency mission was planned for sts-135 the final shuttle mission  instead nasa planned to effect any required rescues one-by-one using russian soyuz spacecraft
+
+
+ flight statistics 
+
+
+ shuttle flights 
+
+
+ see also 
+iss assembly sequence
+list of buran missions
+list of human spaceflights
+list of human spaceflights to the international space station
+list of soyuz missions
+list of space shuttle crews
+list of space shuttle rollbacks
+
+
+ notes 
+
+
+ references 
+
+
+ bibliography 
+chen adam 2012  wallack william gonzalez george eds celebrating 30 years the space shuttle program pdf washington dc united states national aeronautics and space administration isbn 978-0-16-090202-4 retrieved 11 october 2012
+duggins pat 2007 final countdown nasa and the end of the space shuttle program united states of america university press of florida isbn 978-0-8130-3146-0
+goodwin robert 2001 space shuttle – sts flights 1-5 – the nasa mission reports canada apogee books isbn 1-896522-69-6
+heppenheimer ta 2002 development of the space shuttle 1972–1981 united states of america smithsonian press isbn 978-1-58834-009-2
+jenkins dennis r 2007 space shuttle the history of the national space transportation system voyageur press isbn 0-9633974-5-1
+
+
+ external links 
+nasas shuttle and rocket missions
+nasa iss consolidated launch manifest
+unofficial space shuttle manifest

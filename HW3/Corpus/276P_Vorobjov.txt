@@ -1,0 +1,24 @@
+276pvorobjov previously p2012 t7 vorobjov is a jupiter-family comet discovered on 15 october 2012 by tomáš vorobjov on three 120-s images taken remotely using the 0.81-m f7 ritchey-chretien schulman telescope located at the mt lemmon skycenter via the sierra stars observatory network in the course of a minor-planet search survey undertaken as part of the international astronomical search collaboration iasc school campaigns after posting on the minor planet centers neocp webpage other observers have commented on the objects cometary appearance the discovery was announced by the minor planet center on 18 october three days after the discovery
+
+
+ prediscovery 
+on december 29 2012 robert matson newport coast ca usa has identified neat observations of this comet obtained with the palomar 1.2m schmidt telescope on december 19 2000 and january 20 2001 and g v williams mpc has confirmed the identity williams then identified prediscovery observations acquired by a boattini at mount lemmon g96 on 2011 nov 1 in incidental astrometry sent to the minor planet center when the objects magnitude was measured as being 21.1-21.8
+
+
+ confirmation 
+a confirmation set of images were taken by r holmes the following night with a 0.61-m f4 astrograph from westfield il h21 and showed a 6″ coma and a tail 25″ long in pa 260° due to its cometary appearance the object was posted on the neo confirmation page under the temporary designation tov7dd
+
+
+ gallery 
+
+		
+		
+
+
+ references 
+
+
+ external links 
+mpec 2012-u40  comet p2012 t7 vorobjov
+orbital simulation from jpl java  horizons ephemeris
+elements and ephemeris for 276pvorobjov – minor planet center

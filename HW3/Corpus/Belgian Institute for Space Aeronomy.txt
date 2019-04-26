@@ -1,0 +1,61 @@
+the royal belgian institute for space aeronomy bira-iasb dutch koninklijk belgisch instituut voor ruimte-aeronomie - bira french institut royal daéronomie spatiale de belgique - iasb is a belgian federal scientific research institute created in 1964 its main tasks are research and public service in space aeronomy which is the physics and chemistry of the atmosphere of the earth and other planets and of outer space the scientists rely on ground-based balloon- air- or space-borne instruments and computer models
+
+
+ history 
+on 25 november 1964 the aeronomical service is separated from the royal meteorological institute rmi and lives on as a scientific institution of the state with the name belgian institute for space aeronomy bira-iasb in 2014 bira-iasb celebrates its 50th anniversary and gains its royal statute on this occasion the institute gathered 50 important events in its history
+the institute has as main competence tasks of public service and research in the domain of space aeronomy bira-iasb mostly works with data acquired via rockets and artificial satellites for research to the physical and chemical structure of the higher atmosphere and extraterrestrial space the first director is m nicolet
+
+
+ activities 
+bira-iasb
+
+focuses on chemistry  physics of atmospheres and space plasma physics
+designs and builds instruments to monitor atmospheres and the space environment
+operates belgian experiments on board the international space station and other satellites
+participates in international measurement programmes
+compares observations with numerical simulations to validate and improve our knowledge
+turns scientific know-how into services to the benefit of society
+disseminates this knowledge through publications web services and public outreach
+
+
+ chemistry  physics of atmospheres 
+bira-iasb studies the earth’s stratosphere by looking at ozone depletion and related key parameters like volcanic aerosols polar stratospheric clouds and halogenated compounds long-term changes are evaluated and forecasting capabilities have been developed the research supports the montreal protocol on the protection of the ozone layer
+bira-iasb also studies earth tropospheric chemistry with a focus on natural and manmade emissions like so2 and no2 tropospheric ozone precursors the relationship to air quality and the evolution of greenhouse gases in support of the kyoto protocol forecasting of chemical weather is being developed
+bira-iasb examines the solar radiation and its penetration to the surfaces of the earth it monitors the long-term changes of the uv radiation bira-iasb also contributes to research on planetary atmospheres in particular mars and venus
+
+
+ space plasma physics 
+the sun fills interplanetary space with plasma a gas of charged particles in the form of a constant solar wind also the earth’s outer atmosphere the magnetosphere is filled with plasma just like the environments of many other solar system objects the institute has built a strong theory and modeling programme deeply rooted in observations provided by esa’s space missions ulysses cluster and rosetta spacecraft
+bira-iasb has extensive expertise in
+
+the dynamic behavior of the outer magnetospheric boundary in response to the variable solar wind which controls the energy input from the solar wind into the magnetosphere
+the interaction between the outer magnetosphere and the corotating plasma in the inner magnetosphere
+the coupling between the magnetosphere and the ionosphere as manifested by the aurora or polar lightsthese modeling efforts help to mitigate the empiricism still prevailing in present-day space weather forecasting
+
+
+ services 
+bira-iasb provides products and services that fulfill needs of the user community
+
+solar uv index for the public
+assessments of the state of the atmosphere to support policy makers
+accumulated ionising radiation dose predictions for the space industryservices related to the earth’s atmosphere include stratospheric ozone forecasting air quality global analysis and prediction volcanic emission warnings satellite data validation and tropospheric emission monitoring these services will be integrated in international initiatives like the european led gmes global monitoring for environment and security
+in the domain of space weather bira-iasb focuses on ionising space radiation and its effects these services are exploited in the context of the belgian solar-terrestrial centre of excellence tools methods and procedures are set up to deliver these services to the user community european space weather portal
+bira-iasb through the belgian user support and operation centre busoc provides support and infrastructure to scientific teams to prepare develop and operate space experiments busoc is the operations center for the solar monitoring observatory on board the international space station and the scientific mission center for the cnes solar observation satellite picard
+
+
+ see also 
+belgian federal science policy office
+european space technology platform
+royal meteorological institute
+planetarium
+netherlands institute for space research
+list of government space agencies
+
+
+ references 
+what is bira-iasb
+50 important events in the 50 years of bira-iasb history
+
+
+ external links 
+royal belgian institute for space aeronomy bira-iasb

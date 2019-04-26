@@ -1,0 +1,39 @@
+457175 2008 go98 provisional designation 2008 go98 with cometary number 362p is a hildian asteroid and rare main-belt comet from the outermost regions of the asteroid belt approximately 15 kilometers 9 miles in diameter it was discovered on 8 april 2008 by astronomers of the spacewatch program at kitt peak national observatory near tucson arizona in the united states the presumably carbonaceous body has a rotation period of 10.7 hours
+
+
+ orbit and classification 
+2008 go98 is classified as a member of the dynamical hilda group as well as a main-belt comet that shows clear cometary activity which has also been described as a quasi hilda comet orbital backward integration suggests that it might have been a centaur or trans-neptunian object that ended its dynamical evolution as a quasi hilda cometit orbits the sun in the outer asteroid belt at a distance of 2.9–5.1 au once every 7 years and 11 months 2,883 days semi-major axis of 3.96 au its orbit has an eccentricity of 0.28 and an inclination of 16° with respect to the ecliptic the bodys observation arc begins with a precovery taken by the sloan digital sky survey in october 2001 more than  5 years prior to its official discovery observation by spacewatch2008 go98 has a jupiter tisserands parameter tj of 2.926 just below jewitts threshold of 3 which serves as a distinction between the main-belt asteroids tj larger than 3 and the jupiter-family comets tj between 2 and 3
+
+
+ numbering and naming 
+this minor planet was numbered by the minor planet center on 16 february 2016 mpc 98587 as of 2018 it has not been named
+
+
+ physical characteristics 
+2008 go98 is an assumed c-type asteroid
+
+
+ rotation period 
+in august 2017 a rotational lightcurve of 2008 go98 was obtained from photometric observations by american astronomer brian warner at the palmer divide station u82 in california lightcurve analysis gave a rotation period of 10.74±0.01 hours with a small brightness amplitude of 0.12 magnitude u2
+
+
+ diameter and albedo 
+the collaborative asteroid lightcurve link assumes a standard albedo for a carbonaceous body of 0.057 and calculates a diameter of 14.64 kilometers based on an absolute magnitude of 12.9 other estimates taking into account several published magnitude measurements and a large range of albedo assumptions estimate a diameter range of 5.5 to 24.7 kilometers
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+cometary activity in 457175 2008 go98 minor planet electronic circular minor planet center
+its an asteroid its a comet its… well both for now catalina sky survey lunar and planetary laboratory
+cometary activity in 457175 2008 go98 the virual telescope 23 august 2017
+asteroid lightcurve database lcdb query form info
+discovery circumstances numbered minor planets 455001-460000 – minor planet center
+457175 2008 go98 at astdys-2 asteroids—dynamic site
+ephemeris · observation prediction · orbital info · proper elements · observational info
+457175 2008 go98 at the jpl small-body database
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

@@ -1,0 +1,22 @@
+157ptritton is a periodic comet in the solar system
+
+
+ discovery 
+keith tritton u k schmidt telescope unit coonabarabran discovered this comet on a deep iiia-j exposure made with the 122-cm schmidt telescope on 1978 february 11.66
+
+
+ historical highlights 
+a preliminary orbit was calculated by m p candy perth observatory australia using positions obtained by tritton on february 11 13 and 15 it was an elliptical orbit with a perihelion date of 1977 october 30.07 and an orbital period of 7.30 years b g marsden smithsonian astrophysical observatory revised the orbit using five positions spanning the period of february 11 to march 13 he also gave an elliptical orbit with a perihelion date of october 28.51 and an orbital period of 6.33 years
+moonlight made observations impossible during the last half of february 1978 and during the early days of march however the comet was found by j h bulger harvard observatorys agassiz station on march 10.27 he gave the nuclear magnitude as 20 the last three observations of the comet were obtained by shao on march 11.28 13.20 and 14.21 on iau circular no 3194 issued on 1978 march 15 marsden wrote it is possible that the comet experienced an outburst around the time of the harvard observation on feb 15 no observations were obtained thereafter
+the comet was not detected during the predicted returns of 1984 1990 or 1996 and was presumed lost
+however on 2003 october 6.44 using ccd images obtained with a 0.12-m refractor c w juels fountain hills arizona usa and p holvorcem campinas brazil detected a comet that proved to be on a similar orbit to the lost comet b g marsden was able to calculate a new orbit published in iau circular no 8215 issued 2003 october 7 which confirmed that it was indeed identical to comet tritton
+the comet was also recovered at its 2010 apparition
+
+
+ references 
+
+
+ external links 
+orbital simulation from jpl java  horizons ephemeris
+157ptritton – seiichi yoshida  aerithnet
+157p at gary w kronks cometography

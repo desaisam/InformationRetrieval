@@ -1,0 +1,50 @@
+the apollo program was the third united states human spaceflight program carried out by the national aeronautics and space administration nasa which accomplished landing the first humans on the moon from 1969 to 1972  during the apollo 11 mission astronauts neil armstrong and buzz aldrin landed their lunar module lm and walked on the lunar surface while michael collins remained in lunar orbit in the command and service module csm and all three landed safely on earth on july 24 1969 five subsequent apollo missions also landed astronauts on the moon the last in december 1972 in these six spaceflights twelve men walked on the moonapollo ran from 1961 to 1972 with the first manned flight in 1968 it achieved its goal of manned lunar landing despite the major setback of a 1967 apollo 1 cabin fire that killed the entire crew during a prelaunch test after the first landing sufficient flight hardware remained for nine follow-up landings with a plan for extended lunar geological and astrophysical exploration budget cuts forced the cancellation of three of these five of the remaining six missions achieved successful landings but the apollo 13 landing was prevented by an oxygen tank explosion in transit to the moon which damaged the csms propulsion and life support the crew returned to earth safely by using the lunar module as a lifeboat for these functions apollo used saturn family rockets as launch vehicles which were also used for an apollo applications program which consisted of skylab a space station that supported three manned missions from 1973 through 1974 and the apollo–soyuz test project a joint earth orbit mission with the soviet union in 1975
+
+apollo set several major human spaceflight milestones it stands alone in sending manned missions beyond low earth orbit apollo 8 was the first manned spacecraft to orbit another celestial body while the final apollo 17 mission marked the sixth moon landing and the ninth manned mission beyond low earth orbit the program returned 842 pounds 382 kg of lunar rocks and soil to earth greatly contributing to the understanding of the moons composition and geological history the program laid the foundation for nasas subsequent human spaceflight capability  apollo also spurred advances in many areas of technology incidental to rocketry and manned spaceflight including avionics telecommunications and computersthe apollo program used four types of launch vehicles  the first was the little joe ii which was used for unmanned suborbital launch escape system development  the second is the saturn i which was used for unmanned suborbital and orbital hardware development  the third is the saturn ib which was used for preparatory unmanned missions and apollo 7  last the saturn v which was used for unmanned and manned earth orbit and lunar missions  the marshall space flight center which designed the saturn rockets referred to the flights as saturn-apollo sa while kennedy space center referred to the flights as apollo-saturn as this is why the unmanned saturn i flights are referred to as sa and the unmanned saturn ib are referred to as as
+
+
+ test flights 
+
+
+ unmanned test missions 
+from 1961 to 1968 the saturn launch vehicles and components of the apollo spacecraft were tested in unmanned flights
+there was some incongruity in the numbering and naming of the first three unmanned apollo-saturn as or apollo flights  this is due to as-204 being renamed to apollo 1 posthumously this manned flight was to have followed the first three unmanned flights after the fire which killed the as-204 crew on the pad during a test and training exercise unmanned apollo flights resumed to test the saturn v launch vehicle and the lunar module these were designated apollo 4 5 and 6 the first manned apollo mission was thus apollo 7 simple apollo numbers were never assigned to the first three unmanned flights although renaming as-201 as-202 and as-203 as apollo 1-a apollo 2 and apollo 3 had been briefly considered
+
+
+ unmanned launch escape system tests 
+from august 1963 to january 1966 a number of tests were conducted for development of the launch escape system les these included simulated pad aborts which might occur while the apollo-saturn space vehicle was still on the launch pad and flights on the little joe ii rocket to simulate mode i aborts which might occur while the vehicle was in the air
+
+
+ thermal-vacuum tests 
+
+
+ manned apollo missions 
+the block i csm spacecraft did not have capability to fly with the lm and the three crew positions were designated command pilot senior pilot and pilot based on us air force pilot ratings the block ii spacecraft was designed to fly with the lunar module so the corresponding crew positions were designated commander command module pilot and lunar module pilot regardless of whether a lunar module was present or not on any missiona total of fifteen saturn v vehicles were ordered through as-515 which would have been enough for three more moon landing missions through apollo 20 this flight was cancelled around the time of the apollo 11 first landing mission to make the launch vehicle available for the skylab space station shortly thereafter apollo 18 and 19 were cancelled in response to congressional cuts in nasas budgetseveral of the missions involved extravehicular activity eva space walks or moon walks outside of the spacecraft these were of three types testing the lunar eva suit in earth orbit apollo 9 exploring the lunar surface and retrieving film canisters from the scientific instrument module stored in the service module
+
+
+ cancelled missions 
+
+several planned missions of the apollo program of the 1960s and 1970s were canceled for a variety of reasons including changes in technical direction the apollo 1 fire hardware delays and budget limitations
+
+
+ post-apollo missions using apollo hardware 
+there were several missions that used apollo hardware after the cancellation of apollo 18 apollo 19 and apollo 20
+
+
+ notes 
+
+
+ references 
+ this article incorporates public domain material from websites or documents of the national aeronautics and space administration
+
+
+ bibliography 
+hallion richard p crouch tom d 1979 apollo ten years since tranquility base apollo ten years since tranquillity base smithsonian institution bibcode1979atysbookh isbn 978-0874745054
+
+
+ external links 
+nasa page on apollo missions
+national space science data center goddard space flight center apollo program with links to books on program
+spacecom list of apollo missions
+astronomytoday list of missions
+project apollo flickr photo archive

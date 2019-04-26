@@ -1,0 +1,33 @@
+this article documents the most distant astronomical objects so far discovered and the time periods in which they were so classified
+distances to remote objects other than those in nearby galaxies are nearly always inferred by measuring the cosmological redshift of their light by their nature very distant objects tend to be very faint and these distance determinations are difficult and subject to errors an important distinction is whether the distance is determined via spectroscopy or using a photometric redshift technique the former is generally both more precise and also more reliable in the sense that photometric redshifts are more prone to being wrong due to confusion with lower redshift sources that have unusual spectra for that reason a spectroscopic redshift is conventionally regarded as being necessary for an objects distance to be considered definitely known whereas photometrically determined redshifts identify candidate very distant sources here this distinction is indicated by a p subscript for photometric redshifts
+
+
+ notably distant objects 
+1 gly  1 billion light-years
+
+as of  2012 there were about 50 possible objects z  8 or farther and another 100 z  7 candidates based on photometric redshift estimates released by the hubble extreme deep field xdf project from observations made between mid-2002 and december 2012 not everything is included here
+
+
+ list of most distant objects by type 
+
+
+ timeline of most distant astronomical object recordholders 
+objects in this list were found to be the most distant object at the time of determination of their distance this is frequently not the same as the date of their discovery
+distances to astronomical objects may be determined through parallax measurements use of standard references such as cepheid variables or type ia supernovas or redshift measurement spectroscopic redshift measurement is preferred while photometric redshift measurement is also used to identify candidate high redshift sources the symbol z represents redshift
+
+
+ list of objects by year of discovery that turned out to be most distant 
+this list contains a list of most distant objects by year of discovery of the object not the determination of its distance objects may have been discovered without distance determination and were found subsequently to be the most distant known at that time however object must have been named or described an object like oj 287 is ignored even though it was detected as early as 1891 using photographic plates but ignored until the advent of radiotelescopes
+
+
+ see also 
+age of the universe
+list of largest cosmic structures
+list of exoplanet extremes
+list of astronomical objects
+
+
+ notes 
+
+
+ references 

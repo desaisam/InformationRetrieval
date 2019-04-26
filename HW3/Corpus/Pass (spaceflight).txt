@@ -1,0 +1,17 @@
+a pass in spaceflight and satellite communications is the period in which a satellite or other spacecraft is above the local horizon and available for radio communication with a particular ground station satellite receiver or relay satellite or in some cases for visual sighting the beginning of a pass is termed acquisition of signal the end of a pass is termed loss of signal the point at which a spacecraft comes closest to a ground observer is the time of closest approach
+
+
+ timing and duration 
+the timing and duration of passes depends on the characteristics of the orbit a satellite occupies as well as the ground topography and any occulting objects on the ground such as buildings or in space for planetary probes or for spacecraft using relay satellites an observer directly on the ground track of the satellite will experience the greatest ground pass duration path loss is greatest toward the start and end of a ground pass as is doppler shifting for earth-orbiting satellitessatellites in geosynchronous orbit may be continuously visible from a single ground station whereas satellites in low earth orbit only offer short-duration ground passes although longer contacts may be made via relay satellite networks such as tdrss satellite constellations such as those of satellite navigation systems may be designed so that a minimum subset of the constellation is always visible from any point on the earth thereby providing continuous coverage
+
+
+ prediction and visibility 
+
+a number of web-based and mobile applications produce predictions of passes for known satellites in order to be observed with the naked eye a spacecraft must reflect sunlight towards the observer thus naked-eye observations are generally restricted to twilight hours during which the spacecraft is in sunlight but the observer is not a satellite flare occurs when sunlight is reflected by flat surfaces on the spacecraft the international space station the largest artificial satellite of earth has a maximum apparent magnitude of –5.9 brighter than the planet venus
+
+
+ see also 
+ground track the path on the surface of the earth directly below a satellite
+
+
+ references 

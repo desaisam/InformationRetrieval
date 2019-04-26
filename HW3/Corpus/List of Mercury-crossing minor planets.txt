@@ -1,0 +1,28 @@
+a mercury crosser is an asteroid whose orbit crosses that of mercury the mercury crossers proper have aphelia outside mercurys 0.4667 au and perihelia inside mercurys 0.3075 au whereas those listed here as outer grazers have perihelia within mercurys aphelion but not within its perihelion all have semi-major axes larger than mercurys and hence there are no known inner grazers
+
+
+ list 
+mercury crossers proper have aphelia outside mercurys 0.4667 au and perihelia inside mercurys 0.3075 au as of  26 january 2018 exactly 300 mercury crossers were known most values have been rounded to three decimals
+
+
+ mercury grazers 
+all mercury grazers have semi-major axes larger than mercurys 0.3871 au and hence are outer grazers ie have perihelia within mercurys aphelion 0.4667 au but not within its perihelion 0.3075 au as of  february 2016 there are 561 mercury grazers known values have been rounded to three decimals
+
+
+ see also 
+list of venus-crossing minor planets
+list of earth-crossing minor planets
+list of mars-crossing minor planets
+list of jupiter-crossing minor planets
+list of saturn-crossing minor planets
+list of uranus-crossing minor planets
+list of neptune-crossing minor planets
+
+
+ references 
+
+
+ external links 
+very close approaches 0.01 au of phas to mercury 1900–2200
+upcoming close approaches 0.10 au of near-earth objects to mercury
+planetary close encounters for the next 200 years

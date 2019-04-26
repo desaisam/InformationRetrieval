@@ -1,0 +1,67 @@
+tiangong chinese 天宫 pinyin tiāngōng literally heavenly palace is a space station program of the peoples republic of china with the goal of creating a modular space station comparable to mir this program is independent and unconnected to any other international space-active countries the program began in 1992 as project 921-2
+as of  january 2013 china moved forward on a large multiphase construction program that will lead to a large space station around 2020china launched its first space laboratory tiangong-1 on september 29 2011 following tiangong-1 a more advanced space laboratory complete with cargo ship dubbed tiangong-2 was launched on september 15 2016 the project will culminate with a large orbital station which will consist of a 20-ton core module 2 smaller research modules and cargo transport craft it will support three astronauts for long-term habitation and was scheduled to be completed by 2020 just as the international space station was at that time scheduled to be retired but this has since slipped to 2022
+
+
+ background 
+
+after the united states threatened to use nuclear weapons during the korean war chairman mao zedong decided that only a nuclear deterrent of its own would guarantee the security of the newly founded prc thus mao announced his decision to develop chinas own strategic weapons including associated missiles after the launch of mankinds first artificial satellite sputnik 1 by the soviet union on 4 october 1957 chairman mao decided to put china on an equal footing with the superpowers 我们也要搞人造卫星 using project 581 with the idea of putting a satellite in orbit by 1959 to celebrate the 10th anniversary of the prcs founding however it would not be until 24 april 1970 that this goal would become a reality 
+
+mao and zhou enlai began the prcs crewed space program on 14 july 1967 chinas first manned spacecraft design was named shuguang-1 曙光一号 in january 1968 project 714 was officially adopted in april 1971 with the goal of sending two astronauts into space by 1973 aboard the shuguang spacecraft the first screening process for astronauts had already ended on 15 march 1971 with 19 astronauts chosen  the program was soon cancelled due to political turmoil
+the next crewed space program was even more ambitious and was proposed in march 1986 as project 863 this consisted of a crewed spacecraft project 863-204 used to ferry astronaut crews to a space station project 863-205 several spaceplane designs were rejected two years later and a simpler space capsule was chosen instead although the project did not achieve its goals it would ultimately become the 1992 project 921 encompassing the shenzhou program the tiangong program and the chinese space station
+on the 50th anniversary of the prcs founding china launched the shenzhou 1 spacecraft on 20 november 1999 and recovered it after a flight of 21 hours the country became the third country with a successful crewed space program by sending yang liwei into space aboard shenzhou 5 on october 15 2003 for more than 21 hours it was a major success for chinese space programmes
+
+
+ project history 
+in 1999 project 921-2 was finally given official authorization two versions of the station were studied an 8-metric ton space laboratory and 20-metric ton space stationin 2000 the first model of the planned space station was unveiled at expo 2000 in hanover germany this was made up of modules derived from the orbital module of the shenzhou spacecraft overall length of the station would be around 20 m with a total mass of under 40 metric tons with possibility of expansion through addition of further modulesin 2001 chinese engineers described a three-step process toward the realization of project 921 the original target date for the fulfillment of the project was 2010
+first crewed flight itself phase 1 this successfully occurred in 2003
+second the orbiting of a space laboratory phase 2 a scaled back version of the initial model that would only be crewed on a short-term basis and left in an automated mode between visits
+the third phase would involve the launch of a larger space laboratory which would be permanently crewed and be chinas first true space station phase 3originally china planned to simply dock shenzhou 8 and shenzhou 9 together to form a simple space laboratory however it was decided to abandon that plan and launch a small space laboratory instead in 2007 plans for an 8-metric ton space laboratory being launched in 2010 under the designation of tiangong-1 were made public this would be an eight-ton space laboratory module with two docking ports subsequent flights shenzhou 9 and shenzhou 10 will dock with the laboratoryon september 29 2008 zhang jianqi 张建启 vice director of china crewed space engineering declared in an interview of china central television  it is tiangong-1 ie not shenzhou 8 that will be the 8-ton target vehicle and shenzhou 8 shenzhou 9 and shenzhou 10 will all be spaceships to dock with tiangong-1 in turn
+on october 1 2008 shanghai space administration which participated in the development of shenzhou 8 stated  that they succeeded in the simulated experiments for the docking of tiangong-1 and shenzhou 8
+on june 16 2012 shenzhou 9 was launched from jiuquan satellite launch center in inner mongolia china carrying a crew of three the shenzhou craft successfully docked with the tiangong-1 laboratory on june 18 2012 at 0607 utc marking chinas first manned spacecraft dockingon june 11 2013 china launched shenzhou 10 with a crew of three headed for the tiangong-1the full 60-metric ton space station has been delayed to 2020–2022 and will support three astronauts for long-term habitation
+
+
+ details 
+
+
+ space laboratory phase 
+chinese efforts to develop leo space station capabilities will begin with a space laboratory phase with the launch of three tiangong test vehicles later reduced to two
+
+
+ tiangong-1 target vehicle 
+
+the chinese docking target consists of a propulsion resource module and a pressurized module for experiments with a docking mechanism at either end the docking port of the experiment section supports automated docking its length is 10.5 metres 34 ft diameter is 3.4 metres 11 ft with a mass of 8,000 kilograms 18,000 lb launched on september 29 2011 it was intended for short stays of a crew of three the second docking port on the propulsion module was kept screened from press photography inside and outside the module it re-entered and burned up in the atmosphere on april 2 2018 at 0016 utc 
+
+
+ tiangong-2 space laboratory 
+
+a second and a third test station were originally planned to precede the eventual modular station these would be 14.4 metres 47 ft long with a diameter of 4.2 metres 14 ft and weigh up to 20,000 kilograms 44,000 lb the second one would provide life support for a crew of 2 for 20 days and the third one a crew of 3 for 40 days however all the objectives of these two stations were later merged into one project and the size scaled down to less than 10,000 kilograms 22,000 lb
+the resulting tiangong-2 space laboratory was launched on september 15 2016
+
+
+ large orbital station 
+
+china plans to build the worlds third multi-module space station to follow mir and the iss this is dependent upon the date of opseks separation from the iss the previous separate components will be integrated into a space station arranged as
+core cabin module ccm – based on the tiangong-3 space station and analogous to the mir core module the 18.1-meter-long core module with a maximum diameter of 4.2 meters and a launch weight of 20 to 22 tons will be launched first
+laboratory cabin module i lcm-1 and laboratory cabin module ii lcm-2  – based on tiangong-2 space laboratory each laboratory module is 14.4 meters long with the same maximum diameter and launch weight of the core module
+shenzhou –  crewed vessel
+tianzhou heavenly vessel – a cargo craft based on tiangong-1 that will have a maximum diameter of 3.35 metres 11.0 ft and a launch weight less than 13 tonnes 13 long tons 14 short tons intended to transport supplies and experiments to the space station the craft will have three versions pressurized unpressurized and a combination of the two it was first launched on the new long march 7 rocket from wenchang on april 20 2017the larger station will be assembled in 2020–2022 and have a design lifetime of ten years  the complex will weigh approximately 60,000 kilograms 130,000 lb and will support three astronauts for long-term habitation the public is being asked to submit suggestions for names and symbols to adorn the space station and cargo ship considering past achievements and the bright future we feel that the crewed space program should have a more vivid symbol and that the future space station should carry a resounding and encouraging name wang wenbao director of the office said at the news conference we now feel that the public should be involved in the names and symbols as this major project will enhance national prestige and strengthen the national sense of cohesion and pride wang said
+
+
+ international co-operation 
+after the success of chinas crewed space launch a chinese official expressed interest in joining the international space station program in 2010 esa director-general jean-jacques dordain stated that his agency was ready to propose to the other 4 partners that china india and south korea be invited to join the iss partnership china has indicated a willingness to cooperate further with other countries on manned exploration
+
+
+ see also 
+
+chinese space program
+
+
+ references 
+
+
+ external links 
+china might be planning early space station attempt spacedailycom february 19 2006
+article on project 921-2
+china plans more space missions – october 16 2003 article
+details of project 921
+orbit of tiangong 1 at heavens-abovecom

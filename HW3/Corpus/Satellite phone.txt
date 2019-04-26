@@ -1,0 +1,99 @@
+a satellite telephone satellite phone or satphone is a type of mobile phone that connects to other phones or the telephone network by radio through orbiting satellites instead of terrestrial cell sites as cellphones do  the advantage of a satphone is that its use is not limited to areas covered by cell towers it can be used in most or all geographic locations on the earths surface
+the mobile equipment also known as a terminal varies widely early satellite phone handsets had a size and weight comparable to that of a late-1980s or early-1990s mobile phone but usually with a large retractable antenna more recent satellite phones are similar in size to a regular mobile phone while some prototype satellite phones have no distinguishable difference from an ordinary smartphone satphones are popular on expeditions into remote areas where terrestrial cellular service is unavailable
+a fixed installation such as one used aboard a ship may include large rugged rack-mounted electronics and a steerable microwave antenna on the mast that automatically tracks the overhead satellites smaller installations using voip over a two-way satellite broadband service such as bgan or vsat bring the costs within the reach of leisure vessel owners internet service satellite phones have notoriously poor reception indoors though it may be possible to get a consistent signal near a window or in the top floor of a building if the roof is sufficiently thin the phones have connectors for external antennas that can be installed in vehicles and buildings the systems also allow for the use of repeaters much like terrestrial mobile phone systems
+
+
+ satellite phone network 
+
+
+ geostationary satellites 
+some satellite phones use satellites in geostationary orbit which appear at a fixed position in the sky these systems can maintain near-continuous global coverage with only three or four satellites reducing the launch costs the satellites used for these systems are very heavy about 5000 kg and expensive to build and launch the satellites sit at an altitude of 35,786 kilometres 22,236 mi a noticeable delay is present while making a phone call or using data services due to the large distance from users the amount of bandwidth available on these systems is substantially higher than that of the low earth orbit leo systems all three active systems provide portable satellite internet using laptop-sized terminals with speeds ranging from 60 to 512 kbit per second kbps
+geostationary satellite phones can only be used at lower latitudes generally between 70 degrees north of the equator and 70 degrees south of the equator  at higher latitudes the satellite appears at such a low angle in the sky that radio frequency interference from terrestrial sources in the same frequency bands can interfere with the signal
+another disadvantage of geostationary satellite systems is that in many areas—even where a large amount of open sky is present—the line-of-sight between the phone and the satellite is broken by obstacles such as steep hills and forest the user will need to find an area with line-of-sight before using the phone this is not the case with leo services even if the signal is blocked by an obstacle one can wait a few minutes until another satellite passes overhead but a moving leo satellite may drop a call when line of sight is lost
+
+aces this former indonesia-based small regional operator provided voice and data services in east asia south asia and southeast asia using a single satellite it ceased operations in 2014
+inmarsat the oldest satellite phone operator a british company founded in 1979 it originally provided large fixed installations for ships but has recently entered the market of hand-held phones in a joint venture with aces the company operates eleven satellites coverage is available on most of the earth except polar regions
+thuraya established in 1997 united arab emirates-based thurayas satellites provide coverage across europe africa the middle east asia and australia
+msat  skyterra an american satellite-phone company that uses equipment similar to inmarsat but plans to launch a service using hand-held devices in the americas similar to thurayas
+terrestar satellite-phone system for north america
+ico global communications an american satellite-phone company which has launched a single geosynchronous satellite not yet active
+
+
+ low earth orbit 
+leo satphones utilize satellites in low earth orbit leo the advantages include providing worldwide wireless coverage with no gaps leo satellites orbit the earth in high-speed low-altitude orbits with an orbital time of 70–100 minutes an altitude of 640 to 1120 kilometers 400 to 700 miles and provide coverage cells of about at a 100-minute orbital period 2800 km in radius about 1740 mi since the satellites are not geostationary they move with respect to the ground at least one satellite must have line-of-sight to every coverage area at all times to guarantee coverage depending on the positions of both the satellite and terminal a usable pass of an individual leo satellite will typically last 4–15 minutes on average thus a constellation of satellites is required to maintain coverage as is done with iridium globalstar and others
+two such systems both based in the united states started in the late 1990s but soon went into bankruptcy after failing to gain enough subscribers to fund launch costs they are now operated by new owners who bought the assets for a fraction of their original cost and are now both planning to launch replacement constellations supporting higher bandwidth data speeds for current networks are between 2200 and 9600 bits using a satellite handset
+
+globalstar a network covering most of the worlds landmass using 44 active satellites however many areas are left without coverage since a satellite must be in range of an earth station satellites fly in an inclined orbit of 52 degrees so polar regions cannot be covered the network went into limited commercial service at the end of 1999
+iridium a network operating 66 satellites in a polar orbit that claims coverage everywhere on earth commercial service started in november 1998 and fell into chapter 11 bankruptcy in august 1999 in 2001 service was re-established by iridium satellite llc radio cross-links are used between satellites to relay data to the nearest satellite with a connection to an earth station
+orbcomm an american network
+
+
+ tracking 
+leo systems have the ability to track a mobile units location using doppler-shift calculations from the satellite however this method can be inaccurate by tens of kilometers on some iridium hardware the coordinates can be extracted using at commands while recent globalstar handsets will display them on the screenmost vsat terminals can be reprogrammed in-field using at-commands to bypass automatic acquisition of gps coordinates and instead accept manually injected gps coordinates
+
+
+ countries with restrictions on use of satellite phones 
+in some countries possession of a satellite phone is illegal their signals will usually bypass local telecoms systems hindering censorship and wiretapping attempts which means they are problematic for countries heavily affected by terrorist activity as many groups use satellite phones to avoid detection when planning their attacks it is also common for restrictions to be in place in countries that are run by oppressive governments regimes as a way to both expose subversive agents within their country and maximize the control of the information that makes it past their borders these countries tend to score low on the democracy index with the exception of india
+
+burma
+china – inmarsat became the first company permitted to sell satellite phones in 2016 china telecom began selling satellite phones in 2018 and six other satellite phone companies expressed their interest in entering the chinese market shortly after
+cuba
+india – only inmarsat-based satellite services are permitted within territories and areas under indian jurisdiction importation and operation of all other satellite services including thuraya and iridium is illegal international shipping is obliged to comply with indian directorate-general of shipping dgs order no 02 of 2012 which makes the unauthorised import and operation of thuraya iridium and other such satellite phones illegal in waters which are within indian jurisdiction the legislation to this effect is section 6 of indian wireless act and section 20 of indian telegraph act international long distance ild licences and no objection certificates noc issued by indian department of telecommunications dot are mandatory for satellite communication services on indian territory
+north korea – the bureau of diplomatic security advises travelers that they have no right to privacy in north korea and should assume your communications are monitored which excludes the possibility of satellite phone technology
+russia – in 2012 new regulations governing the use of satellite phones inside russia or its territories were developed to fight terrorism by enabling the russian government to intercept calls these regulations allow non-russian visitors to register their sim cards for use within russian territory for up to six months
+
+
+ security concerns 
+all modern satellite phone networks encrypt voice traffic to prevent eavesdropping in 2012 a team of academic security researchers reverse-engineered the two major proprietary encryption algorithms in use one algorithm used in gmr-1 phones is a variant of the a5/2 algorithm used in gsm used in common mobile phones and both are vulnerable to cipher-text only attacks the gmr-2 standard introduced a new encryption algorithm which the same research team also cryptanalysed successfully thus satellite phones are not recommended for high-security applications
+
+
+ one-way services 
+some satellite phone networks provide a one-way paging channel to alert users in poor coverage areas such as indoors of the incoming call when the alert is received on the satellite phone it must be taken to an area with better coverage before the call can be accepted
+globalstar provides a one-way data uplink service typically used for asset tracking
+iridium operates a one-way pager service as well as the call alert feature
+
+
+ cost of a satellite phone 
+
+while it is possible to obtain used handsets for the thuraya iridium and globalstar networks for approximately us200 the newest handsets are quite expensive the iridium 9505a released in 2001 sold in march 2010 for over us1,000 satellite phones are purpose-built for one particular network and cannot be switched to other networks the price of handsets varies with network performance if a satellite phone provider encounters trouble with its network handset prices will fall then increase once new satellites are launched similarly handset prices will increase when calling rates are reduced
+among the most expensive satellite phones are bgan terminals often costing several thousand us dollars these phones provide broadband internet and voice communications satellite phones are sometimes subsidised by the provider if one signs a post-paid contract but subsidies are usually only a few hundred us dollars or less
+since most satellite phones are built under license or the manufacturing of handsets is contracted out to oems operators have a large influence over the selling price satellite networks operate under proprietary protocols making it difficult for manufacturers to independently make handsets
+
+
+ virtual country codes 
+
+satellite phones are usually issued with numbers in a special country calling code
+inmarsat satellite phones are issued with codes 870 in the past additional country codes were allocated to different satellites but the codes 871 to 874 were phased out at the end of 2008 leaving inmarsat users with the same country code regardless of which satellite their terminal is registered withlow earth orbit systems including some of the defunct ones have been allocated number ranges in the international telecommunications unions global mobile satellite system virtual country code 881 iridium satellite phones are issued with codes 881 6 and 881 7 globalstar although allocated 881 8 and 881 9 use us telephone numbers except for service resellers located in brazil which use the 881 range
+small regional satellite phone networks are allocated numbers in the 882 code designated for international networks which is not used exclusively for satellite phone networks
+
+
+ calling cost 
+the cost of making voice calls from a satellite phone varies from around 0.15 to 2 per minute while calling them from landlines and regular mobile phones is more expensive costs for data transmissions particularly broadband data can be much higher rates from landlines and mobile phones range from 3 to 14 per minute with iridium thuraya and inmarsat being some of the most expensive networks to call the receiver of the call pays nothing unless they are being called via a special reverse-charge service
+making calls between different satellite phone networks is often similarly expensive with calling rates of up to 15 per minute
+calls from satellite phones to landlines are usually around 0.80 to 1.50 per minute unless special offers are used such promotions are usually bound to a particular geographic area where traffic is low
+most satellite phone networks have pre-paid plans with vouchers ranging from 100 to 5,000
+
+
+ use in disaster response 
+
+most mobile telephone networks operate close to capacity during normal times and large spikes in call volumes caused by widespread emergencies often overload the systems when they are needed most examples reported in the media where this has occurred include the 1999 i̇zmit earthquake the september 11 attacks the 2006 kiholo bay earthquake the 2003 northeast blackouts hurricane katrina the 2007 minnesota bridge collapse the 2010 chile earthquake and the 2010 haiti earthquake reporters and journalists have also been using satellite phones to communicate and report on events in war zones such as iraq
+terrestrial cell antennas and networks can be damaged by natural disasters satellite telephony can avoid this problem and be useful during natural disasters satellite phone networks themselves are prone to congestion as satellites and spot beams cover a large area with relatively few voice channels
+
+
+ history 
+
+
+ see also 
+broadband global area network bgan
+mobile-satellite service
+satellite internet
+telecommunications
+
+
+ references 
+
+
+ external links 
+university of surrey pages with information on some satellite systems including currently planned and defunct proposals such as teledesic non-commercial
+satellite phone faq satellite phone services and equipment reviews non-commercial
+satellite mobile system architecturetechnical

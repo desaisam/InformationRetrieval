@@ -1,0 +1,105 @@
+a trans-neptunian object tno also written transneptunian object is any minor planet in the solar system that orbits the sun at a greater average distance than neptune which has a semi-major axis of 30.1 astronomical units au 
+typically tnos are further divided into the classical and resonant objects of the kuiper belt the scattered disc and detached objects with the sednoids being the most distant ones as of october 2018 the catalog of minor planets contains 528 numbered and more than 2,000 unnumbered tnosthe first trans-neptunian object to be discovered was pluto in 1930 it took until 1992 to discover a second trans-neptunian object orbiting the sun directly 15760 albion the most massive tno known is eris followed by pluto 2007 or10 makemake and haumea more than 80 satellites have been discovered in orbit of trans-neptunian objects tnos vary in color and are either grey-blue bb or very red rr they are thought to be composed of mixtures of rock amorphous carbon and volatile ices such as water and methane coated with tholins and other organic compounds 
+twelve minor planets with a semi-major axis greater than 150 au and perihelion greater than 30 au are known which are called extreme trans-neptunian objects etnos
+
+
+ history 
+
+
+ discovery of pluto 
+
+the orbit of each of the planets is slightly affected by the gravitational influences of the other planets discrepancies in the early 1900s between the observed and expected orbits of uranus and neptune suggested that there were one or more additional planets beyond neptune the search for these led to the discovery of pluto in february 1930 which was too small to explain the discrepancies revised estimates of neptunes mass from the voyager 2 flyby in 1989 showed that the problem was spurious pluto was easiest to find because it has the highest apparent magnitude of all known trans-neptunian objects it also has a lower inclination to the ecliptic than most other large tnos
+
+
+ subsequent discoveries 
+after plutos discovery american astronomer clyde tombaugh continued searching for some years for similar objects but found none for a long time no one searched for other tnos as it was generally believed that pluto which up to august 2006 was classified a planet was the only major object beyond neptune only after the 1992 discovery of a second tno 15760 albion did systematic searches for further such objects begin a broad strip of the sky around the ecliptic was photographed and digitally evaluated for slowly moving objects hundreds of tnos were found with diameters in the range of 50 to 2,500 kilometers eris the most massive tno was discovered in 2005 revisiting a long-running dispute within the scientific community over the classification of large tnos and whether objects like pluto can be considered planets pluto and eris were eventually classified as dwarf planets by the international astronomical union on monday december 17 2018 the discovery of 2018 vg18 nicknamed “farout” was announced farout is the most distant solar system object so-far observed and is about 120 au away from the sun likely taking more than 1,000 years to complete one orbit 
+
+
+ classification 
+
+according to their distance from the sun and their orbital parameters tnos are classified in two large groups the kuiper belt objects kbos and the scattered disc objects sdos the diagram to the right illustrates the distribution of known trans-neptunian objects up to 70 au in relation to the orbits of the planets and the centaurs for reference different classes are represented in different colours resonant objects including neptune trojans are plotted in red classical kuiper belt objects in blue the scattered disc extends to the right far beyond the diagram with known objects at mean distances beyond 500 au sedna and aphelia beyond 1000 au 87269 2000 oo67
+
+
+ kbos 
+the kuiper belt contains objects with an average distance to the sun of 30 to about 55 au usually having close-to-circular orbits with a small inclination from the ecliptic kuiper belt objects are further classified into the resonant trans-neptunian object that are locked in an orbital resonance with neptune and the classical kuiper belt objects also called cubewanos that have no such resonance moving on almost circular orbits unperturbed by neptune there are a large number of resonant subgroups the largest being the twotinos 12 resonance and the plutinos 23 resonance named after their most prominent member pluto members of the classical kuiper belt include 15760 albion 50000 quaoar and makemake
+
+
+ sdos 
+the scattered disc contains objects farther from the sun with very eccentric and inclined orbits these orbits are non-resonant and non-planetary-orbit-crossing a typical example is the most massive known tno eris based on the tisserand parameter relative to neptune tn the objects in the scattered disc can be further divided into the typical scattered disc objects sdos scattered-near with a tn of less than 3 and into the detached objects esdos scattered-extended with a tn greater than 3 in addition detached objects have a time-averaged eccentricity greater than 0.2 the sednoids are a further extreme sub-grouping of the detached objects with perihelia so distant that it is confirmed that their orbits cannot be explained by perturbations from the giant planets nor by interaction with the galactic tides
+
+
+ physical characteristics 
+given the apparent magnitude 20 of all but the biggest trans-neptunian objects the physical studies are limited to the following
+
+thermal emissions for the largest objects see size determination
+colour indices ie comparisons of the apparent magnitudes using different filters
+analysis of spectra visual and infraredstudying colours and spectra provides insight into the objects origin and a potential correlation with other classes of objects namely centaurs and some satellites of giant planets triton phoebe suspected to originate in the kuiper belt however the interpretations are typically ambiguous as the spectra can fit more than one model of the surface composition and depend on the unknown particle size more significantly the optical surfaces of small bodies are subject to modification by intense radiation solar wind and micrometeorites consequently the thin optical surface layer could be quite different from the regolith underneath and not representative of the bulk composition of the body
+small tnos are thought to be low-density mixtures of rock and ice with some organic carbon-containing surface material such as tholin detected in their spectra on the other hand the high density of haumea 2.6–3.3 gcm3 suggests a very high non-ice content compare with plutos density 1.86 gcm3 the composition of some small tnos could be similar to that of comets indeed some centaurs undergo seasonal changes when they approach the sun making the boundary blurred see 2060 chiron and 7968 elst–pizarro however population comparisons between centaurs and tnos are still controversial
+
+
+ color indices 
+
+colour indices are simple measures of the differences in the apparent magnitude of an object seen through blue b visible v ie green-yellow and red r filters the diagram illustrates known colour indices for all but the biggest objects in slightly enhanced colour
+for reference two moons triton and phoebe the centaur pholus and the planet mars are plotted yellow labels size not to scale correlations between the colours and the orbital characteristics have been studied to confirm theories of different origin of the different dynamic classes
+
+classical kuiper belt object cubewano seem to be composed of two different colour populations the so-called cold inclination 5° population displaying only red colours and the so-called hot higher inclination population displaying the whole range of colours from blue to very red a recent analysis based on the data from deep ecliptic survey confirms this difference in colour between low-inclination named core and high-inclination named halo objects red colours of the core objects together with their unperturbed orbits suggest that these objects could be a relic of the original population of the belt
+scattered disk objects show colour resemblances with hot classical objects pointing to a common originwhile the relatively dimmer bodies as well as the population as the whole are reddish v−i  0.3–0.6 the bigger objects are often more neutral in colour infrared index v−i  0.2 this distinction leads to suggestion that the surface of the largest bodies is covered with ices hiding the redder darker areas underneath
+
+
+ spectral type 
+
+among tnos as among centaurs there is a wide range of colors from blue-grey neutral to very red but unlike the centaurs clearly regrouped into two classes the distribution appears to be uniform the wide range of spectra differ in reflectivity in visible red and near infrared neutral objects present a flat spectrum reflecting as much red and infrared as visible spectrum very red objects present a steep slope reflecting much more in red and infrared
+a recent attempt at classification common with centaurs uses the total of four classes from bb blue average b−v   0.70 v−r  0.39 eg orcus to rr very red b−v  1.08 v−r  0.71 eg sedna with br and ir as intermediate classes br and ir differ mostly in the infrared bands i j and h
+typical models of the surface include water ice amorphous carbon silicates and organic macromolecules named tholins created by intense radiation four major tholins are used to fit the reddening slope
+
+titan tholin believed to be produced from a mixture of 90% n2 nitrogen and 10% ch4 methane
+triton tholin as above but with very low 0.1 methane content
+ethane ice tholin i believed to be produced from a mixture of 86%  h2o and 14% c2h6 ethane
+methanol ice tholin ii 80% h2o 16% ch3oh methanol and 3% co2as an illustration of the two extreme classes bb and rr the following compositions have been suggested
+
+for sedna rr very red 24% triton tholin 7% carbon 10% n2 26% methanol and 33% methane
+for orcus bb greyblue 85% amorphous carbon 4% titan tholin and 11% h2o ice
+
+
+ size determination and distribution 
+
+characteristically big bright objects are typically on inclined orbits whereas the invariable plane regroups mostly small and dim objectsit is difficult to estimate the diameter of tnos for very large objects with very well known orbital elements like pluto diameters can be precisely measured by occultation of stars for other large tnos diameters can be estimated by thermal measurements the intensity of light illuminating the object is known from its distance to the sun and one assumes that most of its surface is in thermal equilibrium usually not a bad assumption for an airless body for a known albedo it is possible to estimate the surface temperature and correspondingly the intensity of heat radiation  further if the size of the object is known it is possible to predict both the amount of visible light and emitted heat radiation reaching earth a simplifying factor is that the sun emits almost all of its energy in visible light and at nearby frequencies while at the cold temperatures of tnos the heat radiation is emitted at completely different wavelengths the far infrared
+thus there are two unknowns albedo and size which can be determined by two independent measurements of the amount of reflected light and emitted infrared heat radiation unfortunately tnos are so far from the sun that they are very cold hence producing black-body radiation around 60 micrometres in wavelength this wavelength of light is impossible to observe on the earths surface but only from space using eg the spitzer space telescope for ground-based observations astronomers observe the tail of the black-body radiation in the far infrared this far infrared radiation is so dim that the thermal method is only applicable to the largest kbos for the majority of small objects the diameter is estimated by assuming an albedo however the albedos found range from 0.50 down to 0.05 resulting in a size range of 1200–3700 km for an object of magnitude of 1.0
+
+
+ notable objects 
+
+
+ exploration 
+
+the only mission to date that primarily targeted a trans-neptunian object was nasas new horizons which was launched in january 2006 and flew by the pluto system in july 2015  and 2014 mu69 commonly referred to as ultima thule in january 2019 other missions have recently been proposed including orbital capture and multi-target scenariosthe existence of planets beyond neptune ranging from less than an earth mass sub-earth up to a brown dwarf has been often postulated for different theoretical reasons to explain several observed or speculated features of the kuiper belt and the oort cloud it was recently proposed to use ranging data from the new horizons spacecraft to constrain the position of such a hypothesized body
+
+
+ extreme trans-neptunian objects 
+
+among the extreme trans-neptunian objects are two high-perihelion objects sedna and 2012 vp113 sedna and 2012 vp113 are distant detached objects with perihelia greater than 70 au their high perihelia keep them at a sufficient distance to avoid significant gravitational perturbations from neptune previous explanations for the high perihelion of sedna include a close encounter with an unknown planet on a distant orbit and a distant encounter with a random star or a member of the suns birth cluster that passed near the solar system
+
+
+ see also 
+
+dwarf planet
+mesoplanet
+nemesis hypothetical star
+planet nine
+sednoid
+small solar system body
+triton
+tyche hypothetical planet
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+nine planets university of arizona
+david jewitts kuiper belt site
+large kbo page
+a list of the estimates of the diameters from johnstonarchive with references to the original papers

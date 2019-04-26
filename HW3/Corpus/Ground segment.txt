@@ -1,0 +1,104 @@
+a ground segment consists of all the ground-based elements of a spacecraft system used by operators and support personnel as opposed to the space segment and user segment the ground segment enables management of a spacecraft and distribution of payload data and telemetry among interested parties on the ground the primary elements of a ground segment are
+
+ground or earth stations which provide radio interfaces with spacecraft
+mission control or operations centers from which spacecraft are managed
+ground networks which connect the other ground elements to one another
+remote terminals used by support personnel
+spacecraft integration and test facilities
+launch facilitiesthese elements are present in nearly all space missions whether commercial military or scientific they may be located together or separated geographically and they may be operated by different parties some elements may support multiple spacecraft simultaneously
+
+
+ elements 
+
+
+ ground stations 
+
+ground stations provide radio interfaces between the space and ground segments for telemetry tracking and command ttc as well as payload data transmission and reception tracking networks such as nasas near earth network and space network handle communications with multiple spacecraft through time-sharingground station equipment may be monitored and controlled remotely often via serial andor ip interfaces there are typically backup stations from which radio contact can be maintained if there is a problem at the primary ground station which renders it unable to operate such as a natural disaster such contingencies are considered in a continuity of operations plan
+
+
+ transmission and reception 
+signals to be uplinked to a spacecraft must first be extracted from ground network packets encoded to baseband and modulated typically onto an intermediate frequency if carrier before being up-converted to the assigned radio frequency rf band the rf signal is then amplified to high power and carried via waveguide to an antenna for transmission in colder climates electric heaters or hot air blowers may be necessary to prevent ice or snow buildup on the parabolic dish
+received downlinked signals are passed through a low-noise amplifier often located in the antenna hub to minimize the distance the signal must travel before being down-converted to if these two functions may be combined in a low-noise block downconverter the if signal is then demodulated and the data stream extracted via bit and frame synchronization and decoding data errors such as those caused by signal degradation are identified and corrected where possible the decoded data stream is then packetized or saved to files for transmission on the ground network ground stations may temporarily store received telemetry for later playback to control centers often when ground network bandwidth is not sufficient to allow real-time transmission of all received telemetry
+a single spacecraft may make use of multiple rf bands for different telemetry command and payload data streams depending on bandwidth and other requirements
+
+
+ passes 
+the timing of passes when a line of sight exists to the spacecraft is determined by the location of ground stations and by the characteristics of the spacecraft orbit or trajectory the space network uses geostationary relay satellites to extend pass opportunities over the horizon
+
+
+ tracking and ranging 
+ground stations must track spacecraft in order to point their antennas properly and must account for doppler shifting of rf frequencies due to the motion of the spacecraft ground stations may also perform automated ranging ranging tones may be multiplexed with command and telemetry signals ground station tracking and ranging data are passed to the control center along with spacecraft telemetry
+
+
+ mission control centers 
+
+mission control centers process analyze and distribute spacecraft telemetry and issue commands data uploads and software updates to spacecraft for manned spacecraft mission control manages voice and video communications with the crew control centers may also be responsible for configuration management and data archival as with ground stations there are typically backup control facilities available to support continuity of operations
+
+
+ telemetry processing 
+control centers use telemetry to determine the status of a spacecraft and its systems housekeeping diagnostic science and other types of telemetry may be carried on separate virtual channels flight control software performs the initial processing of received telemetry including
+
+separation and distribution of virtual channels
+time-ordering and gap-checking of received frames gaps may be filled by commanding a re-transmission
+decommutation of parameter values and association of these values with parameter names called mnemonics
+conversion of raw data to calibrated engineering values and calculation of derived parameters
+limit and constraint checking which may generate alert notificationsa spacecraft database is called on to provide information on telemetry frame formatting the positions and frequencies of parameters within frames and their associated mnemonics calibrations and soft and hard limits the contents of this database—especially calibrations and limits—may be updated periodically to maintain consistency with onboard software and operating procedures these can change during the life of a mission in response to upgrades hardware degradation in the space environment and changes to mission parameters
+
+
+ commanding 
+commands sent to spacecraft are formatted according to the spacecraft database and are validated against the database before being transmitted via a ground station commands may be issued manually in real time or they may be part of automated or semi-automated procedures typically commands successfully received by the spacecraft are acknowledged in telemetry and a command counter is maintained on the spacecraft and at the ground to ensure synchronization in certain cases closed-loop control may be performed commanded activities may pertain directly to mission objectives or they may be part of housekeeping commands and telemetry may be encrypted to prevent unauthorized access to the spacecraft or its data
+spacecraft procedures are often developed and tested against a spacecraft simulator prior to use with the actual spacecraft
+
+
+ analysis and support 
+mission control centers may rely on offline ie non-real-time data processing subsystems to handle analytical tasks such as
+
+short- and long-term trend analysis
+orbit determination and maneuver planning
+conjunction assessment and collision avoidance planning
+mission planning and scheduling
+on-board memory management
+path planning in the case of planetary roversdedicated physical spaces may be provided in the control center for certain mission support roles such as flight dynamics and network control or these roles may be handled via remote terminals outside the control center as on-board computing power and flight software complexity have increased there is a trend toward performing more automated data processing on board the spacecraft
+
+
+ staffing 
+control centers may be continuously or regularly staffed by flight controllers staffing is typically greatest during the early phases of a mission and during critical procedures and periods increasingly commonly control centers for unmanned spacecraft may be set up for lights-out or automated operation as a means of controlling costs flight control software will typically generate notifications of significant events – both planned and unplanned – in the ground or space segment that may require operator intervention
+
+
+ ground networks 
+ground networks handle data transfer and voice communication between different elements of the ground segment these networks often combine lan and wan elements for which different parties may be responsible geographically separated elements may be connected via leased lines or virtual private networks the design of ground networks is driven by requirements on reliability bandwidth and security
+reliability is a particularly important consideration for critical systems with uptime and mean time to recovery being of paramount concern as with other aspects of the spacecraft system redundancy of network components is the primary means of achieving the required system reliability
+security considerations are vital to protect space resources and sensitive data wan links often incorporate encryption protocols and firewalls to provide information and network security antivirus software and intrusion detection systems provide additional security at network endpoints
+
+
+ remote terminals 
+remote terminals are interfaces on ground networks separate from the mission control center which may be accessed by payload controllers telemetry analysts instrument and science teams and support personnel such as system administrators and software development teams they may be receive-only or they may transmit data to the ground network
+terminals used by service customers including isps and end users are collectively called the user segment and are typically distinguished from the ground segment user terminals including satellite television systems and satellite phones communicate directly with spacecraft while other types of user terminals rely on the ground segment for data receipt transmission and processing 
+
+
+ integration and test facilities 
+space vehicles and their interfaces are assembled and tested at integration and test it facilities it provides an opportunity to fully test communications with and behavior of the spacecraft prior to launch
+
+
+ launch facilities 
+vehicles are delivered to space via launch facilities which handle the logistics of rocket launches launch facilities are typically connected to the ground network to relay telemetry prior to and during launch the launch vehicle itself is sometimes said to constitute a transfer segment which may be considered distinct from both the space and ground segments
+
+
+ costs 
+costs associated with the establishment and operation of a ground segment are highly variable and depend on accounting methods according to a study by delft university of technology the ground segment contributes approximately 5% to the total cost of a space system according to a report by the rand corporation on nasa small spacecraft missions operation costs alone contribute 8% to the lifetime cost of a typical mission with integration and testing making up a further 3.2 ground facilities 2.6 and ground systems engineering 1.1ground segment cost drivers include requirements placed on facilities hardware software network connectivity security and staffing ground station costs in particular depend largely on the required transmission power rf bands and the suitability of preexisting facilities control centers may be highly automated as a means of controlling staffing costs
+
+
+ images 
+
+		
+		
+		
+
+
+ see also 
+consultative committee for space data systems ccsds which maintains standards for telemetry and command formatting
+radiocommunication service as defined by itu radio regulations
+on-board data handling subsystem
+
+
+ references 

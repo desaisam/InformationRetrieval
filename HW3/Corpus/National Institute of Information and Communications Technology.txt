@@ -1,0 +1,16 @@
+the national institute of information and communications technology 情報通信研究機構 jōhō tsūshin kenkyū kikō nict is japans primary national research institute for information and communications it is located at 4-2-1 nukui-kitamachi koganei tokyo 184-8795 japan
+nict was established as an independent administrative institution in 2004 when japans communications research laboratory established 1896 merged with the telecommunications advancement organization today nicts mission is to carry out research and development in the field of information and communications technology  it has a range of responsibilities including generating and disseminating japans national frequency and time standards conducting type approval tests of radio equipment for the global maritime distress safety system gmdss and marine radar based on japans radio law and providing regular observations of the ionosphere and space weather it also operates the jjy a low frequency time signal
+in late august 2015 it was announced that a terahertz radiation scanner developed by the institute would be one of the instruments carried by the esas jupiter icy moons explorer currently due for launch in 2022
+
+
+ japanese-english bilingual corpus of wikipedias kyoto articles 
+the japanese-english bilingual corpus of wikipedias kyoto articles is used for supporting research and development relevant to high-performance multilingual machine translation information extraction and other language processing technologies nict has created this corpus by manually translating japanese wikipedia articles related to kyoto into english the japanese-english bilingual kyoto lexicon was created by extracting the japanese-english word pairs from this corpus as of december 23 2010 14,111 japanese articles are translated into englishuse andor redistribution of the corpus and the lexicon is permitted under the conditions of creative commons attribution-share-alike license 3.0
+
+
+ see also 
+independent administrative institution
+list of independent administrative institutes in japan
+
+
+ references 
+national institute of information and communications technology

@@ -1,0 +1,114 @@
+pubmed is a free search engine accessing primarily the  medline database of references and abstracts on life sciences and biomedical topics the united states national library of medicine nlm at the national institutes of health maintains the database as part of the entrez system of information retrievalfrom 1971 to 1997 medline online access to the medlars online computerized database primarily had been through institutional facilities such as university libraries pubmed first released in january 1996 ushered in the era of private free home- and office-based medline searching the pubmed system was offered free to the public starting in june 1997
+
+
+ content 
+in addition to medline pubmed provides access to
+
+older references from the print version of index medicus back to 1951 and earlier
+references to some journals before they were indexed in index medicus and medline for instance science bmj and annals of surgery
+very recent entries to records for an article before it is indexed with medical subject headings mesh and added to medline
+a collection of books available full-text and other subsets of nlm records
+pmc citations
+ncbi bookshelfmany pubmed records contain links to full text articles some of which are freely available often in pubmed central and local mirrors such as uk pubmed centralinformation about the journals indexed in medline and available through pubmed is found in the nlm catalogas of  6 december 2018 pubmed has more than 29.1 million records going back to 1966 selectively to the year 1865 and very selectively to 1809 about 500,000 new records are added each year as of the same date 13.1 million of pubmeds records are listed with their abstracts and 14.2 million articles have links to full-text of which 3.8 million articles are available full-text for free for any user approximately 12% of the records in pubmed correspond to cancer-related entries which have grown from 6% in the 1950s to 16% in 2016 
+other significant proportion of records correspond to chemistry 8.69 therapy 8.39 and infection 5in 2016 nlm changed the indexing system so that publishers will be able to directly correct typos and errors in pubmed indexed articles
+
+
+ characteristics 
+
+
+ standard searches 
+simple searches on pubmed can be carried out by entering key aspects of a subject into pubmeds search window
+pubmed translates this initial search formulation and automatically adds field names relevant mesh medical subject headings terms synonyms boolean operators and nests the resulting terms appropriately enhancing the search formulation significantly in particular by routinely combining using the or operator textwords and mesh terms
+the examples given in a pubmed tutorial demonstrate how this automatic process works
+
+causes sleep walking is translated as etiologysubheading or etiologyall fields or causesall fields or causalitymesh terms or causalityall fields and somnambulismmesh terms or somnambulismall fields or sleepall fields and walkingall fields or sleep walkingall fields
+
+likewise
+
+soft
+ attack aspirin prevention is translated as myocardial infarctionmesh terms or myocardialall fields and infarctionall fields or myocardial infarctionall fields or heartall fields and attackall fields or heart attackall fields and aspirinmesh terms or aspirinall fields and prevention and controlsubheading or preventionall fields and controlall fields or prevention and controlall fields or preventionall fields
+
+a new pubmed interface was launched in october 2009 and encouraged the use of such quick google-like search formulations they have also been described as telegram searches  by default the results are sorted by most recent but this can be changed to best match publication date first author last author journal or title
+
+
+ comprehensive searches 
+for optimal searches in pubmed it is necessary to understand its core component medline and especially of the mesh medical subject headings controlled vocabulary used to index medline articles they may also require complex search strategies use of field names tags proper use of limits and other features reference librarians and search specialists offer search services
+
+
+ journal article parameters 
+when a journal article is indexed numerous article parameters are extracted and stored as structured information such parameters are article type mesh terms eg clinical trial secondary identifiers mesh terms language country of the journal or publication history e-publication date print journal publication date
+
+
+ publication type clinical queriessystematic reviews 
+publication type parameter allows searching by the type of publication including reports of various kinds of clinical research
+
+
+ secondary id 
+since july 2005 the medline article indexing process extracts identifiers from the article abstract and puts those in a field called secondary identifier si the secondary identifier field is to store accession numbers to various databases of molecular sequence data gene expression or chemical compounds and clinical trial ids for clinical trials pubmed extracts trial ids for the two largest trial registries clinicaltrialsgov nct identifier and the international standard randomized controlled trial number register irctn identifier
+
+
+ see also 
+a reference which is judged particularly relevant can be marked and related articles can be identified if relevant several studies can be selected and related articles to all of them can be generated on pubmed or any of the other ncbi entrez databases using the find related data option the related articles are then listed in order of relatedness to create these lists of related articles pubmed compares words from the title and abstract of each citation as well as the mesh headings assigned using a powerful word-weighted algorithm the related articles function has been judged to be so precise that the authors of a paper suggested it can be used instead of a full search
+
+
+ mapping to mesh 
+pubmed automatically links to mesh terms and subheadings examples would be bad breath links to and includes in the search halitosis heart attack to myocardial infarction breast cancer to breast neoplasms where appropriate these mesh terms are automatically expanded that is include more specific terms terms like nursing are automatically linked to nursing mesh or nursing subheading this feature is called auto term mapping and is enacted by default in free text searching but not exact phrase searching ie enclosing the search query with double quotes this feature makes pubmed searches more sensitive and avoids false-negative missed hits by compensating for the diversity of medical terminology
+
+
+ my ncbi 
+the pubmed optional facility my ncbi with free registration provides tools for
+
+saving searches
+filtering search results
+setting up automatic updates sent by e-mail
+saving sets of references retrieved as part of a pubmed search
+configuring display formats or highlighting search termsand a wide range of other options the my ncbi area can be accessed from any computer with web-access
+an earlier version of my ncbi was called pubmed cubby
+
+
+ linkout 
+linkout a nlm facility to link and make available full-text local journal holdings some 3,200 sites mainly academic institutions participate in this nlm facility as of  march 2010 from aalborg university in denmark to zymogenetics in seattle users at these institutions see their institutions logo within the pubmed search result if the journal is held at that institution and can access the full-text
+
+
+ pubmed commons 
+in 2016 pubmed allows authors of articles to comment on articles indexed by pubmed this feature was initially  tested in a pilot mode since 2013 and was made permanent in 2016 in february 2018 pubmed commons was discontinued due to the fact that usage has remained minimal
+
+
+ pubmed for handheldsmobiles 
+pubmedmedline can be accessed via handheld devices using for instance the pico option for focused clinical questions created by the nlm a pubmed mobile option providing access to a mobile friendly simplified pubmed version is also available
+
+
+ askmedline 
+askmedline a free-text natural language query tool for medlinepubmed developed by the nlm also suitable for handhelds
+
+
+ pubmed identifier 
+
+a pmid pubmed identifier or pubmed unique identifier is a unique integer value starting at 1 assigned to each pubmed record a pmid is not the same as a pmcid which is the identifier for all works published in the free-to-access pubmed centralthe assignment of a pmid or pmcid to a publication tells the reader nothing about the type or quality of the content pmids are assigned to letters to the editor editorial opinions op-ed columns and any other piece that the editor chooses to include in the journal as well as peer-reviewed papers the existence of the identification number is also not proof that the papers have not been retracted for fraud incompetence or misconduct the announcement about any corrections to original papers may be assigned a pmid
+
+
+ alternative interfaces 
+
+the national library of medicine leases the medline information to a number of private vendors such as embase ovid dialog ebsco knowledge finder and many other commercial non-commercial and academic providers as of  october 2008 more than 500 licenses had been issued more than 200 of them to  providers outside the united states as licenses to use medline data are available for free the nlm in effect provides a free testing ground for a wide range of alternative interfaces and 3rd party additions to pubmed one of a very few large professionally curated databases which offers this option
+lu identifies a sample of 28 current and free web-based pubmed versions requiring no installation or registration which are grouped into four categories
+
+ranking search results for instance etblast medlineranker misearch
+clustering results by topics authors journals etc for instance anne otate clustermed
+enhancing semantics and visualization for instance ebimed medevi
+improved search interface and retrieval experience for instance askmedline babelmesh and pubcrawleras most of these and other alternatives rely essentially on pubmedmedline data leased under license from the nlmpubmed the term pubmed derivatives has been suggested without the need to store about 90 gb of original pubmed datasets anybody can write pubmed applications using the eutils-application program interface as described in the e-utilities in-depth parameters syntax and more by eric sayers phd various citation format generators taking pmid numbers as input are examples of web applications making use of the eutils-application program interface sample web pages include citation generator - mick schroeder pubmed citation generator - ultrasound of the week pmid2cite and cite this for me
+
+
+ data mining of pubmed 
+alternative methods to mine the data in pubmed use programming environments such as matlab python or r in these cases queries of pubmed are written as lines of code and passed to pubmed and the response is then processed directly in the programming environment  code can be automated to systematically queries with different keywords such as disease year organs etc a recent publication 2017 found that the proportion of cancer-related entries in pubmed has risen from 6% in the 1950s to 16% in 2016the data accessible by pubmed can be mirrored locally using an unofficial tool such as medoc
+
+
+ see also 
+arrowsmith system
+journalrevieworg
+
+
+ references 
+
+
+ external links 
+official website

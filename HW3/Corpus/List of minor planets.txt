@@ -1,0 +1,134 @@
+the following is a list of numbered minor planets in numerical order minor planets are all small bodies in the solar system including dwarf planets with the exception of comets the catalog consists of hundreds of pages each containing 1000 minor planets every year tens of thousands of newly numbered minor planets are published in the minor planet circular by the minor planet center on behalf of the international astronomical union see index as of  february 2019 there are 523,824 numbered minor planets secured discoveries out of a total of 789,069 observed bodies with the remainder being unnumbered minor planetsthe catalogs first object is 1 ceres discovered by giuseppe piazzi on january 1 1801 while its best-known entry is pluto listed as 134340 pluto the vast majority 97 of minor planets are asteroids from the asteroid belt the catalog uses a color code to indicate a bodys dynamical classification there are more than a thousand different minor-planet discoverers observing from a growing list of registered observatories in terms of numbers the most prolific discoverers are linear spacewatch mls neat and css there are also 21,348 named minor planets mostly after people places and figures from mythology and fiction approximately 96% of all numbered catalog entries remain unnamed 3708 1974 fv1 and 516560 annapolisroyal are currently the lowest-numbered unnamed and highest-numbered named minor planets respectivelyit is expected that the upcoming survey by the lsst will discover another 5 million minor planets during the next ten years—a tenfold increase from current numbers while all asteroids with a diameter above 10 kilometers have already been discovered there might be as many as 10 trillion 1-meter-sized asteroids or larger out to the orbit of jupiter and more than a trillion minor planets in the kuiper belt of which hundreds are likely dwarf planets for minor planets grouped by a particular aspect or property see § specific lists
+
+
+ description of partial lists 
+the list of minor planets consists of more than 500 partial lists each containing 1000 minor planets grouped into 10 tables the data is sourced from the minor planet center mpc and expanded with data from the jpl sbdb mean-diameter johnstons archive sub-classification and others see detailed field descriptions below for an overview of all existing partial lists see § main index
+the information given for a minor planet includes a permanent and provisional designation § designation a citation that links to the meanings of minor planet names only if named the discovery date location and credited discoverers § discovery and § discoverers a category with a more refined classification than the principal grouping represented by the background color § category a mean-diameter ⌀ sourced from jpls sbdb or otherwise calculated estimates in italics § diameter and a reference ref to the corresponding pages at mpc and jpl sbdb 
+the mpc may credit one or several astronomers a survey or similar program or even the observatory site with the discovery in the first column of the table an existing stand-alone article is linked in boldface while self-redirects are never linked discoverers discovery site and category are only linked if they differ from the preceding catalog entry
+
+
+ example 
+
+the example above shows five catalog entries from one of the partial lists all five asteroids were discovered at palomar observatory by the palomar–leiden survey pls the mpc directly credits the surveys principle investigators that is the astronomers cornelis van houten ingrid van houten-groeneveld and tom gehrels this is the only instance where the list of minor planets diverges from the discovery circumstances in the official mpc list 189004 capys discovered on 16 october 1977 is the only named minor planet its background color indicates that it is a jupiter trojan from the trojan camp at jupiters l5 estimated to be approximately 12 kilometers in diameter all other objects are smaller asteroids from the inner white central light-grey and outer regions dark grey of the asteroid belt the provisional designation for all objects is an uncommon survey designation
+
+
+ designation 
+after discovery minor planets generally receive a provisional designation eg 1989 ac then a leading sequential number in parenthesis eg 4179 1989 ac turning it into a permanent designation numbered minor planet optionally a name can be given replacing the provisional part of the designation eg 4179 toutatis on wikipedia named minor planets also drop their parenthesis
+in modern times a minor planet receives a sequential number only after it has been observed several times over at least 4 oppositions minor planets whose orbits are not yet precisely known are known by their provisional designation this rule was not necessarily followed in earlier times and some bodies received a number but subsequently became lost minor planets the 2000 recovery of 719 albert which had been lost for nearly 89 years eliminated the last numbered lost asteroid only after a number is assigned is the minor planet eligible to receive a name usually the discoverer has up to 10 years to pick a name many minor planets now remain unnamed especially towards the end of the twentieth century large-scale automated asteroid discovery programs such as linear have increased the pace of discoveries so much that the vast majority of minor planets will most likely never receive names
+for these reasons the sequence of numbers only approximately matches the timeline of discovery in extreme cases such as lost minor planets there may be a considerable mismatch for instance the high-numbered 69230 hermes was originally discovered in 1937 but it was a lost until 2003 only after it was rediscovered could its orbit be established and a number assigned
+
+
+ discoverers 
+
+the mpc credits more than 1000 professional and amateur astronomers as discoverers of minor planets many of them have discovered only a few minor planets or even just co-discovered a single one moreover a discoverer does not need to be a human being there are about 300 programs surveys and observatories credited as discoverers among these a small group of us programs and surveys actually account for most of all discoveries made so far see pie chart as the total of numbered minor planets is growing by the tens of thousands every year all statistical figures are constantly changing in contrast to the top 10 discoverers displayed in this articles the mpc summarizes the total of discoveries somewhat differently that is by a distinct group of discoverers for example bodies discovered in the palomar–leiden survey are directly credited to the programs principal investigators
+
+
+ discovery site 
+
+observatories telescopes and surveys that report astrometric observations of small solar system bodies to the mpc receive a numeric or alphanumeric code such as 675 for the palomar observatory or i41 for the palomar transient factory a dedicated survey that was conducted at palomar observatory during 2009–2012 on numbering such an observatory may directly be credited by the mpc as discoverer
+
+
+ category 
+
+in this catalog minor planets are classified into one of 8 principal orbital groups and highlighted with a distinct color these are
+
+the vast majority of minor planets are evenly distributed between the inner- central and outer parts of the asteroid belt which are separated by the two kirkwood gaps at 2.5 and 2.82 au nearly 97.5% of all minor planets are main-belt asteroids mba while jupiter trojans mars-crossing and near-earth asteroids each account for less than 1% of the overall population only a small number of distant minor planets that is the centaurs and trans-neptunian objects have been numbered so far in the partial lists table column category further refines this principal grouping
+
+main-belt asteroids show their family membership based on the synthetic hierarchical clustering method by nesvorný 2014
+resonant asteroids are displayed by their numerical ratio and include the hildas 32 cybeles 74 thules 43 and griquas 21 while the jupiter trojans 11 display whether they belong to the greek l4 or trojan camp l5
+near-earth objects are divided into the aten ate amor amo apollo apo and atira ati group with some of them being potentially hazardous asteroids pha
+trans-neptunian objects are divided into dynamical subgroups including cubewanos hot or cold scattered disc objects plutinos and other neptunian resonances
+comet-like andor retrograde damocloids with low tjupiter are tagged with damocloid
+other unusual objects based on mpcs and johnstons lists are labelled unusual
+binary and trinary minor planets with companions are tagged with moon and link to their corresponding entry in minor-planet moon and
+objects with an exceptionally long or short rotation period are tagged with slow period of 100 hours or fast period of less than 2.2 hours and link to their corresponding entry in list of slow rotators and list of fast rotators respectively
+
+a neo-subgroups with number of members aten 224 amor 1,152 apollo 1,409 and atira 6 asteroids
+b including 26 unclassified bodies  6144 kondojiro 8373 stephengould 9767 midsomer norton 18916 2000 og44 32511 2001 nx17 96177 1984 bc 115916 2003 wb8 136620 1994 jc 144870 2004 ma8 241944 2002 cu147 275618 2000 au242 301964 2000 ej37 306418 1998 kk56 322713 2000 kd41 363135 2001 qq199 363814 2005 nd7 389895 2012 tb14 405058 2001 tx16 477587 2010 jt86 487496 2014 se288 490171 2008 ud253 494667 2001 wx1 497619 2006 ql39 504160 2006 sv301 514107 2015 bz509 518509 2006 fz51 colored as    for being unclassified
+c this chart has been created using a classification scheme adopted from and with data provided by the jpl small-body database
+
+
+ diameter 
+if available a minor planets mean diameter ⌀ in meters m or kilometers km is taken from the small-body database these figures were typically published by the neowise mission of nasas wide-field infrared survey explorer mean diameters are rounded to two significant figures if smaller than 100 kilometers estimates are in italics and calculated from a magnitude-to-diameter conversion using an assumed albedo derived from the bodys orbital parameters or if available from a family-specific mean albedo also see asteroid family table
+
+
+ main index 
+this is an overview of all existing partial lists of numbered minor planets lomp each table stands for 100,000 minor planets each cell for a specific partial list of 1,000 sequentially numbered bodies the data is sourced from the minor planet center for an introduction see § top
+
+
+ numberings 1–100,000 
+
+
+ numberings 100,001–200,000 
+
+
+ numberings 200,001–300,000 
+
+
+ numberings 300,001–400,000 
+
+
+ numberings 400,001–500,000 
+
+
+ numberings 500,001–600,000 
+
+
+ specific lists 
+
+the following are lists of minor planets by physical properties orbital properties or discovery circumstances
+
+list of exceptional asteroids physical properties
+list of slow rotators minor planets
+list of fast rotators minor planets
+list of tumblers small solar system bodies
+list of instrument-resolved minor planets
+list of jupiter trojans greek camp
+list of jupiter trojans trojan camp
+list of minor planets visited by spacecraft
+list of minor planet moons
+list of minor-planet groups
+list of named minor planets alphabetical
+list of named minor planets numerical
+list of possible dwarf planets
+list of trans-neptunian objects
+list of unnumbered minor planets
+list of unnumbered trans-neptunian objects
+meanings of minor planet names
+list of minor planets named after people
+list of minor planets named after places
+list of minor planets named after rivers
+list of minor planets named after animals and plants
+
+
+ see also 
+lists of astronomical objects
+binary asteroid
+dwarf planets – pluto ceres eris haumea and makemake
+kuiper belt a major ring of bodies in the solar system around 30-60 au and home to pluto
+minor-planet moon
+trans-neptunian objectother listslist of comets
+planet § objects formerly considered planets
+
+
+ notes 
+
+
+ references 
+
+
+ further reading 
+dictionary of minor planet names 5th ed prepared on behalf of commission 20 under the auspices of the international astronomical union lutz d schmadel isbn 3-540-00238-3
+the names of the minor planets paul herget 1968 oclc 224288991
+
+
+ external links 
+sbn small bodies data archive
+jpl minor planet database for physical and orbital data of any small solar system body or dwarf planet
+scott manleys timelapse animation of asteroid discovery 1980–2012 on youtube min 313minor planet centerlists and plots minor planets
+mpc discovery circumstances minor planets by number
+cneos center for near-earth object studies nasa
+pds asteroid data archive
+asteroid hazards part 1 what makes an asteroid a hazard on youtube min 604
+asteroid hazards part 2 the challenge of detection on youtube min 714
+asteroid hazards part 3 finding the path on youtube min 538

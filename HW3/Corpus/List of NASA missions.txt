@@ -1,0 +1,244 @@
+this is a list of nasa missions both crewed and robotic since its establishment  1958
+
+
+ current missions 
+there are over 70 currently active missions
+
+
+ x-plane program 
+
+since 1945 naca nasas predecessor and since 1958 nasa have conducted the x-plane program  the program was originally intended to create a family of experimental aircraft not intended for production beyond the limited number of each design built solely for flight research the first x-plane the bell x-1 was the first rocket-powered airplane to break the sound barrier on october 14 1947 x-planes have set numerous milestones since then both manned and unmanned
+
+
+ crewed missions 
+
+
+ human spaceflight 
+
+nasa has successfully launched over 200 manned flights two have ended in failure causing the death of the entire crew sts-51-l the challenger disaster in 1986 and sts-107 the columbia disaster in 2003 apollo 1 in 1967 lost three crew members but never launched
+
+notes
+
+
+ future 
+on may 7 the obama administration announced the launch of an independent review of planned us human space flight activities with the goal of ensuring that the nation is on a vigorous and sustainable path to achieving its boldest aspirations in space the review was conducted by a panel of experts led by norman augustine the former ceo of lockheed martin who served on the presidents council of advisers on science and technology under both democrat and republican presidents
+the review of united states human space flight plans was to examine ongoing and planned national aeronautics and space administration nasa development activities as well as potential alternatives and present options for advancing a safe innovative affordable and sustainable human space flight program in the years following space shuttle retirement the panel worked closely with nasa and sought input from the united states congress the white house the public industry and international partners as it developed its options it presented its results on october 22 2009in february 2010 obama announced his proposal to cancel the constellation program as part of the 2011 economic projects constellation was officially cancelled by the nasa budget authorization act on 11 october 2010
+nasa brought the orion mpcv back to life from the defunct constellation program and successfully test launched the first capsule on december 5 2014 aboard eft-1  after a near perfect flight traveling 3600 miles above earth the spacecraft was recovered for study  nasa plans to use the orion crew vehicle to send humans to deep space locations such as the moon near earth asteroids and mars starting in the 2020s  orion will be powered by nasas new heavy lift vehicle the space launch system sls which is currently under development  orions next flight along with the first sls flight is slated to launch in december 2019 with the designation of exploration mission 1  this mission will send an uncrewed orion capsule around the moon  it will be succeeded by exploration mission 2 sending a crewed orion spacecraft to an undetermined location in the early 2020s
+
+
+ robotic missions 
+
+
+ suborbital 
+anomalous transport rocket experiment atrex – five consecutive launches 80 seconds apart on march 27 2012 studied the high-altitude jet stream 
+nasa sounding rocket program
+
+
+ earth satellites 
+
+biosatellite 1 2 and 3
+cosmic background explorer cobe- earth observing system
+gravity recovery and climate experiment grace
+npoess preparatory project npp – national polar-orbiting operational environmental satellite system npoess
+upper atmosphere research satellite uarsecho 1 and 2- great observatories
+
+chandra x-ray observatory
+compton gamma ray observatory
+hubble space telescope – esa partnership
+spitzer space telescope formerly known as the space infrared telescope facility sirtf- high energy astronomy observatory program
+
+high energy astronomy observatory 1 heao 1
+einstein observatory heao 2 first fully imaging x-ray telescope
+high energy astronomy observatory 3 heao 3imager for magnetopause-to-aurora global exploration image
+infrared astronomical satellite iras
+jason-1
+ostmjason-2
+jason-3
+landsat programlandsat 1
+landsat 2
+landsat 3
+landsat 4
+landsat 5
+landsat 6
+landsat 7
+landsat data continuity mission- living with a star
+
+van allen probes – twin probes studying the van allen radiation belt moderate-resolution imaging spectroradiometer modis
+multi-angle imaging spectroradiometer misr- new millennium program nmp
+
+earth observing-1 eo-1
+space technology 5 st5
+space technology 6 st6nanosail-d  nanosail-d2
+orbiting carbon observatory oco- origins program
+
+far ultraviolet spectroscopic explorer fuse
+kepler  searching for earth-sized exoplanets in the habitable zonetime history of events and macroscale interactions during substorms themis- small explorer program smex
+aeronomy of ice in the mesosphere aim
+fast auroral snapshot explorer fast
+galaxy evolution explorer galex
+interstellar boundary explorer ibex
+nuclear spectroscopic telescope array nustar – x-ray telescope orbiting earth
+reuven ramaty high energy solar spectroscopic imager rhessi – sun observing earth satellite
+solar anomalous and magnetospheric particle explorer sampex
+submillimeter wave astronomy satellite swas
+transition region and coronal explorer trace – sun observing earth satellite
+wide field infrared explorer wire- solar terrestrial probes program
+
+hinode solar-b
+thermosphere ionosphere mesosphere energetics and dynamics timedtwo wide-angle imaging neutral-atom spectrometers twins
+uhuru
+wilkinson microwave anisotropy probe wmap
+
+
+ lunar 
+
+clementine
+gravity recovery and interior laboratory grail -lunar orbiter program
+
+lunar orbiter 1
+lunar orbiter 2
+lunar orbiter 3
+lunar orbiter 4
+lunar orbiter 5- lunar precursor robotic program lprp
+
+lunar crater observation and sensing satellite lcross
+lunar reconnaissance orbiter lrolunar prospector
+moon mineralogy mapper m3 – instrument for isros chandraayan-1-pioneer program
+
+pioneer 0
+pioneer 1
+pioneer 2
+pioneer p-1
+pioneer p-3
+pioneer p-30
+pioneer p-31
+pioneer 3
+pioneer 4- ranger program
+
+ranger 1
+ranger 2
+ranger 3
+ranger 4
+ranger 5
+ranger 6
+ranger 7
+ranger 8
+ranger 9- surveyor program
+
+surveyor 1
+surveyor 2
+surveyor 3
+surveyor 4
+surveyor 5
+surveyor 6
+surveyor 7
+
+
+ martian 
+
+- mariner program
+
+mariner 4
+mariner 6 and 7
+mariner 8
+mariner 9- mars exploration rovers
+
+spirit rover
+opportunity rovermars global surveyor
+mars odyssey- mars pathfinder
+
+sojourner rover- mars polar lander
+
+deep space 2 ds2 – sub-surface probesmars reconnaissance orbiter- mars science laboratory msl
+
+curiosity rover- mars scout program
+
+mars atmosphere and volatile evolution maven
+phoenix- viking program
+
+viking 1
+viking 2
+
+
+ asteroidalcometary 
+- discovery program
+
+deep impact primary – epoxi extended- new millennium program nmp
+
+deep space 1 ds1 – first spacecraft propelled by an ion thrusternear earth asteroid rendezvous - shoemaker near shoemaker – close study of 433 eros- new frontiers program
+
+origins spectral interpretation resource identification security regolith explorer osiris-rex – launched september 2016stardust – follow-up for deep impacts primary mission to 9ptempel
+
+
+ other planets 
+cassini–huygens – saturn and its moons
+dawn – vesta in 2011-2012 and ceres in 2015-2018
+galileo – jupiter and its moons
+juno – jupiter
+magellan venus radar mapper- mariner program – venus
+
+mariner 1
+mariner 2
+mariner 5
+mariner 10 – first to mercurymessenger – first to orbit mercury- new frontiers program
+
+juno spacecraft mission – jupiter-bound for polar orbit in 2016
+new horizons – pluto and its moons in 2015- pioneer program
+
+pioneer 5 – interplanetary space between earth and venus
+pioneer 6 7 8 and 9 – solar wind solar magnetic field and cosmic rays
+pioneer 10 – first to the asteroid belt and jupiter
+pioneer 11 – asteroid belt and jupiter first to saturn
+pioneer venus project- voyager program
+
+voyager 1 – jupiter saturn
+voyager 2 – jupiter saturn first to uranus and neptune
+
+
+ solar 
+genesis – returned sample of solar wind- living with a star
+
+balloon array for rbsp relativistic electron losses barrel –  two campaigns of 20 balloons each studying the van allen radiation belts 2012 to 2014 this mission is  complement to the van allen probes rbsp
+solar dynamics observatory sdosolar and heliospheric observatory soho – esa partnership
+solar maximum mission solarmax- solar terrestrial probes program
+
+magnetospheric multiscale mission mms – launch readiness date was october 2014 launched on 13 march 2015 at 0244 utc
+solar terrestrial relations observatory stereoulysses spacecraft – esa partnership
+parker solar probe – the first mission into the suns corona successfully launched on 12 august 2018
+
+
+ planned missions 
+- origins program
+
+james webb space telescope jwst – esa partnership – launch scheduled for 2021
+
+
+ cancelled or undeveloped missions 
+
+comet rendezvous asteroid flyby craf
+jupiter icy moons orbiter jimo
+mars astrobiology explorer-cacher max-c
+mars telecommunications orbiter mto- origins program
+
+space interferometry mission sim
+terrestrial planet finder tpfpluto kuiper express plutoke – replaced by new horizons
+
+
+ old proposals 
+- mars scout program
+
+aerial regional-scale environmental survey ares 2000-10 concept
+tau spacecraft- probe to 1000 au 1980s concept
+
+
+ see also 
+space exploration
+timeline of solar system exploration
+when we left earth the nasa missions – 2008 documentary covering nasas mission history
+
+
+ references 
+
+
+ external links 
+nasa - missions

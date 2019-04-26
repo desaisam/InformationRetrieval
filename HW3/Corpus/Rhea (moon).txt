@@ -1,0 +1,82 @@
+rhea  ree-ə ancient greek ῥέᾱ is the second-largest moon of saturn and the ninth-largest moon in the solar system it is the second smallest body in the solar system for which precise measurements have confirmed a shape consistent with hydrostatic equilibrium after dwarf planet ceres  it was discovered in 1672 by giovanni domenico cassini
+
+
+ discovery 
+
+rhea was discovered by giovanni domenico cassini on 23 december 1672  it was the second moon of saturn that cassini discovered and the third moon discovered around saturn overall
+
+
+ name 
+rhea is named after the titan rhea of greek mythology the mother of the gods it is also designated saturn v being the fifth major moon going outward from the planet after mimas enceladus tethys and dionecassini named the four moons he discovered tethys dione rhea and iapetus sidera lodoicea the stars of louis to honor king louis xiv  astronomers fell into the habit of referring to them and titan as saturn i through saturn v  once mimas and enceladus were discovered in 1789 the numbering scheme was extended to saturn vii and then to saturn viii with the discovery of hyperion in 1848 before the numbering scheme was frozen to prevent further confusionrhea was not named until 1847 when john herschel son of william herschel discoverer of the planet uranus and two other moons of saturn mimas and enceladus suggested in results of astronomical observations made at the cape of good hope that the names of the titans sisters and brothers of cronos saturn in roman mythology be used
+
+
+ physical characteristics 
+
+
+ size mass and internal structure 
+
+rhea is an icy body with a density of about 1.236 gcm3 this low density indicates that it is made of 25% rock density 3.25 gcm3 and 75% water ice density 0.93 gcm3 although rhea is the ninth-largest moon it is only the tenth-most-massive moonbefore the cassini-huygens mission it was assumed that rhea had a rocky core in the center  however measurements taken during a close flyby by the cassini orbiter in 2005 cast this into doubt in a paper published in 2007 it was claimed that the axial dimensionless moment of inertia coefficient was 0.4  such a value indicated that rhea had an almost homogeneous interior with some compression of ice in the center while the existence of a rocky core would imply a moment of inertia of about 0.34  in the same year another paper claimed the moment of inertia was about 0.37 rhea being either partially or fully differentiated would be consistent with the observations of the cassini probe a year later yet another paper claimed that the moon may not be in hydrostatic equilibrium meaning that the moment of inertia can not be determined from the gravity data alone  in 2008 an author of the first paper tried to reconcile these three disparate results he concluded that there is a systematic error in the cassini radio doppler data used in the analysis but after restricting the analysis to a subset of data obtained closest to the moon he arrived at his old result that rhea was in hydrostatic equilibrium and had the moment inertia of about 0.4 again implying a homogeneous interiorthe triaxial shape of rhea is consistent with a homogeneous body in hydrostatic equilibrium rotating at rheas angular velocity  models suggest that rhea could be capable of sustaining an internal liquid-water ocean through heating by radioactive decay
+
+
+ surface features 
+
+rheas features resemble those of dione with dissimilar leading and trailing hemispheres suggesting similar composition and histories the temperature on rhea is 99 k −174 °c in direct sunlight and between 73 k −200 °c and 53 k −220 °c in the shade
+
+rhea has a rather typical heavily cratered surface with the exceptions of a few large dione-type chasmata or fractures wispy terrain on the trailing hemisphere the side facing away from the direction of motion along rheas orbit and a very faint line of material at rheas equator that may have been deposited by material deorbiting from its rings  rhea has two very large impact basins on its anti-cronian hemisphere facing away from saturn which are about 400 and 500 km across  the more northerly and less degraded of the two called tirawa is roughly comparable to the basin odysseus on tethys  there is a 48 km-diameter impact crater at 112°w that is prominent because of an extended system of bright rays  this crater called inktomi is nicknamed the splat and may be one of the youngest craters on the inner moons of saturn no evidence of any endogenic activity has been discovered
+
+its surface can be divided into two geologically different areas based on crater density the first area contains craters which are larger than 40 km in diameter whereas the second area in parts of the polar and equatorial regions has only craters under that size this suggests that a major resurfacing event occurred some time during its formation the leading hemisphere is heavily cratered and uniformly bright as on callisto the craters lack the high relief features seen on the moon and mercury it has been theorized that these cratered plains are up to four billion years old on average  on the trailing hemisphere there is a network of bright swaths on a dark background and few visible craters it had been thought that these bright areas might be material ejected from ice volcanoes early in rheas history when its interior was still liquid however observations of dione which has an even darker trailing hemisphere and similar but more prominent bright streaks show that the streaks are actually ice cliffs resulting from extensive fracturing of the moons surface the extensive dark areas are thought to be deposited tholins which are a mix of complex organic compounds generated on the ice by pyrolysis and radiolysis of simple compounds containing carbon nitrogen and hydrogenthe january 17 2006 distant flyby by the cassini spacecraft yielded images of the wispy hemisphere at better resolution and a lower sun angle than previous observations images from this and subsequent flybys showed that rheas streaks in fact are tectonically formed ice cliffs chasmata similar to those of dione
+
+
+ formation 
+the moons of saturn are thought to have formed through co-accretion a similar process to that believed to have formed the planets in the solar system as the young giant planets formed they were surrounded by discs of material that gradually coalesced into moons however a proposed model for the formation of titan may also shine a new light on the origin of rhea and iapetus in this model titan was formed in a series of giant impacts between pre-existing moons and rhea and iapetus are thought to have formed from part of the debris of these collisions
+
+
+ atmosphere 
+on november 27 2010 nasa announced the discovery of a tenuous atmosphere—an exosphere it consists of oxygen and carbon dioxide in proportion of roughly 5 to 2 the surface density of the exosphere is from 105 to 106 molecules in a cubic centimeter depending on local temperature the main source of oxygen is radiolysis of water ice at the surface by ions supplied by the magnetosphere of saturn the source of the carbon dioxide is less clear but it may be related to oxidation of the organics present in ice or to outgassing of the moons interior
+
+
+ possible ring system 
+
+on march 6 2008 nasa announced that rhea may have a tenuous ring system this would mark the first discovery of rings around a moon  the rings existence was inferred by observed changes in the flow of electrons trapped by saturns magnetic field as cassini passed by rhea  dust and debris could extend out to rheas hill sphere but were thought to be denser nearer the moon with three narrow rings of higher density the case for a ring was strengthened by the subsequent finding of the presence of a set of small ultraviolet-bright spots distributed along rheas equator interpreted as the impact points of deorbiting ring material  however when cassini made targeted observations of the putative ring plane from several angles no evidence of ring material was found suggesting that another explanation for the earlier observations is needed
+
+
+ exploration 
+the first images of rhea were obtained by voyager 1  2 spacecraft in 1980–1981
+there were five close targeted fly-bys by the cassini orbiter at a distance of 500 km on november 26 2005 at a distance of 5,750 km on august 30 2007 at a distance of 100 km on march 2 2010 and at 69 km flyby on january 11 2011 and a last flyby at 992 km on march 9 2013  rhea has been also imaged many times from long to moderate distances by the orbiter
+
+
+ gallery 
+
+		
+		
+		
+		
+		
+
+
+ see also 
+
+former classification of planets
+list of natural satellites
+rhea in fiction
+subsatellite
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+
+rhea profile at nasas solar system exploration site
+the planetary society rhea
+cassini images of rhea
+images of rhea at jpls planetary photojournal
+movie of rheas rotation from the national oceanic and atmospheric administration site
+rhea global and polar basemaps march 2012 from cassini images
+rhea altlas released december 2010 from cassini images
+rhea nomenclature and rhea map with feature names from the usgs planetary nomenclature page
+google rhea 3d interactive map of the moon
+saturns moon rhea has thin atmosphere

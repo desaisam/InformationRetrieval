@@ -1,0 +1,40 @@
+2013 nd15 also written 2013 nd15 is an asteroid that is a temporary trojan of venus the first known venus trojan
+
+
+ discovery orbit and physical properties 
+2013 nd15 was discovered on july 13 2013 by n primak a schultz t goggia and k chambers observing for the pan-starrs project as of september 2014 it has been observed 21 times with a data-arc span of 26 days it is an aten asteroid and its semi-major axis 0.7235 au is very similar to that of venus but it has high eccentricity 0.6115 and small orbital inclination 4.794° with an absolute magnitude of 24.1 it has a diameter in the range 40–100 m for an assumed albedo range of 0.04-0.20
+
+
+ trojan dynamical state and orbital evolution 
+2013 nd15 has been identified as a venus trojan following a tadpole orbit around venus lagrangian point l4 besides being a venus co-orbital this asteroid is also a mercury crosser and an earth crosser 2013 nd15 exhibits resonant or near-resonant behavior with mercury venus and earth its short-term dynamical evolution is different from that of the other three venus co-orbitals 2001 ck32 2002 ve68 and 2012 xe133
+
+
+ potentially hazardous asteroid 
+2013 nd15 is not included in the minor planet center list of potentially hazardous asteroids phas because its absolute magnitude is greater than 22.0 even though it comes to within 0.05 au of earth periodically it approached earth at 0.077 au on june 21 2016
+
+
+ see also 
+2001 ck32
+2002 ve68
+2012 xe133
+
+
+ notes 
+
+
+ references 
+ 
+further readingunderstanding the distribution of near-earth asteroids bottke w f jedicke r morbidelli a petit j-m gladman b 2000 science vol 288 issue 5474 pp 2190–2194
+a numerical survey of transient co-orbitals of the terrestrial planets christou a a 2000 icarus vol 144 issue 1 pp 1–20
+debiased orbital and absolute magnitude distribution of the near-earth objects bottke w f morbidelli a jedicke r petit j-m levison h f michel p metcalfe t s 2002 icarus vol 156 issue 2 pp 399–433
+transient co-orbital asteroids brasser r innanen k a connors m veillet c wiegert p mikkola s chodas p w 2004 icarus vol 171 issue 1 pp 102–109
+the population of near earth asteroids in coorbital motion with venus morais m h m morbidelli a 2006 icarus vol 185 issue 1 pp 29–38
+asteroid 2013 nd15 trojan companion to venus pha to the earth de la fuente marcos c de la fuente marcos r 2013 monthly notices of the royal astronomical society vol 439 issue 3 pp 2970–2977
+
+
+ external links 
+discovery mpec
+2013 nd15 data at mpc
+list of potentially hazardous asteroids phas
+2013 nd15 at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

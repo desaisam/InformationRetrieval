@@ -1,0 +1,448 @@
+this is a list of sounding rockets used for suborbital research flights
+
+
+ argentina 
+gamma centauro
+gradicom-1
+proson-m1
+rigel seriescanopus-1 canopus 2
+castor a
+centenario
+orión seriesorión-1 orión-2
+
+
+ australia 
+aeolus
+aero high
+ausroc series
+ausroc i ausroc ii ausroc ii-2 ausroc 2.5 ausroc iii
+cockatoo series
+cockatoo mk 1 cockatoo mk 2 cockatoo mk 3 cockatoo mk 4
+corella
+heac
+had
+harp
+hat
+long tom
+lorikeet series
+lorikeet mk-1 lorikeet mk-2
+kookabura series
+kookaburra mk1 kookaburra mk2 kookaburra mk3
+sighter
+zuni
+
+
+ brazil 
+mb
+sonda familysonda 1  sonda 2 sonda 3 sonda 3 m1 sonda 4
+vs-30 vs-30orion vs-40 vsb-30
+s-40 series
+vs-40m
+vsv-30 brazilian exploration vehicle
+
+
+ canada 
+black brant
+black brant 1 black brant i
+black brant 2  black brant ii black brant 2b black brant iib
+black brant 3  black brant iii black brant 3b black brant iiib
+black brant 4 black brant 4a black brant iva black brant 4b black brant ivb
+black brant 5 black brant 5a black brant va black brant 5b black brant vb black brant 5c black brant vc
+black brant 6 black brant vi
+black brant 7 black brant vaii
+black brant 8 nike-black brant black brant 8b black brant 8c
+black brant 9 black brant ix black brant 9b black brant ixb black brant 9bm1  black brant 9cm1 black brant 9 mod-1 starfire-1
+black brant 10 black brant x black brant 10b black brant xb black brant 10cm1 black brant mod-1
+black brant 11 black brant xi black brant 11-a
+black brant 12 black brant xii black brant 12-a
+excalibur excalibur 2
+harp 5-1 harp 5-3
+harp 7-1 harp 7-2
+martlet martlet 1
+martlet 2 martlet 2a martlet 2b martlet 2c  martlet 2g
+martlet 3 martlet 3a martlet 3b martlet 3d martlet 3e
+martlet 4 martlet 4a martlet 4b martlet 4c
+scorpius sr-xm-1 wild fire
+
+
+ china 
+761
+df-21
+thp2
+thp6
+t-7 t-7a t-7a-s2 t-7a-s t-7gf-01a t-7m
+tianying-3c
+zhinui
+
+
+ democratic republic of the congo 
+troposphere seriestroposphere 1 troposphere 2 troposphere 3 troposphere 4 troposphere 5 troposphere 6
+
+
+ egypt 
+al kahir
+
+
+ france 
+antares
+aurore
+belenos
+belia
+bélier rocket familybélier i jericho belier ii export bélier iii vega
+belisama
+bérénice seriesbérénice-1  berenice-2  berenice-3
+centaure venus centaure 1 centaure 2a centaure 2b centaure 2c
+daniel l
+dauphin
+dragon stromboli dragon-2b  dragon-3
+emma
+epona
+éridan
+lex
+meteo meteo-md
+monica monica i monica iv
+pegase
+rubis
+stromboli
+tacite
+titus
+véronique rocket
+véronique 61 véronique 61m véronique agi véronique n véronique na
+vesta
+
+
+ germany 
+mohr rocket
+forschungsflugkorper
+cirrus cirrus i cirrus ii
+poggensee
+kumulus
+seliger rocket family seliger 1 seliger 2 seliger 3
+v-2
+
+
+ the netherlands 
+t-minus dart
+cansat
+stratos series
+stratos i stratos ii stratos ii stratos iii
+
+
+ india 
+rohini seriesmenaka ii
+rh-75
+rh-125
+rh-200
+rh-200sv
+rh-300
+rh-300rh-200rh-200
+rh-300 mk ii
+rh-560
+rh-560 mk ii
+rh-560/300 mk ii
+advanced technology vehicle
+vyom
+
+
+ indonesia 
+lapan
+rx-250
+rx-250-lpn
+
+
+ international 
+cansat
+
+
+ iran 
+kavoshgar serieskavoshgar 1 type a
+kavoshgar 2 3 type b
+kavoshgar 4 5 6 pishgam type c
+kavoshgar pazhuhesh type d
+
+
+ italy 
+rocksanne series
+rocksanne i-x rocksanne i-x ct
+rocksanne ii-x
+rocksanne e-x
+hre100k hybrid rocket engine 100k
+sispre series
+sispre c-41
+sispre bdp meteorological
+sispre multi-stage geophysical
+
+
+ japan 
+bt-310
+hm-16
+himes rockoon
+jcr
+kappa family kappa 1 kappa 2 kappa3 kappa 4  kappa 5 kappa 6 kappa 6h kappa 7  kappa 8 kappa 8l kappa 9 kappa 9l kappa 9m kappa 10 kappa 10c kappa 10s
+lamba 2
+lamba 3 lamba 3h
+mt-135 mt-135ja mt-135p
+nal-7
+nal-16
+nal-25
+s-a
+s-b
+s-c
+sa-ii
+sb-735
+st
+s-160
+s-210
+s-250
+s-300 isas
+s-310
+s-520 s-520-30
+ss-520
+tr-1a
+tt-200
+tt-210
+tt-500 tt-500a
+
+
+ new zealand 
+atea-2
+
+
+ north korea 
+hwasong 6
+
+
+ norway 
+pantera
+
+
+ pakistan 
+pakistans sounding rocket program used a variety of sounding rockets which were renamed in 3 series some flights were not given a pakistani designation sounding rockets were flown from the sonmiani rocket range
+centaure aka rehbar rehnuma shahpar
+dragon aka shahpar
+judi-dart aka rehbar rehnuma
+nike-apache aka rehbar
+nike-cajun aka rehbar
+petrel aka rehbar
+skua aka rehbar
+
+
+ poland 
+meteor  family meteor-1 meteor-2h meteor-2k meteor-3
+
+
+ russia 
+m-100     m-100 a1   m-100a  m-100b
+mera
+mmr06
+mr-1 meteo
+mr-12
+mr-20
+mr-25
+mr-30
+mt-135
+w-1b r-1b w-1d r-1d w-1e r-1e w-1w r-1w geophysical rockets
+r-2a
+r-5a r-5v vertikal
+r-11a
+v-3v
+vertical-4
+w-2a r-2
+
+
+ spain 
+inta-100
+inta-255
+inta-300 inta-300b
+
+
+ south korea 
+kari ksr-i
+kari ksr-ii
+kari ksr-iii
+
+
+ switzerland 
+micon zenit
+
+
+ taiwan 
+sounding rocket
+
+
+ united kingdom 
+skua familyskua 1 skua 2 skua 3 skua 4
+petrel familypetrel 1 petrel 2
+skylark familyskylark 1  skylark 2 skylark 2 ac  skylark 2c skylark 3 skylark 3 ac  skylark 4 skylark 4 ac skylark 5 skylark 5c  skylark 6 skylark 6 ac  skylark 7 skylark 7 ac  skylark 7c  skylark 8  skylark 9 skylark 10 skylark 10a skylark 11  skylark 12 skylark 12 ac skylark 14 skylark 15 skylark 16 skylark 17
+fulmar
+
+
+ united states 
+aerobee family
+areobee rtv-n-8 n-8a1 rtv-8 and aerojet xasr-sc-1 all with the xasr-sc-1 engine 
+x-8 rtv-a-1 rtv-n-10 and aerojet xar-sc-2 all with the aerojet xasr-sc-1 engine
+areobee x-8a rtv-a-1a rtv-n-10a with aerojet aj10-25 engine
+areobee x-8b rtv-a-1b with aerojet xar-sc-1 engine - a test vehicle
+areobee x-8c rtv-a-1c with the aerojet aj10-25 engine
+areobee x-8d rtv-a-1d aerojet aj10-25 - apparently never launched
+aerobee rtv-n-10b with the aerojet aj10-24 engine
+aerobee rtv-n-10c with the aerojet aj10-34 engine
+aerobee aj10-25 with the aj10-25 engine
+aerobee aj10-27 with the aj10-27 engine
+aerobee aj10-34 with the aj10-34 engine
+aerobee 75 aerobee hawk
+aerobee 100 aerobee junior
+aerobee 150 aerobee-hi pwn-2 aerobee 150 mi aerobee 150 mii aerobee 150 mii 20 aerobee 150a aerobee 150a mii
+aerobee 170 nike-aerobee areobee 170a
+aerobee 200 aerobee 200a
+aerobee 300 sparrowbee also spaerobee aerobee 300a
+aerobee 350
+apache
+ascamp
+aspan 300
+arcas arcas-robin rooster super arcas
+archer pwn-4
+argo a-1 percheron
+argus
+aries
+ascamp
+asp i
+asp apache
+astrobee family astrobee d astrobee f astrobee 200 astrobee 500 astrobee 1500
+athena rtv
+atk lv
+bullpup apache
+bullpup cajun
+blue scout junior
+boosted arcas boosted arcas ii
+boosted dart
+bumper
+cajun
+cajun dart
+caleb project hi-ho
+castor
+castor lance
+cleansweep iii cleansweep iiia
+dac roc
+deacon arrow ii
+deacon judi
+doorknob 1
+doorknob 2
+exos pwn-4
+gofast
+hasp i hasp ii hasp iii
+hj honest john hydac
+hj nike hydac
+hj nike javelin
+hj nike
+hj nike nike boa
+hj orion
+honest john-tommahawk
+hopi dart
+hpb
+hydra-iris
+hydra sandhawk
+improved malemute
+improved orion
+iris
+javelin argo d-4 javelin iii
+jaguar
+journeyman argo d-8
+judy-dart
+kitty pwn-6 sidewinder-hv arcas
+kivahopi phoenix
+lclv
+loki pwn-1
+loki ii hawk
+loki dart loki-wasp xrm-82 pwn-1a also pwn-8 pwn-8b pwn-10 pwn-11 pwn-12 loki datasonde
+loki-wasp
+malemute
+mesquito
+microstar
+nike nike apache nike hydac nike iroquois niro nike javelin nike javelin 3 nike nike python nike orion nike orion improved  nike tomahawk nike viper 1 nike yardbird nike cajun pwn-3 aka can nike-deacon dan nike hawk nike genie nike smoke
+oriole family oreole  oriole i loki-dart oreole ii terrier-oriole oriole iii talos terrier mk 70 oreole oriole iiia terrier oriole nihka oriole iv talos terrier mk 70 oreole nihka
+orion improved orion
+owl
+ozarca
+paiute apache
+paiute tomahawk
+pegasus
+peregrine
+phoenix
+prospector
+purr-kee
+pwn-5 rocksonde 200
+pwn-8 loki datasonde pwn-b pwn-c pwn-d
+pwn-10 super loki datasonde pwn-10a
+pwn-11 super loki datasond pwn-11a pwn-11d datasonde
+pwn-11 super loki datasonde
+pwn-12 super loki robin
+raven
+rockoon family deacon-rockoon farside himes rockoon  loki rockoon hawk rockoon
+roksonde family
+rooster pwn-7
+seagull
+sandhawk
+sandhawk tomahawk dualhawk
+sarge under development
+sergeant sounding rocket
+sergeant-delta
+sergeant hydac
+scout x-2
+scanner
+sirocco
+sidewinder arcas
+space data lclv
+spaceloft xl
+sparoair i
+sparrow arcas
+strongarm
+strypi strypi iiar strypi iir strypi iv strypi viiar
+strypi-tommahawk
+super arcas
+super chief super chief ii super chief iii
+super loki
+super loki dart pwn-10a pwn-10b super loki datasonde pwn-11 super loki datasonde  pwn-12 super loki robin
+talos castor
+talos sergeant hydac
+talos terrier black brant
+talos terrier black brant-nihka
+talos terrier oriole  oriole 3
+talos terrier oriole nihka  oriole 4
+talos terrier perrgrine
+taurus orion
+taurus tomahawk
+taurus tomahawk nike taurus-nike-tommahawk
+terasca
+terarapin
+terrier
+terrier 551
+terrier asp tarp
+terrier asroc cajun teresca
+terrier black brant
+terrier improved orion
+terrier malemute terrier improved malemute terrier mk70 patriot
+terrier improved nihka
+terrier oriole nihka
+terrier orion terrier improved orion
+terrier perrgrine
+terrier sandhawk
+terrier sounding rocket
+terrier tomahawk
+tiamat
+tic
+tomahawk
+tomahawk sandia
+ute
+ute apache
+ute tomahawk
+v-2
+viking viking type 9
+viper dart viper iia viper 3a10d dart viper vdart
+viper falcon
+wac corporal
+wasp
+x-15a
+
+
+ references 

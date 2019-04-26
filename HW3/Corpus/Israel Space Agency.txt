@@ -1,0 +1,240 @@
+the israel space agency isa hebrew סוכנות החלל הישראלית‎  sochnut hachalal hayisraelit is a governmental body a part of israels ministry of science and technology that coordinates all israeli space research programs with scientific and commercial goals
+the agency was founded by the theoretical physicist professor yuval neeman in 1983 to replace the national committee for space research which was established in 1960 to set up the infrastructure required for space missions the agency is currently headed by professor isaac ben israel as chairman and avi blasberger as director generaltoday israel is the smallest country with indigenous launch capabilities
+
+
+ history 
+the israel space agency has history dating back to the late 1950s
+
+
+ ncsr and foreign reliance 
+
+the israeli space agency originated as a university-based research project from tel aviv university in the early 1960s in 1960 the national committee for space research ncsr was formed by the israel academy of sciences and humanities the committee was formed to increase research activities across the academic communities in israel while at the time establishing a space program was not particularly one of its goals during the 60s through the late 70s the committee developed the infrastructure needed for research and development in space exploration and sciences one of the ncsrs earliest achievements took place in 1961 with the launch of its first two-stage rocketfollowing political tension with egypt and syria reconnaissance flights became evermore difficult in 1979 a satellite program was proposed followed by a year of feasibility study the study was completed by late 1980 saguy requested from prime minister menachem begin that the project proceed to its next phase in 1982 a new recommendation called ofeq program was submitted for developing an observation satellite the program included timelines planning for a ground station budget estimates and personnel requirements the primary goal was to develop a satellite program without relying on any foreign know-how to allow flexibility and creativity the launcher would be developed by malam the two engines by the israel military industries imi and the third by rafael
+
+
+ establishment of a space agency 
+at the end of 1982 it was decided during a closed-door meeting to establish an israeli space agency the decision was made by pm menachem begin defense minister ariel sharon and former director aharon beit halahmi the initial goal was to pursue the program to develop to ofeq and the shavit launchers in january 1983 the israeli government authorized the minister of science and technology prof yuval neeman to establish an israeli space agency with the goal of advancing israels space program unlike the ncsr which was primarily used for feasibility and infrastructure studies in july 1983 the isa was officially founded in tel aviv to coordinate the nations space program in affiliation to the ministry of science culture  sport and professor dror sadeh was nominated to be its director-general
+in 1984 the national space knowledge center was established in cooperation with israel aircraft industries a contract was signed between iai and ministry of defence for the development of the needed infrastructure and of israels first observation satellite this came to fruition in 1988 when israel launched the first in a series of ofeq satellites and thus became one of only a few nations in the world possessing an indigenous space launching capability see timeline of first orbital launches by country the project management at israel aircraft industries was headed for many years by dr moshe bar-lev
+
+
+ vision 
+the agency vision as defined by the guiding committee on july 27 2005 states
+space research and exploration is an essential instrument for the defense of life on earth the lever for technological progress the key to existing in a modern society essential for developing an economy based on knowledge and the central attraction for scientific and qualified human resources
+the vision is to preserve and broaden the comparative advantage of israel and to place it among the group of leading countries in the space research and exploration area
+the main goals for vision realization are
+
+to build and to support satellite systems for space research and for earth research from space
+to develop technologies knowledge and scientific infrastructure including laboratories and human resources required for space research
+to promote international cooperation in space research and exploration and for strengthening the national interests of israel
+to promote ties between israeli society space research and explorationisa has signed cooperation agreements with the space agencies of united states nasa france cnes canada csa india isro  italy asi  germany dlr ukraine nsau russia rka netherlands nivr and brazil aeb
+
+
+ budget 
+in 2010 the budget of the israel space agency was increased to us 80 million to boost the agencys space activities in research and development the budget does not include launch vehicle development and most satellite programs typically such programs get funded on a project-by-project basis for example project venus a cooperative program by israel isa and france cnes which is set to launch in 2014 has a 50 million budget the spaceborne hyperspectral applicative land and ocean mission shalom a joint mission by israel isa and the italy space agency asi has a budget of 116 millionthe budget allocated annually for the israeli military program as well as commercial programs are managed on different budgets
+
+
+ satellite programs 
+the israel space agency has had a long history of satellite programs both for reconnaissance and commercial purposes its first satellite the ofeq-1 was launched on september 19 1988 from palmachim airbase in israel since the launching of that first satellite israel has developed into a significant player in the commercial space arena today the isa satellite launches include
+
+ofeq – series of reconnaissance satellites the first of these was launched from the palmachim site on september 19 1988
+amos – series of communications satellites
+eros – series of observation satellites
+techsat – researching satellite launched by the technion
+techsar – a sar-based observation satellite
+
+
+ ofeq satellite series 
+
+after the successful launch of the ofeq-1 in 1988 additional satellites were developed in 1989 the isa launched the ofeq-2 in april 1995 it took a leap forward with the launch of ofeq-3 which carried an advanced electro-optical payload built by israeli industry for local purposes ofeq-3 has been functioning without a hitch following a setback with ofeq-4 ofeq-5 was successfully launched in may 2002
+to date eleven such satellites in the ofeq reconnaissance satellites series were developed and launched to low earth orbit the most recent ofek 11 was launched september 13 2016
+
+
+ amos satellite series 
+
+the amos is a series of communications satellites the amos satellites are by the israel aerospace industries and are operated by spacecom once in orbit the amos-1 the first satellite in the series was launched on may 16 1996 using a french-built vehicle since then 4 more satellites were launched the most recent amos satellite is the amos-5 which was launched on december 11 2011the amos is distinguished for its light weight and sophisticated technology the amos-6 is set to be launched in 2016 in order to replace the amos-2 which will cease operation then
+
+
+ eros satellite series 
+
+the earth resources observation satellite eros is a series of commercial observation satellites the first satellite the eros a was launched on december 5 2000 from svobodny launch complex using a russian start-1 a second satellite the eros b was launched on april 25 2006
+the eros series are set to be launched once every 6 to 8 years the eros c is set to be launched in late 2014
+
+
+ techsar satellite 
+
+the techsar satellite is a reconnaissance satellite equipped with a synthetic aperture radar the satellite is designed penetrate thick clouds by being fitted with a large dish-like antenna to transmit and receive radar signals the satellite was successfully launched on january 21 2008
+
+
+ launch capabilities 
+
+the israel space agency is one of only seven countries that both build their own satellites and launch their own launchers the shavit is a space launch vehicle capable of sending payload into low earth orbit the shavit launcher has been used to send every ofeq satellite to date
+the development of the shavit began in 1983 and its operational capabilities were proven on three successful launches of the ofek satellites on september 19 1988 april 3 1990 and april 5 1995 the shavit launchers allows low-cost and high-reliability launch of micromini satellites to a low earth orbit the shavit launcher is developed by malam factory one of four factories in the iai electronics group the factory is very experienced in development assembling testing and operating system for use in space
+the shavit is a triple-stage launcher solid propellant booster based on the 2-stage jericho-ii ballistic missile the first and second stage engines are manufactured by taas and use solid fuel the third stage engines are manufactured by rafael advanced defense systems the next generation shavit rockets now called the shavit-2 are being developed the shavit-2 is said to be made available for commercial launches in the near future
+
+
+ palmachim spaceport 
+the israel space agency operates the spaceport located in palmachim air force base
+due to israels geographic location and hostile relations with surrounding countries launches take off due west over the mediterranean sea this is done in order to avoid flying over hostile territories this is also to prevent possible debris from falling above populated areas this limitation imposes a penalty of roughly 30% on its lifting capabilities
+some of the recent isa launches include
+
+june 11 2007 – ofeq 7 satellite
+june 22 2010 – ofeq 9 satellite
+april 10 2014 – ofeq 10 satellitea number of additional launches are set for mid to late 2014 and 2015
+
+
+ space research 
+the isa is responsible for funding a large set of university research projects and governmental projects the goal is to boost space related research and development in the academic arena the israel space agency strives to promote space research and space technology development as a part of the effort to promote the israeli scientific research
+
+
+ national knowledge center on neos 
+
+the isa and the ministry of science and technology formed and operated the national knowledge center on near earth objects at tel aviv university in order to study minor bodies in the solar system the goal is to map the objects which pose a threat to earth and to find a solution to eliminate them
+this center is headed by dr noah brosch from tel aviv university and operates the three telescopes of the wise observatory for the purpose of neo studies a special wide-field 0.46-m telescope was acquired by tel aviv university and is operating at the wise observatory located near mitzpe ramon the telescope facilitated the discovery of several tens of new asteroids and is now intensely used to study asteroid rotation and asteroid pair properties following the cessation of funding from isa the asteroid studies are continuing at the wise observatory with no specific financial support
+
+
+ israel cosmic ray center 
+the israel cosmic ray center icrc was established in november 1997 with support from the israel space agency and with affiliation to tel aviv university and the technion the center is located on mount hermon and headed by dr gideon bela and prof lev dorman from the tel aviv universitythe goal of the center is to monitor and forecast dangerous meteorological and space phenomena this includes solar radiation storms and shockwaves between very powerful stars creating magnetic storms these phenomena can endanger electronic systems in satellites and space shuttles the astronauts health electronic and navigational systems in aircraft flying in extremely high altitudes and ground power systems
+the emilio segre observatory esoi is a cosmic radiation observatory prepared via a joint collaboration with italy it was transported to mount hermon israel in june 1998 the observatory was named after the italian physicist and nobel laureate emilio g segrè
+
+
+ eosdis isa-meida 
+the israel space agency - middle east interactive data archive isa-meida is an israeli node for nasas eosdis earth observing system data and information system the node was established in october 1996 as a part of the cooperation agreement between the director of nasa and the director of isa it is the only team in the country which focuses on collecting and preserving environmental information in israel the isa-meida was established in order to create and maintain an earth observing data center available through the internet to the research community and to the general public free of chargethis research headed by prof pinhas alpert is funded by the isa as a part of the space scientific and technological infrastructure development program the node is integrated with nasas global information system which includes earth observing science data and information system it also contains remote sensing data from nasa and noaa satellites and data from other sources such as meteorological radar and readings from meteorological stations information collected by the system is critical for environmental and water related research especially in light of the drastic global environmental changes and global warming
+
+
+ tel aviv university ultraviolet explorer 
+
+the tel aviv university ultraviolet explorer tauvex is a space telescope array conceived by noah brosch of tel aviv university it was eventually designed and constructed for the university by el-op tauvex is a cluster of three bore-sighted  20-cm telescopes for observation in the ultra-violet funded by the israel space agency it was due to be launched by india on board the isro satellite gsat-4 satellite but due to a mis-match between the capabilities of the launched and the mass of the satellite isro decided unilaterally to remove tauvex from gsat-4 the telescope ended up in a limbo of constant delays in 2012 isa decided to terminate the tauvex project
+
+
+ techsat-gurwin microsatellite 
+
+the gurwin techsat was one of the worlds first microsatellite to be designed built and launched by students the satellite developed by the technion was launched on july 10 1998 the satellite was a great success operating for over 11 years - setting a world record for the longest university satellite mission the mission was completed in april 2010
+
+
+ sloshsat-flevo 
+
+the sloshsat-flevo was a satellite launched for the study of liquid sloshing phenomena in space the satellite was developed in collaboration between the dutch nlr labs fokker space and rafael the satellite is helped by the israel space agency and the european space agency esa the israel space agency initiated the project and partly funded it by supplying the sub-propulsion systemthe propulsion system funded by the isa is fueled by cold gas and is constructed of four high-pressure canisters with pyrotechnic activation the system can produce both linear acceleration and torque needed to perform slosh research it is specifically designed to overcome the severe volume constraints encountered in typical satellites
+
+
+ ongoing development 
+the israel space agency is currently involved with multiple satellites space telescopes and microsatellites
+
+
+ venμs 
+
+the vegetation and environment monitoring on a new micro-satellite venμs is a satellite to be used for earth observation using a superspectral sensor dedicated to vegetation monitoring it is the first cooperation between israel isa and france cnes venμs scientific objective is the provision of data for scientific studies dealing with the monitoring analysis and modeling of land surface functioning under the influences of environmental factors as well as human activitiesthe israel space agency is responsible for the spacecraft the launcher interface and for the satellite control center the centre national détudes spatiales is responsible for supplying the superspectral camera and the science mission center the satellite is set to launch in mid 2017
+
+
+ opsat 
+opsat is a next generation high resolution optical observation satellite for reconnaissance purposes it is designed to be a 300 kilograms 660 lb satellite capable of detecting objects of about 50 centimeters in diameter it will be equipped with a camera with ccdtdi sensors producing both panchromatic imagery at a very high resolution and multispectral imagery at a medium resolution the satellite is set to orbit in a sun-synchronous orbit it is expected to have a lifespan of roughly 10 years
+
+
+ ultrasat 
+the ultrasat satellite previously known as limsat-uv is a wide field 1000 deg2 transient explorer satellite mission ultrasat is planned to have eight telescopes equipped with ccd cameras and reflective filters it is set to have a sensitivity 10 times lower than galex but a field of view more than 1000 times larger it is also planned to have a detection rate for transient in the uv of more than 30 times greater than that of galex the ultrasat  is planned to be developed in just 3–4 years and at a cost of a few tens of millions of dollars instead of a few hundreds of millions ultrasat will observe a large patch of sky more than 200 square degrees alternating every six months between the southern and northern hemisphere the satellite will orbit the earth from an altitude of about 300 km above the geosynchronous orbit getting a ‘ride’ as a secondary payload in the fairing of the rocket carrying a communications satellite  a joint american-israeli proposal for this project was submitted to nasa by a team from caltechjpl jet propulsion laboratory the weizmann institute of science and israel aerospace industries iai the israeli contribution will be funded by the israel space agency and launch is expected before 2021
+
+
+ insat-1   insat-2 
+the insat-1 and the insat-2 are two nano-satellites currently being planned and developed by the israeli nano satellite association their purpose is to test new industrial components under real outer-space conditions before being installed on satellites costing tens and hundreds of millions of dollars
+the insat-1 is set to carry a miniature atomic clock and a gps receiver
+
+
+ shalom project 
+
+the shalom project spaceborne hyperspectral applicative land and ocean mission is a joint project with the italian space agency asi announced on november 23 2010 the project involves the design and development of two hyperspectral earth observation satellites they are set to follow the same orbit as the cosmo skymed it will integrate radar observations with observations in the visible infrared and ultraviolet in october 2015 a memorandum of understanding was signed and the system is slated to become fully operational in 2021 the project is expected to cost over 200 million with the cost being split evenly between the two countries
+
+
+ samson 
+space autonomous mission of swarming  geolocating nano-satellites samson is a project initiated by the technions asher space research institute samson consists of three nano-satellites in formation flying to demonstrate high precision geo-location of civilian signals from the ground for rescue purposes samson is planned to implement and demonstrate technion-developed formation-flying algorithms using the nano-satellites propulsion system this is a student project with technical help from multiple partners in the industry such as rafael
+
+
+ matroshka astrorad radiation experiment 
+
+the matroshka astrorad radiation experiment mare is a collaboration between isa nasa and the german aerospace center dlr in conjunction with industry partners lockheed martin and stemrad mare will take place aboard the orion spacecraft scheduled to take off from kennedy space center in june 2020 during nasas  exploration mission 1 the radiation environment beyond earths protective atmosphere is a significant impedance facing the future of human space travel the astrorad is wearable protection solution which provides mobile shielding from high energy radiation mare offers a unique opportunity to measure tissue dose deposition and test the effectiveness of the astrorad radiation vest when exposed to the harsh radiation environment beyond low earth orbit the crew compartment of the unmanned em-1 orion spacecraft will include two female anthropomorphic phantoms which will be exposed to the intense radiation environment along the em-1s lunar orbit one phantom will be shielded with the astrorad and the other will be left unprotected the phantoms designed by dlr allow for precise measurement of radiation exposure not only at the surface of the body but also at the exact location of sensitive organs and tissues
+
+
+ manned programs 
+while the isa has not yet made a human spaceflight of its own since the mid-90s there has been a cooperation agreement between the israel space agency and nasa which has resulted in one israeli astronaut on a nasa mission to date
+
+
+ ilan ramon 
+
+ilan ramon was israels first astronaut ramon was the space shuttle payload specialist on board the fatal sts-107 mission of space shuttle columbia in which he and the six other crew members were killed in a re-entry accident over southern texas ramon had been selected as a payload specialist in 1997 and trained at the johnson space center houston texas from 1998 until 2003 for a mission with a payload that included a multispectral camera for recording desert aerosol dust
+
+
+ ilan ramon international annual space conference 
+the ilan ramon annual international space conference is a living tribute to israels first astronaut the late colonel ilan ramon the fisher brothers institute for air  space strategic studies has been holding the annual conference since 2006 the conference is designed to bring together the israels space community and international peers over the years the conference has been drawing distinguished scientists head of space agencies and global prominent figures
+
+
+ experiments via nasa shuttles 
+the isa has conducted a number of experiments both manned and unmanned in collaboration with nasa using the space shuttle in october 1996 nasa and isa signed an agreement for joint cooperation in the peaceful use of space - an agreement designed to develop cooperative programs of mutual interest between the two nations
+
+
+ israeli space agency investigation about hornets 
+
+the israeli space agency investigation about hornets isaiah was project form tel aviv university that was initiated in the early 1990s to explorer the effects of near-zero gravity on oriental hornets their physical and physiological development and their nest-building instincts the flight hardware and measuring instruments were commissioned by the isa and built by isi the hope of the mission was to discover ways to prevent astronauts from suffering headaches nausea and vomiting during the missionsin 1992 230 oriental hornets a flight hardware and measuring instruments were packed onto the space shuttle endeavour mission sts-47 the oriental hornets used in the experiment were capable of building combs in the direction of the gravitational vector and detecting gravitational force changes in real time
+
+
+ early development of embryos in microgravity 
+the early development of mice embryos in microgravity was a hebrew university experiment designed to determine if mice embryo cells could develop normally in microgravity conditions in space the outcome of the experiment was expected to help the understanding of early embryo cell development which would provide an insight into the possibilities of human reproduction in space the payload was launched in 1996 on board space shuttle columbia mission sts-80on the same mission a second experiment investigating the growth of osteoblast cells in microgravity environment was also conducted during sts-80 osteoblast cultures were grown in microgravity using specialized hardware the space-grown osteoblastic cells were then compared with the earth-grown osteoblastic cells the research revealed numerous changes between the two cells the microgravity cells showed lower proliferation rate a lower metabolism and an altered cell structurea continuation from the osteoblast cells experiment was later expanded upon by astronaut john glenn on board space shuttle discovery sts-95 the tests included the thinning effect of space on mouse bones additionally the process of calcium loss in the mouse bone was later compared to what happened in glenns body and effectiveness of a calcium-vitamin d supplement against osteoporosis
+
+
+ meidex 
+
+the 2003 mediterranean israeli dust experiment meidex was a dust experiment initiated by the isa the experiment was planned by a team from the department of geophysics and planetary sciences in tel aviv university the objective was to study the temporal and spatial distribution and physical properties of atmospheric desert dust over north africa the mediterranean and the atlantic saharan regions the aim was achieved by a remote sensing experiment operated by the astronaut ilan ramon aboard the space shuttle columbia
+
+
+ moon mission 
+the israeli space agency has sponsored the first israeli effort to land a spacecraft on the moon additionally the isa has been collaborating with nasa about future lunar research programs
+
+
+ israel network for lunar science and exploration 
+the israel network for lunar science and exploration inlse program was established by the israeli space agency part of an international effort to study the moon and the solar system in january 2010 a joint declaration by nasa and israel space agency was signed making israel a member of the nasa center for moon research and promote cooperation between the two agencies the inlse hopes to bring its technical and engineering expertise for the sake of advancing the broad goals of lunar science at the institute the agreement offers nasa important research involving lasers the development of advanced sensors for solar system research tasks and automatic vehicle navigation
+
+
+ spaceil 
+
+the spaceil is a non-governmental organization made up of multidisciplinary team of israeli scientists and space aficionados the organization was formed to compete in the international google lunar x prize competition
+the spaceil team is developing a robotic spacecraft built as a microsatellite weighing around 500 kg it is designed to be launched and then land on the moon bearing the israeli flag to win they must be the first to launch fly and land the spacecraft on the moon then transmit live video feed back to earth if the team wins they intend on donating the prize about 30 million toward space education
+
+
+ commercial and industry involvement 
+the israel space agency israeli industry and the academy are all heavily involved in all the different stages of planning development construction launching and operating of space programs
+the main contractors of the ofeq and eros space programs is the  iai mabat factory in yehud the mabat facility is responsible for the experiment and integration center the ground monitoring and the control stations and the remote satellites receiving stations many of the high-tech companies are involved in the various space programs in israel and in manufacturing sub-systems and components
+the tauvex was spun off as david a small telescope with a resolution of about five meters it is currently being developed jointly by an israeli hi-tech firm and a german firm many smaller university related commercial products are being developed across the state
+
+
+ industrial groups 
+in addition to university research a number of large industrial groups are heavily involved with the israel space agency
+
+
+ iai 
+the israel aerospace industries iai is israels prime aerospace and aviation manufacturer producing aerial systems for both military and civilian usage iai entered the space race in the 90s and has since been  responsible for the development of most israels civilian and military satellites particularly the amos and ofeq
+
+
+ elbit systems 
+el-op which merged with elbit systems in 2000 is the countrys largest research and development company for space qualified cameras and advanced telescopes that deal with various panchromatic dual band multi and super spectral wavelength applications it is israels center of excellence for space electro-optics
+
+
+ rafael advanced defense systems 
+rafael advanced defense systems is the israeli authority for development of weapons and military technology they are responsible for most the isas spacecraft propulsion systems
+
+
+ see also 
+
+list of government space agencies
+national committee for space research
+science technology and space minister of israel
+economy of israel
+list of multinationals with research and development centres in israel
+list of space agencies
+science and technology in asia
+
+
+ references 
+
+
+ external links 
+isa home page
+official website of the israeli ministry of science technology and space
+israel space agency on facebook
+israel space agencys channel on youtube
+isa-meida nasa node

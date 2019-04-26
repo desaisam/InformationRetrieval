@@ -1,0 +1,162 @@
+this is a list of crewed spacecraft types including space stations sorted by status in chronological order 
+
+
+ comparison 
+
+
+ current crewed spacecraft 
+
+
+ soyuz 1967–present 
+russian - three person earth orbital spacecraft early versions were operated by the soviet union and later versions by russia after 1991 as of december 2018 soyuz has made 139 crewed spaceflights including two emergency sub-orbital flights soyuz 18a and soyuz ms-10 there have been 2 accidental spacecraft losses resulting in the deaths of four cosmonauts soyuz 1 and soyuz 11 soyuz is the only spacecraft to have successfully saved the lives of a crew using the rocket launch escape system when in 1983 soyuz t-10-1 exploded on the launchpad this spacecraft type has flown into space more times than any other spacecraft including the space shuttle
+
+
+ shenzhou 2003–present 
+chinese three person earth orbital spacecraft 6 flights as of april 2018 shenzhou is chinas first crewed spacecraft on 13 october 2003 yang liwei was carried into space by shenzhou 5 becoming chinas first taikonaut
+
+
+ spaceshiptwo 2018-present 
+united states 8 person air-launched suborbital space plane operated by virgin galactic aimed at the space tourism market on 31 october 2014 during a test flight vss enterprise the first spaceshiptwo craft broke up in flight and crashed in the mojave desert one pilot was killed the second spaceshiptwo spacecraft vss unity was unveiled on 19 february 2016 on 13 december 2018 spaceshiptwo flew to an alttude of 82.7 km which is recognised as space by the faa nasa and the usaf although not the fai this was the first time an american spacecraft had sent astronauts to space since the final shuttle flight in 2011
+vss unity flew to space again on 22 february 2019 to an apogee of 89.9 km 55.97 miles onboard was astronaut dave mackay michael masucci and beth moses this again met the united states definition of space though not the fais despite this because it is a us spaceflight launched from the united states to its definition of space it is indeed a spaceflight
+
+
+ current space stations 
+
+
+ international space station 2000–present 
+multinational low earth orbit modular space station the international space station is a joint project among five participating space agencies nasa roscosmos jaxa esa and csa uncrewed initial assembly 1998-2000 continuously crewed since november 2000 as of december 2018 iss has been visited by 93 crewed spacecraft 58 soyuz and 35 space shuttle the iss is the largest space station yet constructed planned to operate until 2024 with a possible extension to 2028
+
+
+ tiangong 2 2016–present 
+chinese low earth orbit space station chinas second space station visited by one crew in 2016 currently unoccupied  not expected to receive further crews as china is scheduled to begin construction of a new modular space station in 2020
+
+
+ former crewed spacecraft 
+
+
+ vostok 1961–1963 
+soviet single-person earth orbital spacecraft 6 flights on april 12 1961 vostok 1 carried the first human into space cosmonaut yuri gagarin  on 16 june 1963 vostok 6 carried the first woman into space cosmonaut valentina tereshkova
+
+
+ mercury 1961–1963 
+
+united states single-person earth orbital spacecraft 6 flights including 2 sub-orbital mercury was the united states first crewed spacecraft on 5 may 1961 mercury-redstone 3 carried the first american alan shepard into space on a sub-orbital flight on 20 february 1962 mercury-atlas 6 carried the first american john glenn into earth orbit
+
+
+ x-15 1962-1968 
+united states single seat air-launched spaceplane two x-15 flights above the 100 km kármán line occurred in 1963 an additional 11 flights between 1962 and 1968 reached altitudes between 80–100 km which were recognised as spaceflights by us authorities
+
+
+ voskhod 1964–1965 
+soviet three person vostok derivative 2 flights  on 18 march 1965 alexey leonov performed the first spacewalk in history from voskhod 2 - which was also the first multi-crew mission
+
+
+ gemini 1965–1966 
+united states two person earth orbital spacecraft 10 flights on 3 june 1965 ed white made americas first spacewalk from gemini 4
+
+
+ apollo 1968-1975 
+united states three person lunar capable spacecraft 15 flights including 9 lunar missions with 6 lunar landings it was the apollo spacecraft that enabled america to win the space race in december 1968 apollo 8 was the first crewed spacecraft to orbit the moon on 21 july 1969 neil armstrong commander of apollo 11 became the first human being to walk on the moon the apollo spacecraft comprised
+1 commandservice module 1968–1975 3 person earth and lunar orbital craft
+2 lunar module 1969–1972 2 person lunar lander
+
+
+ space shuttle 1981–2011 
+united states eight person earth orbital spacecraft first orbit-capable spaceplane first partially reusable orbital spacecraft 135 flights were made in 5 shuttles columbia challenger discovery atlantis and endeavour of which 2 challenger and columbia were accidentally destroyed resulting in the deaths of 14 astronauts during missions sts-51-l and sts-107
+
+
+ spaceshipone 2004 
+united states single seat air-launched spaceplane three flights above the kármán line occurred in 2004
+
+
+ former space stations 
+
+
+ salyut series 1971–1991 
+sovietrussian low earth orbit space stations salyut 1 1971 salyut 4 1974-1977 salyut 6 1977-1982 and salyut 7 1982-1991 all now de-orbited
+
+
+ skylab 1973–1974 
+united states low earth orbit space station first united states space station three crews de-orbited 1979
+
+
+ almaz series 1973–1977 
+soviet military reconnaissance low earth orbit space stations badged as salyut 3 1974-1975 and salyut 5 1976-1977 as disinformation both now de-orbited
+
+
+ mir 1986–2000 
+sovietrussian low earth orbit modular space station the first modular space station in history 28 crews mir was visited by 29 soyuz and 7 space shuttle missions de-orbited 2001
+
+
+ tiangong 1 2011–2012 
+chinese low earth orbit space station chinas first space station 2 crews de-orbited 2018
+
+
+ crewed spacecraft in development 
+
+
+ blue origins new shepard 
+united states six person capsule mounted on a reusable vertical launch sub-orbital rocket aimed at the space tourism market as of january 2019 there have been 10 successful uncrewed flights since 2015 with 8 successful rocket booster landings first crewed test-flight expected in 2019
+
+
+ spacexs dragon v2 
+united states seven person earth orbital spacecraft designed to transport astronauts to the international space station under the nasa commercial crew contract dragon v2 is capable of operating beyond earth orbit first crewed flight planned for 2019
+
+
+ boeings cst-100 starliner 
+united states seven person earth orbital spacecraft designed to transport astronauts to the international space station under the nasa commercial crew contract - first crewed flight likely in 2019
+
+
+ spacexs starship 
+starship is a united states 100 person beyond earth orbit craft launched on the reusable super heavy booster the starship is primarily designed to enable crewed missions to mars but could in theory land on any rocky body in the solar system except venus elon musk ceo of spacex has stated that test flights are expected to begin in 2019
+
+
+ nasas orion 
+united states four person beyond earth orbit spacecraft the first crewed flight exploration mission 2 is planned to be launched for lunar orbit on the space launch system in 2022
+
+
+ sierra nevadas dream chaser 
+united states seven person earth orbital space plane uncrewed cargo version scheduled to fly in 2020 - a crewed version could subsequently be developed
+
+
+ crewed spacecraft - planned 
+chinese reusable lift-body launcher - china plans to launch its reusable spaceplane in 2020 according to a statement from china aerospace science and technology corporation
+chinese winged rocket - the plane may one day fly up passengers to the edge of space two versions one should be able to fly five people to an altitude of 100 kilometres other - could fly 20 people to 130 kilometres payload launches in 2020
+rssc - a russian reusable sub-orbital space complex currently being developed by a private company kosmokurs first flight planned for 2021
+federatsiya - a russian four person lunar capable spacecraft first crewed flight planned for 2024
+gaganyaan - indian three person earth orbital spacecraft intented to be the first spacecraft under indian human spaceflight programme gaganyaan is capable of operating at low earth orbit for 7 days the upgraded version will be equipped with rendezvous and docking capabilities first crewed flight planned in 2022
+japanese sub-orbital rocket plane currently being developed by pd aerospace first flight planned for 2020 and fully operational by 2023
+skylon - a uk unpiloted reusable space plane with possible passenger module engine in development
+thunderstar - a 12-metre manned rocket for one person
+
+
+ space stations in development 
+
+chinese large modular space station css - scheduled to start with the launch of the tianhe-1 module in 2020 and to be completed by 2022
+bigelow commercial space station or space complex alpha proposed private space habitat scheduled for 2020 initial deployment a bigelow test module is currently installed on the international space station
+lunar orbital platform-gateway formally the deep space gateway - nasa proposed international crewed space station orbiting the moon to be assembled by orion missions between 2023-2027
+opsek proposed russian successor to the international space station
+lunar orbital station a proposed russian lunar orbiting space station
+
+
+ see also 
+
+lists of spacecraft
+comparison of crewed space vehicles
+human spaceflight
+list of human spaceflight programs
+list of human spaceflights
+list of spaceflight records
+manned mars rover
+mars to stay
+newspace
+space medicine
+tourism on the moon
+women in space
+
+
+ references 
+
+
+ sources 
+gatland kenneth 1976 manned spacecraft 2nd ed new york city macmillan publishing co inc isbn 0-02-542820-9

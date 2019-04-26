@@ -1,0 +1,83 @@
+charon also known as 134340 pluto i is the largest of the five known natural satellites of the dwarf planet pluto it has a mean radius of 606 km it was discovered in 1978 at the united states naval observatory in washington dc using photographic plates taken at the united states naval observatory flagstaff station nofs
+with half the diameter and one eighth the mass of pluto charon is a very large moon in comparison to its parent body its gravitational influence is such that the barycenter of the plutonian system lies outside pluto
+the reddish-brown cap of the north pole of charon is composed of tholins organic macromolecules that may be essential ingredients of life  these tholins were produced from methane nitrogen and related gases released from the atmosphere of pluto and transferred over 19,000 km 12,000 mi to the orbiting moonthe new horizons spacecraft is the only probe that has visited the pluto system it approached charon to within 27,000 km 17,000 mi in 2015
+
+
+ discovery 
+
+charon was discovered by united states naval observatory astronomer james christy using the 1.55-meter 61 in telescope at united states naval observatory flagstaff station nofs on june 22 1978 he had been examining highly magnified images of pluto on photographic plates taken with the telescope two months prior christy noticed that a slight elongation appeared periodically the bulge was confirmed on plates dating back to april 29 1965 the international astronomical union formally announced christys discovery to the world on july 7 1978subsequent observations of pluto determined that the bulge was due to a smaller accompanying body the periodicity of the bulge corresponded to plutos rotation period which was previously known from plutos light curve this indicated a synchronous orbit which strongly suggested that the bulge effect was real and not spurious this resulted in reassessments of plutos size mass and other physical characteristics because the calculated mass and albedo of the pluto–charon system had previously been attributed to pluto alone
+doubts about charons existence were erased when it and pluto entered a five-year period of mutual eclipses and transits between 1985 and 1990 this occurs when the pluto–charon orbital plane is edge-on as seen from earth which only happens at two intervals in plutos 248-year orbital period it was fortuitous that one of these intervals happened to occur soon after charons discovery
+
+
+ name 
+
+author edmond hamilton referred to three moons of pluto in his 1940 science fiction novel calling captain future naming them charon styx and cerberusafter its discovery charon was originally known by the temporary designation s1978 p 1 according to the then recently instituted convention on june 24 1978 christy first suggested the name charon as a scientific-sounding version of his wife charlenes nickname char although colleagues at the naval observatory proposed persephone christy stuck with charon after discovering that it coincidentally refers to a greek mythological figure charon  or  greek χάρων is the ferryman of the dead closely associated in myth with the god hades whom the romans identified with their god pluto the iau officially adopted the name in late 1985 and it was announced on january 3 1986there is minor debate over the preferred pronunciation of the name the practice of following the classical pronunciation established for the mythological ferryman charon ipa ˈkɛrən is used by major english-language dictionaries such as the merriam-webster and oxford english dictionary these indicate only one pronunciation of charon when referring specifically to plutos moon with an initial k sound speakers of many languages other than english and many english-speaking astronomers as well follow this pronunciationhowever christy himself pronounced the ch as sh ipa ʃ after his wife charlene because of this as an acknowledgement of christy and sometimes as an in-joke or shibboleth the initial sh pronunciation is common among astronomers when speaking english and this is the prescribed pronunciation at nasa and of the new horizons team
+
+
+ formation 
+simulation work published in 2005 by robin canup suggested that charon could have been formed by a collision around 4.5 billion years ago much like earth and the moon in this model a large kuiper belt object struck pluto at high velocity destroying itself and blasting off much of plutos outer mantle and charon coalesced from the debris however such an impact should result in an icier charon and rockier pluto than scientists have found it is now thought that pluto and charon might have been two bodies that collided before going into orbit about each other the collision would have been violent enough to boil off volatile ices like methane ch4 but not violent enough to have destroyed either body the very similar density of pluto and charon implies that the parent bodies were not fully differentiated when the impact occurred
+
+
+ orbit 
+
+charon and pluto orbit each other every 6.387 days the two objects are gravitationally locked to one another so each keeps the same face towards the other this is a case of mutual tidal locking as compared to that of the earth and the moon where the moon always shows the same face to earth but not vice versa the average distance between charon and pluto is 19,570 kilometres 12,160 mi the discovery of charon allowed astronomers to calculate accurately the mass of the plutonian system and mutual occultations revealed their sizes however neither indicated the two bodies individual masses which could only be estimated until the discovery of plutos outer moons in late 2005 details in the orbits of the outer moons revealed that charon has approximately 12% of the mass of pluto
+
+
+ physical characteristics 
+
+charons diameter is 1,212 kilometres 753 mi just over half that of pluto and larger than the dwarf planet ceres and the twelfth largest natural satellite in the solar system charon is sufficiently massive to have collapsed into a spheroid under its own gravity charons slow rotation means that there is almost no flattening its equatorial and polar radii differ by less than 1
+
+
+ interior 
+
+charons volume and mass allow calculation of its density 1.702±0.017 gcm3 from which it can be determined that charon is slightly less dense than pluto and suggesting a composition of 55% rock to 45% ice ± 5 whereas pluto is about 70% rock the difference is considerably lower than that of most suspected collisional satellites before new horizons flyby there were two conflicting theories about charons internal structure some scientists thought charon to be a differentiated body like pluto with a rocky core and an icy mantle whereas others thought it would be uniform throughout evidence in support of the former position was found in 2007 when observations by the gemini observatory of patches of ammonia hydrates and water crystals on the surface of charon suggested the presence of active cryogeysers the fact that the ice was still in crystalline form suggested it had been deposited recently because solar radiation would have degraded it to an amorphous state after roughly thirty thousand years
+
+
+ surface 
+
+unlike plutos surface which is composed of nitrogen and methane ices charons surface appears to be dominated by the less volatile water ice in 2007 observations by the gemini observatory of patches of ammonia hydrates and water crystals on the surface of charon suggested the presence of active cryogeysers and cryovolcanoesphotometric mapping of charons surface shows a latitudinal trend in albedo with a bright equatorial band and darker poles the north polar region is dominated by a very large dark area informally dubbed mordor by the new horizons team the favored explanation for this phenomenon is that they are formed by condensation of gases that escaped from plutos atmosphere in winter the temperature is −258 °c and these gases which include nitrogen carbon monoxide and methane condense into their solid forms when these ices are subjected to solar radiation they chemically react to form various reddish tholins later when the area is again heated by the sun as charons seasons change the temperature at the pole rises to −213 °c resulting in the volatiles sublimating and escaping charon leaving only the tholins behind over millions of years the residual tholin builds up thick layers obscuring the icy crust in addition to mordor new horizons found evidence of extensive past geology that suggests that charon is probably differentiated in particular the southern hemisphere has fewer craters than the northern and is considerably less rugged suggesting that a massive resurfacing event—perhaps prompted by the partial or complete freezing of an internal ocean—occurred at some point in the past and removed many of the earlier cratersin 2018the international astronomical union named one crater on charon as  revati who is a character in the hindu epic mahabharatacharon has a series of extensive grabens or canyons such as serenity chasma which extend as an equatorial belt for at least 1000 km argo chasma potentially reaches as deep as 9 km with steep cliffs that may rival verona rupes on miranda for the title of tallest cliff in the solar system
+
+
+ mountain in a moat 
+
+in a released photo by new horizons an unusual surface feature has captivated and baffled the scientist team of the mission the image reveals a mountain rising out of a depression its a large mountain sitting in a moat said jeff moore of nasa’s ames research center in a statement this is a feature that has geologists stunned and stumped he added new horizons captured the photo from a distance of 49,000 miles 79,000 km
+
+
+ observation and exploration 
+since the first blurred images of the moon 1 images showing pluto and charon resolved into separate disks were taken for the first time by the hubble space telescope in the 1990s 2 the telescope was responsible for the best yet low quality images of the moon in 1994 the clearest picture of the pluto-charon system showed two distinct and well defined circles 3 the image was taken by hubbles faint object camera foc when the system was 2.6 billion miles 4.4 billion kilometers away from earth later the development of adaptive optics made it possible to resolve pluto and charon into separate disks using ground-based telescopesin june 2015 the new horizons spacecraft captured consecutive images of the pluto–charon system as it approached it the images were put together in an animation it was the best image of charon to that date 4 in july 2015 the new horizons spacecraft made its closest approach to the pluto system it is the only spacecraft to date to have visited and studied charon  charons discoverer james christy and the children of clyde tombaugh were guests at the johns hopkins applied physics laboratory during the new horizons closest approach
+
+
+ classification 
+the center of mass barycenter of the pluto–charon system lies outside either body because neither object truly orbits the other and charon has 12.2% the mass of pluto it has been argued that charon should be considered to be part of a binary system with pluto the international astronomical union iau states that charon is considered to be just a satellite of pluto but the idea that charon might be classified a dwarf planet in its own right may be considered at a later datein a draft proposal for the 2006 redefinition of the term the iau proposed that a planet be defined as a body that orbits the sun that is large enough for gravitational forces to render the object nearly spherical under this proposal charon would have been classified as a planet because the draft explicitly defined a planetary satellite as one in which the barycenter lies within the major body in the final definition pluto was reclassified as a dwarf planet but the formal definition of a planetary satellite was not decided upon charon is not in the list of dwarf planets currently recognized by the iau had the draft proposal been accepted even the moon would be classified as a planet in billions of years when the tidal acceleration that is gradually moving the moon away from earth takes it far enough away that the center of mass of the system no longer lies within earththe other moons of pluto nix hydra kerberos and styx orbit the same barycenter but they are not large enough to be spherical and they are simply considered to be satellites of pluto or of pluto–charon
+
+
+ gallery 
+
+
+ videos 
+
+
+ see also 
+
+list of natural satellites
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+charon profile at nasas solar system exploration site
+christy j w harrington r s 1978 the satellite of pluto astronomical journal 83 1005 bibcode1978aj83.1005c doi10.1086/112284
+hubble reveals new map of pluto bbc news september 12 2005
+person m j elliot j l gulbis a a s pasachoff j m babcock b a souza s p gangestad j 2006 charons radius and density from the combined data sets of the 2005 july 11 occultation the astronomical journal 132 4 1575–1580 arxivastro-ph0602082 bibcode2006aj132.1575p doi10.1086/507330
+cryovolcanism on charon and other kuiper belt objects
+new horizons camera spots pluto’s largest moon – july 10 2013
+new horizons in the phsf clean room at ksc nov 4 2005
+40th anniversary nasa video describing the discovery and naming of charon 22 june 2018
+nasa cgi video of charon flyover 14 july 2017
+cgi video simulation of rotating charon by seán doran see album for more
+google charon 3d interactive map of the moon
+2016 lunar  planetary science conference by national institute of aerospace

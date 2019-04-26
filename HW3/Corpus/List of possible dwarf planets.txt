@@ -1,0 +1,55 @@
+it has been estimated that there may be 200 dwarf planets in the kuiper belt of the outer solar system and possibly more than 10,000 in the region beyond the international astronomical union iau has accepted five dwarf planets ceres in the inner solar system and four in the trans-neptunian region  pluto eris haumea and makemake
+
+
+ iau naming procedures 
+
+in 2008 the iau modified its naming procedures such that objects considered most likely to be dwarf planets receive differing treatment than others objects that have an absolute magnitude h less than 1 and hence a minimum diameter of 838 kilometres 521 mi if the albedo is below 100 are overseen by two naming committees one for minor planets and one for planets once named the objects are declared to be dwarf planets makemake and haumea are the only objects to have proceeded through the naming process as presumed dwarf planets currently there are no other bodies that meet this criterion all other bodies are named by the minor-planet naming committee alone and the iau has not stated how or if they will be accepted as dwarf planets
+
+
+ limiting values 
+
+the qualifying feature of a dwarf planet is that it has sufficient mass for its self-gravity to overcome rigid-body forces so that it assumes a hydrostatic equilibrium nearly round shape current observations are generally insufficient for a direct determination as to whether a body meets this definition also a dwarf planet may not be the satellite of another body even though several moons such as titan are larger than the recognized dwarf planets
+based on a comparison with the icy moons that have been visited by spacecraft such as mimas round at 400 km in diameter and proteus irregular at 410–440 km in diameter michael brown estimated that an icy body relaxes into hydrostatic equilibrium at a diameter somewhere between 200 and 400 kmceres is thought to be the only dwarf planet in the asteroid belt 4 vesta the second-most-massive asteroid appears to have a fully differentiated interior and was therefore in equilibrium at some point in its history but it is not today the third-most massive object 2 pallas has a somewhat irregular surface and is thought to have only a partially differentiated interior brown has estimated that because rocky objects are more rigid than icy objects rocky objects below 900 kilometres 560 mi in diameter may not be in hydrostatic equilibrium and thus not dwarf planetsafter brown and tancredi made their calculations it was discovered that iapetus 1,470 km in diameter and the smaller moons of saturn down to mimas with well-determined shapes are not in hydrostatic equilibrium as had been thought they have a hydrostatic shape that froze in some time ago and that does not match the shape an equilibrium body would have at their current rotation rates ceres at 950 km is the smallest body for which detailed measurements are consistent with hydrostatic equilibrium it is not clear whether trans-neptunian objects would behave more like ceres or iapetus thus some or all trans-neptunian dwarf planets smaller than pluto and eris might not actually be in equilibrium the iau has not addressed the issue since these findings
+
+
+ tancredis assessment 
+in 2010 gonzalo tancredi presented a report to the iau evaluating a list of 46 candidates for dwarf planet status based on light-curve-amplitude analysis and the assumption that the object was more than 450 kilometres 280 mi in diameter some diameters are measured some are best-fit estimates and others use an assumed albedo of 0.10 of these he identified 15 as dwarf planets by his criteria including the four accepted by the iau with another nine being considered possible to be cautious he advised the iau to officially accept as dwarf planets the top three not yet accepted sedna orcus and quaoar although the iau had anticipated tancredis recommendations as of 2013 they have not responded
+
+
+ browns assessment 
+
+mike brown considers a large number of trans-neptunian bodies ranked by estimated size to be probably dwarf planets he did not consider asteroids stating in the asteroid belt ceres with a diameter of 900 km is the only object large enough to be roundthe terms for varying degrees of likelihood he split these into
+
+near certainty diameter estimatedmeasured to be over 900 kilometres 560 mi sufficient confidence to say these must be in hydrostatic equilibrium even if predominantly rocky
+highly likely diameter estimatedmeasured to be over 600 kilometres 370 mi the size would have to be grossly in error or they would have to be primarily rocky to not be dwarf planets
+likely diameter estimatedmeasured to be over 500 kilometres 310 mi uncertainties in measurement mean that some of these will be significantly smaller and thus doubtful
+probably diameter estimatedmeasured to be over 400 kilometres 250 mi expected to be dwarf planets if they are icy and that figure is correct
+possibly diameter estimatedmeasured to be over 200 kilometres 120 mi icy moons transition from a round to irregular shape in the 200–400 km range suggesting that the same figure holds true for kbos thus some of these objects could be dwarf planets
+probably not diameter estimatedmeasured to be under 200 km no icy moon under 200 km is round suggesting that the same is true for kbos the estimated size of these objects would have to be in error for them to be dwarf planets
+
+
+ grundy et als assessment 
+grundy et al propose that dark low-density tnos in the size range of approximately 400–1000 km are transitional between smaller porous and thus low-density bodies and larger denser brighter and geologically differentiated planetary bodies such as dwarf planets bodies in this size range should have begun to collapse the interstitial spaces left over from their formation but not fully leaving some residual porositymany tnos in the size range of 400–1000 km have oddly low densities in the range of 1.0–1.2 gcm3 that are substantially less than dwarf planets such as pluto which have densities closer to 2 brown has suggested that large low-density bodies must be composed almost entirely of water ice since he presumed that bodies of this size would necessarily be solid however this leaves unexplained why tnos both larger than 1000 km and smaller than 400 km and indeed comets are composed of a substantial fraction of rock leaving only this size range to be primarily icy experiments with water ice at the relevant pressures and temperatures suggest that substantial porosity could remain in this size range and it is possibly that adding rock to the mix would further increase resistance to collapsing into a solid body bodies with internal porosity remaining from their formation could be at best only partially differentiated in their deep interiors if a body had begun to collapse into a solid body there should be evidence in the form of fault systems from when its surface contracted the higher albedos of larger bodies is also evidence of full differentiation as such bodies were presumably resurfaced with ice from their interiors grundy et al propose therefore that mid-size low-density and low-albedo  ≈0.2 bodies such as salacia varda gǃkúnǁ’hòmdímà and 55637 2002 ux25 are not differentiated planetary bodies like orcus quaoar and charon the boundary between the two populations would appear to be in the range of 900–1000 km if correct this would leave only pluto–charon eris haumea 2007 or10 makemake quaoar orcus and high-albedo sedna but probably not low-albedo 2002 ms4 as dwarf planet candidates in the outer solar system
+
+
+ likeliest dwarf planets 
+the following trans-neptunian objects have estimated diameters at least 300 kilometres 190 mi and so may be dwarf planets not all bodies estimated to be this size are included the list is complicated by bodies such as 47171 lempo that were at first assumed to be large single objects but later discovered to be binary or triple systems of smaller bodies 
+the dwarf planet ceres is added for comparison
+the default sort is per browns size estimate the iau-recognised dwarf planets have bold names browns diameter estimates are in red when they are based upon an assumed albedo explanations and sources for the measured masses and diameters can be found in the corresponding articles linked in column designation of the table
+
+
+ see also 
+lists of astronomical objects
+list of trans-neptunian objects
+list of gravitationally rounded objects of the solar system
+list of former planets
+
+
+ references 
+
+
+ external links 
+how many dwarf planets are there in the outer solar system updates daily mike brown
+details on the dwarf planet size calculations mike brown
+which are the dwarfs in the solar system tancredi g favre s icarus volume 195 issue 2 p 851–862
+nasa jpl small-body database search engine

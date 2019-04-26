@@ -1,0 +1,54 @@
+juno minor-planet designation 3 juno is an asteroid in the asteroid belt juno was the third asteroid discovered in 1804 by german astronomer karl harding it is the 11th-largest asteroid and one of the two largest stony s-type asteroids along with 15 eunomia it is estimated to contain 1% of the total mass of the asteroid belt
+
+
+ history 
+
+
+ discovery 
+juno was discovered on 1 september 1804 by karl ludwig harding it was the third asteroid found but was initially considered to be a planet it was reclassified as an asteroid and minor planet during the 1850s
+
+
+ name 
+juno is named after the mythological juno the highest roman goddess the adjectival form is junonian jūnōnius
+with two exceptions juno is the international name subject to local variation italian giunone french junon russian yunona etc its planetary symbol is ③ an older symbol still occasionally seen is ⚵ 
+
+
+ characteristics 
+juno is one of the larger asteroids perhaps tenth by size and containing approximately 1% the mass of the entire asteroid belt it is the second-most-massive s-type asteroid after 15 eunomia even so juno has only 3% the mass of ceres
+
+the orbital period of juno is 4.36578 yearsamongst s-type asteroids juno is unusually reflective which may be indicative of distinct surface properties this high albedo explains its relatively high apparent magnitude for a small object not near the inner edge of the asteroid belt juno can reach 7.5 at a favourable opposition which is brighter than neptune or titan and is the reason for it being discovered before the larger asteroids hygiea europa davida and interamnia at most oppositions however juno only reaches a magnitude of around 8.7—only just visible with binoculars—and at smaller elongations a 3-inch 76 mm telescope will be required to resolve it it is the main body in the juno family
+
+juno was originally considered a planet along with 1 ceres 2 pallas and 4 vesta in 1811 schröter estimated juno to be as large as 2290 km in diameter all four were reclassified as asteroids as additional asteroids were discovered junos small size and irregular shape preclude it from being designated a dwarf planet
+juno orbits at a slightly closer mean distance to the sun than ceres or pallas its orbit is moderately inclined at around 12° to the ecliptic but has an extreme eccentricity greater than that of pluto this high eccentricity brings juno closer to the sun at perihelion than vesta and further out at aphelion than ceres juno had the most eccentric orbit of any known body until 33 polyhymnia was discovered in 1854 and of asteroids over 200 km in diameter only 324 bamberga has a more eccentric orbitjuno rotates in a prograde direction with an axial tilt of approximately 50° the maximum temperature on the surface directly facing the sun was measured at about 293 k on october 2 2001 taking into account the heliocentric distance at the time this gives an estimated maximum temperature of 301 k 28 °c at perihelionspectroscopic studies of the junonian surface permit the conclusion that juno could be the progenitor of chondrites a common type of stony meteorite composed of iron-bearing silicates such as olivine and pyroxene infrared images reveal that juno possesses an approximately 100 km-wide crater or ejecta feature the result of a geologically young impactbased on midas infrared data using the hale telescope an average radius of 135.7±11 was reported in 2004
+
+
+ observations 
+juno was the first asteroid for which an occultation was observed it passed in front of a dim star sao 112328 on february 19 1958 since then several occultations by juno have been observed the most fruitful being the occultation of sao 115946 on december 11 1979 which was registered by 18 observers
+juno occulted the magnitude 11.3 star ppmx 9823370 on july 29 2013 and 2ucac 30446947 on july 30 2013radio signals from spacecraft in orbit around mars and on its surface have been used to estimate the mass of juno from the tiny perturbations induced by it onto the motion of mars junos orbit appears to have changed slightly around 1839 very likely due to perturbations from a passing asteroid whose identity has not been determinedin 1996 juno was imaged by the hooker telescope at mount wilson observatory at visible and near-ir wavelengths using adaptive optics the images spanned a whole rotation period and revealed an irregular shape and a dark albedo feature interpreted as a fresh impact site
+
+
+ oppositions 
+juno reaches opposition from the sun every 15.5 months or so with its minimum distance varying greatly depending on whether it is near perihelion or aphelion sequences of favorable oppositions occur every 10th opposition ie just over every 13 years the last favorable oppositions were on december 1 2005 at a distance of 1.063 au magnitude 7.55 and on november 17 2018 at a minimum distance of 1.036 au magnitude 7.45 the next opposition will be october 30 2031 at a distance of 1.044 au magnitude 7.42
+
+		
+
+
+ see also 
+juno in fiction
+former classification of planets
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+jpl ephemeris
+well resolved images from four angles taken at mount wilson observatory
+shape model deduced from light curve
+asteroid juno grabs the spotlight
+elements and ephemeris for 3 juno minor planet center archived from the original on 2015-09-04 displays elong from sun and v mag for 2011
+3 juno at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

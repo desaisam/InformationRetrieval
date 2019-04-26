@@ -1,0 +1,100 @@
+1.Landings on other planets.txt Score : 0.5857486
+2.List of landings on extraterrestrial bodies.txt Score : 0.5857486
+3.Subsatellite.txt Score : 0.46385896
+4.List of natural satellites.txt Score : 0.44129562
+5.Moons of Uranus.txt Score : 0.42641768
+6.Moons of Jupiter.txt Score : 0.39682236
+7.Moons of Neptune.txt Score : 0.33527848
+8.Moons of Saturn.txt Score : 0.32419533
+9.Exploration of Uranus.txt Score : 0.28956664
+10.Natural satellite.txt Score : 0.28730893
+11.Timeline of discovery of Solar System planets and their moons.txt Score : 0.2858156
+12.Phoebe (moon).txt Score : 0.28405443
+13.List of gravitationally rounded objects of the Solar System.txt Score : 0.27470702
+14.Hydra (moon).txt Score : 0.27089918
+15.Ring system.txt Score : 0.2689571
+16.Umbriel (moon).txt Score : 0.25989023
+17.Luna program.txt Score : 0.25103512
+18.Planetary flyby.txt Score : 0.24848303
+19.Jupiter.txt Score : 0.247851
+20.Moons of Mars.txt Score : 0.24655363
+21.Ariel (moon).txt Score : 0.2457918
+22.Oberon (moon).txt Score : 0.24184124
+23.Hyperion (moon).txt Score : 0.23667818
+24.List of Solar System objects by size.txt Score : 0.23546365
+25.Outline of the Solar System.txt Score : 0.22892252
+26.Miranda (moon).txt Score : 0.22662173
+27.Rhea (moon).txt Score : 0.2157885
+28.Titania (moon).txt Score : 0.21349631
+29.Moon.txt Score : 0.21064624
+30.Planetesimal.txt Score : 0.20919594
+31.Claimed moons of Earth.txt Score : 0.2057333
+32.Exploration of Neptune.txt Score : 0.19782397
+33.Ganymede (moon).txt Score : 0.19767082
+34.List of Solar System objects.txt Score : 0.1942472
+35.Saturn.txt Score : 0.18676326
+36.Celestial body.txt Score : 0.18636228
+37.Exploration of Saturn.txt Score : 0.18313801
+38.List of possible dwarf planets.txt Score : 0.18313801
+39.Iapetus (moon).txt Score : 0.18274082
+40.Tethys (moon).txt Score : 0.18274082
+41.Dwarf planet.txt Score : 0.18052113
+42.Colonization of Jupiter.txt Score : 0.17790249
+43.Exploration of Jupiter.txt Score : 0.17790249
+44.Exploration of Phobos.txt Score : 0.17500566
+45.Phobos (moon).txt Score : 0.17500566
+46.Sample return mission.txt Score : 0.17323042
+47.Sample-return mission.txt Score : 0.17323042
+48.Dione (moon).txt Score : 0.17309597
+49.Astrobiology.txt Score : 0.16982883
+50.Rings of Saturn.txt Score : 0.16877756
+51.Callisto (moon).txt Score : 0.16730183
+52.Colonization of Callisto.txt Score : 0.16730183
+53.Exploration of Callisto.txt Score : 0.16730183
+54.Planet.txt Score : 0.16497836
+55.Planets.txt Score : 0.16497836
+56.Neptune Orbiter.txt Score : 0.16187267
+57.Europa (moon).txt Score : 0.16184504
+58.Exploration of Europa.txt Score : 0.16184504
+59.Solar System model.txt Score : 0.1576536
+60.Rings of Neptune.txt Score : 0.15720856
+61.Astronomer.txt Score : 0.1553019
+62.List of Mars orbiters.txt Score : 0.1553019
+63.Triton (moon).txt Score : 0.15406807
+64.Solar System.txt Score : 0.15293959
+65.Mariner program.txt Score : 0.15130831
+66.Charon (moon).txt Score : 0.14836797
+67.Space probe.txt Score : 0.14821763
+68.Far side of the Moon.txt Score : 0.13995883
+69.Neptune.txt Score : 0.13894428
+70.List of artificial objects leaving the Solar System.txt Score : 0.13892747
+71.Nix (moon).txt Score : 0.13812454
+72.Mars sample return mission.txt Score : 0.13653202
+73.Chandrayaan-1.txt Score : 0.13468423
+74.Rings of Uranus.txt Score : 0.13468423
+75.Astronomical unit.txt Score : 0.13449538
+76.Galileo (spacecraft).txt Score : 0.1333352
+77.Galileo spacecraft.txt Score : 0.1333352
+78.Interplanetary spaceflight.txt Score : 0.13325785
+79.Uranus.txt Score : 0.13325518
+80.Rings of Jupiter.txt Score : 0.13313903
+81.In-situ resource utilization.txt Score : 0.13232972
+82.Exploration of Titan.txt Score : 0.13138294
+83.Titan (moon).txt Score : 0.13138294
+84.Discovery program.txt Score : 0.13137801
+85.Juno spacecraft.txt Score : 0.13137801
+86.Harrison Schmitt.txt Score : 0.13005759
+87.Geosynchronous orbit.txt Score : 0.12949814
+88.Ranger program.txt Score : 0.12949814
+89.Review of United States Human Space Flight Plans Committee.txt Score : 0.12949814
+90.Astronomy.txt Score : 0.12764436
+91.Voyager 2.txt Score : 0.123151004
+92.Moons of Pluto.txt Score : 0.122970685
+93.Colonization of Mercury.txt Score : 0.12239734
+94.Colonization of Phobos.txt Score : 0.12239734
+95.Space colonization.txt Score : 0.12239734
+96.Io (moon).txt Score : 0.12047375
+97.Space exploration.txt Score : 0.12047375
+98.Space missions.txt Score : 0.12047375
+99.Extraterrestrial life.txt Score : 0.12031472
+100.Cassini-Huygens.txt Score : 0.11835636

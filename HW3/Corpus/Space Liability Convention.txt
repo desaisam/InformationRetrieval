@@ -1,0 +1,36 @@
+the convention on international liability for damage caused by space objects also known as the space liability convention is a treaty from 1972 that expands on the liability rules created in the outer space treaty of 1967 in 1978 the crash of the nuclear-powered soviet satellite kosmos 954 in canadian territory led to the only claim filed under the convention
+
+
+ status 
+the liability convention was concluded and opened for signature on 29 march 1972 it entered into force on 1 september 1972 as of 1 january 2013 89 states have ratified the liability convention 22 have signed but not ratified and three international intergovernmental organizations the european space agency the european organisation for the exploitation of meteorological satellites and the european telecommunications satellite organization have declared their acceptance of the rights and obligations provided for in the agreement
+
+
+ key provisions 
+states countries bear international responsibility for all space objects that are launched within their territory this means that regardless of who launches the space object if it was launched from state as territory or from state as facility or if state a caused the launch to happen then state a is fully liable for damages that result from that space object
+
+
+ joint launches 
+if two states work together to launch a space object then both of those states are jointly and severally liable for the damage that object causes this means that the injured party can sue either of the two states for the full amount of damage
+
+
+ claims between states only 
+claims under the liability convention must be brought by the state against a state the convention was created to supplement existing and future national laws providing compensation to parties injured by space activities whereas under most national legal systems an individual or a corporation may bring a lawsuit against another individual or another corporation under the liability convention claims must be brought on the state level only this means that if an individual is injured by a space object and wishes to seek compensation under the liability convention the individual must arrange for his or her country to make a claim against the country that launched the space object that caused the damage
+
+
+ see also 
+usa-193
+kosmos 954
+skylab
+space law
+space preservation treaty
+outer space treaty
+moon treaty
+rescue agreement
+space debris
+
+
+ references 
+
+
+ external links 
+united nations office for outer space affairs convention on international liability for damage caused by space objects

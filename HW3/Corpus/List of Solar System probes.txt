@@ -1,0 +1,146 @@
+this is a list of space probes that have left earth orbit or were launched with that intention but failed organized by their planned destination  it includes planetary probes solar probes and probes to asteroids and comets but excludes lunar missions which are listed separately at list of lunar probes and list of apollo missions flybys such as gravity assists that were incidental to the main purpose of the mission are also included flybys of earth are listed separately at list of earth flybys confirmed future probes are included but missions that are still at the concept stage or which never progressed beyond the concept stage are not
+
+
+ key 
+colour key
+
+† means tentatively identified as classified by nasa these are cold war-era soviet missions mostly failures about which few or no details have been officially released the information given may be speculative
+date is the date ofclosest encounter flybys
+impact impactors
+orbital insertion to end of mission whether planned or premature orbiters
+landing to end of mission whether planned or premature landers
+launch missions that never got underway due to failure at or soon after launch
+in cases which do not fit any of the above the event to which the date refers is stated note that as a result of this scheme missions are not always listed in order of launchsome of the terms used under typeflyby the probe flies by an astronomical body but does not orbit it
+orbiter part of a probe that orbits an astronomical body
+lander part of a probe that descend to the surface of an astronomical body
+rover part of a probe that acts as a vehicle to move on the solid-surface of an astronomical body
+penetrator part of a probe that impacts an astronomical body
+atmospheric probe or balloon part of a probe that descend through or floats in the atmosphere of an astronomical body
+sample return parts of the probe return back to earth with physical samplesunder status in the case of flybys such as gravity assists that are incidental to the main mission success indicates the successful completion of the flyby not necessarily that of the main mission
+
+
+ solar probes 
+
+while the sun is not physically explorable with current technology the following solar observation probes have been designed and launched to operate in heliocentric orbit or at one of the earth–sun lagrangian points – additional solar observatories were placed in earth orbit and are not included in this list
+
+
+ 1960–1969 
+
+
+ 1974–1997 
+
+
+ 2000–present 
+
+
+ proposed 
+
+
+ mercury probes 
+
+
+ venus probes 
+
+
+ 1961–1969 
+
+
+ 1970–1978 
+
+
+ 1982–1999 
+
+
+ 2006–present 
+
+
+ proposed 
+
+
+ earth flybys 
+see list of earth flybysin addition several planetary probes have sent back observations of the earth-moon system shortly after launch most notably mariner 10 pioneers 10 and 11 and both voyager probes
+
+
+ lunar probes 
+see list of lunar probes
+
+
+ mars probes 
+
+
+ 1960–1969 
+
+
+ 1971–1976 
+
+
+ 1988–1999 
+
+
+ 2001–2009 
+
+
+ 2011–present 
+
+
+ proposed 
+
+
+ phobos probes 
+
+
+ ceres probes 
+
+
+ asteroid probes 
+
+
+ jupiter probes 
+
+
+ saturn probes 
+
+
+ titan probes 
+
+
+ uranus probes 
+
+
+ neptune probes 
+
+
+ pluto probes 
+
+
+ comet probes 
+
+
+ kuiper belt probes 
+
+
+ probes leaving the solar system 
+
+
+ other probes to leave earth orbit 
+for completeness this section lists probes that have left or will leave earth orbit but are not primarily targeted at any of the above bodies
+
+
+ cancelled probes and missions 
+
+
+ see also 
+
+lists of spacecraft
+discovery and exploration of the solar system
+robotic spacecraft
+satellites
+sample return mission
+timeline of solar system exploration
+
+
+ references 
+
+
+ external links 
+planetary society cassini’s tour of the saturn system

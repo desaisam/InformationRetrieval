@@ -1,0 +1,313 @@
+partial list of earth observation satellites by seriesprogram
+
+
+ commercial 
+disaster monitoring constellation 9 different satellites as of 2013 5 operating
+pléiades 2 operating satellites
+eros a  b
+formosat-2 decommissioned aug 2016
+ikonos decommissioned march 2015
+quickbird reentered in jan 2015
+rapideye 5 identical satellites as of 2012
+spot 7 satellites 3 operating
+terrasar-x  tandem-x
+cosmo-skymed 4 identical satellites as of 2012
+worldview-1
+worldview-2
+worldview-3
+worldview-4
+geoeye-1
+flock-1 87 cubesats as of july 2015
+
+
+ scientific research 
+the invention of climate research through the use of satellite remote telemetry began in the 1960s through development of space probes to study other planets during the us economic decline in 1977 with much of nasas money going toward the shuttle program the reagan administration proposed to reduce spending on planetary exploration during this time new scientific evidence emerged from ice and sediment cores that earths climate had experienced rapid changes in temperature running contrary to the previously held belief that the climate changed on a geological time scale  these changes increased political interest in gathering remote-sensing data on the earth itself and stimulated the science of climatology
+
+
+ weather observation and forecasting 
+
+
+ goes geostationary operational environmental satellite 
+17 satellites 4 in operation
+
+goes 13
+goes 14
+goes 15
+goes 16
+goes 17 operational late 2018
+
+
+ polar operational environmental satellites 
+10 satellites 5 in operation
+noaa-15
+noaa-18
+noaa-19
+metop-b
+metop-a
+
+
+ joint polar satellite system 
+successor to planned national polar-orbiting operational environmental satellite system npoess program
+
+noaa-20
+suomi npp
+
+
+ japan meteorological agency 
+himawari-8 2014
+himawari-9 2016
+
+
+ historical 
+gms-1  himawari-1
+gms-2  himawari-2
+gms-3  himawari-3
+gms-4  himawari-4
+gms-5  himawari-5
+mtsat-1 launch failure 1999
+mtsat-1r  himawari-6
+mtsat-2  himawari-7 geostationary 140 east backup
+
+
+ landsat program 
+
+landsat 1 decommissioned
+landsat 2 decommissioned
+landsat 3 decommissioned
+landsat 4 decommissioned
+landsat 5 decommissioned
+landsat 6 failed to orbit
+landsat 7 operating
+landsat 8 operating
+
+
+ misc 
+
+
+ china national space administration cnsa 
+gaofen 1
+
+
+ brazilian space agency aeb 
+cbers-1
+cbers-2
+cbers-2b
+cbers-3
+cbers-4
+amazônia-1
+sabia-mar
+geomet-1
+
+
+ argentina space agency conae 
+sac-a
+sac-b
+sac-c
+sac-d
+saocom
+sabia-mar
+
+
+ centre national détudes spatiales cnes 
+spot
+pléiades
+topexposeidon
+
+
+ european space agency esa 
+
+envisat
+ers 1  2
+cryosat-2
+sentinel 1
+sentinel 2
+sentinel 3
+
+
+ indian space research organisation isro 
+saral 25 february 2013
+cartosat-2e 23 june 2017
+risat-1 26 april 2012
+resourcesat-2 20 april 2011
+megha-tropiques 12 october 2011
+oceansat-2 23 september 2009
+ims-1 28 april 2008
+cartosat-2a 28 april 2008
+cartosat-2 10 january 2007
+irs p5 cartosat-1 5 may 2005
+irs p6 resourcesat 1 17 october 2003
+irs-p4 27 may 1999
+irs-p3 21 march 1996
+irs-p2 15 october 1994
+irs p1 also iecrashed due to launch failure of polar satellite launch vehicle 20 september 1993
+irs-1d 29 september 1997
+irs-1c 28 december 1995
+irs-1b 29 august 1991
+irs-1a 17 march 1988
+
+
+ jaxa former nasda 
+mos-1 momo-1
+mos-1b momo-1b
+jers-1 fuyo-1
+adeos midori
+adeos ii midori ii
+gosat ibuki
+alos daichi palsar avnir-2 and prism
+alos-2 daichi-2 palsar-2
+
+
+ lembaga penerbangan dan antariksa nasional lapan indonesia 
+lapan-tubsat
+
+
+ mohammed bin rashid space centre mbrsc 
+dubaisat - 1
+dubaisat - 2
+
+
+ nasa 
+timed thermosphere ionosphere mesosphere energetics and dynamics
+topexposeidon
+upper atmosphere research satellite
+
+
+ noaa 
+noaa-4
+
+
+ project vanguard 
+vanguard 2
+
+
+ national academy of sciences of republic of belarus 
+belka
+
+
+ nigeria 
+nigeriasat-1 2003
+nigcomsat-1 2007
+nigeriasat-2x 2011
+
+
+ pakistans suparco space and upper atmosphere research commission 
+badr-a - july 1990
+badr-b - december 2001
+pakistan remote sensing satellite
+pakistan technology evaluation satellite - 1a paktes-1a - july 2018
+
+
+ philippine department of science and technology dost 
+phl-microsat-1 - march 2016
+
+
+ russian federal space agency roscosmos 
+elektro–l
+resurs-dk1
+resurs-p no1
+resurs-p no2
+kanopus-v
+meteor-m no1
+meteor-m no2
+
+
+ swedish national space board 
+munin
+
+
+ venezuelan agency for space activities 
+vrss-1
+vrss-2
+
+
+ eumetsat 
+11 geostationary weather satellites 5 in operation
+
+meteosat 7
+meteosat 8
+meteosat 9
+meteosat 10
+meteosat 112 polar orbiting weather satellites all in operation
+
+metop-a
+metop-b
+
+
+ radarsat series 
+radarsat-1
+radarsat-2
+radarsat constellation
+
+
+ south korea 
+arirang-1
+arirang-2
+arirang-3
+arirang-5
+chollian
+
+
+ thailand 
+thaichote
+
+
+ turkey 
+göktürk-2 2012 imint turkish armed forces- intelligence
+rasat 2011 mapping
+bilsat-1 2003–2006 was part of disaster monitoring constellation project
+göktürk-1 2013 imint turkish ministry of national defence- intelligence
+göktürk-3- imint  high resolution synthetic aperture radar sar earth observation satellite- turkish ministry of national defence- intelligence
+
+
+ morocco 
+mohammed vi-a
+
+
+ pakistan 
+badr-a
+badr-b
+prss 1
+paktes-1a
+
+
+ weather 
+tiros-1
+tiros-2
+tiros-3
+tiros-4
+tiros-5
+tiros-6
+tiros-7
+tiros-8
+tiros-9
+tiros-10
+
+
+ meteor series 
+meteor 1 series
+meteor 2 series
+meteor 3 series
+
+
+ fy feng yun series 
+fy-1 series
+fy-2 series
+fy-3a
+
+
+ see also 
+timeline of earth science satellites
+unmanned space mission
+satellite
+
+
+ references 
+
+
+ external links 
+astrium satellite imagery 
+commission nacional de actividades espaciales argentina space agency
+committee on earth observation satellites ceos
+eoportal directory
+earth observation satellite list world meteorological organization
+space images -  earth mosaics - results of observation satellites activity - without payment

@@ -1,0 +1,61 @@
+the institute for unmanned space experiment free flyer usef 財団法人無人宇宙実験システム研究開発機構 was a japanese space agency which was founded by the ministry of international trade and industry in 1986 unlike nasda isas and nal it was not included in the jaxa organization which was founded in 2003 the chairperson is ichiro taniguchi
+in 2012 usef merged two other organizations—earth remote sensing data analysis center ersdac and japan resources observation system organization jaros—to form a new organization japan space systems j-spacesystems
+
+
+ goal 
+the aim of usef is technology development especially the testing of commercial off-the-shelf parts cots robotics material sciences and technology for optical earth observations
+
+
+ launch vehicle 
+unlike the jaxa organisation usef doesnt have its own launch vehicle instead it has used either the h-iia the m-3s or russian rockets so far however in 2008 meti mentioned the possibility of usef developing an air-launched vehicle for small payloads
+
+
+ finished missions 
+
+
+ express 
+the experiment re-entry space system express is a 745 kg 1,642 lb satellite for microgravity experiments and testing of re-entry technologies the project was done in cooperation with isas now jaxa and dlr of germany on january 15 1995 it was launched on the m-3s however due to a problem with the rocket the orbit was much lower than planned the re-entry capsule was found later in ghana
+
+
+ servis 1 
+
+the servis-1 is an 840 kg 1,851 lb technology test mission with cots parts it was launched on october 30 2001 with the russian rockot launch vehicle the mission duration was two years
+
+
+ users 
+unmanned space experiment recovery system users was launched on the h-iia on september 10 2002 the aim of the mission was microgravity experiments to perform the super-conductor material processing experiment and also testing of satellite bus technologies for the first part of the mission users carried a return capsule it was retrieved successfully on may 29 2003 the mission of the main orbiter ended during re-entry in 2007
+
+
+ servis 2 
+
+servis-2 was a 900 kg 1,984 lb technology test mission with cots parts it will continue the experiments done with the first servis satellite  it was launched on june 2 2010 0159 utc with the russian rockot launch vehicle
+
+
+ asnaro missions 
+
+
+ asnaro 1 
+asnaro-1 the first of advanced satellite with new system architecture observation series is a 450 kg 992 lb earth observation satellite the expected resolution is less than 0.5 meter 1.6 ft from an sso orbit the
+satellite was launched on 2014 nov 6 by a dnepr rocket from yasniy russia
+
+
+ asnaro 2 
+asnaro 2 is small x-band radar satellite for earth observation the satellite was launched on 17 january 2018 
+
+
+ planned missions 
+
+
+ servis 3 
+test of cots parts follow-up mission to servis 1 and 2 launch was planned for 2013 current status of the mission is unclear
+
+
+ other technology projects 
+usef developed the robotic arm of the ets-vii project to test docking technology in the 1990s
+
+
+ references 
+
+
+ external links 
+official site

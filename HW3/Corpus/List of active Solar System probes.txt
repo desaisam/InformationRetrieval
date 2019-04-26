@@ -1,0 +1,238 @@
+this is a list of active space probes which have escaped earth orbit it includes lunar space probes but does not include space probes orbiting at the sun–earth lagrangian points for these see list of objects at lagrangian points a craft is deemed active if it is still able to transmit usable data to earth whether or not it can receive commands
+the craft are further grouped by mission status – en route mission in progress or mission complete – based on their primary mission  for example though voyager 1 is still contactable en route to the heliopause it is listed as mission complete because its primary task of studying jupiter and saturn has been accomplished once a probe has reached its first primary target it is no longer listed as en route whether or not further travel is involved
+
+
+ missions in progress 
+
+
+ moon 
+artemis p1p2
+mission studying the effect of the solar wind on the moon originally launched as earth satellites they were later repurposed and moved to lunar orbit
+launched february 17 2007
+destination moon
+arrival july 2011
+institution  nasa
+lunar reconnaissance orbiter
+mission engaged in lunar mapping intended to identify safe landing sites locate potential resources on the moon characterize the radiation environment and demonstrate new technology
+launched 18 june 2009
+destination moon
+arrival 23 june 2009
+institution  nasa
+
+
+ venus 
+akatsuki
+mission the first japanese venusian probe also known as planet-c and venus climate orbiter akatsuki failed to enter venusian orbit in december 2010 it continued to function and entered venus orbit in 2015
+launched 20 may 2010
+destination venus
+arrival 7 december 2015
+institution  jaxa
+subprobes ikaros and shinen
+
+
+ mars 
+
+2001 mars odyssey
+mission one of six currently active human-made mars satellites it is continuing its extended mission to map the surface of mars and also acts as a relay for the curiosity rover its name is a tribute to the novel and film 2001 a space odyssey
+launched 7 april 2001
+destination mars
+arrival 24 october 2001
+institution  nasa
+mars express
+mission mars orbiter designed to study the planets atmosphere and geology search for sub-surface water and deploy the beagle 2 lander in 2017 the mission was extended until at least the end of 2020
+launched 2 june 2003
+destination mars
+arrival 25 december 2003
+institution  esa
+lander beagle 2 mission failed contact lost at separation but found in 2015 on surface
+
+mars reconnaissance orbiter
+mission  the second nasa satellite orbiting mars it is specifically designed to analyze the landforms stratigraphy minerals and ice of the red planet
+launched 12 august 2005
+destination mars
+arrival 10 march 2006
+institution  nasa
+lander curiosity rover
+mission searching for evidence of organic material on mars monitoring methane levels in the atmosphere and engaging in exploration of the landing site at gale crater
+launched 26 november 2011
+destination mars
+arrival 6 august 2012
+institution   nasa
+mangalyaan
+mission the first indian interplanetary space probe it was successfully inserted into orbit of mars on 24 september 2014
+launched 5 november 2013
+destination mars
+arrival september 2014
+institution  isro
+maven — mars atmosphere and volatile evolution
+mission study the martian upper atmosphere and its gradual loss to space
+launched 18 november 2013
+destination mars
+arrival september 2014
+institution  nasa
+trace gas orbiter exomars 2016
+mission study methane and other trace gases in the martian atmosphere
+launched 14 march 2016
+destination mars
+arrived 19 october 2016 mars orbit insertion 21 april 2018 final orbit
+institution  esa
+lander schiaparelli crashed upon landing attempt
+lander insight
+mission to study the deep interior of mars with a seismometer and a heat-flow probe
+launched 5 may 2018
+destination elysium planitia mars
+arrival 29 november 2018
+institution  nasa
+
+
+ asteroids and comets 
+hayabusa 2
+mission asteroid study and sample-return
+launched 3 december 2014
+destination 162173 ryugu
+arrival  27 june 2018
+institution  jaxa
+lander probe mascot and minerva-ii
+osiris-rex
+mission asteroid study and sample-return
+launched 8 september 2016
+destination 101955 bennu
+arrival  3 december 2018
+institution  nasa
+
+
+ heliocentric orbit 
+change 2
+mission lunar exploration asteroid fly-by develop chinese deep-space capability
+launched 1 october 2010
+first destination moon
+arrival 6 october 2010
+left moon 8 june 2011
+second destination earth–moon lagrangian point l2
+arrived 25 august 2011
+left l2 lagrangian point april 2012
+third destination 4179 toutatis
+arrived 13 december 2012
+left 4179 toutatis 13 december 2012
+destination heliocentric orbit
+institution  cnsaparker solar probe
+mission observation of solar wind magnetic fields and coronal energy flow
+launched 12 august 2018
+destination low solar orbit perihelion 6.9 million km
+arrival 19 january 2019
+institution  nasa
+
+
+ outer solar system 
+
+juno
+mission studying jupiter from polar orbit intended to de-orbit into the jovian atmosphere after 2021
+launched 5 august 2011
+destination jupiter
+arrival 4 july 2016
+institution  nasa
+new horizons
+mission the first spacecraft to study pluto up close and ultimately the kuiper belt it was the fastest spacecraft when leaving earth and will be the fifth probe to leave the solar system
+launched 19 january 2006
+destination pluto and charon
+arrival 14 july 2015
+left charon 14 july 2015
+destination 2014 mu69
+arrival 1 january 2019
+institution  nasa
+voyager 1
+mission investigating jupiter and saturn and the moons of these planets  its continuing data feed offered the first direct measurements of the heliosheath and the heliopause it is currently the farthest man-made object from earth as well as the first object to leave the heliosphere and cross into interstellar space as of november 2017 it has a distance from the sun of about 140 astronomical units au 21 billion kilometers or 0.002 light years and it will not be overtaken by any other current craft in august 2012 voyager 1 became the first human-built spacecraft to enter interstellar space it is hoped that voyager 1 will continue operating until at least 2020
+launched 5 september 1977
+destination jupiter and saturn
+arrival january 1979
+institution  nasa
+primary mission completion november 1980
+current trajectory entered interstellar space august 2012
+voyager 2
+mission studying all four gas giants this mission was one of nasas most successful yielding a wealth of new information as of november 2017 it is some 116 au from the sun 17.34 billion kilometers and it is hoped the probe will continue to operate until at least 2020 it has left the heliosphere and crossed into interstellar space in december 2018 as with voyager 1 scientists are now using voyager 2 to learn what the solar system is like beyond the heliosphere
+launched 20 august 1977
+destination jupiter saturn uranus neptune
+arrival 9 july 1979
+institution  nasa
+primary mission completion august 1989
+current trajectory entered interstellar space december 2018
+
+
+ retired missions 
+pioneer 6
+mission measurements of the solar wind solar magnetic field and cosmic rays oldest functioning probe if still operating contact was last attempted 8 december 2000 to celebrate its 35th anniversary and the attempt was successful
+launched 16 december 1965
+destination heliocentric orbit
+institution  nasa
+mission completion 
+current trajectory heliocentric orbit
+pioneer 7
+mission  measurements of the solar wind solar magnetic field and cosmic rays last contacted 31 march 1995 no attempt has been made since and this probe may or may not be operational
+launched 17 august 1966
+destination heliocentric orbit
+institution  nasa
+mission completion 
+current trajectory heliocentric orbit
+pioneer 8
+mission measurements of the solar wind solar magnetic field and cosmic rays last contacted on 22 august 1996 no attempt has been made since and this probe may or may not be operational
+launched 8 november 1967
+destination heliocentric orbit
+institution  nasa
+mission completion 
+current trajectory heliocentric orbit
+ice
+mission studying the interaction between the solar wind and 1 the earths magnetosphere 2 the tail of comet giacobini-zinner 3 the tail of halleys comet contact with the probe was lost on 16 september 2014 it is unknown whether contact can be reestablished because the probes exact orbit is uncertain
+launched 12 august 1978
+destination halo orbit around earth-sun lagrangian point l1
+institution  nasa
+mission completion 1997
+current trajectory heliocentric orbit
+giotto
+mission flyby and observation of halleys comet and comet grigg-skjellerup to capture scientific data and images of the nucleus the multicolor camera was destroyed in the encounter with halley but the probe remained otherwise functional for the second encounter
+launched 2 july 1985
+destination comet halley
+arrival 14 march 1986
+institution  esa
+mission completion 14 march 1986 halley 10 july 1992 grigg-skjellerup
+current trajectory heliocentric orbit
+genesis
+mission solar wind sample return
+launched 8 august 2001
+destination halo orbit around sun-earth lagrangian point l1
+arrival 16 november 2001
+institution  nasa
+mission completion sample capsule returned to earth 8 september 2004 parachutes failed to open some samples contaminated
+current trajectory spacecraft bus heliocentric orbit near sun-earth l2 point
+cassini–huygens
+mission cassini orbiter studying saturn and its moons after passing venus and jupiter huygens landing probe investigating titan  cassini primarily investigated saturns rings its magnetosphere and the geologic composition of its satellites
+launched 15 october 1997
+destination saturn
+arrival 1 july 2004 saturn 14 january 2005 titan
+crashed 15 september 2017
+institution collaboration between  nasa  esa and  asi
+
+
+ recently ended 
+change 5-t1
+mission re-entry test for unmanned lunar sample return mission plus several secondary experimental payloads
+launched 23 october 2014
+destination moon
+arrival 13 january 2015
+institution  cnsadawn
+mission studying asteroid 4 vesta and dwarf planet ceres
+launched 27 september 2007
+initial destination vesta
+vesta arrival 16 july 2011
+left vesta 5 september 2012
+second destination ceres
+arrival 6 march 2015
+institution  nasa
+mission completion 1 november 2018 spacecraft ran out of hydrazine propellant
+current trajectory in orbit around ceres
+
+
+ see also 
+lists of spacecraft
+
+
+ references 

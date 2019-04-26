@@ -1,0 +1,68 @@
+sron netherlands institute for space research is the dutch expertise institute for space research the institute develops and uses innovative technology for research in space focusing on astrophysical research earth science and planetary research sron has a line of research into new and more sensitive sensors for x-rays and infrared radiation
+sron was founded in 1983 under the former names stichting ruimteonderzoek nederland  space research organisation netherlands  sron is part of the netherlands organisation for scientific research nwo and has facilities in utrecht and in groningen
+
+
+ science and technology 
+the institute has about 200 staff who are employed at a support department and five divisions high-energy astrophysics hea low-energy astrophysics lea earth and planetary science eps sensor research and technology srt and engineering division ed
+
+
+ technology 
+sron’s ambition is to act as leading institute in the development of state-of-the-art satellite instruments for space research missions of esa nasa and other agencies through the years sron technology has contributed to many ground-breaking space missions mainly dedicated to mapping the infrared sky eg iras iso hifiherschel analyzing x-ray and gamma ray sources eg cgrocomptel beppo-sax chandra xmm-newton and studying the earth atmosphere sciamachyenvisat examples of future missions to which sron will contribute are spica infrared astro-h x-ray and sentinel 5 precursor earth atmosphere the institute is also planning contributions to missions which will study other planets in the solar system and beyond
+
+
+ missions and projects 
+
+
+ current missions or projects with sron contribution 
+chandra x-ray observatory and the low energy transmission grating spectrometer
+xmm-newton and rgs
+integral
+xrism and the resolve soft x-ray spectrometer
+ixo
+loft
+herschel space observatory and the heterodyne instrument for the far infrared
+spica and safari
+atacama large millimeter array
+envisat and sciamachy
+sentinel-5 precursor and tropomi
+goce
+ers-2
+metop gome-2
+spex
+
+
+ previous missionsprojects 
+bepposax
+compton gamma ray observatory comptel
+hitomi and the high-resolution soft x-ray spectrometer
+iras
+iso and the short wave spectrometer
+astronomical netherlands satellite ans
+
+
+ technology development 
+
+in various wavelength areas sron’s sensors are already some of the most sensitive in the world however sron is continuously looking for new ways to deploy even more sensitive sensors for the improved detection of cosmic radiation or for measurements of the atmosphere of the earth and other planets this requires long-term investments in the development of new sensors electronics and specialist techniques in the near future detectors shall increasingly take the shape of large chips with many megapixels with a unique combination of two dimensional pictures and spectroscopy color resolving power
+these detectors require the development of new advanced electronics smart control software extreme cooling techniques and novel materials sron develops a new generation of detectors and the necessary read-out and control electronics for international missions in the submillimeter and far-infrared areas for example such extremely sensitive detectors are needed in spica safari so that we can learn more about protoplanetary discs and the formation of planets for spica safari sron is currently working on transition edge sensors tes
+
+
+ national and international partners 
+customers are on the one hand the international organizations with which sron cooperates in bilateral european or global projects on the other hand there is science as the customer scientists from the universities in utrecht groningen and leiden and outside the dutch borders for example with dlr
+
+
+ directors 
+johan bleeker 1983–2003
+karel wakker 2003–2009
+roel gathier 2009–2010 interim
+rens waters 2010–
+
+
+ see also 
+list of space telescopes
+
+
+ references 
+
+
+ external links 
+official website sron

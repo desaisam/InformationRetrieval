@@ -1,0 +1,65 @@
+the outer solar system dwarf planet haumea has two known moons hiʻiaka and namaka named after hawaiian goddesses these small moons were discovered in 2005 from observations of haumea made at the large telescopes of the w m keck observatory in hawaii
+haumeas moons are unusual in a number of ways they are thought to be part of its extended collisional family which formed billions of years ago from icy debris after a large impact disrupted haumeas ice mantle hiʻiaka the larger outermost moon has large amounts of pure water ice on its surface which is rare among kuiper belt objects namaka about one tenth the mass has an orbit with surprising dynamics it is unusually eccentric and appears to be greatly influenced by the larger satellite
+
+
+ history 
+two small satellites were discovered around haumea which was at that time still designated 2003 el61 through observations using the wm keck observatory by a caltech team in 2005
+the outer and larger of the two satellites was discovered january 26 2005 and formally designated s2005 2003 el61 1 though nicknamed rudolph by the caltech team the smaller inner satellite of haumea was discovered on june 30 2005 formally termed s2005 2003 el61 2 and nicknamed blitzen on september 7 2006 both satellites were numbered and admitted into the official minor planet catalogue as 136108 2003 el61 i and ii respectively
+the permanent names of these moons were announced together with that of 2003 el61 by the international astronomical union on september 17 2008 136108 haumea i hiʻiaka and 136108 haumea ii namaka each moon was named after a daughter of haumea the hawaiian goddess of fertility and childbirth hiʻiaka is the goddess of dance and patroness of the big island of hawaii where the mauna kea observatory is located nāmaka is the goddess of water and the sea she cooled her sister peles lava as it flowed into the sea turning it into new landin her legend haumeas many children came from different parts of her body the dwarf planet haumea appears to be almost entirely made of rock with only a superficial layer of ice most of the original icy mantle is thought to have been blasted off by the impact that spun haumea into its current high speed of rotation where the material formed into the small kuiper belt objects in haumeas collisional family there could therefore be additional outer moons smaller than namaka that have not yet been detected however hst observations have confirmed that no other moons brighter than 0.25% of the brightness of haumea exist within the closest tenth of the distance 0.1% of the volume where they could be held by haumeas gravitational influence its hill sphere this makes it unlikely that any more exist
+
+
+ surface properties 
+hiʻiaka is the outer and at roughly 350 km in diameter the larger and brighter of the two moons strong absorption features observed at 1.5 1.65 and 2 μm in its infrared spectrum are consistent with nearly pure crystalline water ice covering much of its surface the unusual spectrum and its similarity to absorption lines in the spectrum of haumea led brown and colleagues to conclude that it was unlikely that the system of moons was formed by the gravitational capture of passing kuiper belt objects into orbit around the dwarf planet instead the haumean moons must be fragments of haumea itselfthe sizes of both moons are calculated with the assumption that they have the same infrared albedo as haumea which is reasonable as their spectra show them to have the same surface composition haumeas albedo has been measured by the spitzer space telescope from ground-based telescopes the moons are too small and close to haumea to be seen independently based on this common albedo the inner moon namaka which is a tenth the mass of hiʻiaka would be about 170 km in diameterthe hubble space telescope hst has adequate angular resolution to separate the light from the moons from that of haumea photometry of the haumea triple system with hsts nicmos camera has confirmed that the spectral line at 1.6 μm that indicates the presence of water ice is at least as strong in the moons spectra as in haumeas spectrumthe moons of haumea are too faint to detect with telescopes smaller than about 2 metres in aperture though haumea itself has a visual magnitude of 17.5 making it the third-brightest object in the kuiper belt after pluto and makemake and easily observable with a large amateur telescope
+
+
+ orbital characteristics 
+
+hiʻiaka orbits haumea nearly circularly every 49 days namaka orbits haumea in 18 days in a moderately elliptical non-keplerian orbit and as of 2008 was inclined 13° with respect to hiʻiaka which perturbs its orbit because the impact that created the moons of haumea is thought to have occurred in the early history of the solar system over the following billions of years it should have been tidally damped into a more circular orbit namakas orbit has likely been disturbed by orbital resonances with the more-massive hiʻiaka due to converging orbits as they moved outward from haumea due to tidal dissipation they may have been caught in and then escaped from orbital resonance several times they currently are in or at least close to an 83 resonance this resonance strongly perturbs namakas orbit which has a current precession of its argument of periapsis by about −6.5° per year a precession period of 55 yearsat present the orbits of the haumean moons appear almost exactly edge-on from earth with namaka having periodically occulted haumea from 2009 to 2011 observation of such transits would provide precise information on the size and shape of haumea and its moons as happened in the late 1980s with pluto and charon the tiny change in brightness of the system during these occultations required at least a medium-aperture professional telescope for detection hiʻiaka last occulted haumea in 1999 a few years before its discovery and will not do so again for some 130 years however in a situation unique among regular satellites the great torquing of namakas orbit by hiʻiaka preserved the viewing angle of namaka–haumea transits for several more years
+
+
+ namaka 
+namaka is the smaller inner moon of the dwarf planet haumea it is named after nāmaka the goddess of the sea in hawaiian mythology and one of the daughters of haumea
+
+
+ discovery 
+namaka was discovered on 30 june 2005 and announced on 29 november 2005 it was nicknamed blitzen by the discovery team before being assigned an official name
+
+
+ physical characteristics 
+namaka is only 1.5% as bright as its parent dwarf planet haumea and is about 0.05% its mass if it turns out to have a similar albedo it would be about 170 km in diameter photometric observations indicate that its surface is made of water ice mutual events between 2009 and 2011 were expected to improve the knowledge of the orbits and masses of the components of the haumean system but interpreting those observations was greatly complicated by the unexpected non-tidally locked spin state of hiʻiaka further observations of hiʻiaka might allow to determine its rotation period and spin state more precisely at which point it should be possible to remove its effect from the data obtained in 2009
+
+
+ hiʻiaka 
+hiʻiaka is the larger outer moon of the dwarf planet haumea
+
+
+ discovery and naming 
+hiʻiaka was the first satellite discovered around haumea it is named after one of the daughters of haumea hiʻiaka the patron goddess of the big island of hawaii though at first it had gone by the nickname rudolph by its discovery team it orbits once every 49.12±0.03 d at a distance of 49880±198 km with an eccentricity of 0.0513±0.0078 and an inclination of 126.356±0.064°
+
+
+ physical characteristics 
+
+
+ size and brightness 
+its measured brightness is 5.9±0.5 translating into a diameter of about 22% of its primary or in the range of 320 km assuming similar infrared albedo to put this in perspective if hiiaka were in the asteroid belt it would be larger than all but the four largest asteroids after 1 ceres 2 pallas 4 vesta and 10 hygiea in spite of its relatively large size however lightcurve studies suggest that hiiaka is not a gravitationally collapsed spheroid they further suggest that hiiaka is not tidally locked and has a rotation period of about 9.8 hours
+
+
+ mass 
+the mass of hiʻiaka is estimated to be 1.79±0.11×1019 kg using precise relative astrometry from hubble telescope and keck telescope and applying 3-body point-mass model to the haumean system
+
+
+ spectrum and composition 
+the near infrared spectrum of hiʻiaka is dominated by water-ice absorption bands which means that its surface is made mainly of water ice the presence of the band centered at 1.65 μm indicates that the surface water ice is primarily in the crystalline form currently it is unclear why water ice on the surface has not turned into amorphous form as would be expected due to its constant irradiation by cosmic rays
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+animation of the orbits of haumeas moons
+international year of astronomy 2009 podcast dwarf planet haumea darin ragozzine
+browns publication describing the discovery of hiʻiaka
+paper describing the composition of hiʻiaka

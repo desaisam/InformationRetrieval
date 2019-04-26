@@ -1,0 +1,78 @@
+the two moons of mars are phobos and deimos both were discovered by asaph hall in august 1877 and are named after the greek mythological twin characters phobos panicfear and deimos terrordread who accompanied their father ares into battle ares god of war was known to the romans as mars
+compared to the earths moon phobos and deimos are small phobos has a diameter of 22.2 km 13.8 mi and a mass of 1.08×1016 kg while these measures for deimos are 12.6 km 7.8 mi and 2.0×1015 kg phobos orbits closer to mars with a semi-major axis of 9,377 km 5,827 mi and an orbital period of 7.66 hours deimoss semi-major axis is 23,460 km 14,580 mi with an orbital period of 30.35 hours 
+
+
+ history 
+
+
+ early speculation 
+
+the existence of the moons of mars had been speculated about since the moons of jupiter were discovered it is known that when galileo as a hidden report about him having observed two bumps on the sides of saturn later discovered to be its rings used the anagram smaismrmilmepoetaleumibunenugttauiras for altissimum planetam tergeminum observavi i have observed the most distant planet to have a triple form johannes kepler had misinterpreted it to mean salve umbistineum geminatum martia proles hello furious twins sons of marsperhaps inspired by kepler and quoting keplers third law of planetary motion jonathan swifts satire gullivers travels 1726 refers to two moons in part 3 chapter 3 the voyage to laputa in which laputas astronomers are described as having discovered two satellites of mars orbiting at distances of 3 and 5 martian diameters with periods of 10 and 21.5 hours phobos and deimos both found in 1877 more than a century after swifts novel have actual orbital distances of 1.4 and 3.5 martian diameters and their respective orbital periods are 7.66 and 30.35 hours in the 20th century v g perminov a spacecraft designer of early soviet mars and venus spacecraft speculated swift found and deciphered records that martians left on earth however the view of most astronomers is that swift was simply employing a common argument of the time that as the inner planets venus and mercury had no satellites earth had one and jupiter had four known at the time that mars by analogy must have two furthermore as they had not yet been discovered it was reasoned that they must be small and close to mars this would lead swift to making a roughly accurate estimate of their orbital distances and revolution periods in addition swift could have been helped in his calculations by his friend the mathematician john arbuthnotvoltaires 1752 short story micromégas about an alien visitor to earth also refers to two moons of mars voltaire was presumably influenced by swift in recognition of these predictions two craters on deimos are named swift and voltaire while on phobos there is one named regio laputa regio and one named planitia lagado planitia both of which are named after places in gullivers travels the fictional laputa a flying island and lagado imaginary capital of the fictional nation balnibarbi many of the craters on phobos are also named after characters in gullivers travels
+
+
+ discovery 
+asaph hall discovered deimos on 12 august 1877 at about 0748 utc and phobos on 18 august 1877 at the us naval observatory in washington dc at about 0914 gmt contemporary sources using the pre-1925 astronomical convention that began the day at noon give the time of discovery as 11 august 1440 and 17 august 1606 washington mean time respectively at the time he was deliberately searching for martian moons hall had previously seen what appeared to be a martian moon on 10 august but due to bad weather he could not definitively identify them until later
+hall recorded his discovery of phobos in his notebook as follows
+
+i repeated the examination in the early part of the night of 11th august 1877 and again found nothing but trying again some hours later i found a faint object on the following side and a little north of the planet i had barely time to secure an observation of its position when fog from the river stopped the work this was at half past two oclock on the night of the 11th cloudy weather intervened for several days
+on 15 august the weather looking more promising i slept at the observatory the sky cleared off with a thunderstorm at 11 oclock and the search was resumed the atmosphere however was in a very bad condition and mars was so blazing and unsteady that nothing could be seen of the object which we now know was at that time so near the planet as to be invisible
+on 16 august the object was found again on the following side of the planet and the observations of that night showed that it was moving with the planet and if a satellite was near one of its elongations until this time i had said nothing to anyone at the observatory of my search for a satellite of mars but on leaving the observatory after these observations of the 16th at about three oclock in the morning i told my assistant george anderson to whom i had shown the object that i thought i had discovered a satellite of mars i told him also to keep quiet as i did not wish anything said until the matter was beyond doubt he said nothing but the thing was too good to keep and i let it out myself on 17 august between one and two oclock while i was reducing my observations professor newcomb came into my room to eat his lunch and i showed him my measures of the faint object near mars which proved that it was moving with the planet
+on 17 august while waiting and watching for the outer moon the inner one was discovered the observations of the 17th and 18th put beyond doubt the character of these objects and the discovery was publicly announced by admiral rodgers
+the telescope used for the discovery was the 26-inch 66 cm refractor telescope with a lens then located at foggy bottom in 1893 the lens was remounted and put in a new dome where it remains into the 21st centurythe names originally spelled phobus and deimus respectively were suggested by henry madan 1838–1901 science master of eton from book xv of the iliad where ares summons fear and fright
+
+
+ mars moon hoax 
+in 1959 walter scott houston perpetrated a celebrated april fools hoax in the april edition of the great plains observer claiming that dr arthur hayall of the university of the sierras reports that the moons of mars are actually artificial satellites both dr hayall and the university of the sierras were fictitious the hoax gained worldwide attention when houstons claim was repeated in earnest by a soviet scientist iosif shklovsky who based on a later-disproven density estimate suggested phobos was a hollow metal shell
+
+
+ recent surveys 
+searches have been conducted for additional satellites in 2003 scott s sheppard and david c jewitt surveyed nearly the entire hill sphere of mars for irregular satellites however scattered light from mars prevented them from searching the inner few arcminutes where the satellites phobos and deimos reside no new satellites were found to an apparent limiting red magnitude of 23.5 which corresponds to radii of about 0.09 km using an albedo of 0.07
+
+
+ characteristics 
+
+if viewed from marss surface near its equator full phobos looks about one third as big as a full moon on earth it has an angular diameter of between 8 rising and 12 overhead due to its close orbit it would look smaller when the observer is further away from the martian equator and is below the horizon and thus invisible when viewed from marss polar ice caps deimos looks more like a bright star or planet for an observer on mars only slightly bigger than venus looks from earth it has an angular diameter of about 2 the suns angular diameter as seen from mars by contrast is about 21 thus there are no total solar eclipses on mars as the moons are far too small to completely cover the sun on the other hand total lunar eclipses of phobos are very common happening almost every nightthe motions of phobos and deimos would appear very different from that of our own moon speedy phobos rises in the west sets in the east and rises again in just eleven hours while deimos being only just outside synchronous orbit rises as expected in the east but very slowly despite its 30-hour orbit it takes 2.7 days to set in the west as it slowly falls behind the rotation of mars
+both moons are tidally locked always presenting the same face towards mars since phobos orbits mars faster than the planet itself rotates tidal forces are slowly but steadily decreasing its orbital radius at some point in the future when it approaches mars closely enough see roche limit phobos will be broken up by these tidal forces several strings of craters on the martian surface inclined further from the equator the older they are suggest that there may have been other small moons that suffered the fate expected of phobos and that the martian crust as a whole shifted between these events deimos on the other hand is far enough away that its orbit is being slowly boosted instead as in the case of our own moon
+
+
+ orbital details 
+
+
+ origin 
+
+the origin of the martian moons is still controversial phobos and deimos both have much in common with carbonaceous c-type asteroids with spectra albedo and density very similar to those of c- or d-type asteroids based on their similarity one hypothesis is that both moons may be captured main-belt asteroids both moons have very circular orbits which lie almost exactly in marss equatorial plane and hence a capture origin requires a mechanism for circularizing the initially highly eccentric orbit and adjusting its inclination into the equatorial plane most probably by a combination of atmospheric drag and tidal forces although it is not clear that sufficient time is available for this to occur for deimos capture also requires dissipation of energy the current atmosphere of mars is too thin to capture a phobos-sized object by atmospheric braking geoffrey landis has pointed out that the capture could have occurred if the original body was a binary asteroid that separated under tidal forcesphobos could be a second-generation solar system object that coalesced in orbit after mars formed rather than forming concurrently out of the same birth cloud as marsanother hypothesis is that mars was once surrounded by many phobos- and deimos-sized bodies perhaps ejected into orbit around it by a collision with a large planetesimal the high porosity of the interior of phobos based on the density of 1.88 gcm3 voids are estimated to comprise 25 to 35 percent of phobos volume is inconsistent with an asteroidal origin observations of phobos in the thermal infrared suggest a composition containing mainly phyllosilicates which are well known from the surface of mars the spectra are distinct from those of all classes of chondrite meteorites again pointing away from an asteroidal origin both sets of findings support an origin of phobos from material ejected by an impact on mars that reaccreted in martian orbit similar to the prevailing theory for the origin of earths moon
+the moons of mars may have started with a huge collision with a protoplanet one third the mass of mars that formed a ring around mars the inner part of the ring formed a large moon gravitational interactions between this moon and the outer ring formed phobos and deimos later the large moon crashed into mars but the two small moons remained in orbit this theory agrees with the fine-grained surface of the moons and their high porosity the outer disk would create fine-grained material
+
+
+ exploration 
+
+while many martian probes provided images and other data about phobos and deimos only few were dedicated to these satellites and intended to perform a flyby or landing on the surface
+two probes under the soviet phobos program were successfully launched in 1988 but neither conducted the intended jumping landings on phobos and deimos due to failures although phobos 2 successfully photographed phobos the post-soviet russian fobos-grunt probe was intended to be the first sample return mission from phobos but a rocket failure left it stranded in earth orbit in 2011
+in 1997 and 1998 the aladdin mission was selected as a finalist in the nasa discovery program the plan was to visit both phobos and deimos and launch projectiles at the satellites the probe would collect the ejecta as it performed a slow flyby these samples would be returned to earth for study three years later ultimately nasa rejected this proposal in favor of messenger a probe to mercury
+in 2007 the european space agency and eads astrium proposed and developed a mission to phobos in 2016 with a lander and sample return but this mission was never flown since 2007 the canadian space agency has been considering the prime mission to phobos with orbiter and lander since 2008 nasa glenn research center began studying a phobos and deimos sample return mission since 2013 nasa developed the phobos surveyor mission concept with an orbiter and a small rover that is proposed to launch sometime after 2023 proposed nasas padme mission proposes to launch in 2020 and reach mars orbit in 2021 to conduct multiple flybys of the martian moons also nasa is assessing the osiris-rex ii concept mission for a sample return from phobos another sample return mission from deimos called gulliver has been conceptualized russia plans to repeat fobos-grunt mission around 2024
+
+
+ gallery 
+
+		
+		
+
+
+ see also 
+list of missions to the moons of mars
+mars trojan
+transit of deimos from mars
+transit of phobos from mars
+
+
+ references 
+
+
+ further reading 
+first international conference on the exploration of phobos and deimos 2007
+pascal lee – a case for the human exploration of the moons of mars 2007 pdf
+
+
+ external links 
+gazetteer of planetary nomenclature – mars usgs
+interactive 3d visualisation of the orbits of mars and its moons phobos and deimos

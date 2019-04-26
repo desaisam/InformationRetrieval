@@ -1,0 +1,55 @@
+remote sensing techniques in archaeology are an increasingly important component of the technical and methodological tool set available in archaeological research the use of remote sensing techniques allows archaeologists to uncover unique data that is unobtainable using traditional archaeological excavation techniques
+
+
+ general techniques 
+remote sensing methods employed in the service of archaeological investigations include
+
+aerial uav and satellite imaging
+aerial photography
+multispectral and hyperspectral sensors
+thermal infrared multispectral scanner tims
+color infrared film cir
+microwave radar
+satellite imaging
+laser altimeters or light detection and ranging lidar
+synthetic aperture radar sar
+insar - interferometric sarground-based geophysical methods such as ground penetrating radar and magnetometry are also used for archaeological imaging although these are sometimes classed as remote sensing they are usually considered a separate discipline see geophysical survey archaeology
+
+
+ satellite archaeology 
+satellite archaeology is an emerging field of archaeology that uses high resolution satellites with thermal and infrared capabilities to pinpoint potential sites of interest in the earth around a meter or so in depth the infrared light used by these satellites have longer wavelengths than that of visible light and are therefore capable of penetrating the earths surface the images are then taken and processed by an archaeologist who specializes in satellite remote sensing in order to find any subtle anomalies on the earths surface
+landscape features such as soil vegetation geology and man-made structures of possible cultural interest have specific signatures that the multi-spectral satellites can help to identify the satellites can then make a 3d image of the area to show if there are any man-made structures beneath soil and vegetation that can not be seen by the naked eye commercially available satellites have a 4m-90m resolution that make it possible to see most ancient sites and their associated features in such places as egypt perù and mexico it is a hope of archaeologists that in the next few decades resolutions will improve to the point where they are capable of zooming in on a single pottery shard buried beneath the earths surface
+satellite archaeology is a non-invasive method for mapping and monitoring potential archaeological sites in an ever changing world that faces issues such as urbanization looting and groundwater pollution that could pose threats to such sites in spite of this satellites in archaeology are mostly a tool for broad scale survey and focused excavation all archaeological projects need ground work in order to verify any potential findings
+
+
+ examples of regional applications 
+
+
+ maya research 
+some of the most prominent remote sensing research has been done in regard to maya studies in mesoamerica the petén region of northern guatemala is of particular focus because remote sensing technology is of very definite use there the petén is a densely forested region and it lacks modern settlements and infrastructure as a result it is extremely difficult to survey and because of this remote sensing offers a solution to this research problem the use of remote sensing techniques in this region is a great example of the applications these methods have for archaeologists the petén is a hilly karstic thickly forested landscape which offers an incredible barrier for field archaeologists to penetrate with the advent of remote sensing techniques a plethora of information has been uncovered about the region and about the people that inhabited it
+the petén is arguably one of the most difficult of the maya landscapes in which to subsist it is questions regarding subsistence patterns and related problems that have driven remote sensing methodology in the hopes of understanding the complex adaptations that the maya developed remote sensing methods have also proven invaluable when working to discover features cisterns and temples archaeologists have identified vegetative differentiation associated with such features with the advent of remote sensing archaeologists are able to pinpoint and study the features hidden beneath this canopy without ever visiting the jungle
+a pioneer in the use of remote sensing in maya research is nasa archaeologist tom sever who has applied remote sensing to research in maya site discovery as well as mapping causeways sacbeob and roads sever has stressed the enormous use of remote sensing in uncovering settlement patterns population densities societal structure communication and transportation sever has done much of his research in the petén region of northern guatemala where he and his research team have used satellite imagery and gis to map undiscovered roads and causeways the ancient maya built to connect cities and settlements these landscape artifacts represent the advantage of using remote sensing as these causeways are not visible from the ground by mapping these forms sever is able to locate new sites and further uncover ancient maya methods of communicated and transportation sever and his team also use remote sensing methods to gather data on deforestation the rain forests of the petén are undergoing massive deforestation and severs remote sensing offers another window into this understanding and halting this problem monitoring the rate of deforestation not only has important ecological value but the use of remote sensing can detect landscape change by measuring the magnitude of landscape change in terms of vegetative cover and soil geography as well as shifting land use patterns and the associated cultural diversity archaeologists are given a window into depletion rates and trends in anthropogenic landscape alterationmuch attention has been devoted to the mapping of canals and irrigation systems synthetic aperture radar sar has proved particularly useful in this research sar is a type of radar that is sensitive to linear and geometric features on the ground it is also important to include a method called ground truthing or the process of physically visiting on foot the localities surveyed to verify the data and help inform the interpretation gps is often used to aid in this process
+ground-based geophysical methods have also been employed in maya research ground penetrating radar gpr has been performed on a number of sites including chichen itza the gpr research has detected buried causeways and structures that might have otherwise gone unnoticed
+
+
+ maya collapse 
+
+one of severs research goals is understanding the comparatively sudden decline of many maya centers in the central lowlands region by the end of the 1st millennium ce a happenstance often referred to as the classic maya collapse severs research on communication and transportation systems points to an extensive societal infrastructure capable of supporting the building and maintenance of the causeways and roadways using satellite imagery researchers have been able to map canals and reservoirs these offer a glimpse into maya cultural adaptations during the period of their highest population density at the height of the classic period the population in the maya lowlands was 500 - 1300 people per square mile in rural areas and even more in urban regions this far outweighs the carrying capacity for this region but this follows centuries of successful adaptation other data shows that by the end of the classic period the maya had already depleted much of the rain forest  understanding how the ancient maya adapted to this karst topography could shed light on solutions to modern ecological problems that modern peoples in the petén currently face which is much the same except there are fewer people who are causing even more damage to the biodiversity and cultural diversity sever believes that the maya collapse was a primarily ecological disaster by detecting deforestation rates and trends can help us to understand how these same processes affected the maya
+an important contribution to the study of maya has been provided by lidar thanks to its ability to penetrate dense tropical canopies lidar has been applied to the site of caracol belize in 2009 revealing an impressive monumental complex covered by jungle
+
+
+ satellite archaeology in peru 
+in peru an  italian scientific mission of cnr directed by nicola masini provided important results by using satellite imagery for both site discovery and  the protection of archaeological heritage in particular by processing quickbird images a large buried  settlement including a pyramid in the nasca riverbed southern peru near the ceremonial center of cahuachi has been detected in the region of lambayeque northern peru which is strongly affected by clandestine excavations satellite imagery have been also employed for mapping and monitoring archaeological looting
+
+
+ location of ancient iram 
+iram of the pillars is a lost city or region surrounding the lost city on the arabian peninsula in the early 1980s a group of researchers interested in the history of iram used nasa remote sensing satellites ground penetrating radar landsat program data and images taken from the space shuttle challenger as well as spot data to identify old camel train routes and points where they converged these roads were used as frankincense trade routes around 2800 bc to 100 bc
+one area in the dhofar province of oman was identified as a possible location for an outpost of the lost civilization a team including adventurer ranulph fiennes archaeologist juris zarins filmmaker nicholas clapp and lawyer george hedges scouted the area on several trips and stopped at a water well called ash shisar near this oasis was located a site previously identified as the 16th century shisr fort excavations uncovered an older settlement and artifacts traded from far and wide were found  this older fort was found to have been built on top of a large limestone cavern which would have served as the water source for the fort making it an important oasis on the trade route to iram  as the residents of the fort consumed the water from underground the water table fell leaving the limestone roof and walls of the cavern dry without the support of the water the cavern would have been in danger of collapse and it seems to have done so some time between 300-500 ad destroying the oasis and covering over the water source
+four subsequent excavations were conducted by dr juris zarins tracing the historical presence by the people of ad the assumed ancestral builders of iram
+
+
+ egypt and the roman empire 
+archaeologist dr sarah parcak uses satellites to search for sub-surface remains as described in her ted talk on the subject of space archaeology and uses of citizen science parcak uses these satellites to hunt to for lost settlements tombs and pyramids in egypts nile delta she has also prospectively identified several significant sites in various parts of the ancient roman empire
+
+
+ references 

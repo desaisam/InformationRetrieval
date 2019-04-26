@@ -1,0 +1,169 @@
+weightlessness is the complete or near complete absence of the sensation of weight this is also termed zero-g although the term is more correctly zero g-force it occurs in the absence of any contact forces upon objects including the human body
+the forces which support bodies at rest in a relatively strong gravitational field such as on the surface of the earth is normally perceived as weight these weight-sensations originate from contact with supporting floors seats beds scales and the like a sensation of weight is also produced even when the gravitational field is zero when contact forces act upon and overcome a bodys inertia by mechanical non-gravitational forces- such as in a centrifuge a rotating space station or within an accelerating vehicle
+when the gravitational field is non-uniform a body in free fall experiences tidal effects and is not stress-free near a black hole such tidal effects can be very strong in the case of the earth the effects are minor especially on objects of relatively small dimension such as the human body or a spacecraft and the overall sensation of weightlessness in these cases is preserved this condition is known as microgravity and it prevails in orbiting spacecraft
+
+
+ weightlessness in newtonian mechanics 
+
+in newtonian mechanics the term weight is given two distinct interpretations by engineers
+
+weight1 under this interpretation the weight of a body is the gravitational force exerted on the body and this is the notion of weight that prevails in engineering near the surface of the earth a body whose mass is 1 kg has a weight of approximately 9.81 n independent of its state of motion free fall or not weightlessness in this sense can be achieved by removing the body far away from the source of gravity it can also be attained by placing the body at a neutral point between two gravitating massesweight2 weight can also be interpreted as that quantity which is measured when one uses scales what is being measured there is the force exerted by the body on the scales in a standard weighing operation the body being weighed is in a state of equilibrium as a result of a force exerted on it by the weighing machine cancelling the gravitational field by newtons 3rd law there is an equal and opposite force exerted by the body on the machine this force is called weight2 the force is not gravitational typically it is a contact force and not uniform across the mass of the body  if the body is placed on the scales in a lift an elevator in free fall in pure uniform gravity the scale would read zero and the body said to be weightless ie its weight2  0 this describes the condition in which the body is stress free and undeformed this is the weightlessness in free fall in a uniform gravitational field the situation is more complicated when the gravitational field is not uniform or when a body is subject to multiple forces which may for instance cancel each other and produce a state of stress albeit weight2 being zero see belowto sum up we have two notions of weight of which weight1 is dominant yet weightlessness is typically exemplified not by absence of weight1 but by the absence of stress associated with weight2 this is the intended sense of weightlessness in what follows below
+a body is stress free exerts zero weight2 when the only force acting on it is weight1 as when in free fall in a uniform gravitational field without subscripts one ends up with the odd-sounding conclusion that a body is weightless when the only force acting on it is its weight
+the apocryphal apple that fell on newtons head can be used to illustrate the issues involved an apple weighs approximately 1 newton  this is the weight1 of the apple and is considered to be a constant even while it is falling during that fall its weight2 however is zero ignoring air resistance the apple is stress free when it hits newton the sensation felt by newton would depend upon the height from which the apple falls and weight2 of the apple at the moment of impact may be many times greater than 1 n it was great enough—in the story—to make the great man invent the theory of gravity it is this weight2 which distorts the apple on its way down the apple in its free fall does not suffer any distortion as the gravitational field is uniform
+
+
+ stress during free fall 
+in a uniform gravitational field consider any cross-section dividing the body into two parts both parts have the same acceleration and the force exerted on each is supplied by the external source of the field there is no force exerted by one part on the other stress at the cross-section is zero weight2 is zero
+in a non-uniform gravitational field under gravity alone one part of the body may have a different acceleration from another part this would tend to deform the body and generate internal stresses if the body resists deformation weight2 is not 0throughout this discussion on using stress as an indicator of weight any pre-stress which may exist within a body caused by a force exerted on one part by another is not relevant the only relevant stresses are those generated by external forces applied to the body
+the definition and use of weightlessness is difficult unless it is understood that the sensation of weight in everyday terrestrial experience results not from gravitation acting alone which is not felt but instead by the mechanical forces that resist gravity an object in a straight free fall or in a more complex inertial trajectory of free fall such as within a reduced gravity aircraft or inside a space station all experience weightlessness since they do not experience the mechanical forces that cause the sensation of weight
+
+
+ force fields other than gravity 
+as noted above weightlessness occurs when
+
+no resultant force acts on the object
+uniform gravity acts solely by itselffor the sake of completeness a 3rd minor possibility has to be added this is that a body may be subject to a field which is not gravitational but such that the force on the object is uniformly distributed across the objects mass an electrically charged body uniformly charged in a uniform electric field is a possible example electric charge here replaces the usual gravitational charge such a body would then be stress free and be classed as weightless various types of levitation may fall into this category at least approximately
+
+
+ weightlessness and proper acceleration 
+a body in free fall which by definition entails no aerodynamic forces near the surface of the earth has an acceleration approximately equal to 9.8 m s−2 with respect to a coordinate frame tied to the earth if the body is in a freely falling lift and subject to no pushes or pulls from the lift or its contents the acceleration with respect to the lift would be zero if on the other hand  the body is subject to forces exerted by other bodies within the lift it will have an acceleration with respect to the freely falling lift this acceleration which is not due to gravity is called proper acceleration on this approach weightlessness holds when proper acceleration is zero
+
+
+ how to avoid weightlessness 
+weightlessness is in contrast with current human experiences in which a non-uniform force is acting such as
+
+standing on the ground sitting in a chair on the ground etc where gravity is countered by the support force of the ground
+flying in a plane where a support force is transmitted from the lift the wings provide special trajectories which form an exception are described below
+during atmospheric reentry or during the use of a parachute when atmospheric drag decelerates a vehicle
+during an orbital maneuver in a spacecraft or during the launch phase when rocket engines provide thrustin cases where an object is not weightless as in the above examples a force acts non-uniformly on the object in question aero-dynamic lift drag and thrust are all non-uniform forces they are applied at a point or surface rather than acting on the entire mass of an object and thus create the phenomenon of weight this non-uniform force may also be transmitted to an object at the point of contact with a second object such as the contact between the surface of the earth and ones feet or between a parachute harness and ones body
+
+
+ tidal forces 
+
+tidal forces arise when the gravitational field is not uniform and gravitation gradients exist such indeed is the norm and strictly speaking any object of finite size even in free-fall is subject to tidal effects these are impossible to remove by inertial motion except at one single nominated point of the body
+the earth is in free fall but the presence of tides indicates that it is in a non-uniform gravitational field this non-uniformity is more due to the moon than the sun the total gravitational field due to the sun is much stronger than that of the moon but it has a minor tidal effect compared with that of the moon because of the relative distances involved weight1 of the earth is essentially due to the suns gravity but its state of stress and deformation represented by the tides is more due to non uniformity in the gravitational field of the nearby moon
+when the size of a region being considered is small relative to its distance from the gravitating mass the assumption of uniform gravitational field holds to a good approximation thus a person is small relative to the radius of earth and the field for a person at the surface of the earth is approximately uniform the field is strictly not uniform and is responsible for the phenomenon of microgravity objects near a black hole are subject to a highly non-uniform gravitational field
+
+
+ frames of reference 
+in all inertial reference frames while weightlessness is experienced newtons first law of motion is obeyed locally within the frame inside the frame for example inside an orbiting ship or free-falling elevator unforced objects keep their velocity relative to the frame objects not in contact with other objects float freely if the inertial trajectory is influenced by gravity the reference frame will be an accelerated frame as seen from a position outside the gravitational attraction and seen from far away the objects in the frame elevator etc will appear to be under the influence of a force the so-called force of gravity as noted objects subject solely to gravity do not feel its effects weightlessness can thus be realised for short periods of time in an airplane following a specific elliptic flight path often mistakenly called a parabolic flight it is simulated poorly with many differences in neutral buoyancy conditions such as immersion in a tank of water
+
+
+ zero-g zero gravity accelerometers 
+zero-g is an alternative term for weightlessness and holds for instance in a freely falling lift zero-g is subtly different from the complete absence of gravity something which is impossible due to the presence of gravity everywhere in the universe zero-gravity may also be used to mean effective weightlessness neglecting tidal effects microgravity or μg is used to refer to situations that are substantially weightless but where g-force stresses within objects due to tidal effects as discussed above are around a millionth of that at the earths surface
+accelerometers can only detect g-force ie weight2  mass × proper acceleration they cannot detect the acceleration associated with free fall
+
+
+ sensation of weight 
+humans experience their own body weight as a result of this supporting force which results in a normal force applied to a person by the surface of a supporting object on which the person is standing or sitting in the absence of this force a person would be in free-fall and would experience weightlessness it is the transmission of this reaction force through the human body and the resultant compression and tension of the bodys tissues that results in the sensation of weight
+because of the distribution of mass throughout a persons body the magnitude of the reaction force varies between a persons feet and head at any horizontal cross-section of a persons body as with any column the size of the compressive force being resisted by the tissues below the cross-section is equal to the weight of the portion of the body above the cross-section in the pose adopted in the accompanying illustration the shoulders carry the weight of the outstretched arms and are subject to a considerable torque
+
+
+ a common misconception 
+a common conception about spacecraft orbiting the earth is that they are operating in a gravity free environment although there is a way of making sense of this within the physics of einsteins general relativity within newtonian physics this is technically inaccurate 
+
+spacecraft are held in orbit by the gravity of the planet which they are orbiting in newtonian physics the sensation of weightlessness experienced by astronauts is not the result of there being zero gravitational acceleration as seen from the earth but of there being no g-force that an astronaut can feel because of the free-fall condition and also there being zero difference between the acceleration of the spacecraft and the acceleration of the astronaut space journalist james oberg explains the phenomenon this way
+the myth that satellites remain in orbit because they have escaped earths gravity is perpetuated further and falsely by almost universal misuse of the word zero gravity to describe the free-falling conditions aboard orbiting space vehicles of course this isnt true gravity still exists in space it keeps satellites from flying straight off into interstellar emptiness whats missing is weight the resistance of gravitational attraction by an anchored structure or a counterforce satellites stay in space because of their tremendous horizontal speed which allows them—while being unavoidably pulled toward earth by gravity—to fall over the horizon the grounds curved withdrawal along the earths round surface offsets the satellites fall toward the ground speed not position or lack of gravity keeps satellites in orbit around the earth
+
+a geostationary satellite is of special interest in this context unlike other objects in the sky which rise and set an object in a geostationary orbit appears motionless in the sky apparently defying gravity in fact it is in a circular equatorial orbit with a period of one day
+
+
+ relativity 
+to a modern physicist working with einsteins general theory of relativity the situation is even more complicated than is suggested above einsteins theory suggests that it actually is valid to consider that objects in inertial motion such as falling in an elevator or in a parabola in an airplane or orbiting a planet can indeed be considered to experience a local loss of the gravitational field in their rest frame thus in the point of view or frame of the astronaut or orbiting ship there actually is nearly-zero proper acceleration the acceleration felt locally just as would be the case far out in space away from any mass it is thus valid to consider that most of the gravitational field in such situations is actually absent from the point of view of the falling observer just as the colloquial view suggests see equivalence principle for a fuller explanation of this point however this loss of gravity for the falling or orbiting observer in einsteins theory is due to the falling motion itself and again as in newtons theory not due to increased distance from the earth however the gravity nevertheless is considered to be absent in fact einsteins realization that a pure gravitational interaction cannot be felt if all other forces are removed was the key insight to leading him to the view that the gravitational force can in some ways be viewed as non-existent rather objects tend to follow geodesic paths in curved space-time and this is explained as a force by newtonian observers who assume that space-time is flat and thus do not have a reason for curved paths ie the falling motion of an object near a gravitational source
+in the theory of general relativity the only gravity which remains for the observer following a falling path or inertial path near a gravitating body is that which is due to non-uniformities which remain in the gravitational field even for the falling observer this non-uniformity which is a simple tidal effect in newtonian dynamics constitutes the microgravity which is felt by all spacially-extended objects falling in any natural gravitational field that originates from a compact mass the reason for these tidal effects is that such a field will have its origin in a centralized place the compact mass and thus will diverge and vary slightly in strength according to distance from the mass it will thus vary across the width of the falling or orbiting object thus the term microgravity an overly technical term from the newtonian view is a valid and descriptive term in the general relativistic einsteinian view
+
+
+ microgravity 
+
+the term micro-g environment also μg often referred to by the term microgravity is more or less a synonym of weightlessness and zero-g but indicates that g-forces are not quite zero just very small
+
+
+ weightless and reduced weight environments 
+
+
+ reduced weight in aircraft 
+
+airplanes have been used since 1959 to provide a nearly weightless environment in which to train astronauts conduct research and film motion pictures such aircraft are commonly referred by the nickname vomit comet
+to create a weightless environment the airplane flies in a six-mile long parabolic arc first climbing then entering a powered dive during the arc the propulsion and steering of the aircraft are controlled such that the drag air resistance on the plane is cancelled out leaving the plane to behave as it would if it were free-falling in a vacuum  during this period the planes occupants experience 22 seconds of weightlessness before experiencing about 22 seconds of 1.8 g acceleration nearly twice their normal weight during the pull-out from the parabola a typical flight lasts around two hours during which 30 parabolae are flown
+
+
+ nasas reduced gravity aircraft 
+versions of such airplanes have been operated by nasas reduced gravity research program since 1973 where the unofficial nickname originated nasa later adopted the official nickname weightless wonder for publication nasas current reduced gravity aircraft weightless wonder vi a mcdonnell douglas c-9 is based at ellington field kefd near lyndon b johnson space center
+nasas microgravity university - reduced gravity flight opportunities plan also known as the reduced gravity student flight opportunities program allows teams of undergraduates to submit a microgravity experiment proposal if selected the teams design and implement their experiment and students are invited to fly on nasas vomit comet
+
+
+ european space agency a310 zero-g 
+the european space agency flies parabolic flights on a specially-modified airbus a310-300 aircraft in order to perform research in microgravity as well european esa french cnes and german dlr fly campaigns of three flights on consecutive days each flying about 30 parabolas for a total of about 10 minutes of weightlessness per flight  these campaigns are currently operated from bordeaux - mérignac airport in france by the company novespace a subsidiary of french cnes while the aircraft is flown by test pilots from dga essais en vol the first esa zero-g flights were in 1984 using a nasa kc-135 aircraft in houston texas as of may 2010 the esa has flown 52 campaigns and also 9 student parabolic flight campaignsother aircraft it has used include the russian ilyushin il-76 mdk before founding novespace and using then a french caravelle then an airbus a300 zero-g and now an airbus a310 
+
+
+ commercial flights for public passengers 
+
+novespace created air zero g in 2012 to share the experience of weightlessness to 40 public passengers per flight using the same a310 zero-g than for scientific experiences these flights are sold by avico are mainly operated from bordeaux-merignac france and intend to promote european space research allowing public passengers to feel weightlessness jean-françois clervoy chairman of novespace and esa astronaut flies with air zero g one-day-astronauts on board a310 zero-g after the flight he explains the quest of space and talks about the 3 space travels he did along his career the aircraft has also been used for cinema purposes with tom cruise and annabelle wallis for the mummy in 2017the zero gravity corporation founded in 1993 by peter diamandis byron lichtenberg and ray cronise operates a modified boeing 727 which flies parabolic arcs to create 25–30 seconds of weightlessness flights may be purchased for both tourism and research purposes
+
+
+ ground-based drop facilities 
+
+ground-based facilities that produce weightless conditions for research purposes are typically referred to as drop tubes or drop towers
+nasas zero gravity research facility located at the glenn research center in cleveland ohio is a 145-meter vertical shaft largely below the ground with an integral vacuum drop chamber in which an experiment vehicle can have a free fall for a duration of 5.18 seconds falling a distance of 132 meters the experiment vehicle is stopped in approximately 4.5 meters of pellets of expanded polystyrene and experiences a peak deceleration rate of 65g
+also at nasa glenn is the 2.2 second drop tower which has a drop distance of 24.1 meters experiments are dropped in a drag shield in order to reduce the effects of air drag the entire package is stopped in a 3.3 meter tall air bag at a peak deceleration rate of approximately 20g while the zero gravity facility conducts one or two drops per day the 2.2 second drop tower can conduct up to twelve drops per day
+nasas marshall space flight center hosts another drop tube facility that is 105 meters tall and provides a 4.6 second free fall under near-vacuum conditionshumans cannot utilize these gravity shafts as the deceleration experienced by the drop chamber would likely kill or seriously injure anyone using them 20g is about the highest deceleration that a fit and healthy human can withstand momentarily without sustaining injuryother drop facilities worldwide include
+
+micro-gravity laboratory of japan mglab – 4.5 s free fall
+experimental drop tube of the metallurgy department of grenoble – 3.1 s free fall
+fallturm bremen university of bremen in bremen – 4.74 s free fall
+queensland university of technology drop tower - 2.0 s free fall
+
+
+ neutral buoyancy 
+conditions similar to some in weightlessness can also be simulated by creating the condition of neutral buoyancy in which human subjects and equipment are placed in a water environment and weighted or buoyed until they hover in place  nasa uses neutral buoyancy to prepare for extra-vehicular activity eva at its neutral buoyancy laboratory  neutral buoyancy is also used for eva research at the university of marylands space systems laboratory which operates the only neutral buoyancy tank at a college or university
+neutral buoyancy is not identical to weightlessness gravity still acts on all objects in a neutral buoyancy tank thus astronauts in neutral buoyancy training still feel their full body weight within their spacesuits although the weight is well-distributed similar to force on a human body in a water bed or when simply floating in water the suit and astronaut together are under no net force as for any object that is floating or supported in water such as a scuba diver at neutral buoyancy water also produces drag which is not present in vacuum
+
+
+ weightlessness in a spacecraft 
+
+long periods of weightlessness occur on spacecraft outside a planets atmosphere provided no propulsion is applied and the vehicle is not rotating weightlessness does not occur when a spacecraft is firing its engines or when re-entering the atmosphere even if the resultant acceleration is constant  the thrust provided by the engines acts at the surface of the rocket nozzle rather than acting uniformly on the spacecraft and is transmitted through the structure of the spacecraft via compressive and tensile forces to the objects or people inside
+weightlessness in an orbiting spacecraft is physically identical to free-fall with the difference that gravitational acceleration causes a net change in the direction rather than the magnitude of the spacecrafts velocity  this is because the acceleration vector is perpendicular to the velocity vector
+in typical free-fall the acceleration of gravity acts along the direction of an objects velocity linearly increasing its speed as it falls toward the earth or slowing it down if it is moving away from the earth  in the case of an orbiting spacecraft which has a velocity vector largely perpendicular to the force of gravity gravitational acceleration does not produce a net change in the objects speed but instead acts centripetally to constantly turn the spacecrafts velocity as it moves around the earth because the acceleration vector turns along with the velocity vector they remain perpendicular to each other without this change in the direction of its velocity vector the spacecraft would move in a straight line leaving the earth altogether
+
+
+ weightlessness at the center of a planet 
+the net gravitational force due to a spherically symmetrical planet is zero at the center this is clear because of symmetry and also from newtons shell theorem which states that the net gravitational force due to a spherically symmetric shell eg a hollow ball is zero anywhere inside the hollow space thus the material at the center is weightless
+
+
+ human health effects 
+
+following the advent of space stations that can be inhabited for long periods exposure to weightlessness has been demonstrated to have some deleterious effects on human health humans are well-adapted to the physical conditions at the surface of the earth in response to an extended period of weightlessness various physiological systems begin to change and atrophy though these changes are usually temporary long term health issues can result
+the most common problem experienced by humans in the initial hours of weightlessness is known as space adaptation syndrome or sas commonly referred to as space sickness symptoms of sas include nausea and vomiting vertigo headaches lethargy and overall malaise the first case of sas was reported by cosmonaut gherman titov in 1961 since then roughly 45% of all people who have flown in space have suffered from this condition the duration of space sickness varies but in no case has it lasted for more than 72 hours after which the body adjusts to the new environment nasa jokingly measures sas using the garn scale named for united states senator jake garn whose sas during sts-51-d was the worst on record accordingly one garn is equivalent to the most severe possible case of sasthe most significant adverse effects of long-term weightlessness are muscle atrophy see reduced muscle mass strength and performance in space for more information and deterioration of the skeleton or spaceflight osteopenia these effects can be minimized through a regimen of exercise such as cycling for example astronauts subject to long periods of weightlessness wear pants with elastic bands attached between waistband and cuffs to compress the leg bones and reduce osteopenia  other significant effects include fluid redistribution causing the moon-face appearance typical of pictures of astronauts in weightlessness a slowing of the cardiovascular system as blood flow decreases in response to a lack of gravity a decreased production of red blood cells balance disorders and a weakening of the immune system lesser symptoms include loss of body mass nasal congestion sleep disturbance excess flatulence and puffiness of the face  these effects begin to reverse quickly upon return to the earth
+in addition after long space flight missions astronauts may experience severe eyesight problems such eyesight problems may be a major concern for future deep space flight missions including a manned mission to the planet mars exposure to high levels of radiation may influence the development of atherosclerosis alsoon december 31 2012 a nasa-supported study reported that manned spaceflight may harm the brains of astronauts and accelerate the onset of alzheimers disease in october 2015 the nasa office of inspector general issued a health hazards report related to human spaceflight including a human mission to mars
+
+
+ effects on non-human organisms 
+
+russian scientists have observed differences between cockroaches conceived in space and their terrestrial counterparts the space-conceived cockroaches grew more quickly and also grew up to be faster and tougherchicken eggs that are put in microgravity two days after fertilization appear not to develop properly whereas eggs put in microgravity more than a week after fertilization develop normallya 2006 space shuttle experiment found that salmonella typhimurium a bacterium that can cause food poisoning became more virulent when cultivated in space on april 29 2013 scientists in rensselaer polytechnic institute funded by nasa reported that during spaceflight on the international space station microbes seem to adapt to the space environment in ways not observed on earth and in ways that can lead to increases in growth and virulenceunder certain test conditions microbes have been observed to thrive in the near-weightlessness of space and to survive in the vacuum of outer space
+
+
+ technical adaptation in zero-gravity 
+
+weightlessness can cause serious problems on technical instruments especially those consisting of many mobile parts physical processes that depend on the weight of a body like convection cooking water or burning candles act differently in free-fall cohesion and advection play a bigger role in space everyday work like washing or going to the bathroom are not possible without adaptation to use toilets in space like the one on the international space station astronauts have to fasten themselves to the seat a fan creates suction so that the waste is pushed away drinking is aided with a straw or from tubes
+
+
+ see also 
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+ the dictionary definition of zero gravity at wiktionary
+ media related to weightlessness at wikimedia commons
+
+microgravity centre
+microgravity flight with zero-g aircraft
+maniacworldcom nasa reduced gravity aircraft videos of the nasa reduced gravity aircraft and of participants in a flight on that aircraft
+how weightlessness works at howstuffworks
+nasa - spaceresearch - human physiology research and the iss staying fit along the journey
+zero gravity chair use the concept of weightlessness
+why are astronauts weightless video explanation of the fallacy of zero gravity

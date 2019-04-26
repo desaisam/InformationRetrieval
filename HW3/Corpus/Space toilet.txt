@@ -1,0 +1,34 @@
+a space toilet or zero gravity toilet  is a toilet that can be used in a weightless environment in the absence of weight the collection and retention of liquid and solid waste is directed by use of air flow since the air used to direct the waste is returned to the cabin it is filtered beforehand to control odor and cleanse bacteria in older systems waste water is vented into space and any solids are compressed and stored for removal upon landing  more modern systems expose solid waste to vacuum pressures to kill bacteria which prevents odor problems and kills pathogens
+
+
+ background 
+when humans travel into space weightlessness causes fluids to distribute uniformly around their bodies their kidneys detect the fluid movement and a physiological reaction causes the humans to need to relieve themselves within two hours of departure from earth as a result the space toilet has been the first device activated on shuttle flights after astronauts unbuckle themselves
+
+
+ basic parts 
+
+there are four basic parts in a space toilet the liquid waste vacuum tube the vacuum chamber the waste storage drawers and the solid waste collection bags the liquid waste vacuum tube is a 2 to 3-foot 0.91 m long rubber or plastic hose that is attached to the vacuum chamber and connected to a fan that provides suction at the end of the tube there is a detachable urine receptacle which come in different versions for male and female astronauts the male urine receptacle is a plastic funnel two to three inches in width and about four inches deep a male astronaut urinates directly into the funnel from a distance of two or three inches away  the female funnel is oval and is two inches by four inches wide at the rim  near the funnels rim are small holes or slits that allow air movement to prevent excessive suction  the vacuum chamber is a cylinder about 1-foot 0.30 m deep and six inches wide with clips on the rim where waste collection bags may be attached and a fan that provides suction  urine is pumped into and stored in waste storage drawers  solid waste is stored in a detachable bag made of a special fabric that lets gas but not liquid or solid escape a feature that allows the fan at the back of the vacuum chamber to pull the waste into the bag  when the astronaut is finished he or she then twists the bag and places it in a waste storage drawer samples of urine and solid waste are frozen and taken to earth for testing
+
+
+ designs 
+
+
+ space shuttle waste collection system 
+
+the         toilet used on the space shuttle is called the waste collection system wcs in addition to air flow it also uses rotating fans to distribute solid waste for in-flight storage solid waste is distributed in a cylindrical container which is then exposed to vacuum to dry the waste  liquid waste is vented to space during sts-46 one of the fans malfunctioned and crew member claude nicollier was required to perform in-flight maintenance ifm  an earlier complete failure on the eight-day sts-3 test flight forced its two-man crew jack lousma and gordon fullerton to use a fecal containment device fcd for waste elimination and disposal
+
+
+ international space station 
+there are two toilets on the international space station located in the zvezda and tranquility modules they use a fan-driven suction system similar to the space shuttle wcs liquid waste is collected in 20-litre 5.3 us gal containers solid waste is collected in individual micro-perforated bags which are stored in an aluminum container full containers are transferred to progress for disposal an additional waste and hygiene compartment is part of the tranquility module launched in 2010  in 2007 nasa purchased a russian-made toilet similar to the one already aboard iss rather than develop one internallyon may 21 2008 the gas liquid separator pump failed on the 7-year-old toilet in zvezda although the solid waste portion was still functioning  the crew attempted to replace various parts but was unable to repair the malfunctioning part  in the interim they used a manual mode for urine collection  the crew had other options to use the toilet on the soyuz transport module which only has capacity for a few days of use or to use urine-collection bags as needed a replacement pump was sent from russia in a diplomatic pouch so that space shuttle discovery could take it to the station as part of mission sts-124 on june 2the sovietrussian space station mirs toilet also used a system similar to the wcswhile the soyuz spacecraft had an onboard toilet facility since its introduction in 1967 due to the additional space in the orbital module all gemini and apollo spacecraft required astronauts to urinate in a so-called relief tube in which the contents were dumped into space an example would be the urine dump scene in the movie apollo 13 while fecal matter was collected in specially-designed bags the facilities were so uncomfortable that to avoid using them astronauts ate less than half the available food on their flights the skylab space station used by nasa between may 1973 and march 1974 had an onboard wcs facility which served as a prototype for the shuttles wcs but also featured an onboard shower facility  the skylab toilet which was designed and built by the fairchild republic corp on long island was primarily a medical system to collect and return to earth samples of urine feces and vomit so that calcium balance in astronauts could be studied
+even with the facilities astronauts and cosmonauts for both launch systems employ pre-launch bowel clearing and low-residue diets to minimize the need for defecation the soyuz toilet has been used on a return mission from mirnpp zvezda is a russian developer of space equipment which includes zero-gravity toiletsa next-generation space toilet called the universal waste management system uwms is being developed by nasa for orion and other long duration missions it is planned to be quieter lighter more reliable more hygienic and more compact than previous systems a flight test article of the uwms is planned to be delivered and tested on the iss in 2018
+
+
+ see also 
+maximum absorbency garment
+holding tank
+head watercraft
+space poop challenge
+vacuum toilet
+
+
+ references 

@@ -1,0 +1,108 @@
+centaurs are small solar system bodies with a semi-major axis between those of the outer planets they generally have unstable orbits because they cross or have crossed the orbits of one or more of the giant planets almost all their orbits have dynamic lifetimes of only a few million years but there is one centaur 514107 2015 bz509 which may be in a stable though retrograde orbit centaurs typically behave with characteristics of both asteroids and comets they are named after the mythological centaurs that were a mixture of horse and human it has been estimated that there are around 44,000 centaurs in the solar system with diameters larger than 1 kilometerthe first centaur to be discovered under the definition of the jet propulsion laboratory and the one used here was 944 hidalgo in 1920 however they were not recognized as a distinct population until the discovery of 2060 chiron in 1977 the largest confirmed centaur is 10199 chariklo which at 260 kilometers in diameter is as big as a mid-sized main-belt asteroid and is known to have a system of rings it was discovered in 1997 however the lost centaur 1995 sn55 may be somewhat larger
+no centaur has been photographed up close although there is evidence that saturns moon phoebe imaged by the cassini probe in 2004 may be a captured centaur that originated in the kuiper belt in addition the hubble space telescope has gleaned some information about the surface features of 8405 asbolus
+as of  2008 three centaurs have been found to display comet-like comas 2060 chiron 60558 echeclus and 166pneat chiron and echeclus are therefore classified as both asteroids and comets other centaurs such as 52872 okyrhoe are suspected of having shown comas any centaur that is perturbed close enough to the sun is expected to become a comet
+
+
+ classification 
+the generic definition of a centaur is a small body that orbits the sun between jupiter and neptune and crosses the orbits of one or more of the giant planets due to the inherent long-term instability of orbits in this region even centaurs such as 2000 gm137 and 2001 xz255 which do not currently cross the orbit of any planet are in gradually changing orbits that will be perturbed until they start to cross the orbit of one or more of the giant planetshowever different institutions have different criteria for classifying borderline objects based on particular values of their orbital elements
+
+the minor planet center mpc defines centaurs as having a perihelion beyond the orbit of jupiter q  5.2 au and a semi-major axis less than that of neptune a  30.1 au though nowadays the mpc often lists centaurs and scattered disc objects together as a single group
+the jet propulsion laboratory jpl similarly defines centaurs as having a semi-major axis a between those of jupiter 5.5 au  a and neptune a  30.1 au
+in contrast the deep ecliptic survey des defines centaurs using a dynamical classification scheme these classifications are based on the simulated change in behavior of the present orbit when extended over 10 million years the des defines centaurs as non-resonant objects whose instantaneous osculating perihelia are less than the osculating semi-major axis of neptune at any time during the simulation this definition is intended to be synonymous with planet-crossing orbits and to suggest comparatively short lifetimes in the current orbitthe collection the solar system beyond neptune 2008 defines objects with a semi-major axis between those of jupiter and neptune and a jupiter – tisserands parameter above 3.05 – as centaurs classifying the objects with a jupiter tisserands parameter below this and to exclude kuiper belt objects an arbitrary perihelion cut-off half-way to saturn q  7.35 au as jupiter-family comets and classifying those objects on unstable orbits with a semi-major axis larger than neptunes as members of the scattered discother astronomers prefer to define centaurs as objects that are non-resonant with a perihelion inside the orbit of neptune that can be shown to likely cross the hill sphere of a gas giant within the next 10 million years so that centaurs can be thought of as objects scattered inwards and that interact more strongly and scatter more quickly than typical scattered-disc objects
+the jpl small-body database lists 452 centaurs there are an additional 116 trans-neptunian objects objects with a semi-major axis further than neptunes ie a  30.1 au with a perihelion closer than the orbit of uranus q  19.2 au the committee on small body nomenclature of the international astronomical union has not formally weighed in on either side of the debate
+instead it has adopted the following naming convention for such objects befitting their centaur-like transitional orbits between tnos and comets objects on unstable non-resonant giant-planet-crossing orbits with semimajor axes greater than neptunes are to be named for other hybrid and shape-shifting mythical creatures thus far only the binary objects ceto and phorcys and typhon and echidna have been named according to the new policyother objects caught between these differences in classification methods include 944 hidalgo which was discovered in 1920 and is listed as a centaur in the jpl small-body database 44594 1999 ox3 which has a semi-major axis of 32 au but crosses the orbits of both uranus and neptune is listed as an outer centaur by the deep ecliptic survey des among the inner centaurs 434620 2005 vd with a perihelion distance very near jupiter is listed as a centaur by both jpl and des
+centaurs with measured diameters listed as possible dwarf planets according to mike browns website include 10199 chariklo 523727 2014 nw65 2060 chiron and 54598 bienor
+
+
+ orbits 
+
+
+ distribution 
+
+the diagram illustrates the orbits of known centaurs in relation to the orbits of the planets for selected objects the eccentricity of the orbits is represented by red segments extending from perihelion to aphelion
+the orbits of centaurs show a wide range of eccentricity from highly eccentric pholus asbolus amycus nessus to more circular chariklo and the saturn-crossers thereus and okyrhoe
+to illustrate the range of the orbits parameters the diagram shows a few objects with very unusual orbits plotted in yellow 
+
+1999 xs35 apollo asteroid follows an extremely eccentric orbit e  0.947 leading it from inside earths orbit 0.94 au to well beyond neptune  34 au
+2007 tb434 follows a quasi-circular orbit e  0.026
+2001 xz255 has the lowest inclination i  3°
+2004 yh32 is one of a small proportion of centaurs with an extreme prograde inclination i  60° it follows such a highly inclined orbit 79° that while it crosses from the distance of the asteroid belt from the sun to past the distance of saturn if its orbit is projected onto the plane of jupiters orbit it does not even go out as far as jupitera dozen known centaurs follow retrograde orbits their inclinations range from modest eg 160° for dioretsa to extreme i  120° eg 105° for 342842 2008 yb3
+
+
+ changing orbits 
+
+because the centaurs are not protected by orbital resonances their orbits are unstable within a timescale of 106–107 years for example 55576 amycus is in an unstable orbit near the 34 resonance of uranus dynamical studies of their orbits indicate that being a centaur is probably an intermediate orbital state of objects transitioning from the kuiper belt to the jupiter family of short-period comets
+objects may be perturbed from the kuiper belt whereupon they become neptune-crossing and interact gravitationally with that planet see theories of origin they then become classed as centaurs but their orbits are chaotic evolving relatively rapidly as the centaur makes repeated close approaches to one or more of the outer planets some centaurs will evolve into jupiter-crossing orbits whereupon their perihelia may become reduced into the inner solar system and they may be reclassified as active comets in the jupiter family if they display cometary activity centaurs will thus ultimately collide with the sun or a planet or else they may be ejected into interstellar space after a close approach to one of the planets particularly jupiter
+
+
+ physical characteristics 
+the relatively small size of centaurs precludes remote observation of surfaces but colour indices and spectra can provide clues about surface composition and insight into the origin of the bodies
+
+
+ colours 
+
+the colours of centaurs are very diverse which challenges any simple model of surface composition in the side-diagram the colour indices are measures of apparent magnitude of an object through blue b visible v ie green-yellow and red r filters the diagram illustrates these differences in exaggerated colours for all centaurs with known colour indices for reference two moons triton and phoebe and planet mars are plotted yellow labels size not to scale
+centaurs appear to be grouped into two classes
+
+very red – for example 5145 pholus
+blue or blue-grey according to some authors – for example 2060 chironthere are numerous theories to explain this colour difference but they can be divided broadly into two categories
+
+the colour difference results from a difference in the origin andor composition of the centaur see origin below
+the colour difference reflects a different level of space-weathering from radiation andor cometary activityas examples of the second category the reddish colour of pholus has been explained as a possible mantle of irradiated red organics whereas chiron has instead had its ice exposed due to its periodic cometary activity giving it a bluegrey index the correlation with activity and color is not certain however as the active centaurs span the range of colors from blue chiron to red 166pneat alternatively pholus may have been only recently expelled from the kuiper belt so that surface transformation processes have not yet taken place
+delsanti et al suggest multiple competing processes reddening by the radiation and blushing by collisions
+
+
+ spectra 
+the interpretation of spectra is often ambiguous related to particle sizes and other factors but the spectra offer an insight into surface composition as with the colours the observed spectra can fit a number of models of the surface
+water ice signatures have been confirmed on a number of centaurs including 2060 chiron 10199 chariklo and 5145 pholus in addition to the water ice signature a number of other models have been put forward
+
+chariklos surface has been suggested to be a mixture of tholins like those detected on titan and triton with amorphous carbon
+pholus has been suggested to be covered by a mixture of titan-like tholins carbon black olivine and methanol ice
+the surface of 52872 okyrhoe has been suggested to be a mixture of kerogens olivines and small percentage of water ice
+8405 asbolus has been suggested to be a mixture of 15% triton-like tholins 8% titan-like tholin 37% amorphous carbon and 40% ice tholin
+chiron appears to be the most complex the spectra observed vary depending on the period of the observation water ice signature was detected during a period of low activity and disappeared during high activity
+
+
+ similarities to comets 
+observations of chiron in 1988 and 1989 near its perihelion found it to display a coma a cloud of gas and dust evaporating from its surface it is thus now officially classified as both a comet and an asteroid although it is far larger than a typical comet and there is some lingering controversy other centaurs are being monitored for comet-like activity so far two 60558 echeclus and 166pneat have shown such behavior 166pneat was discovered while it exhibited a coma and so is classified as a comet though its orbit is that of a centaur 60558 echeclus was discovered without a coma but recently became active and so it too is now classified as both a comet and an asteroid
+carbon monoxide has been detected in 60558 echeclus 
+and chiron
+ in very small amounts and the derived co production rate was calculated to be sufficient to account for the observed coma the calculated co production rate from both 60558 echeclus and chiron is substantially lower than what is typically observed for 29pschwassmann–wachmann another distantly active comet often classified as a centaur
+there is no clear orbital distinction between centaurs and comets both 29pschwassmann-wachmann and 39poterma have been referred to as centaurs since they have typical centaur orbits the comet 39poterma is currently inactive and was seen to be active only before it was perturbed into a centaur orbit by jupiter in 1963 the faint comet 38pstephan–oterma would probably not show a coma if it had a perihelion distance beyond jupiters orbit at 5 au  by the year 2200 comet 78pgehrels will probably migrate outwards into a centaur-like orbit
+
+
+ rotational periods 
+a periodogram analysis of the light-curves of these chiron and chariklo gives respectively the following rotational periods 5.5±0.4h and 7.0± 0.6h
+
+
+ size density reflectivity 
+a catalogue on the physical characteristics of centaurs can be found at httpwwwjohnstonsarchivenetastrotnodiamhtml
+centaurs can reach diameters up to hundreds of kilometers the largest centaurs have diameters in excess of 100 km and primarily reside beyond about 13.11 au 
+
+
+ theories of origin 
+the study of centaur development is rich in recent developments but any conclusions are still hampered by limited physical data different models have been put forward for possible origin of centaurs 
+simulations indicate that the orbit of some kuiper belt objects can be perturbed resulting in the objects expulsion so that it becomes a centaur scattered disc objects would be dynamically the best candidates for instance the centaurs could be part of an inner scattered disc of objects perturbed inwards from the kuiper belt for such expulsions but their colours do not fit the bicoloured nature of the centaurs plutinos are a class of kuiper belt object that display a similar bicoloured nature and there are suggestions that not all plutinos orbits are as stable as initially thought due to perturbation by pluto
+further developments are expected with more physical data on kuiper belt objects
+
+
+ notable centaurs 
+ the class is defined by the perihelion and aphelion distance of the object s indicates a perihelionaphelion near saturn u near uranus n near neptune and k in the kuiper belt
+
+
+ see also 
+asteroid
+dwarf planet
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+list of centaurs and scattered-disk objects
+centaurs from the encyclopedia of astrobiology astronomy and spaceflight
+horner jonathan lykawka patryk sofia 2010 planetary trojans – the main source of short period comets international journal of astrobiology 9 4 227–234 arxiv1007.2541 bibcode2010ijasb9227h doi10.1017s1473550410000212
+nasas wise finds mysterious centaurs may be comets 2013

@@ -1,0 +1,54 @@
+this is a list of minor planets which have been officially named by the minor planet center mpc the list consists of partial pages each covering a number range of 1000 bodies citing the source after each minor planet was named for an overview of all existing partial pages is given in section § index 
+among the hundreds of thousands numbered minor planets only a small fraction have received a name so far as of 2018 there are more than 21,000 named minor planets out of a total of half a million numbered ones also see list of minor planets § main index as numbers increase constantly most of these bodies are named for people in particular astronomers as well as figures from mythology and fiction many minor planets are also named after places such cities towns and villages mountains and volcanoes after rivers observatories as well as organizations clubs and astronomical societies some are named after animals and plants a few minor planets are named after exotic entities such as supercomputers or have an unknown origin see categoryminor planets with names of unknown origin 
+the first few thousand minor planets have all been named with the jupiter trojan 3708 1974 fv1 currently being the lowest-numbered unnamed minor planet the first 3 pages in the below table contain 1,000 named entries each the first 13 and 33 pages contain at least 500 and 100 named entries each respectively the first range to contain no entries is 122001–123000 there are also several name conflicts with other astronomical objects mostly with planetary satellites and among themselves 
+following a proposal of the discovering astronomer new minor planet names are published in mpcs minor planet circulars on a monthly basis the mpc applies a set of rules for naming minor planets these range from syntax restrictions to non-offensive meanings over the years the rules have changed several times in the beginning for example most minor planets were named after female characters from greek and roman mythology
+
+
+ index 
+
+
+ meanings from 1 to 100,000 
+
+
+ meanings from 100,001 to 200,000 
+
+
+ meanings from 200,001 to 300,000 
+
+
+ meanings from 300,001 to 400,000 
+
+
+ meanings from 400,001 to 500,000 
+
+
+ meanings from 500,001 to 600,000 
+
+
+ see also 
+list of minor planets
+list of named minor planets alphabetical
+
+
+ references 
+
+
+ external links 
+asteroids discovered at the observatory of san marcello pistoiese in italy
+asteroids discovered by uppsala astronomers
+asteroids honoring people associated with cornell department of astronomy
+asteroids named after members of staff and graduates of the department of astronomy university of maryland
+asteroids with canadian connections
+asteroids with a hamburg connection
+hungarian asteroids
+in our skies journalistic article on asteroid nomenclature
+institute of applied astronomys list of accented names
+kleť numbered minor planets
+list of dutch asteroids in dutch
+planetary society asteroids
+the ceres connection asteroids named after studentssome systematic sources of citations are
+
+the database of the minor planet center can be searched httpwwwminorplanetcenternetdbsearch
+the jpl small-body database browser httpssdjplnasagovsbdbcgi
+the minor planet center has lists of discovery circumstances for numbered minor planets which link to a script at the harvard university center for astronomy mpes minor planet ephemeris service that displays citations
+the minor planet center also provides a search engine allowing a search of its database from your browserin the first two cases you need only modify the last argument of the address to the name or number of the minor planet the lists of discovery circumstances are split into groups of 5000 minor planets each containing links for individual named minor planets that access the script displaying citations

@@ -1,0 +1,22 @@
+bioastronautics is a specialty area of biological and astronautical research which encompasses numerous aspects of biological behavioral and medical concern governing humans and other living organisms in a space flight environment and includes design of payloads space habitats and life support systems  in short it spans the study and support of life in space
+bioastronautics includes many similarities with its sister discipline astronautical hygiene they both study the hazards that humans may encounter during a space flight  however astronautical hygiene differs in many respects eg in this discipline once a hazard is identified the exposure risks are then assessed and the most effective measures determined to prevent or control exposure and thereby protect the health of the astronaut  astronautical hygiene is an applied scientific discipline that requires knowledge and experience of many fields including bioastronautics space medicine ergonomics etc  the skills of astronautical hygiene are already being applied for example to characterise moon dust and design the measures to mitigate exposure during lunar exploration to develop accurate chemical monitoring techniques and use the results in the setting smacs    
+of particular interest from a biological perspective are the effects of reduced gravitational force felt by inhabitants of spacecraft  often referred to as microgravity the lack of sedimentation buoyancy or convective flows in fluids results in a more quiescent cellular and intercellular environment primarily driven by chemical gradients  certain functions of organisms are mediated by gravity such as gravitropism in plant roots and negative gravitropism in plant stems and without this stimulus growth patterns of organisms onboard spacecraft often diverge from their terrestrial counterparts  additionally metabolic energy normally expended in overcoming the force of gravity remains available for other functions  this may take the form of accelerated growth in organisms as diverse as worms like c elegans to miniature parasitoid wasps such as spangia endius  it may also be used in the augmented production of secondary metabolites such as the vinca alkaloids vincristine and vinblastine in the rosy periwinkle catharanthus roseus whereby space grown specimens often have higher concentrations of these constituents that on earth are present in only trace amounts
+from an engineering perspective facilitating the delivery and exchange of air food and water and the processing of waste products is also challenging  the transition from expendable physicochemical methods to sustainable bioregenerative systems that function as a robust miniature ecosystem is another goal of bioastronautics in facilitating long duration space travel  such systems are often termed closed ecological life support systems celss
+from a medical perspective long duration space flight also has physiological impacts on astronauts  accelerated bone decalcification similar to osteopenia and osteoporosis on earth is just one such condition  study of these effects is useful not only in advancing methods for safe habitation of and travel through space but also in uncovering ways to more effectively treat the related terrestrial ailments
+nasas johnson space center in houston texas maintains a bioastronautics library map the one-room facility provides a collection of textbooks reference books conference proceedings and academic journals related to bioastronautics topics because the library is located within secure government property not part of space center houston the official visitors center of jsc it is not generally accessible to the public
+
+
+ see also 
+effect of spaceflight on the human body
+organisms at high altitude
+astrobiology
+astrobotany
+plants in space
+
+
+ external links 
+harvard-mit health sciences and technology - bioastronautics training program hst-bioastro 1
+nasas bioastronautics roadmap 2
+university of colorado at boulder bioastronautics research group 3
+the american society for gravitational and space biology asgsb 4
+1965 radio series titled their other world 13 half-hour episodes with typed transcript 5

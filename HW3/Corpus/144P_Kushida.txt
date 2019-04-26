@@ -1,0 +1,12 @@
+144pkushida is a periodic comet discovered in january 1994 by yoshio kushida at the yatsugatake south base observatory in japan  this was the first comet discovery of 1994 and his second discovery within a month
+based on data gathered during the period of january 9–11 1994 syuichi nakano calculated the date of perihelion to be 1993 december 5.33 and the distance of perihelion as 1.36 au the low inclination to the ecliptic suggested to nakano that the comet could be a short period type on january 14 1994 daniel w e green confirmed nakanos suggestion and published a short-period orbit on iau circular 5922 based on 29 positions obtained during the period of january 9–13 green determined a perihelion date of 1993 december 12.99 a perihelion distance of 1.37 au and an orbital period of 7.20 years
+using over 300 positions obtained between january 7 and july 9 1994 patrick rocher refined the calculations and determined the perihelion distance as 1.367 au the perihelion date as 1993 december 12.862 and the orbital period as 7.366 years
+
+
+ references 
+
+
+ external links 
+orbital simulation from jpl java  horizons ephemeris
+144pkushida history from gary w kronks cometography
+144pkushida – seiichi yoshida  aerithnet

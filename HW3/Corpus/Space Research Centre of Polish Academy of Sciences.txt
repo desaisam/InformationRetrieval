@@ -1,0 +1,32 @@
+the space research centre src polish centrum badań kosmicznych is an interdisciplinary research institute of the polish academy of sciences it was established in 1977 src pas  is the only institute in poland whose activity is fully dedicated to the research of terrestrial space the solar system and the earth using space technology and satellite techniques
+the src also acts as polands national space agency until the polish space agency is fully established
+since 1977 the src staff developed constructed and prepared for launch over 60 instruments and participated in the experiments in more than 50 space missions for example european space agencys cassini–huygens mission investigation of saturn and titan integral space laboratory of high energy astrophysics mars express mars orbiter rosetta mission to comet venus express venus orbiter herschel space observatory investigation of the coldest and most distant objects in the universe bepicolombo mission to mercury roscosmoss  koronas-f koronas-i koronas-foton and fobos-grunt missions and cnes demeter and taranis missions space research centre has co-operated with the esa since 1991 src has also collaborated with nasa ibex mission and isro chandrayaan programme
+
+
+ organisation structure 
+the space research centre is composed of multiple rd facilities spread across locations in warsaw wrocław as well as borówiec near poznań
+
+
+ research groups 
+solar physics division
+laboratory for solar system physics and astrophysics
+solar system dynamics and planetology laboratory
+plasma physics laboratory
+planetary geodesy division
+earth observation laboratory
+
+
+ engineering groups 
+micromechanical and photonics laboratory
+electronic constructions laboratory
+space mechatronics and robotics laboratory
+laboratory of satellite applications of fpga
+
+
+ see also 
+polish astronomical society
+list of government space agencies
+
+
+ external links 
+official website

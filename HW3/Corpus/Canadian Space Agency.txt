@@ -1,0 +1,97 @@
+the canadian space agency csa french agence spatiale canadienne asc was established by the canadian space agency act which received royal assent on may 10 1990 the agency reports to the federal minister of innovation science and economic development the current president of the canadian space agency is sylvain laporte who took the position march 9 2015 following the announcement of his appointment on february 27 2015the headquarters of the csa is located at the john h chapman space centre in longueuil quebec the agency also has offices in ottawa ontario at the david florida laboratory and small liaison offices in houston washington dc and paris
+
+
+ history 
+the origins of the canadian upper atmosphere and space program can be traced back to the end of the second world war between 1945 and 1960 canada undertook a number of small launcher and satellite related projects under the aegis of defence research including the development of the black brant rocket as well as series of advanced studies examining both orbital rendezvous and re-entry in 1957 scientists and engineers at the canadian defence research telecommunications establishment drte under the leadership of john h chapman embarked on a project initially known simply as s-27 or the topside sounder project this work would soon lead to the development of canadas first satellite known as alouette 1
+with the launch of alouette 1 in september 1962 canada became the third country to put an artificial satellite into space at the time canada only possessed upper atmospheric launch capabilities sounding rockets therefore alouette 1 was sent aloft by the american national aeronautics and space administration nasa from vandenberg air force base in lompoc california the technical excellence of the satellite which lasted for ten years instead of the expected one prompted the further study of the ionosphere with the joint canadian-designed us-launched isis satellite program this undertaking was designated an international milestone of electrical engineering by ieee in 1993 the launch of anik a-1 in 1972 made canada the first country in the world to establish its own domestic geostationary communication satellite networkthese and other space related activities in the 1980s compelled the canadian government to promulgate the canadian space agency act which established the canadian space agency the act received royal assent on may 10 1990 and came into force on december 14 1990in 1999 the csa was moved from project-based to a-base funding and given a fixed annual budget of 300 million the actual budget varies from year to year due to additional earmarks and special projects
+the mandate of the canadian space agency is to promote the peaceful use and development of space to advance the knowledge of space through science and to ensure that space science and technology provide social and economic benefits for canadians the canadian space agencys mission statement says that the agency is committed to leading the development and application of space knowledge for the benefit of canadians and humanity
+
+
+ presidents 
+1989 – may 4 1992 – larkin kerwin
+may 4 1992 – july 15 1994 – roland doré
+november 21 1994 – 2001 – william macdonald evans
+november 22 2001 – november 28 2005 – marc garneau
+april 12 2007 – december 31 2007 – laurier j welarry j boisvert
+january 1 2008 - september 2 2008 – guy bujold
+september 2 2008 – february 1 2013 – steven maclean
+february 2 2013 – august 5 2013 – gilles leclerc interim
+august 6 2013 – november 3 2014 – walter natynczyk
+november 3 2014 - march 9 2015 – luc brûlé interim
+march 9 2015 – sylvain laporte
+
+
+ cooperation with the european space agency 
+the csa has been a cooperating state of the european space agency esa since the 1970s and has several formal and informal partnerships and collaborative programs with space agencies in other countries such as nasa isro jaxa and snsb
+canadas collaboration with europe in space activities predated both the european space agency and the canadian space agency from 1968 canada held observer status in the european space conference esc a ministerial-level organization set up to determine future european space activities and it continued in this limited role after esa was created in 1975 since january 1 1979 canada has had the special status of a cooperating state with the esa paying for the privilege and also investing in working time and providing scientific instruments which are placed on esa probes canada is allowed to participate in optional programs it also has to contribute to the general budget but not as much as associate membership would have entailed this status was unique at the time and remains so today
+on 15 december 2010 the accord was renewed for a further 10 years until 2020 by virtue of this accord canada takes part in esa deliberative bodies and decision-making and in esas programmes and activities canadian firms can bid for and receive contracts to work on programmes the accord has a provision specifically ensuring a fair industrial return to canada the head of the canadian delegation to esa is the president of the canadian space agency as of february 2009 there are currently 30 canadians that are employed as staff members at esa distributed over various esa sites 20 at estec 4 at esoc 4 at esa hq 2 at esrin
+
+
+ canadian space program 
+ 
+the canadian space program is administered by the canadian space agency canada has contributed technology expertise and personnel to the world space effort especially in collaboration with esa and nasa in addition to its astronauts and satellites some of the most notable canadian technological contributions to space exploration include the canadarm on the space shuttle and canadarm2 on the international space station
+canadas contribution to the international space station is the 1.3 billion dollar mobile servicing system this consists of canadarm2 ssrms dextre spdm mobile base system mbs and multiple robotics workstations that together make up the mobile servicing system on the iss the canadarm canadarm2 and dextre all employ the advanced space vision system which allows more efficient use of the robotic arms another canadian technology of note is the orbiter boom sensor system which was an extension for the original canadarm used to inspect the space shuttles thermal protection system for damage while in orbit before the space shuttles retirement the boom was modified for use with canadarm2 and sts-134 left it behind for use on the iss
+
+
+ canadian astronauts 
+
+there have been four recruiting campaigns for astronauts for the csa the first in 1983 led to the selection of roberta bondar marc garneau robert thirsk ken money bjarni tryggvason and steve maclean the second in 1992 selected chris hadfield julie payette dafydd williams and michael mckay on may 13 2009 it was announced after the completion of a third selection process that two new astronauts jeremy hansen and david saint-jacques had been chosen 
+the latest recruitment campaign was launched in 2016 totaling 3,772 applicants for 2 candidates in 2017 joshua kutryk and jennifer sidey were chosennine canadians have participated in 17 manned mission in total 14 nasa space shuttle missions including one mission to mir and 3 roscosmos soyuz missionstwo former canadian astronauts never flew in space michael mckay resigned due to medical reasons and ken money resigned in 1992 eight years after his selection
+on december 19 2012 canadian astronaut chris hadfield launched aboard a soyuz spacecraft to reach the international space station this mission marked the completion of nasas compensation to canada for its contribution to the shuttle and international space station programs meaning that there were no confirmed remaining space flight opportunities for canadian astronauts  in june 2015 the canadian government announced a renewed commitment to the international space station securing flights for both of canadas remaining active astronauts in may 2016 the csa announced that david saint-jacques would fly to the international space station aboard a roscosmos soyuz rocket in november 2018 for 6 months as part of the expedition 58/59 crew
+
+
+ canadian satellites 
+
+additionally there are commercial satellites launched by the telecommunications company telesat a former crown corporation that was privatized in 1998 these are the anik satellites the nimiq satellites all currently used by bell tv and msat-1 further technology and research satellites have been developed by utias-sfl including the canx program exactview-9 and ghgsat-d
+
+
+ international projects 
+the csa contributes to many international projects including satellites rovers and space telescopes the csa has contributed components to esa nasa isro jaxa and snsb projects in the past currently canada is contributing the fine guidance sensor to nasas upcoming james webb space telescope
+additionally canadian universities and aerospace contractors including the university of calgary utias-sfl com dev mda magellan aerospace telesat and others have provided components to various international space agencies
+
+
+ facilities 
+john h chapman space centre – longueuil quebec
+david florida laboratory – ottawa ontario
+canadian space agency building – innovation place research park – saskatoon saskatchewana number of launch facilities have been used by the canadian space agency and its predecessors
+canada
+
+churchill rocket research range  spaceport canada manitoba drb  nrcunited states
+
+cape canaveral florida nasa
+vandenberg air force base california usaf
+wallops flight facility virginia nasaother international
+
+satish dhawan space centre india isro
+baikonur cosmodrome kazakhstan leased to roscosmos and russian space forces
+dombarovsky air base russia russian air force
+plesetsk cosmodrome russia roscosmos
+
+
+ future programs 
+with the successful launching of radarsat-2 in december 2007 and completion of canadas c1.4 billion contribution to the international space station in early 2008 the csa found itself with no major follow-on projects this fact was highlighted by marc garneau canadas first astronaut and former head of the csa who in the fall of 2007 called upon the canadian government to develop and institute a space policy for canada
+a modest step has been taken to resolve this problem in november 2008 the agency signed a 40 million 16-month contract with macdonald dettwiler and associates of vancouver to begin the design of the radarsat constellation 3 satellite earth observation mission in august 2010 further funding was awarded for detailed design work scheduled for completion by 2012 launch of the three satellites is scheduled for net march 2019 also in the 2009 federal budget the agency was awarded funding for the preliminary design of robotic lunarmartian roverson february 28 2019 canadian prime minister justin trudeau announced canadas future plan in space canada signed for a 24 year commitment to the lunar orbital platform-gateway program which is a international nasa-led project canada is nasas first international partner for the lunar gateway project along with the 24 year project prime minister justin trudeau also announced they were going to be committing 2.05 billion cad over 24 years that is the canadian space agencies biggest financial commitment to space surpassing the international space stations 1.7 billion cad justin trudeau said the csa would be developing canadarm 3 the previous two robotic arms canada made were for the international space station and the space shuttlea number of initiatives are without funding the csa is the lead agency for the polar communication and weather mission pcw which involves the proposed launch of two satellites in polar orbit to provide canadian authorities with improved weather information and communications capabilities in the high arctic launch of the two satellites was proposed to take place in 2016 but funding could not be obtained and the program was cancelled
+
+
+ rockets 
+
+the canadian space agency has no indigenous launch system capability beyond upper atmospheric sounding rockets canada relies on other countries such as the us india and russia to launch its spacecraft into orbit but both the defence department and the space agency are looking at the option of constructing a canadian-made launcherthe csa announced in 2011 it was researching locations in cape breton nova scotia or the potential reopening of the churchill rocket research range in manitoba for a micro satellite 150 kg launch site to end its reliance on foreign launch providers however canadian politicians seldom change funding without having at least some idea of the expected economic social and national defense benefits that could reasonably accrue to their constituents from the program  another possible location cfb suffield remains an option according to canadian space agency officials it would take 10 to 12 years for a full-scale project to design and build a small satellite launcher there has been no funding for these activities announcedalthough a new launch facility at canso nova scotia is in progress 2020 expected operation its intended use is for commercial launches of the ukrainian cyclone-4m rocket the facility is a project of the maritime launch services company any csa involvement has not been announced
+
+
+ see also 
+list of government space agencies
+science and technology in canada
+timeline of space travel by nationality
+
+
+ references 
+
+
+ external links 
+ media related to canadian space agency at wikimedia commons
+
+official website
+canadian space agencys channel on youtube
+text of the canadian space agency act
+spaceref canada
+canadian astronaut life

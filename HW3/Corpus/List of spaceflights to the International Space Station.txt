@@ -1,0 +1,32 @@
+timeline of spacecraft on orbit for the international space station long blue bars represent the modules and major components of the iss green indicates a manned soyuz spacecraft other crafts include the russian proton launcher the russian modified soyuz launcher the european atv and japanese white stork robot spacecraft htv the american space shuttle the russian progress cargo spaceships the american dragon spacecraft and cygnus spacecraft
+
+
+ iss flight types 
+r means flight financed by russia delivering russian spacecraft iss module progress or soyuz and executed with russian rocket soyuz or proton
+a means flight financed by the united states primary focus on assembly executed with the space shuttle
+p means cargo re-supply andor orbit-boost flight executed with the progress spacecraft
+s means human spaceflight with temporary visitors or delivering iss expedition crews executed with soyuz spacecraft
+e means flight financed by esa delivering modules owned by esa executed with the space shuttle
+j means flight financed by jaxa delivering modules owned by jaxa executed with the space shuttle
+atv means cargo re-supply andor orbit-boost flight executed with the automated transfer vehicle spacecraft
+htv means cargo re-supply andor orbit-boost flight executed with the h-ii transfer vehicle spacecraft
+ar means flight financed by the united states delivering modules owned by usa and manufactured by russia executed with russian rocket
+ja means jointly financed jaxanasa flight delivering equipment for both executed with the space shuttle
+uf means utilization flight secondary assembly objectivesdeliveries possible
+lf means logistics flight secondary assembly objectivesdeliveries possible
+ulf means utilization and logistics flight secondary assembly objectivesdeliveries possible
+spx means cargo re-supply flight executed with the spacex dragon spacecraft
+orb means cargo re-supply flight executed with the orbital sciences cygnus spacecraft
+
+
+ see also 
+international space station
+list of international space station visitors
+list of international space station spacewalks
+list of international space station assembly flights
+list of human spaceflights to the international space station
+list of unmanned spaceflights to the international space station
+list of progress flights
+mir
+list of human spaceflights to mir
+list of unmanned spaceflights to mir

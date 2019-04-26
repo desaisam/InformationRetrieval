@@ -1,0 +1,63 @@
+the colonization of venus has been a subject of many works of science fiction since before the dawn of spaceflight and is still discussed from both a fictional and a scientific standpoint however with the discovery of venuss extremely hostile surface environment attention has largely shifted towards the colonization of the moon and mars instead with proposals for venus focused on colonies floating in the upper-middle atmosphere and on terraforming 
+
+
+ reasons for colonization 
+
+space colonization is a step beyond space exploration and implies the permanent or long-term presence of humans in an environment outside earth colonization of space is claimed to be the best way to ensure the survival of humans as a species other reasons for colonizing space include economic interests long-term scientific research best carried out by humans as opposed to robotic probes and sheer curiosity venus is the second largest terrestrial planet and earths closest neighbor which makes it a potential target
+
+
+ advantages 
+
+venus has certain similarities to earth which if not for the hostile conditions might make colonization easier in many respects in comparison with other possible destinations these similarities and its proximity have led venus to be called earths sister planet
+at present it has not been established whether the gravity of mars 0.38 times that of the earth would be sufficient to avoid bone decalcification and loss of muscle tone experienced by astronauts living in an environment of microgravity in contrast venus is close in size and mass to the earth resulting in a similar surface gravity 0.904 g that would likely be sufficient to prevent the health problems associated with weightlessness most other space exploration and colonization plans face concerns about the damaging effect of long-term exposure to fractional g or zero gravity on the human musculoskeletal system
+venuss relative proximity makes transportation and communications easier than for most other locations in the solar system with current propulsion systems launch windows to venus occur every 584 days compared to the 780 days for mars flight time is also somewhat shorter the venus express probe that arrived at venus in april 2006 spent slightly over five months en route compared to nearly six months for mars express this is because at closest approach venus is 40,000,000 km 25,000,000 mi from earth approximated by perihelion of earth minus aphelion of venus compared to 55,000,000 km 34,000,000 mi for mars approximated by perihelion of mars minus aphelion of earth making venus the closest planet to earth
+venuss atmosphere is made mostly out of carbon dioxide which after filtering from sulfuric acid can be used to grow food because nitrogen and oxygen are lighter than the carbon-dioxide that makes the atmosphere breathable-air-filled balloons will float at a height of about 50 km 31 mi at this height the temperature is a manageable 75 °c 348 k 167 °f or 27 °c 300 k 81 °f if we could get 5 km 3.1 mi higher see atmosphere of venus § troposphere 
+additionally the upper atmosphere could provide comparable protection from harmful solar radiation to  earths atmosphere the atmosphere of mars as well as the moon provide little such protection  
+
+
+ difficulties 
+
+venus also presents several significant challenges to human colonization surface conditions on venus are difficult to deal with the temperature at the equator averages around 450 °c 723 k 842 °f higher than the melting point of lead which is 327 °c the atmospheric pressure on the surface is also at least ninety times greater than on earth which is equivalent to the pressure experienced under a kilometer of water these conditions have caused missions to the surface to be extremely brief the soviet venera 5 and venera 6 probes were crushed by high pressure while still 18 km above the surface following landers such as venera 7 and venera 8 succeeded in transmitting data after reaching the surface but these missions were brief as well surviving no more than a single hour on the surface
+furthermore water in any form is almost entirely absent from venus the atmosphere is devoid of molecular oxygen and is primarily carbon dioxide in addition the visible clouds are composed of corrosive sulfuric acid and sulfur dioxide vapor
+
+
+ exploration and research 
+
+over 20 successful space missions have visited venus since 1962 the last european probe was esas venus express which was in polar orbit around the planet from 2006 to 2014 a japanese probe akatsuki failed in its first attempt to orbit venus but successfully reinserted itself into orbit on 7 december 2015 other low-cost missions have been proposed to further explore the planets atmosphere as the area 50 km 31 mi above the surface where gas pressure is at the same level as earth has not yet been thoroughly explored
+
+
+ aerostat habitats and floating cities 
+
+at least as early as 1971 soviet scientists have suggested that rather than attempting to colonize venus hostile surface humans might attempt to colonize the venerian atmosphere geoffrey a landis of nasas glenn research center has summarized the perceived difficulties in colonizing venus as being merely from the assumption that a colony would need to be based on the surface of a planet
+
+“however viewed in a different way the problem with venus is merely that the ground level is too far below the one atmosphere level at cloud-top level venus is the paradise planet”landis has proposed aerostat habitats followed by floating cities based on the concept that breathable air 2179 oxygennitrogen mixture is a lifting gas in the dense carbon dioxide atmosphere with over 60% of the lifting power that helium has on earth in effect a balloon full of human-breathable air would sustain itself and extra weight such as a colony in midair at an altitude of 50 kilometres 31 mi above the venerian surface the environment is the most earth-like in the solar system – a pressure of approximately 1 atm or 1000 hpa and temperatures in the 0 to 50 °c 273 to 323 k 32 to 122 °f range protection against cosmic radiation would be provided by the atmosphere above with shielding mass equivalent to earthsat the top of the clouds the wind speed on venus reaches up to 95 ms 340 kmh 210 mph circling the planet approximately every four earth days in a phenomenon known as super-rotation colonies floating in this region could therefore have a much shorter day length by remaining untethered to the ground and moving with the atmosphere compared to the usual 243 earth days it takes for the planet to rotate allowing a colony to move freely would also reduce structural stress from the wind
+
+
+ advantages 
+because there is not a significant pressure difference between the inside and the outside of the breathable-air balloon any rips or tears would cause gases to diffuse at normal atmospheric mixing rates rather than an explosive decompression giving time to repair any such damages in addition humans would not require pressurized suits when outside merely air to breathe protection from the acidic rain and on some occasions low level protection against heat alternatively two-part domes could contain a lifting gas like hydrogen or helium extractable from the atmosphere to allow a higher mass density therefore putting on or taking off suits for working outside would be easier working outside the vehicle in non-pressurized suits would also be easier
+
+
+ remaining problems 
+hydrogenwater and metals would be hard to retrieve from the surface and expensive to bring from earthasteroids although water can be extracted from the sulfuric acid in the clouds the sulfuric acid itself poses a further challenge in that the colony would need to be constructed of or coated in materials resistant to corrosion by the acid such as ptfe a compound consisting wholly of carbon and fluorine
+
+
+ studies 
+nasa developed the high altitude venus operational concept havoc exploring the possibility of setting up an atmospheric manned mission
+
+
+ artificial mountains 
+as an alternative to floating cities it has been proposed a large artificial mountain dubbed the venusian tower of babel could be built on the surface of venus that would reach up to 50 kilometres 31 mi into the atmosphere where the temperature and pressure conditions are similar to earth  such a structure could be built using autonomous robotic bulldozers and excavators that have been hardened against the extreme temperature and pressure of the venus atmosphere  robotic machines would be covered in a layer of heat and pressure shielding ceramics with internal helium-based heat pumps inside of the machines to cool both an internal nuclear power plant and to keep the internal electronics and motor actuators of the machine cooled to within operating temperature  these machines could be designed to operate for years without external intervention for the purpose of building colossal mountains on venus to serve as islands of colonization in the skies of venus
+
+
+ terraforming 
+
+venus has been the subject of a number of terraforming proposals the proposals seek to remove or convert the dense carbon dioxide atmosphere reduce venuss 450 °c 723 k 842 °f surface temperature and establish a daynight light cycle closer to that of earth
+many proposals involve deployment of a solar shade or a system of orbital mirrors for the purpose of reducing insolation and providing light to the dark side of venus another common thread in most proposals involves some introduction of large quantities of hydrogen or water proposals also involve either freezing most of venuss atmospheric co2 or converting it to carbonates urea or other forms
+
+
+ references 
+
+
+ external links 
+a floating city on venus - article from the space monitor
+nasas incredible futuristic and totally real plan to establish a human colony on venus - article from business insider uk

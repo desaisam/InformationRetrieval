@@ -1,0 +1,280 @@
+nasas mars exploration rover mer mission was a robotic space mission involving two mars rovers spirit and opportunity  exploring the planet mars it began in 2003 with the launch of the two rovers mer-a spirit and mer-b opportunity—to explore the martian surface and geology both landed on mars at separate locations in january 2004  both rovers far outlived their planned missions of 90 martian solar days mer-a spirit was active until march 22 2010 while mer-b opportunity was active until june 10 2018 and holds the record for the longest distance driven by any off-earth wheeled vehicle
+
+
+ objectives 
+the missions scientific objective was to search for and characterize a wide range of rocks and soils that hold clues to past water activity on mars the mission is part of nasas mars exploration program which includes three previous successful landers the two viking program landers in 1976 and mars pathfinder probe in 1997the total cost of building launching landing and operating the rovers on the surface for the initial 90-sol primary mission was us820 million since the rovers have continued to function beyond their initial 90 sol primary mission they have each received five mission extensions the fifth mission extension was granted in october 2007 and ran to the end of 2009 the total cost of the first four mission extensions was 104 million and the fifth mission extension is expected to cost at least 20 millionin july 2007 during the fourth mission extension martian dust storms blocked sunlight to the rovers and threatened the ability of the craft to gather energy through their solar panels causing engineers to fear that one or both of them might be permanently disabled however the dust storms lifted allowing them to resume operationson may 1 2009 during its fifth mission extension spirit became stuck in soft soil on mars after nearly nine months of attempts to get the rover back on track including using test rovers on earth nasa announced on january 26 2010 that spirit was being retasked as a stationary science platform this mode would enable spirit to assist scientists in ways that a mobile platform could not such as detecting wobbles in the planets rotation that would indicate a liquid core  jet propulsion laboratory jpl lost contact with spirit after last hearing from the rover on march 22 2010 and continued attempts to regain communications lasted until may 25 2011 bringing the elapsed mission time to 6 years 2 months 19 days or over 25 times the original planned mission durationin recognition of the vast amount of scientific information amassed by both rovers two asteroids have been named in their honor 37452 spirit and 39382 opportunity the mission is managed for nasa by the jet propulsion laboratory which designed built and is operating the rovers
+on january 24 2014 nasa reported that current studies by the remaining rover opportunity as well as by the newer mars science laboratory rover curiosity will now be searching for evidence of ancient life including a biosphere based on autotrophic chemotrophic andor chemolithoautotrophic microorganisms as well as ancient water including fluvio-lacustrine environments plains related to ancient rivers or lakes that may have been habitable the search for evidence of habitability taphonomy related to fossils and organic carbon on the planet mars is now a primary nasa objectivethe scientific objectives of the mars exploration rover mission are to
+search for and characterize a variety of rocks and soils that hold clues to past water activity in particular samples sought include those that have minerals deposited by water-related processes such as precipitation evaporation sedimentary cementation or hydrothermal activity
+determine the distribution and composition of minerals rocks and soils surrounding the landing sites
+determine what geologic processes have shaped the local terrain and influenced the chemistry such processes could include water or wind erosion sedimentation hydrothermal mechanisms volcanism and cratering
+perform calibration and validation of surface observations made by mars reconnaissance orbiter instruments this will help determine the accuracy and effectiveness of various instruments that survey martian geology from orbit
+search for iron-containing minerals and to identify and quantify relative amounts of specific mineral types that contain water or were formed in water such as iron-bearing carbonates
+characterize the mineralogy and textures of rocks and soils to determine the processes that created them
+search for geological clues to the environmental conditions that existed when liquid water was present
+assess whether those environments were conducive to life
+
+
+ history 
+
+the mer-a and mer-b probes were launched on june 10 2003 and july 7 2003 respectively though both probes launched on boeing delta ii 7925-9.5 rockets from cape canaveral air force station space launch complex 17 ccafs slc-17 mer-b was on the heavy version of that launch vehicle needing the extra energy for trans-mars injection the launch vehicles were integrated onto pads right next to each other with mer-a on ccafs slc-17a and mer-b on ccafs slc-17b the dual pads allowed for working the 15- and 21-day planetary launch periods close together the last possible launch day for mer-a was june 19 2003 and the first day for mer-b was june 25 2003 nasas launch services program managed the launch of both spacecraft
+
+the probes landed in january 2004 in widely separated equatorial locations on marson january 21 2004 the deep space network lost contact with spirit for reasons originally thought to be related to a thunderstorm over australia the rover transmitted a message with no data but later that day missed another communications session with the mars global surveyor the next day jpl received a beep from the rover indicating that it was in fault mode on january 23 the flight team succeeded in making the rover send the fault was believed to have been caused by an error in the rovers flash memory subsystem the rover did not perform any scientific activities for ten days while engineers updated its software and ran tests the problem was corrected by reformatting spirits flash memory and using a software patch to avoid memory overload opportunity was also upgraded with the patch as a precaution spirit returned to full scientific operations by february 5
+on march 23 2004 a news conference was held announcing major discoveries of evidence of past liquid water on the martian surface a delegation of scientists showed pictures and data revealing a stratified pattern and cross bedding in the rocks of the outcrop inside a crater in meridiani planum landing site of mer-b opportunity this suggested that water once flowed in the region the irregular distribution of chlorine and bromine also suggests that the place was once the shoreline of a salty sea now evaporated
+on april 8 2004 nasa announced that it was extending the mission life of the rovers from three to eight months it immediately provided additional funding of us 15 million through september and 2.8 million per month for continuing operations later that month opportunity arrived at endurance crater taking about five days to drive the 200 meters nasa announced on september 22 that it was extending the mission life of the rovers for another six months opportunity was to leave endurance crater visit its discarded heat shield and proceed to victoria crater spirit was to attempt to climb to the top of the columbia hills
+with the two rovers still functioning well nasa later announced another 18-month extension of the mission to september 2006 opportunity was to visit the etched terrain and spirit was to climb a rocky slope toward the top of husband hill on august 21 2005 spirit reached the summit of husband hill after 581 sols and a journey of 4.81 kilometers 2.99 mi
+spirit celebrated its one martian year anniversary 669 sols or 687 earth days on november 20 2005 opportunity celebrated its anniversary on december 12 2005 at the beginning of the mission it was expected that the rovers would not survive much longer than 90 martian days the columbia hills were just a dream according to rover driver chris leger spirit explored the semicircular rock formation known as home plate it is a layered rock outcrop that puzzles and excites scientists it is thought that its rocks are explosive volcanic deposits though other possibilities exist including impact deposits or sediment borne by wind or water
+spirits front right wheel ceased working on march 13 2006 while the rover was moving itself to mccool hill its drivers attempted to drag the dead wheel behind spirit but this only worked until reaching an impassable sandy area on the lower slopes drivers directed spirit to a smaller sloped feature dubbed low ridge haven where it spent the long martian winter waiting for spring and increased solar power levels suitable for driving that september opportunity reached the rim of victoria crater and spaceflight now reported that nasa had extended mission for the two rovers through september 2007 on february 6 2007 opportunity became the first spacecraft to traverse ten kilometers 6.2 miles on the surface of marsopportunity was poised to enter victoria crater from its perch on the rim of duck bay on june 28 2007 but due to extensive dust storms it was delayed until the dust had cleared and power returned to safe levels two months later spirit and opportunity resumed driving after hunkering down during raging dust storms that limited solar power to a level that nearly caused the permanent failure of both roverson october 1 2007 both spirit and opportunity entered their fifth mission extension that extended operations into 2009 allowing the rovers to have spent five years exploring the martian surface pending their continued survival
+on august 26 2008 opportunity began its three-day climb out of victoria crater amidst concerns that power spikes similar to those seen on spirit before the failure of its right-front wheel might prevent it from ever being able to leave the crater if a wheel failed project scientist bruce banerdt also said weve done everything we entered victoria crater to do and more  opportunity will return to the plains in order to characterize meridiani planums vast diversity of rocks—some of which may have been blasted out of craters such as victoria the rover had been exploring victoria crater since september 11 2007 as of january 2009 the two rovers had collectively sent back 250,000 images and traveled over 21 kilometers 13 mi
+
+after driving about 3.2 kilometers 2.0 mi since it left victoria crater opportunity first saw the rim of endeavour crater on march 7 2009 it passed the 16 km 9.9 mi mark along the way on sol 1897 meanwhile at gusev crater spirit was dug in deep into the martian sand much as opportunity was at purgatory dune in 2005on january 3 and 24 2010 spirit and opportunity marked six years on mars respectively on january 26 nasa announced that spirit will be used as a stationary research platform after several months of unsuccessful attempts to free the rover from soft sandnasa announced on march 24 2010 that opportunity which has an estimated remaining drive distance of 12 km to endeavour crater has traveled over 20 km since the start of its mission each rover was designed with a mission driving distance goal of just 600 meters one week later they announced that spirit may have gone into hibernation for the martian winter and might not wake up again for monthson september 8 2010 it was announced that opportunity had reached the halfway point of the 19-kilometer journey between victoria crater and endeavour crateron may 22 2011 nasa announced that it will cease attempts to contact spirit which has been stuck in a sand trap for two years the last successful communication with the rover was on march 22 2010 the final transmission to the rover was on may 25 2011in april 2013 a photo sent back by one of the rovers became widely circulated on social networking and news sites such as reddit that appeared to depict a human penis carved into the martian dirton may 16 2013 nasa announced that opportunity had driven further than any other nasa vehicle on a world other than earth after opportunitys total odometry went over 35.744 km 22.210 mi the rover surpassed the total distance driven by the apollo 17 lunar roving vehicleon july 28 2014 nasa announced that opportunity had driven further than any other vehicle on a world other than earth  opportunity covered over 40 km 25 mi surpassing the total distance of 39 km 24 mi driven by the lunokhod 2 lunar rover the previous record-holderon march 23 2015 nasa announced that opportunity had driven the full 42.2 km 26.2 mi distance of a marathon with a finish time of roughly 11 years 2 monthson june 2018 opportunity was caught in a global-scale dust storm and the rovers solar panels were not able to generate enough power with the last contact on june 10 2018 nasa resumed sending commands after the dust storm subsided but the rover remained silent possibly due to a catastrophic failure or a layer of dust covered its solar panelsa press conference was held on february 13 2019 that after numerous attempts to obtain contact with opportunity with no response since june 2018 nasa declared 
+opportunity mission over which also draws the 16-year long mars exploration rover mission to a close
+
+
+ spacecraft design 
+
+the mars exploration rover was designed to be stowed atop a delta ii rocket each spacecraft consists of several components
+
+rover 185 kg 408 lb
+lander 348 kg 767 lb
+backshell  parachute 209 kg 461 lb
+heat shield 78 kg 172 lb
+cruise stage 193 kg 425 lb
+propellant 50 kg 110 lb
+instruments 5 kg 11 lbtotal mass is 1,063 kg 2,344 lb
+
+
+ cruise stage 
+
+the cruise stage is the component of the spacecraft that is used for travel from earth to mars it is very similar to the mars pathfinder in design and is approximately 2.65 meters 8.7 ft in diameter and 1.6 m 5.2 ft tall including the entry vehicle see below
+the primary structure is aluminium with an outer ring of ribs covered by the solar panels which are about 2.65 m 8.7 ft in diameter divided into five sections the solar arrays can provide up to 600 watts of power near earth and 300 w at mars
+heaters and multi-layer insulation keep the electronics warm a freon system removes heat from the flight computer and communications hardware inside the rover so they do not overheat cruise avionics systems allow the flight computer to interface with other electronics such as the sun sensors star scanner and heaters
+
+
+ navigation 
+the star scanner without a backup system and sun sensor allowed the spacecraft to know its orientation in space by analyzing the position of the sun and other stars in relation to itself sometimes the craft could be slightly off course this was expected given the 500-million-kilometer 320 million mile journey thus navigators planned up to six trajectory correction maneuvers along with health checks
+to ensure the spacecraft arrived at mars in the right place for its landing two light-weight aluminium-lined tanks carried about 31 kg about 68 lb of hydrazine propellant along with cruise guidance and control systems the propellant allowed navigators to keep the spacecraft on course burns and pulse firings of the propellant allowed three types of maneuvers
+
+an axial burn uses pairs of thrusters to change spacecraft velocity
+a lateral burn uses two thruster clusters four thrusters per cluster to move the spacecraft sideways through seconds-long pulses
+pulse mode firing uses coupled thruster pairs for spacecraft precession maneuvers turns
+
+
+ communication 
+the spacecraft used a high-frequency x band radio wavelength to communicate which allowed for less power and smaller antennas than many older craft which used s band
+navigators sent commands through two antennas on the cruise stage a cruise low-gain antenna mounted inside the inner ring and a cruise medium-gain antenna in the outer ring the low-gain antenna was used close to earth it is omni-directional so the transmission power that reached earth fell faster with increasing distance as the craft moved closer to mars the sun and earth moved closer in the sky as viewed from the craft so less energy reached earth the spacecraft then switched to the medium-gain antenna which directed the same amount of transmission power into a tighter beam toward earth
+during flight the spacecraft was spin-stabilized with a spin rate of two revolutions per minute rpm periodic updates kept antennas pointed toward earth and solar panels toward the sun
+
+
+ aeroshell 
+
+the aeroshell maintained a protective covering for the lander during the seven-month voyage to mars together with the lander and the rover it constituted the entry vehicle its main purpose was to protect the lander and the rover inside it from the intense heat of entry into the thin martian atmosphere it was based on the mars pathfinder and mars viking designs
+
+
+ parts 
+the aeroshell was made of two main parts a heat shield and a backshell the heat shield was flat and brownish and protected the lander and rover during entry into the martian atmosphere and acted as the first aerobrake for the spacecraft the backshell was large cone-shaped and painted white it carried the parachute and several components used in later stages of entry descent and landing including
+
+a parachute stowed at the bottom of the backshell
+the backshell electronics and batteries that fire off pyrotechnic devices like separation nuts rockets and the parachute mortar
+a litton ln-200 inertial measurement unit imu which monitors and reports the orientation of the backshell as it swings under the parachute
+three large solid rocket motors called rad rockets rocket assisted descent each providing about a ton of force 10 kilonewtons for about 60 seconds
+three small solid rockets called tirs mounted so that they aim horizontally out the sides of the backshell that provide a small horizontal kick to the backshell to help orient the backshell more vertically during the main rad rocket burn
+
+
+ composition 
+built by the lockheed martin astronautics co in denver colorado the aeroshell is made of an aluminium honeycomb structure sandwiched between graphite-epoxy face sheets the outside of the aeroshell is covered with a layer of phenolic honeycomb this honeycomb is filled with an ablative material also called an ablator that dissipates heat generated by atmospheric friction
+the ablator itself is a unique blend of cork wood binder and many tiny silica glass spheres it was invented for the heat shields flown on the viking mars lander missions a similar technology was used in the first us manned space missions mercury gemini and apollo it was specially formulated to react chemically with the martian atmosphere during entry and carry heat away leaving a hot wake of gas behind the vehicle the vehicle slowed from 19,000 to 1,600 kmh 5,300 to 440 ms in about a minute producing about 60 ms2 6 g of acceleration on the lander and rover
+the backshell and heat shield are made of the same materials but the heat shield has a thicker 13 mm 1⁄2 in layer of the ablator instead of being painted the backshell was covered with a very thin aluminized pet film blanket to protect it from the cold of deep space the blanket vaporized during entry into the martian atmosphere
+
+
+ parachute 
+
+the parachute helped slow the spacecraft during entry descent and landing it is located in the backshell
+
+
+ design 
+the 2003 parachute design was part of a long-term mars parachute technology development effort and is based on the designs and experience of the viking and pathfinder missions the parachute for this mission is 40% larger than pathfinders because the largest load for the mars exploration rover is 80 to 85 kilonewtons kn or 80 to 85 kn 18,000 to 19,000 lbf when the parachute fully inflates by comparison pathfinders inflation loads were approximately 35 kn about 8,000 lbf the parachute was designed and constructed in south windsor connecticut by pioneer aerospace the company that also designed the parachute for the stardust mission
+
+
+ composition 
+the parachute is made of two durable lightweight fabrics polyester and nylon a triple bridle made of kevlar connects the parachute to the backshell
+the amount of space available on the spacecraft for the parachute is so small that the parachute had to be pressure-packed before launch a team tightly folded the 48 suspension lines three bridle lines and the parachute the parachute team loaded the parachute in a special structure that then applied a heavy weight to the parachute package several times before placing the parachute into the backshell the parachute was heat set to sterilize it
+
+
+ connected systems 
+
+zylon bridles after the parachute was deployed at an altitude of about 10 km 6.2 mi above the surface the heatshield was released using 6 separation nuts and push-off springs the lander then separated from the backshell and rappelled down a metal tape on a centrifugal braking system built into one of the lander petals the slow descent down the metal tape placed the lander in position at the end of another bridle tether made of a nearly 20 m 66 ft long braided zylonzylon is an advanced fiber material similar to kevlar that is sewn in a webbing pattern like shoelace material to make it stronger the zylon bridle provides space for airbag deployment distance from the solid rocket motor exhaust stream and increased stability the bridle incorporates an electrical harness that allows the firing of the solid rockets from the backshell as well as provides data from the backshell inertial measurement unit which measures rate and tilt of the spacecraft to the flight computer in the roverrocket assisted descent rad motors because the atmospheric density of mars is less than 1% of earths the parachute alone could not slow down the mars exploration rover enough to ensure a safe low landing speed the spacecraft descent was assisted by rockets that brought the spacecraft to a dead stop 10–15 m 33–49 ft above the martian surfaceradar altimeter unit a radar altimeter unit was used to determine the distance to the martian surface the radars antenna is mounted at one of the lower corners of the lander tetrahedron when the radar measurement showed the lander was the correct distance above the surface the zylon bridle was cut releasing the lander from the parachute and backshell so that it was free and clear for landing the radar data also enabled the timing sequence on airbag inflation and backshell rad rocket firing
+
+
+ airbags 
+
+airbags used in the mars exploration rover mission are the same type that mars pathfinder used in 1997 they had to be strong enough to cushion the spacecraft if it landed on rocks or rough terrain and allow it to bounce across mars surface at highway speeds about 100 kmh after landing the airbags had to be inflated seconds before touchdown and deflated once safely on the ground
+the airbags were made of vectran like those on pathfinder vectran has almost twice the strength of other synthetic materials such as kevlar and performs better in cold temperatures six 100 denier 10 mgm layers of vectran protected one or two inner bladders of vectran in 200 denier 20 mgm using 100 denier 10 mgm leaves more fabric in the outer layers where it is needed because there are more threads in the weave
+each rover used four airbags with six lobes each all of which were connected connection was important since it helped abate some of the landing forces by keeping the bag system flexible and responsive to ground pressure the airbags were not attached directly to the rover but were held to it by ropes crisscrossing the bag structure the ropes gave the bags shape making inflation easier while in flight the bags were stowed along with three gas generators that are used for inflation
+
+
+ lander 
+
+the spacecraft lander is a protective shell that houses the rover and together with the airbags protects it from the forces of impact
+the lander is a tetrahedron shape whose sides open like petals it is strong and light and made of beams and sheets the beams consist of layers of graphite fiber woven into a fabric that is lighter than aluminium and more rigid than steel titanium fittings are glued and fitted onto the beams to allow it to be bolted together the rover was held inside the lander by bolts and special nuts that were released after landing with small explosives
+
+
+ uprighting 
+after the lander stopped bouncing and rolling on the ground it came to rest on the base of the tetrahedron or one of its sides the sides then opened to make the base horizontal and the rover upright the sides are connected to the base by hinges each of which has a motor strong enough to lift the lander the rover plus lander has a mass of about 533 kilograms 1,175 pounds the rover alone has a mass of about 185 kg 408 lb the gravity on mars is about 38% of earths so the motor does not need to be as powerful as it would on earth
+the rover contains accelerometers to detect which way is down toward the surface of mars by measuring the pull of gravity the rover computer then commanded the correct lander petal to open to place the rover upright once the base petal was down and the rover was upright the other two petals were opened
+the petals initially opened to an equally flat position so all sides of the lander were straight and level the petal motors are strong enough so that if two of the petals come to rest on rocks the base with the rover would be held in place like a bridge above the ground the base will hold at a level even with the height of the petals resting on rocks making a straight flat surface throughout the length of the open flattened lander the flight team on earth could then send commands to the rover to adjust the petals and create a safe path for the rover to drive off the lander and onto the martian surface without dropping off a steep rock
+
+
+ moving the payload onto mars 
+
+the moving of the rover off the lander is called the egress phase of the mission the rover must avoid having its wheels caught in the airbag material or falling off a sharp incline to help this a retraction system on the petals slowly drags the airbags toward the lander before the petals open small ramps on the petals fan out to fill spaces between the petals they cover uneven terrain rock obstacles and airbag material and form a circular area from which the rover can drive off in more directions they also lower the step that the rover must climb down they are nicknamed batwings and are made of vectran cloth
+about three hours were allotted to retract the airbags and deploy the lander petals
+
+
+ rover design 
+
+the rovers are six-wheeled solar-powered robots that stand 1.5 m 4.9 ft high 2.3 m 7.5 ft wide and 1.6 m 5.2 ft long they weigh 180 kg 400 lb 35 kg 77 lb of which is the wheel and suspension system
+
+
+ drive system 
+
+each rover has six wheels mounted on a rocker-bogie suspension system that ensures wheels remain on the ground while driving over rough terrain the design reduces the range of motion of the rover body by half and allows the rover to go over obstacles or through holes that are more than a wheel diameter 250 millimeters 9.8 in in size the rover wheels are designed with integral compliant flexures which provide shock absorption during movement additionally the wheels have cleats which provide grip for climbing in soft sand and scrambling over rocks
+each wheel has its own drive motor the two front and two rear wheels each have individual steering motors this allows the vehicle to turn in place a full revolution and to swerve and curve making arching turns the motors for the rovers have been designed by the swiss company maxon motor the rover is designed to withstand a tilt of 45 degrees in any direction without overturning however the rover is programmed through its fault protection limits in its hazard avoidance software to avoid exceeding tilts of 30 degrees
+each rover can spin one of its front wheels in place to grind deep into the terrain it is to remain motionless while the digging wheel is spinning the rovers have a top speed on flat hard ground of 50 mms 2 ins the average speed is 10 mms because its hazard avoidance software causes it to stop every 10 seconds for 20 seconds to observe and understand the terrain into which it has driven
+
+
+ power and electronic systems 
+
+when fully illuminated the rover triplejunction  solar arrays generate about 140 watts for up to four hours per martian day sol the rover needs about 100 watts to drive its power system includes two rechargeable lithium ion batteries weighing 7.15 kg 15.8 lb each that provide energy when the sun is not shining especially at night over time the batteries will degrade and will not be able to recharge to full capacity
+for comparison the mars science laboratorys power system is composed of a multi-mission radioisotope thermoelectric generator mmrtg produced by boeing the mmrtg is designed to provide 125w of electrical power at the start of the mission falling to 100w after 14 years of service it is used to power the msls many systems and instruments solar panels were also considered for the msl but rtgs provide constant power regardless of the time of day and thus the versatility to work in dark environments and high latitudes where solar energy is not readily available the msl generates 2.5 kilowatt hours per day compared to the mars exploration rovers which can generate about 0.6 kilowatt hours per dayit was thought that by the end of the 90-sol mission the capability of the solar arrays to generate power would likely be reduced to about 50 watts this was due to anticipated dust coverage on the solar arrays and the change in season over three earth years later however the rovers power supplies hovered between 300 watt-hours and 900 watt-hours per day depending on dust coverage cleaning events dust removal by wind have occurred more often than nasa expected keeping the arrays relatively free of dust and extending the life of the mission during a 2007 global dust storm on mars both rovers experienced some of the lowest power of the mission opportunity dipped to 128 watt-hours in november 2008 spirit had overtaken this low-energy record with a production of 89 watt-hours due to dust storms in the region of gusev craterthe rovers run a vxworks embedded operating system on a radiation-hardened 20 mhz rad6000 cpu with 128 mb of dram with error detection and correction and 3 mb of eeprom each rover also has 256 mb of flash memory to survive during the various mission phases the rovers vital instruments must stay within a temperature of −40 °c to 40 °c −40 °f to 104 °f at night the rovers are heated by eight radioisotope heater units rhu which each continuously generate 1 w of thermal energy from the decay of radioisotopes along with electrical heaters that operate only when necessary a sputtered gold film and a layer of silica aerogel are used for insulation
+
+
+ communication 
+
+the rover has an x band low-gain and an x band high-gain antenna for communications to and from the earth as well as an ultra high frequency monopole antenna for relay communications the low-gain antenna is omnidirectional and transmits data at a low rate to deep space network dsn antennas on earth the high-gain antenna is directional and steerable and can transmit data to earth at a higher rate the rovers use the uhf monopole and its ce505 radio to communicate with spacecraft orbiting mars the mars odyssey and before its failure the mars global surveyor already more than 7.6 terabits of data were transferred using its mars relay antenna and mars orbiter cameras memory buffer of 12 mb since mro went into orbit around mars the landers have also used it as a relay asset most of the lander data is relayed to earth through odyssey and mro the orbiters can receive rover signals at a much higher data rate than the deep space network can due to the much shorter distances from rover to orbiter the orbiters then quickly relay the rover data to the earth using their large and high-powered antennas
+each rover has nine cameras which produce 1024-pixel by 1024-pixel images at 12 bits per pixel but most navigation camera images and image thumbnails are truncated to 8 bits per pixel to conserve memory and transmission time all images are then compressed using icer before being stored and sent to earth navigation thumbnail and many other image types are compressed to approximately 0.8 to 1.1 bitspixel lower bit rates less than 0.5-bitpixel are used for certain wavelengths of multi-color panoramic images
+icer is based on wavelets and was designed specifically for deep-space applications it produces progressive compression both lossless and lossy and incorporates an error-containment scheme to limit the effects of data loss on the deep-space channel it outperforms the lossy jpeg image compressor and the lossless rice compressor used by the mars pathfinder mission
+
+
+ scientific instrumentation 
+the rover has various instruments three are mounted on the pancam mast assembly pma
+
+panoramic cameras pancam two cameras with color filter wheels for determining the texture color mineralogy and structure of the local terrain
+navigation cameras navcam two cameras that have larger fields of view but lower resolution and are monochromatic for navigation and driving
+a periscope assembly for the miniature thermal emission spectrometer mini-tes which identifies promising rocks and soils for closer examination and determines the processes that formed them the mini-tes was built by arizona state university the periscope assembly features two beryllium fold mirrors a shroud that closes to minimize dust contamination in the assembly and stray-light rejection baffles that are strategically placed within the graphite epoxy tubesthe cameras are mounted 1.5 meters high on the pancam mast assembly the pma is deployed via the mast deployment drive mdd the azimuth drive mounted directly above the mdd turns the assembly horizontally a whole revolution with signals transmitted through a rolling tape configuration the camera drive points the cameras in elevation almost straight up or down a third motor points the mini-tes fold mirrors and protective shroud up to 30° above the horizon and 50° below the pmas conceptual design was done by jason suchman at jpl the cognizant engineer who later served as contract technical manager ctm once the assembly was built by ball aerospace  technologies corp boulder colorado raul romero served as ctm once subsystem-level testing began satish krishnan did the conceptual design of the high-gain antenna gimbal hgag whose detailed design assembly and test was also performed by ball aerospace at which point satish acted as the ctm
+four monochromatic hazard cameras hazcams are mounted on the rovers body two in front and two behind
+the instrument deployment device idd also called the rover arm holds the following
+
+mössbauer spectrometer mb mimos ii developed by dr göstar klingelhöfer at the johannes gutenberg university in mainz germany is used for close-up investigations of the mineralogy of iron-bearing rocks and soils
+alpha particle x-ray spectrometer apxs developed by the max planck institute for chemistry in mainz germany is used for close-up analysis of the abundances of elements that make up rocks and soils universities involved in developing the apxs include the university of guelph university of california and cornell university
+magnets for collecting magnetic dust particles developed by jens martin knudsens group at the niels bohr institute copenhagen the particles are analyzed by the mössbauer spectrometer and x-ray spectrometer to help determine the ratio of magnetic particles to non-magnetic particles and the composition of magnetic minerals in airborne dust and rocks that have been ground by the rock abrasion tool there are also magnets on the front of the rover which are studied extensively by the mössbauer spectrometer
+microscopic imager mi for obtaining close-up high-resolution images of rocks and soils development was led by ken herkenhoffs team at the usgs astrogeology research program
+rock abrasion tool rat developed by honeybee robotics for removing dusty and weathered rock surfaces and exposing fresh material for examination by instruments on boardthe robotic arm is able to place instruments directly up against rock and soil targets of interest
+
+
+ naming of spirit and opportunity 
+
+the spirit and opportunity rovers were named through a student essay competition the winning entry was by sofi collis a third-grade russian-american student from arizona
+
+i used to live in an orphanage it was dark and cold and lonely at night i looked up at the sparkly sky and felt better i dreamed i could fly there in america i can make all my dreams come true thank you for the spirit and the opportunity
+— sofi collis age 9
+
+prior to this during the development and building of the rovers they were known as mer-1 opportunity and mer-2 spirit internally nasa also uses the mission designations mer-a spirit and mer-b opportunity based on the order of landing on mars spirit first then opportunity
+
+
+ test rovers 
+
+the jet propulsion laboratory maintains a pair of rovers the surface system test-beds sstb at its location in pasadena for testing and modeling of situations on mars one test rover sstb1 weighing approximately 180 kilograms 400 lb is fully instrumented and nearly identical to spirit and opportunity another test version sstb-lite is identical in size and drive characteristics but does not include all instruments it weighs in at 80 kilograms 180 lb much closer to the weight of spirit and opportunity in the reduced gravity of mars these rovers were used in 2009 for a simulation of the incident in which spirit became trapped in soft soil
+
+
+ sap software for image viewing 
+the nasa team uses a software application called sap to view images collected from the rover and to plan its daily activities there is a version available to the public called maestro
+
+
+ planetary science findings 
+
+
+ spirit landing site gusev crater 
+
+
+ plains 
+although the gusev crater appears from orbital images to be a dry lakebed the observations from the surface show the interior plains mostly filled with debris the rocks on the plains of gusev are a type of basalt they contain the minerals olivine pyroxene plagioclase and magnetite and they look like volcanic basalt as they are fine-grained with irregular holes geologists would say they have vesicles and vugs
+much of the soil on the plains came from the breakdown of the local rocks fairly high levels of nickel were found in some soils probably from meteorites
+analysis shows that the rocks have been slightly altered by tiny amounts of water outside coatings and cracks inside the rocks suggest water deposited minerals maybe bromine compounds all the rocks contain a fine coating of dust and one or more harder rinds of material one type can be brushed off while another needed to be ground off by the rock abrasion tool ratthere are a variety of rocks in the columbia hills some of which have been altered by water but not by very much water
+
+these rocks can be classified in different ways the amounts and types of minerals make the rocks primitive basalts—also called picritic basalts the rocks are similar to ancient terrestrial rocks called basaltic komatiites rocks of the plains also resemble the basaltic shergottites meteorites which came from mars one classification system compares the amount of alkali elements to the amount of silica on a graph in this system gusev plains rocks lie near the junction of basalt picrobasalt and tephite the irvine-barager classification calls them basalts
+plain’s rocks have been very slightly altered probably by thin films of water because they are softer and contain veins of light colored material that may be bromine compounds as well as coatings or rinds it is thought that small amounts of water may have gotten into cracks inducing mineralization processes
+coatings on the rocks may have occurred when rocks were buried and interacted with thin films of water and dust
+one sign that they were altered was that it was easier to grind these rocks compared to the same types of rocks found on earth
+the first rock that spirit studied was adirondack it turned out to be typical of the other rocks on the plains
+
+		
+
+
+ dust 
+the dust in gusev crater is the same as dust all around the planet all the dust was found to be magnetic moreover spirit found the magnetism was caused by the mineral magnetite especially magnetite that contained the element titanium one magnet was able to completely divert all dust hence all martian dust is thought to be magnetic  the spectra of the dust was similar to spectra of bright low thermal inertia regions like tharsis and arabia that have been detected by orbiting satellites a thin layer of dust maybe less than one millimeter thick covers all surfaces something in it contains a small amount of chemically bound water
+
+
+ columbia hills 
+as the rover climbed above the plains onto the columbia hills the mineralogy that was seen changed  scientists found a variety of rock types in the columbia hills and they placed them into six different categories the six are clovis wishbone peace watchtower backstay and independence they are named after a prominent rock in each group their chemical compositions as measured by apxs are significantly different from each other  most importantly all of the rocks in columbia hills show various degrees of alteration due to aqueous fluids
+they are enriched in the elements phosphorus sulfur chlorine and bromine—all of which can be carried around in water solutions the columbia hills’ rocks contain basaltic glass along with varying amounts of olivine and sulfates
+the olivine abundance varies inversely with the amount of sulfates this is exactly what is expected because water destroys olivine but helps to produce sulfates
+the clovis group is especially interesting because the mössbauer spectrometer mb detected goethite in it goethite forms only in the presence of water so its discovery is the first direct evidence of past water in the columbia hillss rocks in addition the mb spectra of rocks and outcrops displayed a strong decline in olivine presence
+although the rocks probably once contained much olivine  olivine is a marker for the lack of water because it easily decomposes in the presence of water sulfate was found and it needs water to form
+wishstone contained a great deal of plagioclase some olivine and anhydrate a sulfate peace rocks showed sulfur and strong evidence for bound water so hydrated sulfates are suspected watchtower class rocks lack olivine consequently they may have been altered by water the independence class showed some signs of clay perhaps montmorillonite a member of the smectite group clays require fairly long term exposure to water to form
+one type of soil called paso robles from the columbia hills may be an evaporate deposit because it contains large amounts of sulfur phosphorus calcium and iron
+also mb found that much of the iron in paso robles soil was of the oxidized fe3 form
+towards the middle of the six-year mission a mission that was supposed to last only 90 days large amounts of pure silica were found in the soil the silica could have come from the interaction of soil with acid vapors produced by volcanic activity in the presence of water or from water in a hot spring environmentafter spirit stopped working scientists studied old data from the miniature thermal emission spectrometer or mini-tes and confirmed the presence of large amounts of carbonate-rich rocks which means that regions of the planet may have once harbored water the carbonates were discovered in an outcrop of rocks called comanchein summary spirit found evidence of slight weathering on the plains of gusev but no evidence that a lake was there however in the columbia hills there was clear evidence for a moderate amount of aqueous weathering the evidence included sulfates and the minerals goethite and carbonates which only form in the presence of water it is believed that gusev crater may have held a lake long ago but it has since been covered by igneous materials all the dust contains a magnetic component which was identified as magnetite with some titanium furthermore the thin coating of dust that covers everything on mars is the same in all parts of mars
+
+
+ opportunity landing site meridiani planum 
+
+the opportunity rover landed in a small crater dubbed eagle on the flat plains of meridiani the plains of the landing site were characterized by the presence of a large number of small spherules spherical concretions that were tagged blueberries by the science team which were found both loose on the surface and also embedded in the rock these proved to have a high concentration of the mineral hematite and showed the signature of being formed in an aqueous environment the layered bedrock revealed in the crater walls showed signs of being sedimentary in nature and compositional and microscopic-imagery analysis showed this to be primarily with composition of jarosite a ferrous sulfate mineral that is characteristically an evaporite that is the residue from the evaporation of a salty pond or seathe mission has provided substantial evidence of past water activity on mars in addition to investigating the water hypothesis opportunity has also obtained astronomical observations and atmospheric data
+the extended mission took the rover across the plains to a series of larger craters in the south with the arrival at the edge of a 25-km diameter crater endeavour crater eight years after landing the orbital spectroscopy of this crater rim show the signs of phyllosilicate rocks indicative of older sedimentary deposits
+
+
+ landing locations 
+
+
+ glossary 
+
+
+ see also 
+aeolis quadrangle
+astrogeology research program of the united states geological survey
+boeing integrated defense systems
+composition of mars
+goldstone deep space communications complex
+lunokhod programme lunar rovers
+maestro software
+space exploration
+syd lieberman official storyteller of the mars exploration mission
+
+
+ notes 
+
+
+ references 
+
+
+ further reading 
+
+roving mars spirit opportunity and the exploration of the red planet by steve squyres published august 2005 isbn 1-4013-0149-5
+postcards from mars the first photographer on the red planet by jim bell published november 2006 isbn 0-525-94985-2
+technical papers by jpl robotics engineers
+interview the driver behind nasas mars rovers from australian pc world
+
+
+ external links 
+nasa jpls mer website
+spirit mission profile
+opportunity mission profile
+mars exploration rover project nasajpl document nss isdc 2001 27 may 2001
+science 6 august 2004 - scientific papers from the first phase of the spirit mission
+mars rover manual centralized resource for all publicly released rover technical details
+mer analysts notebook access to the mer scientific data set
+scientific american magazine march 2004 issue the spirit of exploration
+li2-rover
+official pancam true color images gallery
+rover image gallery
+nonofficial daily pancam color image gallery
+archive of mer progress reports by ajs rayl at planetaryorg

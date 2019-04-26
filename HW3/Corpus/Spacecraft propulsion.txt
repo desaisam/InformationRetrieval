@@ -1,0 +1,1375 @@
+spacecraft propulsion is any method used to accelerate spacecraft and artificial satellites there are many different methods each method has drawbacks and advantages and spacecraft propulsion is an active area of research however most spacecraft today are propelled by forcing a gas from the backrear of the vehicle at very high speed through a supersonic de laval nozzle this sort of engine is called a rocket engine
+all current spacecraft use chemical rockets bipropellant or solid-fuel for launch though some such as the pegasus rocket and spaceshipone have used air-breathing engines on their first stage most satellites have simple reliable chemical thrusters often monopropellant rockets or resistojet rockets for orbital station-keeping and some use momentum wheels for attitude control soviet bloc satellites have used electric propulsion for decades and newer western geo-orbiting spacecraft are starting to use them for north-south stationkeeping and orbit raising interplanetary vehicles mostly use chemical rockets as well although a few have used ion thrusters and hall effect thrusters two different types of electric propulsion to great success
+
+
+ requirements 
+
+artificial satellites must be launched into orbit and once there they must be placed in their nominal orbit once in the desired orbit they often need some form of attitude control so that they are correctly pointed with respect to earth the sun and possibly some astronomical object of interest they are also subject to drag from the thin atmosphere  so that to stay in orbit for a long period of time some form of propulsion is occasionally necessary to make small corrections orbital stationkeeping many satellites need to be moved from one orbit to another from time to time and this also requires propulsion a satellites useful life is usually over once it has exhausted its ability to adjust its orbit
+spacecraft designed to travel further also need propulsion methods  they need to be launched out of the earths atmosphere just as satellites do  once there they need to leave orbit and move around
+for interplanetary travel a spacecraft must use its engines to leave earth orbit  once it has done so it must somehow make its way to its destination  current interplanetary spacecraft do this with a series of short-term trajectory adjustments in between these adjustments the spacecraft simply falls freely along its trajectory  the most fuel-efficient means to move from one circular orbit to another is with a hohmann transfer orbit the spacecraft begins in a roughly circular orbit around the sun  a short period of thrust in the direction of motion accelerates or decelerates the spacecraft into an elliptical orbit around the sun which is tangential to its previous orbit and also to the orbit of its destination  the spacecraft falls freely along this elliptical orbit until it reaches its destination where another short period of thrust accelerates or decelerates it to match the orbit of its destination  special methods such as aerobraking or aerocapture are sometimes used for this final orbital adjustment
+
+some spacecraft propulsion methods such as solar sails provide very low but inexhaustible thrust an interplanetary vehicle using one of these methods would follow a rather different trajectory either constantly thrusting against its direction of motion in order to decrease its distance from the sun or constantly thrusting along its direction of motion to increase its distance from the sun the concept has been successfully tested by the japanese ikaros solar sail spacecraft
+spacecraft for interstellar travel also need propulsion methods  no such spacecraft has yet been built but many designs have been discussed because interstellar distances are very great a tremendous velocity is needed to get a spacecraft to its destination in a reasonable amount of time  acquiring such a velocity on launch and getting rid of it on arrival will be a formidable challenge for spacecraft designers
+
+
+ effectiveness 
+when in space the purpose of a propulsion system is to change the velocity or v of a spacecraft because this is more difficult for more massive spacecraft designers generally discuss momentum mv the amount of change in momentum is called impulse so the goal of a propulsion method in space is to create an impulse
+when launching a spacecraft from earth a propulsion method must overcome a higher gravitational pull to provide a positive net acceleration
+in orbit   any additional impulse even very tiny will result in a change in the orbit path
+the rate of change of velocity is called acceleration and the rate of change of momentum is called force  to reach a given velocity one can apply a small acceleration over a long period of time or one can apply a large acceleration over a short time  similarly one can achieve a given impulse with a large force over a short time or a small force over a long time  this means that for maneuvering in space a propulsion method that produces tiny accelerations but runs for a long time can produce the same impulse as a propulsion method that produces large accelerations for a short time  when launching from a planet tiny accelerations cannot overcome the planets gravitational pull and so cannot be used
+earths surface is situated fairly deep in a gravity well the escape velocity required to get out of it is 11.2 kilometerssecond as human beings evolved in a gravitational field of 1g 9.8 ms² an ideal propulsion system would be one that provides a continuous acceleration of 1g though human bodies can tolerate much larger accelerations over short periods the occupants of a rocket or spaceship having such a propulsion system would be free from all the ill effects of free fall such as nausea muscular weakness reduced sense of taste or leaching of calcium from their bones
+the law of conservation of momentum means that in order for a propulsion method to change the momentum of a space craft it must change the momentum of something else as well  a few designs take advantage of things like magnetic fields or light pressure in order to change the spacecrafts momentum but in free space the rocket must bring along some mass to accelerate away in order to push itself forward  such mass is called reaction mass
+in order for a rocket to work it needs two things reaction mass and energy  the impulse provided by launching a particle of reaction mass having mass m at velocity v is mv  but this particle has kinetic energy mv²2 which must come from somewhere in a conventional solid liquid or hybrid rocket the fuel is burned providing the energy and the reaction products are allowed to flow out the back providing the reaction mass  in an ion thruster electricity is used to accelerate ions out the back here some other source must provide the electrical energy perhaps a solar panel or a nuclear reactor whereas the ions provide the reaction masswhen discussing the efficiency of a propulsion system designers often focus on effectively using the reaction mass  reaction mass must be carried along with the rocket and is irretrievably consumed when used  one way of measuring the amount of impulse that can be obtained from a fixed amount of reaction mass is the specific impulse the impulse per unit weight-on-earth typically designated by 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+      
+    
+    displaystyle itextsp
+   the unit for this value is seconds because the weight on earth of the reaction mass is often unimportant when discussing vehicles in space specific impulse can also be discussed in terms of impulse per unit mass  this alternate form of specific impulse uses the same units as velocity eg ms and in fact it is equal to the effective exhaust velocity of the engine typically designated 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+    confusingly both values are sometimes called specific impulse  the two values differ by a factor of gn the standard acceleration due to gravity 9.80665 ms² 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+        
+          g
+          
+            
+              n
+            
+          
+        
+        
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle itextspgmathrm n ve
+  
+a rocket with a high exhaust velocity can achieve the same impulse with less reaction mass  however the energy required for that impulse is proportional to the exhaust velocity so that more mass-efficient engines require much more energy and are typically less energy efficient  this is a problem if the engine is to provide a large amount of thrust  to generate a large amount of impulse per second it must use a large amount of energy per second  so high-mass-efficient engines require enormous amounts of energy per second to produce high thrusts  as a result most high-mass-efficient engine designs also provide lower thrust due to the unavailability of high amounts of energy
+
+
+ methods 
+propulsion methods can be classified based on their means of accelerating the reaction mass  there are also some special methods for launches planetary arrivals and landings
+
+
+ reaction engines 
+
+a reaction engine is an engine which provides propulsion by expelling reaction mass in accordance with newtons third law of motion this law of motion is most commonly paraphrased as for every action there is an equal and opposite reaction
+examples include both duct engines and rocket engines and more uncommon variations such as hall effect thrusters ion drives and mass drivers duct engines are obviously not used for space propulsion due to the lack of air however some proposed spacecraft have these kinds of engines to assist takeoff and landing
+
+
+ delta-v and propellant 
+
+exhausting the entire usable propellant of a spacecraft through the engines in a straight line in free space would produce a net velocity change to the vehicle this number is termed delta-v 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+  
+if the exhaust velocity is constant then the total 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   of a vehicle can be calculated using the rocket equation where m is the mass of propellant p is the mass of the payload including the rocket structure and 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+   is the velocity of the rocket exhaust this is known as the tsiolkovsky rocket equation
+
+  
+    
+      
+        δ
+        v
+        
+        
+          v
+          
+            e
+          
+        
+        ln
+        ⁡
+        
+          
+          
+            
+              
+                m
+                
+                p
+              
+              p
+            
+          
+          
+        
+        
+      
+    
+    displaystyle delta vveln leftfrac mppright
+  for historical reasons as discussed above 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+   is sometimes written as
+
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+        
+        
+          i
+          
+            sp
+          
+        
+        
+          g
+          
+            0
+          
+        
+      
+    
+    displaystyle veitextspg0
+  where 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+      
+    
+    displaystyle itextsp
+   is the specific impulse of the rocket measured in seconds and 
+  
+    
+      
+        
+          g
+          
+            0
+          
+        
+      
+    
+    displaystyle g0
+   is the gravitational acceleration at sea level
+for a high delta-v mission the majority of the spacecrafts mass needs to be reaction mass because a rocket must carry all of its reaction mass most of the initially-expended reaction mass goes towards accelerating reaction mass rather than payload if the rocket has a payload of mass p the spacecraft needs to change its velocity by 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   and the rocket engine has exhaust velocity ve then the reaction mass m which is needed can be calculated using the rocket equation and the formula for 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+      
+    
+    displaystyle itextsp
+  
+
+  
+    
+      
+        m
+        
+        p
+        
+          
+          
+            
+              e
+              
+                
+                  
+                    δ
+                    v
+                  
+                  
+                    v
+                    
+                      e
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          
+        
+        
+      
+    
+    displaystyle mpleftefrac delta vve-1right
+  for 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   much smaller than ve this equation is roughly linear and little reaction mass is needed if 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   is comparable to ve then there needs to be about twice as much fuel as combined payload and structure which includes engines fuel tanks and so on  beyond this the growth is exponential speeds much higher than the exhaust velocity require very high ratios of fuel mass to payload and structural mass
+for a mission for example when launching from or landing on a planet the effects of gravitational attraction and any atmospheric drag must be overcome by using fuel it is typical to combine the effects of these and other effects into an effective mission delta-v for example a launch mission to low earth orbit requires about 9.3–10 kms delta-v these mission delta-vs are typically numerically integrated on a computer
+some effects such as oberth effect can only be significantly utilised by high thrust engines such as rockets ie engines that can produce a high g-force thrust per unit mass equal to delta-v per unit time
+
+
+ power use and propulsive efficiency 
+for all reaction engines such as rockets and ion drives some energy must go into accelerating the reaction mass every engine will waste some energy but even assuming 100% efficiency to accelerate an exhaust the engine will need energy amounting to
+
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          
+            
+              m
+              ˙
+            
+          
+        
+        
+          v
+          
+            e
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle frac 12dot mve2
+  this energy is not necessarily lost- some of it usually ends up as kinetic energy of the vehicle and the rest is wasted in residual motion of the exhaust
+
+comparing the rocket equation which shows how much energy ends up in the final vehicle and the above equation which shows the total energy required shows that even with 100% engine efficiency certainly not all energy supplied ends up in the vehicle - some of it indeed usually most of it ends up as kinetic energy of the exhaust
+the exact amount depends on the design of the vehicle and the mission however there are some useful fixed points
+
+if the 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+      
+    
+    displaystyle itextsp
+   is fixed for a mission delta-v there is a particular 
+  
+    
+      
+        
+          i
+          
+            sp
+          
+        
+      
+    
+    displaystyle itextsp
+   that minimises the overall energy used by the rocket this comes to an exhaust velocity of about ⅔ of the mission delta-v see the energy computed from the rocket equation drives with a specific impulse that is both high and fixed such as ion thrusters have exhaust velocities that can be enormously higher than this ideal for many missions
+if the exhaust velocity can be made to vary so that at each instant it is equal and opposite to the vehicle velocity then the absolute minimum energy usage is achieved when this is achieved the exhaust stops in space 1 and has no kinetic energy and the propulsive efficiency is 100- all the energy ends up in the vehicle in principle such a drive would be 100% efficient in practice there would be thermal losses from within the drive system and residual heat in the exhaust however in most cases this uses an impractical quantity of propellant but is a useful theoretical consideration anyway the vehicle has to move before the method can be appliedsome drives such as vasimr or electrodeless plasma thruster actually can significantly vary their exhaust velocity this can help reduce propellant usage or improve acceleration at different stages of the flight however the best energetic performance and acceleration is still obtained when the exhaust velocity is close to the vehicle speed proposed ion and plasma drives usually have exhaust velocities enormously higher than that ideal in the case of vasimr the lowest quoted speed is around 15000 ms compared to a mission delta-v from high earth orbit to mars of about 4000 ms
+it might be thought that adding power generation capacity is helpful and although initially this can improve performance this inevitably increases the weight of the power source and eventually the mass of the power source and the associated engines and propellant dominates the weight of the vehicle and then adding more power gives no significant improvement
+for although solar power and nuclear power are virtually unlimited sources of energy the maximum power they can supply is substantially proportional to the mass of the powerplant ie specific power takes a largely constant value which is dependent on the particular powerplant technology  for any given specific power with a large 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+   which is desirable to save propellant mass it turns out that the maximum acceleration is inversely proportional to 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+   hence the time to reach a required delta-v is proportional to 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+   thus the latter should not be too large
+
+
+ energy 
+
+in the ideal case 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    displaystyle m1
+   is useful payload and 
+  
+    
+      
+        
+          m
+          
+            0
+          
+        
+        −
+        
+          m
+          
+            1
+          
+        
+      
+    
+    displaystyle m0-m1
+   is reaction mass this corresponds to empty tanks having no mass etc the energy required can simply be computed as
+
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+        
+          m
+          
+            0
+          
+        
+        −
+        
+          m
+          
+            1
+          
+        
+        
+        
+          v
+          
+            e
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle frac 12m0-m1vtexte2
+  this corresponds to the kinetic energy the expelled reaction mass would have at a speed equal to the exhaust speed if the reaction mass had to be accelerated from zero speed to the exhaust speed all energy produced would go into the reaction mass and nothing would be left for kinetic energy gain by the rocket and payload however if the rocket already moves and accelerates the reaction mass is expelled in the direction opposite to the direction in which the rocket moves less kinetic energy is added to the reaction mass to see this if for example 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle ve
+  10 kms and the speed of the rocket is 3 kms then the speed of a small amount of expended reaction mass changes from 3 kms forwards to 7 kms rearwards thus although the energy required is 50 mj per kg reaction mass only 20 mj is used for the increase in speed of the reaction mass the remaining 30 mj is the increase of the kinetic energy of the rocket and payload
+in general
+
+  
+    
+      
+        d
+        
+          
+          
+            
+              
+                1
+                2
+              
+            
+            
+              v
+              
+                2
+              
+            
+          
+          
+        
+        
+        v
+        d
+        v
+        
+        v
+        
+          v
+          
+            e
+          
+        
+        
+          
+            
+              d
+              m
+            
+            m
+          
+        
+        
+        
+          
+            1
+            2
+          
+        
+        
+          
+          
+            
+              v
+              
+                e
+              
+              
+                2
+              
+            
+            −
+            
+              
+                
+                
+                  v
+                  −
+                  
+                    v
+                    
+                      e
+                    
+                  
+                
+                
+              
+              
+                2
+              
+            
+            
+            
+              v
+              
+                2
+              
+            
+          
+          
+        
+        
+          
+            
+              d
+              m
+            
+            m
+          
+        
+      
+    
+    displaystyle dleftfrac 12v2rightvdvvvtextefrac dmmfrac 12leftvtexte2-leftv-vtexteright2v2rightfrac dmm
+  thus the specific energy gain of the rocket in any small time interval is the energy gain of the rocket including the remaining fuel divided by its mass where the energy gain is equal to the energy produced by the fuel minus the energy gain of the reaction mass the larger the speed of the rocket the smaller the energy gain of the reaction mass if the rocket speed is more than half of the exhaust speed the reaction mass even loses energy on being expelled to the benefit of the energy gain of the rocket the larger the speed of the rocket the larger the energy loss of the reaction mass
+we have
+
+  
+    
+      
+        δ
+        ε
+        
+        ∫
+        v
+        
+        d
+        
+        δ
+        v
+        
+      
+    
+    displaystyle delta epsilon int vddelta v
+  where 
+  
+    
+      
+        ε
+      
+    
+    displaystyle epsilon 
+   is the specific energy of the rocket potential plus kinetic energy and 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   is a separate variable not just the change in 
+  
+    
+      
+        v
+      
+    
+    displaystyle v
+   in the case of using the rocket for deceleration ie expelling reaction mass in the direction of the velocity 
+  
+    
+      
+        v
+      
+    
+    displaystyle v
+   should be taken negative
+the formula is for the ideal case again with no energy lost on heat etc the latter causes a reduction of thrust so it is a disadvantage even when the objective is to lose energy deceleration
+if the energy is produced by the mass itself as in a chemical rocket the fuel value has to be 
+  
+    
+      
+        
+          
+            
+              v
+              
+                e
+              
+              
+                2
+              
+            
+            
+              
+            
+            2
+          
+        
+      
+    
+    displaystyle scriptstyle vtexte22
+   where for the fuel value also the mass of the oxidizer has to be taken into account a typical value is 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+    4.5 kms corresponding to a fuel value of 10.1 mjkg the actual fuel value is higher but much of the energy is lost as waste heat in the exhaust that the nozzle was unable to extract
+the required energy 
+  
+    
+      
+        e
+      
+    
+    displaystyle e
+   is
+
+  
+    
+      
+        e
+        
+        
+          
+            1
+            2
+          
+        
+        
+          m
+          
+            1
+          
+        
+        
+          
+          
+            
+              e
+              
+                
+                  
+                    δ
+                    v
+                  
+                  
+                    v
+                    
+                      e
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          
+        
+        
+          v
+          
+            e
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle efrac 12m1leftefrac delta vvtexte-1rightvtexte2
+  conclusions
+
+for 
+  
+    
+      
+        δ
+        v
+        ≪
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle delta vll ve
+   we have 
+  
+    
+      
+        e
+        ≈
+        
+          
+            1
+            2
+          
+        
+        
+          m
+          
+            1
+          
+        
+        
+          v
+          
+            e
+          
+        
+        δ
+        v
+      
+    
+    displaystyle eapprox frac 12m1vtextedelta v
+  
+for a given 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   the minimum energy is needed if 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+        
+        0.6275
+        δ
+        v
+      
+    
+    displaystyle vtexte0.6275delta v
+   requiring an energy of
+  
+    
+      
+        e
+        
+        0.772
+        
+          m
+          
+            1
+          
+        
+        
+        δ
+        v
+        
+          
+          
+            2
+          
+        
+      
+    
+    displaystyle e0.772m1delta v2
+  
+in the case of acceleration in a fixed direction and starting from zero speed and in the absence of other forces this is 54.4% more than just the final kinetic energy of the payload in this optimal case the initial mass is 4.92 times the final massthese results apply for a fixed exhaust speed
+due to the oberth effect and starting from a nonzero speed the required potential energy needed from the propellant may be less than the increase in energy in the vehicle and payload this can be the case when the reaction mass has a lower speed after being expelled than before – rockets are able to liberate some or all of the initial kinetic energy of the propellant
+also for a given objective such as moving from one orbit to another the required 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   may depend greatly on the rate at which the engine can produce 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   and maneuvers may even be impossible if that rate is too low for example a launch to low earth orbit leo normally requires a 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   of ca 9.5 kms mostly for the speed to be acquired but if the engine could produce 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   at a rate of only slightly more than g it would be a slow launch requiring altogether a very large 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   think of hovering without making any progress in speed or altitude it would cost a 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   of 9.8 ms each second if the possible rate is only 
+  
+    
+      
+        g
+      
+    
+    displaystyle g
+   or less the maneuver can not be carried out at all with this engine
+the power is given by
+
+  
+    
+      
+        p
+        
+        
+          
+            1
+            2
+          
+        
+        m
+        a
+        
+          v
+          
+            e
+          
+        
+        
+        
+          
+            1
+            2
+          
+        
+        f
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle pfrac 12mavtextefrac 12fvtexte
+  where 
+  
+    
+      
+        f
+      
+    
+    displaystyle f
+   is the thrust and 
+  
+    
+      
+        a
+      
+    
+    displaystyle a
+   the acceleration due to it thus the theoretically possible thrust per unit power is 2 divided by the specific impulse in ms the thrust efficiency is the actual thrust as percentage of this
+if eg solar power is used this restricts 
+  
+    
+      
+        a
+      
+    
+    displaystyle a
+   in the case of a large 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+   the possible acceleration is inversely proportional to it hence the time to reach a required delta-v is proportional to 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+   with 100% efficiency
+
+for 
+  
+    
+      
+        δ
+        v
+        ≪
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle delta vll vtexte
+   we have 
+  
+    
+      
+        t
+        ≈
+        
+          
+            
+              m
+              
+                v
+                
+                  e
+                
+              
+              δ
+              v
+            
+            
+              2
+              p
+            
+          
+        
+      
+    
+    displaystyle tapprox frac mvtextedelta v2p
+  examples
+
+power 1000 w mass 100 kg 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+    5 kms 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+    16 kms takes 1.5 months
+power 1000 w mass 100 kg 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+    5 kms 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+    50 kms takes 5 monthsthus 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    displaystyle vtexte
+   should not be too large
+
+
+ power to thrust ratio 
+the power to thrust ratio is simply
+
+  
+    
+      
+        
+          
+            p
+            f
+          
+        
+        
+        
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                
+                  
+                    
+                      m
+                      ˙
+                    
+                  
+                
+                
+                  v
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    m
+                    ˙
+                  
+                
+              
+              v
+            
+          
+        
+        
+        
+          
+            1
+            2
+          
+        
+        v
+      
+    
+    displaystyle frac pffrac frac 12dot mv2dot mvfrac 12v
+  thus for any vehicle power p the thrust that may be provided is
+
+  
+    
+      
+        f
+        
+        
+          
+            p
+            
+              
+                
+                  1
+                  2
+                
+              
+              v
+            
+          
+        
+        
+        
+          
+            
+              2
+              p
+            
+            v
+          
+        
+      
+    
+    displaystyle ffrac pfrac 12vfrac 2pv
+  
+
+
+ example 
+suppose a 10,000 kg space probe will be sent to mars the required 
+  
+    
+      
+        δ
+        v
+      
+    
+    displaystyle delta v
+   from leo is approximately 3000 ms using a hohmann transfer orbit for the sake of argument assume the following thrusters are options to be used
+
+observe that the more fuel-efficient engines can use far less fuel their mass is almost negligible relative to the mass of the payload and the engine itself for some of the engines however note also that these require a large total amount of energy for earth launch engines require a thrust to weight ratio of more than one to do this with the ion or more theoretical electrical drives the engine would have to be supplied with one to several gigawatts of power equivalent to a major metropolitan generating station from the table it can be seen that this is clearly impractical with current power sources
+alternative approaches include some forms of laser propulsion where the reaction mass does not provide the energy required to accelerate it with the energy instead being provided from an external laser or other beam-powered propulsion system small models of some of these concepts have flown although the engineering problems are complex and the ground-based power systems are not a solved problem
+instead a much smaller less powerful generator may be included which will take much longer to generate the total energy needed this lower power is only sufficient to accelerate a tiny amount of fuel per second and would be insufficient for launching from earth however over long periods in orbit where there is no friction the velocity will be finally achieved for example it took the smart-1 more than a year to reach the moon whereas with a chemical rocket it takes a few days because the ion drive needs much less fuel the total launched mass is usually lower which typically results in a lower overall cost but the journey takes longer
+mission planning therefore frequently involves adjusting and choosing the propulsion system so as to minimise the total cost of the project and can involve trading off launch costs and mission duration against payload fraction
+
+
+ rocket engines 
+
+most rocket engines are internal combustion heat engines although non combusting forms exist rocket engines generally produce a high temperature reaction mass as a hot gas this is achieved by combusting a solid liquid or gaseous fuel with an oxidiser within a combustion chamber the extremely hot gas is then allowed to escape through a high-expansion ratio nozzle this bell-shaped nozzle is what gives a rocket engine its characteristic shape the effect of the nozzle is to dramatically accelerate the mass converting most of the thermal energy into kinetic energy exhaust speed reaching as high as 10 times the speed of sound at sea level are common
+rocket engines provide essentially the highest specific powers and high specific thrusts of any engine used for spacecraft propulsion
+ion propulsion rockets can heat a plasma or charged gas inside a magnetic bottle and release it via a magnetic nozzle so that no solid matter need come in contact with the plasma  of course the machinery to do this is complex but research into nuclear fusion has developed methods some of which have been proposed to be used in propulsion systems and some have been tested in a lab
+see rocket engine for a listing of various kinds of rocket engines using different heating methods including chemical electrical solar and nuclear
+
+
+ electromagnetic propulsion 
+
+rather than relying on high temperature and fluid dynamics to accelerate the reaction mass to high speeds there are a variety of methods that use electrostatic or electromagnetic forces to accelerate the reaction mass directly  usually the reaction mass is a stream of ions  such an engine typically uses electric power first to ionize atoms and then to create a voltage gradient to accelerate the ions to high exhaust velocities
+the idea of electric propulsion dates back to 1906 when robert goddard considered the possibility in his personal notebookkonstantin tsiolkovsky published the idea in 1911
+for these drives at the highest exhaust speeds energetic efficiency and thrust are all inversely proportional to exhaust velocity their very high exhaust velocity means they require huge amounts of energy and thus with practical power sources provide low thrust but use hardly any fuel
+for some missions particularly reasonably close to the sun solar energy may be sufficient and has very often been used but for others further out or at higher power nuclear energy is necessary engines drawing their power from a nuclear source are called nuclear electric rockets
+with any current source of electrical power chemical nuclear or solar the maximum amount of power that can be generated limits the amount of thrust that can be produced to a small value  power generation adds significant mass to the spacecraft and ultimately the weight of the power source limits the performance of the vehicle
+current nuclear power generators are approximately half the weight of solar panels per watt of energy supplied at terrestrial distances from the sun chemical power generators are not used due to the far lower total available energy beamed power to the spacecraft shows some potential
+
+some electromagnetic methods
+
+ion thrusters accelerate ions first and later neutralize the ion beam with an electron stream emitted from a cathode called a neutralizer
+electrostatic ion thruster
+field-emission electric propulsion
+hall effect thruster
+colloid thruster
+electrothermal thrusters electromagnetic fields are used to generate a plasma to increase the heat of the bulk propellant the thermal energy imparted to the propellant gas is then converted into kinetic energy by a nozzle of either physical material construction or by magnetic means
+dc arcjet
+microwave arcjet
+helicon double layer thruster
+electromagnetic thrusters ions are accelerated either by the lorentz force or by the effect of electromagnetic fields where the electric field is not in the direction of the acceleration
+plasma propulsion engine
+magnetoplasmadynamic thruster
+electrodeless plasma thruster
+pulsed inductive thruster
+pulsed plasma thruster
+variable specific impulse magnetoplasma rocket vasimr
+mass drivers for propulsionin electrothermal and electromagnetic thrusters both ions and electrons are accelerated simultaneously no neutralizer is required
+
+
+ without internal reaction mass 
+
+the law of conservation of momentum is usually taken to imply that any engine which uses no reaction mass cannot accelerate the center of mass of a spaceship changing orientation on the other hand is possible but space is not empty especially space inside the solar system there are gravitation fields magnetic fields electromagnetic waves solar wind and solar radiation  electromagnetic waves in particular are known to contain momentum despite being massless specifically the momentum flux density p of an em wave is quantitatively 1c2 times the poynting vector s ie p  sc2 where c is the velocity of light  field propulsion methods which do not rely on reaction mass thus must try to take advantage of this fact by coupling to a momentum-bearing field such as an em wave that exists in the vicinity of the craft however because many of these phenomena are diffuse in nature corresponding propulsion structures need to be proportionately largethere are several different space drives that need little or no reaction mass to function a tether propulsion system employs a long cable with a high tensile strength to change a spacecrafts orbit such as by interaction with a planets magnetic field or through momentum exchange with another object solar sails rely on radiation pressure from electromagnetic energy but they require a large collection surface to function effectively the magnetic sail deflects charged particles from the solar wind with a magnetic field thereby imparting momentum to the spacecraft a variant is the mini-magnetospheric plasma propulsion system which uses a small cloud of plasma held in a magnetic field to deflect the suns charged particles an e-sail would use very thin and lightweight wires holding an electric charge to deflect these particles and may have more controllable directionality
+as a proof of concept nanosail-d became the first nanosatellite to orbit earth there are plans to add them to future earth orbit satellites enabling them to de-orbit and burn up once they are no longer needed cubesail will be the first mission to demonstrate solar sailing in low earth orbit and the first mission to demonstrate full three-axis attitude control of a solar sailjapan also launched its own solar sail powered spacecraft ikaros in may 2010 ikaros successfully demonstrated propulsion and guidance and is still flying today
+a satellite or other space vehicle is subject to the law of conservation of angular momentum which constrains a body from a net change in angular velocity thus for a vehicle to change its relative orientation without expending reaction mass another part of the vehicle may rotate in the opposite direction  non-conservative external forces primarily gravitational and atmospheric can contribute up to several degrees per day to angular momentum so secondary systems are designed to bleed off undesired rotational energies built up over time accordingly many spacecraft utilize reaction wheels or control moment gyroscopes to control orientation in spacea gravitational slingshot can carry a space probe onward to other destinations without the expense of reaction mass by harnessing the gravitational energy of other celestial objects the spacecraft can pick up kinetic energy however even more energy can be obtained from the gravity assist if rockets are used
+beam-powered propulsion is another method of propulsion without reaction mass  beamed propulsion includes sails pushed by laser microwave or particle beams
+
+
+ planetary and atmospheric propulsion 
+
+
+ launch-assist mechanisms 
+
+there have been many ideas proposed for launch-assist mechanisms that have the potential of drastically reducing the cost of getting into orbit proposed non-rocket spacelaunch launch-assist mechanisms include
+
+skyhook requires reusable suborbital launch vehicle not engineeringly feasible using presently available materials
+space elevator tether from earths surface to geostationary orbit cannot be built with existing materials
+launch loop a very fast enclosed rotating loop about 80 km tall
+space fountain a very tall building held up by a stream of masses fired from its base
+orbital ring a ring around earth with spokes hanging down off bearings
+electromagnetic catapult railgun coilgun an electric gun
+rocket sled launch
+space gun project harp ram accelerator a chemically powered gun
+beam-powered propulsion rockets and jets powered from the ground via a beam
+high-altitude platforms to assist initial stage
+
+
+ air-breathing engines 
+
+studies generally show that conventional air-breathing engines such as ramjets or turbojets are basically too heavy have too low a thrustweight ratio to give any significant performance improvement when installed on a launch vehicle itself however launch vehicles can be air launched from separate lift vehicles eg b-29 pegasus rocket and white knight which do use such propulsion systems  jet engines mounted on a launch rail could also be so used
+on the other hand very lightweight or very high speed engines have been proposed that take advantage of the air during ascent
+
+sabre - a lightweight hydrogen fuelled turbojet with precooler
+atrex - a lightweight hydrogen fuelled turbojet with precooler
+liquid air cycle engine - a hydrogen fuelled jet engine that liquifies the air before burning it in a rocket engine
+scramjet - jet engines that use supersonic combustion
+shcramjet - similar to a scramjet engine however it takes advantage of shockwaves produced from the aircraft in the combustion chamber to assist in increasing overall efficiencynormal rocket launch vehicles fly almost vertically before rolling over at an altitude of some tens of kilometers before burning sideways for orbit this initial vertical climb wastes propellant but is optimal as it greatly reduces airdrag airbreathing engines burn propellant much more efficiently and this would permit a far flatter launch trajectory the vehicles would typically fly approximately tangentially to earths surface until leaving the atmosphere then perform a rocket burn to bridge the final delta-v to orbital velocity
+for spacecraft already in very low-orbit air-breathing electric propulsion would use residual gases in the upper atmosphere as propellant air-breathing electric propulsion could make a new class of long-lived low-orbiting missions feasible on earth mars or venus
+
+
+ planetary arrival and landing 
+
+when a vehicle is to enter orbit around its destination planet or when it is to land it must adjust its velocity  this can be done using all the methods listed above provided they can generate a high enough thrust but there are a few methods that can take advantage of planetary atmospheres andor surfaces
+
+aerobraking allows a spacecraft to reduce the high point of an elliptical orbit by repeated brushes with the atmosphere at the low point of the orbit this can save a considerable amount of fuel because it takes much less delta-v to enter an elliptical orbit compared to a low circular orbit because the braking is done over the course of many orbits heating is comparatively minor and a heat shield is not required this has been done on several mars missions such as mars global surveyor mars odyssey and mars reconnaissance orbiter and at least one venus mission magellan
+aerocapture is a much more aggressive manoeuver converting an incoming hyperbolic orbit to an elliptical orbit in one pass  this requires a heat shield and much trickier navigation because it must be completed in one pass through the atmosphere and unlike aerobraking no preview of the atmosphere is possible if the intent is to remain in orbit then at least one more propulsive maneuver is required after aerocapture—otherwise the low point of the resulting orbit will remain in the atmosphere resulting in eventual re-entry aerocapture has not yet been tried on a planetary mission but the re-entry skip by zond 6 and zond 7 upon lunar return were aerocapture maneuvers because they turned a hyperbolic orbit into an elliptical orbit on these missions because there was no attempt to raise the perigee after the aerocapture the resulting orbit still intersected the atmosphere and re-entry occurred at the next perigee
+a ballute is an inflatable drag device
+parachutes can land a probe on a planet or moon with an atmosphere usually after the atmosphere has scrubbed off most of the velocity using a heat shield
+airbags can soften the final landing
+lithobraking or stopping by impacting the surface is usually done by accident however it may be done deliberately with the probe expected to survive see for example deep impact spacecraft in which case very sturdy probes are required
+
+
+ table of methods 
+below is a summary of some of the more popular proven technologies followed by increasingly speculative methods
+four numbers are shown  the first is the effective exhaust velocity the equivalent speed that the propellant leaves the vehicle  this is not necessarily the most important characteristic of the propulsion method thrust and power consumption and other factors can be however
+
+if the delta-v is much more than the exhaust velocity then exorbitant amounts of fuel are necessary see the section on calculations above
+if it is much more than the delta-v then proportionally more energy is needed if the power is limited as with solar energy this means that the journey takes a proportionally longer timethe second and third are the typical amounts of thrust and the typical burn times of the method  outside a gravitational potential small amounts of thrust applied over a long period will give the same effect as large amounts of thrust over a short period this result does not apply when the object is significantly influenced by gravity
+the fourth is the maximum delta-v this technique can give without staging for rocket-like propulsion systems this is a function of mass fraction and exhaust velocity mass fraction for rocket-like systems is usually limited by propulsion system weight and tankage weight for a system to achieve this limit typically the payload may need to be a negligible percentage of the vehicle and so the practical limit on some systems can be much lower
+
+
+ testing 
+spacecraft propulsion systems are often first statically tested on earths surface within the atmosphere but many systems require a vacuum chamber to test fully rockets are usually tested at a rocket engine test facility well away from habitation and other buildings for safety reasons ion drives are far less dangerous and require much less stringent safety usually only a large-ish vacuum chamber is needed
+famous static test locations can be found at rocket ground test facilities
+some systems cannot be adequately tested on the ground and test launches may be employed at a rocket launch site
+
+
+ speculative methods 
+
+a variety of hypothetical propulsion techniques have been considered that require a deeper understanding of the properties of 
+space particularly inertial frames and the vacuum state  to date such methods are highly speculative and include
+
+a nasa assessment of its breakthrough propulsion physics program divides such proposals into those that are non-viable for propulsion purposes those that are of uncertain potential and those that are not impossible according to current theories
+
+
+ see also 
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+nasa breakthrough propulsion physics project
+different rockets
+earth-to-orbit transportation bibliography
+spaceflight propulsion - a detailed survey by greg goebel in the public domain
+johns hopkins university chemical propulsion information analysis center
+tool for liquid rocket engine thermodynamic analysis
+smithsonian national air and space museums how things fly website

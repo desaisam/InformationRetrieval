@@ -1,0 +1,187 @@
+the future of space exploration involves both telescopic exploration and the physical exploration of space by unmanned robotic space probes and human spaceflight
+near-term physical exploration missions have been announced by or are being planned by both national and private organisations focussed on obtaining new information about the solar system in the longer term there are tentative plans for crewed orbital and landing missions to the moon and mars establishing scientific outposts that will later make way for permanent and self sufficient settlements further exploration will potentially involve expeditions and settlements on the other planets and their moons as well as establishing mining and fueling outposts particularly in the asteroid belt physical exploration outside the solar system will be robotic for the foreseeable future 
+
+
+ unmanned missions 
+
+
+ breakthrough starshot 
+
+breakthrough starshot is a research and engineering project by the breakthrough initiatives to develop a proof-of-concept fleet of solar sail spacecraft named starchip to be capable of making the journey to the alpha centauri star system 4.37 light-years away
+
+
+ moon 
+landers
+change 5
+main article change 5
+change 5 is a robotic chinese lunar exploration mission consisting of an orbiter and a lander it is currently under development and it is scheduled for a launch in december 2019 after being postponed due to the failure of the long march 5 launch vehicle in 2017 change 5 will be chinas first sample return mission aiming to return at least 2 kilograms of lunar soil and rock samples back to the earth like its predecessors the spacecraft is named after the chinese moon goddess change this will be the first lunar sample-return mission since luna 24 in 1976
+slim
+main article slim
+smart lander for investigating moon slim is a lunar lander being developed by the japan aerospace exploration agency jaxa the lander will demonstrate precision landing technology as of 2017 the lander is planned to be launched in 2021 its is japans first major lunar surface mission and will demonstrate precise pinpoint lunar landing during its descent to the moon the lander will recognize lunar craters by applying technology from facial recognition systems and determine its current location from utilizing observation data collected by the selene kaguya lunar orbiter mission slim aims to soft land with an error range of 100 m
+orbiters
+exploration mission-1
+main article exploration mission-1
+exploration mission-1 or em-1 previously known as space launch system 1 or sls-1 is the uncrewed first planned flight of the space launch system and the second flight of the orion multi-purpose crew vehicle the launch is planned for june 2020 from launch complex 39b at the kennedy space center the orion spacecraft will spend approximately 3 weeks in space including 6 days in a retrograde orbit around the moon it is planned to be followed by exploration mission 2 in 2023
+
+
+ mars 
+landers
+rosalind franklin rover
+main article rosalind franklin rover
+the rosalind franklin rover is a planned robotic mars rover part of the international exomars programme led by the european space agency and the russian roscosmos state corporation the plan calls for a russian launch vehicle an esa carrier module and a russian lander that will deploy the rover to mars surface scheduled to launch in july 2020 once safely landed the solar powered rover would begin a seven-month 218-sol mission to search for the existence of past life on mars the exomars trace gas orbiter launched in 2016 will operate as the rovers data-relay satellite
+
+
+ mars 2020 rover 
+
+the mars 2020 rover part of nasa’s mars exploration program is scheduled to launch in julyaugust 2020 this mission will collect samples for future return to earth to provide insight on the possibility of life on mars it will seek for signs of past microbial life and habitable conditions while also collecting information on resources for future astronautsthe mars 2020 rover will collect core samples and put them in a cache for future missions to retrieve for testing furthermore the rover will test a method for producing oxygen from the atmosphere on mars characterize environmental conditions and identify other resources for future astronauts2020 chinese mars mission
+main article mars global remote sensing orbiter and small rover  
+the mars global remote sensing orbiter and small rover hx-1 is a planned project by china to deploy an orbiter and rover on mars the mission is planned to be launched in july or august 2020 with a long march 5 heavy lift rocket its stated objective is to search for evidence of both current and past life and assessing the planets environment
+orbiters
+mangalyaan 2
+main article mars orbiter mission 2
+mars orbiter mission 2 mom 2 also called mangalyaan 2 is indias second interplanetary mission planned for launch to mars by the indian space research organisation isro in the 2022-2023 time frame the orbiter will use aerobraking to lower its initial apoapsis and enter into an orbit more suitable for observations
+hope mars mission
+main article hope mars mission
+the hope mars mission is a space exploration probe mission to mars built by the united arab emirates and set for launch in 2020 upon launch it will become the first mission to mars by any arab or muslim majority country the mission was announced by sheikh khalifa bin zayed al nahyan the president of the united arab emirates in july 2014 and is aimed at enriching the capabilities of emirati engineers and increasing human knowledge about the martian atmosphere
+
+
+ asteroids 
+
+an article in science magazine nature suggested the use of asteroids as a gateway for space exploration with the ultimate destination being mars in order to make such an approach viable three requirements need to be fulfilled first a thorough asteroid survey to find thousands of nearby bodies suitable for astronauts to visit second extending flight duration and distance capability to ever-increasing ranges out to mars and finally developing better robotic vehicles and tools to enable astronauts to explore an asteroid regardless of its size shape or spin furthermore using asteroids would provide astronauts with protection from galactic cosmic rays with mission crews being able to land on them without great risk to radiation exposure
+
+
+ lucy 
+
+lucy part of nasas discovery program is scheduled to launch in october 2021 to explore six trojan asteroids and a main belt asteroid the two trojan swarms ahead of and behind jupiter are thought to be dark bodies made of the same material as the outer planets that were pulled into orbit near jupiter lucy will be the first mission to study the trojans and scientists hope the findings from this mission will revolutionize our knowledge of the formation of the solar system for this reason the project is named after lucy a fossilized hominid that provided insight on the evolution of humans the asteroids studied are ancient fossils of planet formation which could hold clues to the origins of life on earth
+
+
+ psyche 
+
+the psyche spacecraft part of nasas discovery program is scheduled to launch at the end of 2022 to 16 psyche a metallic object in the asteroid belt 16 psyche is 130 miles 210 km wide and it is made almost entirely of iron and nickel instead of ice and rock because of this unique composition scientists believe it is the remnants of a planet’s core that lost its exterior through a series of collisions but it is possible that 16 psyche is only unmelted material nasa hopes to obtain information about planetary formation from directly studying the exposed interior of a planetary body which would otherwise not be possible
+
+
+ osiris-rex 
+
+the origins spectral interpretation resource identification security - regolith explorer osiris-rex spacecraft was launched on september 8 2016 it traveled to 1999 rq36 bennu to collect samples of this asteroid because it is believed to be relatively unchanged bennu is largely made up of chondrules clumps of molten rock held together by electrostatic and gravitational forces that have not been altered by geologic activity or other reactions making it a prime example of the early solar system it arrived on 3 december 2018
+
+
+ outer solar system 
+juice
+main article jupiter icy moons explorer
+the jupiter icy moons explorer juice is an interplanetary spacecraft in development by the european space agency esa with airbus defence and space as the main contractor the mission is being developed to visit the jovian system focused on studying three of jupiters galilean moons ganymede callisto and europa excluding the more volcanically active io all of which are thought to have significant bodies of liquid water beneath their surfaces making them potentially habitable environments the spacecraft is set for launch in june 2022 and would reach jupiter in october 2029 after five gravity assists and 88 months of travel by 2033 the spacecraft should enter orbit around ganymede for its close up science mission and becoming the first spacecraft to orbit a moon other than the moon of earth
+europa clipper
+main article europa clipper
+europa clipper is an interplanetary mission in development by nasa comprising an orbiter set for a launch in june of 2023 aboard the space launch system the spacecraft is being developed to study the galilean moon europa through a series of flybys while in orbit around jupiter the mission will complement esas jupiter icy moons explorer launching in 2022 which will fly-by europa twice and callisto multiple times before moving into orbit around ganymede launching around the same time as the europa clipper the jupiter icy moons explorer will have a cruise phase some three times as long
+
+
+ space telescopes 
+cheops
+main article cheops
+cheops characterising exoplanets satellite is a planned european space telescope for the study of the formation of extrasolar planets the launch window for cheops is october to november 2019 the mission aims to bring an optical ritchey–chrétien telescope with an aperture of 30 cm mounted on a standard small satellite platform into a sun-synchronous orbit of about 700 km 430 mi altitude for the planned mission duration of 3.5 years cheops is to examine known transiting exoplanets orbiting bright and nearby stars
+plato
+main article plato
+planetary transits and oscillations of stars plato is a space observatory under development by the european space agency for launch in 2026 the mission goals are to search for planetary transits across up to one million stars and to discover and characterize rocky extrasolar planets around yellow dwarf stars like our sun subgiant stars and red dwarf stars the emphasis of the mission is on earth-like planets in the habitable zone around sun-like stars where water can exist in liquid state it is the third medium-class mission in esas cosmic vision programme and named after the influential greek philosopher plato the founding figure of western philosophy science and mathematics a secondary objective of the mission is to study stellar oscillations or seismic activity in stars to measure stellar masses and evolution and enabling the precise characterization of the planet host star including its age
+
+
+ tess 
+the transiting exoplanet survey satellite tess was launched on april 18 2018 and will search for exoplanets using the transit method this mission is scheduled to run for two years and will focus on 200,000 stars near our solar system to find orbiting exoplanets tess is on a larger scale than missions before as it will study brighter stars and cover more sky area than did the 2013 kepler mission
+
+
+ james webb space telescope 
+
+the james webb space telescope jwst is scheduled to launch on march 30 2021 as a collaboration between nasa the european space agency esa and the canadian space agency csa it is an infrared telescope with a 6.5-meter primary mirror that will serve as the premier observatory of the next decade it will study the phases of the universe providing detailed information on the formation of solar systems and the evolution of space
+
+
+ crewed missions 
+nasa commercial crew program
+the commercial crew program is the development of american launch vehicles in cooperation with boeing and spacex that will be capable of delivering astronauts to the international space station
+exploration missions 2-12
+these missions will be launched by the nasas space launch system and will deliver components and crew for the lunar orbital platform-gateway
+spacexs starshipbfr
+spacex intends to construct a fully reusable super-heavy lift rocket called bfr or starship super heavy that will be used to take humans to low earth orbit leo the moon and mars it has a payload capacity of 100,000kg to leo and can be refueled in orbit allowing the same capacity to be taken to the lunar or martian surface being fully reusable will allow for much cheaper access to space which is intended to combine with its large payloadcrew capacity to allow for the establishment of permanent settlements on mars
+mars base camp
+the mars base camp is a proposal by lockheed martin for an orbital mars station that can deploy a crewed lander to the surface of mars
+
+
+ limitations with deep space exploration 
+the future possibilities for deep space exploration are currently held back by a set of technical practical astronomical and human limitations which define the future of manned and unmanned space exploration as of 2017 the farthest any man-made probe has traveled is the current nasa mission voyager 1 currently about 13 billion miles 21 billion km or 19.5 light hours away from the earth while the nearest star is around 4.24 light years away
+
+
+ technical limitations 
+the current status of space-faring technology including propulsion systems navigation resources and storage all present limitations to the development of human space exploration in the near future
+
+
+ distances 
+the astronomical order of magnitude of the distance between us and the nearest stars is a challenge for the current development of space exploration at our current top speed of 157,100 miles per hour 70.2 kms the helios 2 probe would arrive at the nearest star proxima centauri in around 18,000 years much longer than a human lifespan and therefore requiring much faster transportation methods than currently available
+
+
+ propulsion and fuel 
+
+in terms of propulsion the main challenge is the liftoff and initial momentum since there is no friction in the vacuum of space based on the missions goals including factors such as distance load and time of flight the type of propulsion drive used planned to use or in design varies from chemical propellants such as liquid hydrogen and oxidizer space shuttle main engine to plasma or even nanoparticle propellants
+
+as for future developments the theoretical possibilities of nuclear based propulsion have been analyzed over 60 years ago such as nuclear fusion project daedalus and nuclear pulse propulsion project longshot but have since been discontinued from practical research by nasa on the more science fiction side the theoretical alcubierre drive presents a mathematical solution for “faster-than-light” travel but it would require the mass-energy of jupiter not to mention the technical issues
+
+
+ human limitations 
+the human element in manned space exploration adds certain physiological and psychological issues and limitations to the future possibilities of space exploration along with storage and sustenance space and mass issues
+
+
+ physiological issues 
+the transitioning gravity magnitudes on the body is detrimental to orientation coordination and balance without constant gravity bones suffer disuse osteoporosis and their mineral density falls 12 times faster than the average elderly adult’s without regular exercise and nourishment there can be cardiovascular deterioration and loss in muscle strength dehydration can cause kidney stones and constant hydro-static potential in zero-g can shift body fluids upwards and cause vision problemsfurthermore without earth’s surrounding magnetic field as a shield solar radiation has much harsher effects on biological organisms in space the exposure can include damage to the central nervous system altered cognitive function reducing motor function and incurring possible behavioral changes as well as the possibility of degenerative tissue diseases
+
+
+ psychological issues 
+
+according to nasa isolation in space can have detrimental effects on the human psyche behavioral issues such as low morale mood-swings depression and decreasing interpersonal interactions irregular sleeping rhythms and fatigue occur independently to the level of training according to a set of nasas social experiments the most famous of which biosphere 2 was a 2 year long 8 person crew experiment in the 1990s in an attempt to study human necessities and survival in an isolated environment the result of which were stressed interpersonal interactions and aloof behavior including limiting and even ceasing contact between crew members along with failing to sustain a lasting air-recycling system and food supply
+
+
+ resources and sustenance 
+considering the future possibility of extended manned missions food storage and resupply are relevant limitations from a storage point of view nasa estimates a 3-year mars mission would require around 24 thousand pounds 10,000 kg of food most of it in the form of precooked dehydrated meals of about 1.5 pounds a portion fresh produce would only be available in the beginning of the flight since there would not be refrigeration systems waters relative heavy weight is a limitation so on the international space station iss the use of water per person is limited to 11 liters a day compared to the average americans 132 liters
+
+as for resupply efforts have been made to recycle reuse and produce to make storage more efficient water can be produced through chemical reactions of hydrogen and oxygen in fuel cells and attempts and methods of growing vegetables in micro-gravity are being developed and will continue to be researched lettuce has already successfully grown in the isss veggie plant growth system and has been consumed by the astronauts even though large-scale plantation is still impractical due to factors such as pollination long growth periods and lack of efficient planting pillows
+
+
+ artificial intelligence and robotic space craft development 
+the idea of using high level automated systems for space missions has become a desirable goal to space agencies all around the world such systems are believed to yield benefits such as lower cost less human oversight and ability to explore deeper in space which is usually restricted by long communications with human controllers autonomy will be a key technology for the future exploration of our solar system where robotic spacecraft will often be out of communication with their human controllers
+
+
+ autonomous systems 
+autonomy is defined by three requirements
+
+the ability to make and carry out decisions on their own based on information on what they sensed from the world and their current state
+the ability to interpret the given goal as a list of actions to take
+the ability to fail flexibly meaning they are able to continuously change their actions based on what is happening within their system and their surroundingcurrently there are many projects trying to advance space exploration and space craft development using ai
+
+
+ nasas autonomous science experiment 
+nasa began its autonomous science experiment ase on earth observing-1 eo-1 which is nasas first satellite in the millennium program earth-observing series launched on november 21 2000 the autonomy of these satellites is capable of on-board science analysis re-planning robust execution and model-based diagnostic images obtained by the eo-1 are analyzed on-board and down linked when a change or interesting event occurs the ase software has successfully provided over 10,000 science images this experiment was the start of many that nasa devised for ai to impact the future of space exploration
+
+
+ artificial intelligence flight adviser 
+nasas goal with this project is to develop a system that can aid pilots by giving them real-time expert advice in situations that pilot training does not cover or just aid with a pilots train of thought during flight based on the ibm watson cognitive computing system the ai flight adviser pulls data from a large database of relevant information like aircraft manuals accident reports and close-call reports to give advice to pilots in the future nasa wants to implement this technology to create fully autonomous systems which can then be used for space exploration in this case cognitive systems will serve as the basis and the autonomous system will completely decide on the course of action of the mission even during unforeseen situations however in order for this to happen there are still many supporting technologies required
+in the future nasa hopes to use this technology not only in flights on earth but for future space exploration essentially nasa plans to modify this ai flight advisor for longer range applications in addition to what the technology is now there will be additional cognitive computing systems that can decide on the right set of actions based upon unforeseen problems in space however in order for this to be possible there are still many supporting technologies that need to be enhanced
+
+
+ stereo vision for collision avoidance 
+for this project nasas goal is to implement stereo vision for collision avoidance in space systems to work with and support autonomous operations in a flight environment this technology uses two cameras within its operating system that have the same view but when put together offer a large range of data that gives a binocular image because of its duo-camera system nasas research indicate that this technology can detect hazards in rural and wilderness flight environments because of this project nasa has made major contributions toward developing a completely autonomous uav currently stereo vision can construct a stereo vision system process the vision data make sure the system works properly and lastly performs tests figuring out the range of impeding objects and terrain in the future nasa hopes this technology can also determine the path to avoid collision the near-term goal for the technology is to be able to extract information from point clouds and place this information in a historic map data using this map the technology could then be able to extrapolate obstacles and features in the stereo data that are not in the map data this would aid with the future of space exploration where humans cant see moving impeding objects that may damage the moving space craft
+
+
+ benefits of ai 
+autonomous technologies would be able to perform beyond predetermined actions they would analyze all possible states and events happening around them and come up with a safe response in addition such technologies can reduce launch cost and ground involvement performance would increase as well autonomy would be able to quickly respond upon encountering an unforeseen event especially in deep space exploration where communication back to earth would take too long space exploration could provide us with the knowledge of our universe as well as incidentally developing inventions and innovations traveling to mars and farther could encourage the development of advances in medicine health longevity transportation communications that could have applications on earth
+
+
+ robotic space craft development 
+
+
+ energy 
+
+
+ solar panels 
+changes in space craft development will have to account for an increased energy need for future systems spacecrafts heading towards the center of our solar system will include enhanced solar panel technology to make use of the abundant solar energy surrounding them future solar panel development is aimed at their working more efficiently while being lighter
+
+
+ radioisotope thermoelectric generators 
+radioisotope thermoelectric generators are solid-state devices which have no moving parts they generate heat from the radioactive decay of elements such as plutonium and have a typical lifespan of more than 30 years in the future atomic sources of energy for spacecraft will hopefully be lighter and last longer than they do currentlythey could be particularly useful for missions to the outer solar system which receives substantially less sunlight meaning that producing a substantial power output with solar panels would be impractical  
+
+
+ references 

@@ -1,0 +1,91 @@
+space research is scientific study carried out in outer space and by studying outer space  including the use of space technology space research advances a wide research field earth science materials science biology medicine and physics all apply to the space research environment  the term includes scientific payloads at any altitude from deep space to low earth orbit extended to include sounding rocket research in the upper atmosphere and high-altitude balloons  
+space exploration is also a form of space research
+
+
+ history 
+
+
+ rockets 
+the chinese used rockets for ceremony and weaponry since the 13th century but no rocket would overcome earths gravity until the latter half of the 20th century space-capable rocketry appeared simultaneously in the work of three scientists in three separate countries in russia konstantin tsiolkovski in the united states robert goddard and in germany hermann oberth
+the united states and the soviet union created their own missile programs the space research field evolved as scientific investigation based on advancing rocket technology 
+in 1948–1949 detectors on v-2 rocket flights detected x-rays from the sun sounding rockets helped show us the structure of the upper atmosphere as higher altitudes were reached space physics emerged as a field of research with studies of earths aurorae ionosphere and magnetosphere 
+
+
+ satellites 
+the first major discovery of satellite-based space research is the detection of the van allen radiation belt by explorer 1 in 1958 four months after the launch of the first satellite sputnik 1 on october 4 1957 in the following year space planetology emerged with a series of lunar probes eg the first photographs of the far side of the moon by luna 3 in 1959
+
+
+ astronauts 
+the early space researchers obtained an important international forum with the establishment of the committee on space research cospar in 1958 which achieved an exchange of scientific information between east and west during the cold war despite the military origin of the rocket technology underlying the research fieldon april 12 1961 russian lieutenant yuri gagarin was the first human to orbit earth in vostok 1 in 1961 us astronaut alan shepard was the first american in space and on july 20 1969 astronaut neil armstrong was the first human on the moon
+on april 19 1971 the soviet union launched the salyut 1 the first space station of substantial duration a successful 23 day mission sadly ruined by transport disasters on may 14 1973 skylab the first american space station launched on a modified saturn v rocket skylab was occupied for 24 weeks
+
+
+ interstellar 
+the voyager 1 satellite left our solar system in august 2012 after 41 years 6 months and 5 days operational to cross the interstellar medium as the farthest human object from the earth predictions include collision an oort cloud and destiny perhaps eternally—to wander the milky way
+voyager 2 reached interstellar medium by the end of 2018 travelling slower than voyager 1 neither voyager is aimed at a particular visible object
+
+
+ research fields 
+space research includes the following fields of science
+earth observations using remote sensing techniques to interpret optical and radar data from earth observation satellites
+geodesy using gravitational perturbations of satellite orbits
+atmospheric sciences aeronomy using satellites sounding rockets and high-altitude balloons
+space physics the in situ study of space plasmas eg aurorae the ionosphere the magnetosphere and space weather
+planetology using space probes to study objects in the planetary system
+astronomy using space telescopes and detectors that are not limited by looking through the atmosphere
+materials sciences taking advantage of the micro-g environment on orbital platforms
+life sciences including human physiology using the space radiation environment and weightlessness
+physics using space as a laboratory for studies in fundamental physics
+
+
+ space research by satellites 
+
+
+ upper atmosphere research satellite 
+upper atmosphere research satellite was a nasa-led mission launched on september 12 1991 the 5,900 kg 13,000 lb satellite was deployed from the space shuttle discovery during the sts-48 mission on 15 september 1991 it was the first multi-instrumented satellite to study various aspects of the earths atmosphere and have a better understanding of photochemistry after 14 years of service the uars finished its scientific career in 2005
+
+
+ great observatories program 
+
+great observatories program is the flagship nasa telescope program the great observatories program pushes forward our understanding of the universe with detailed observation of the sky based in gamma rays ultraviolet x-ray infrared and visible light spectrums the four main telescopes for the great observatories program are hubble space telescope visible ultraviolet launched 1990 compton gamma ray observatory gamma launched 1991 chandra x-ray observatory x-ray launched 1999 and spitzer space telescope infrared launched 2003 
+origins of the hubble named after american astronomer edwin hubble go back as far as 1946 in the present day the hubble is used to identify exo-planets and give detailed accounts of events in our own solar system hubbles visible-light observations are combined with the other great observatories to give us some of the most detailed images of the visible universe
+
+
+ international gamma-ray astrophysics laboratory 
+integral is one of the most powerful gamma-ray observatories launched by the european space agency in 2002 and continuing to operate as of march 2019 integral provides insight into the most energetic cosmological formations in space including black holes neutron stars and supernovas integral plays an important role researching gamma-rays one of the most exotic and energetic phenomena in space
+
+
+ gravity and extreme magnetism small explorer 
+the nasa-led gems mission was scheduled to launch for november 2014 the spacecraft would use an x-ray telescope to measure the polarization of x-rays coming from black holes and neutron stars it would research into remnants of supernovae stars that have exploded few experiments have been conducted in x-ray polarization since the 1970s and scientists anticipated gems to break new ground understanding x-ray polarisation will improve scientists knowledge of black holes in particular whether matter around a black hole is confined to a flat-disk a puffed disk or a squirting jet the gems project was cancelled in june 2012 projected to fail time and finance limits the purpose of the gems mission continues to be relevant as of 2019
+
+
+ space research on space stations 
+
+
+ salyut 1 
+
+salyut 1 was the first space station ever built it was launched in april 19 1971 by the soviet union the first crew failed entry into the space station the second crew was able to spend twenty-three days in the space station but this achievement was quickly overshadowed since the crew died on reentry to earth salyut 1 was intentionally deorbited six months into orbit since it prematurely ran out of fuel
+
+
+ skylab 
+skylab was the first american space station it was 4 times larger than salut 1 skylab was launched in may 19 1973 it rotated through three crews of three during its operational time skylab’s experiments confirmed coronal holes and were able to photograph eight solar flares
+
+
+ mir 
+russian station mir from 1986 to 2001 was the first long term inhabited space station occupied in low earth orbit for twelve and a half years mir served a permanent microgravity laboratory crews experimented with biology human biology physics astronomy meteorology and spacecraft systems goals included developing technologies for permanent occupation of space
+
+
+ international space station 
+
+the international space station  received its first crew as part of expedition 1 in november 2000 an internationally co-operative mission of almost 20 participants the station has been continuously occupied for 18 years and 128 days exceeding the previous record almost ten years by russian station mir the iss provides research in microgravity and exposure to the local space environment crew members conduct tests relevant to biology physics astronomy and others even studying the experience and health of the crew advances space research
+
+
+ see also 
+committee on space research cospar
+advances in space research journal
+list of microorganisms tested in outer space
+space science
+space exploration
+
+
+ references 

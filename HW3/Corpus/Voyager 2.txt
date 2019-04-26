@@ -1,0 +1,126 @@
+voyager 2 is a space probe launched by nasa on august 20 1977 to study the outer planets part of the voyager program it was launched 16 days before its twin voyager 1 on a trajectory that took longer to reach jupiter and saturn but enabled further encounters with uranus and neptune it is the only spacecraft to have visited either of these two ice giant planets
+its primary mission ended with the exploration of the neptunian system on october 2 1989 after having visited the uranian system in 1986 the saturnian system in 1981 and the jovian system in 1979 voyager 2 is now in its extended mission to study the outer reaches of the solar system and has been operating for 41 years 6 months and 17 days as of 9 march 2019 it remains in contact through the nasa deep space networkat a distance of 120 au 1.80×1010 km about 16.5 light-hours from the sun as of february 25 2019 moving at a velocity of 15.341 kms 55,230 kmh relative to the sun voyager 2 is the fourth of five spacecraft to achieve the escape velocity that will allow them to leave the solar system the probe left the heliosphere for interstellar space on november 5 2018 becoming the second artificial object to do so and has begun to provide the first direct measurements of the density and temperature of the interstellar plasma
+
+
+ history 
+
+
+ background 
+in the early space age it was realized that a periodic alignment of the outer planets would occur in the late 1970s and enable a single probe to visit jupiter saturn uranus and neptune by taking advantage of the then-new technique of gravity assists nasa began work on a grand tour which evolved into a massive project involving two groups of two probes each with one group visiting jupiter saturn and pluto and the other jupiter uranus and neptune the spacecraft would be designed with redundant systems to ensure survival through the entire tour by 1972 the mission was scaled back and replaced with two mariner-derived spacecraft the mariner jupiter-saturn probes to keep apparent lifetime program costs low the mission would include only flybys of jupiter and saturn but keep the grand tour option open as the program progressed the name was changed to voyagerthe primary mission of voyager 1 was to explore jupiter saturn and saturns moon titan voyager 2 was also to explore jupiter and saturn but on a trajectory that would have the option of continuing on to uranus and neptune or being redirected to titan as a backup for voyager 1 upon successful completion of voyager 1s objectives voyager 2 would get a mission extension to send the probe on towards uranus and neptune
+
+
+ spacecraft design 
+constructed by the jet propulsion laboratory jpl voyager 2 included 16 hydrazine thrusters three-axis stabilization gyroscopes and celestial referencing instruments sun sensorcanopus star tracker to maintain pointing of the high-gain antenna toward earth collectively these instruments are part of the attitude and articulation control subsystem aacs along with redundant units of most instruments and 8 backup thrusters the spacecraft also included 11 scientific instruments to study celestial objects as it traveled through space
+
+
+ communications 
+built with the intent for eventual interstellar travel voyager 2 included a large 3.7 m 12 ft parabolic high-gain antenna see diagram to transceive data via the deep space network on the earth communications are conducted over the s-band about 13 cm wavelength and x-band about 3.6 cm wavelength providing data rates as high as 115.2 kilobits per second at the distance of jupiter and then ever-decreasing as the distance increased because of the inverse-square law when the spacecraft is unable to communicate with earth the digital tape recorder dtr can record about 64 kilobytes of data for transmission at another time
+
+
+ power 
+voyager 2 is equipped with 3 multihundred-watt radioisotope thermoelectric generators mhw rtg each rtg includes 24 pressed plutonium oxide spheres and provided enough heat to generate approximately 157 w of electrical power at launch collectively the rtgs supplied the spacecraft with 470 watts at launch halving every 87.7 years and will allow operations to continue until at least 2020
+
+		
+		
+
+
+ attitude control and propulsion 
+because of the energy required to achieve a jupiter trajectory boost with an 1,819-pound 825 kg payload the spacecraft included a propulsion module made of a 2,476-pound 1,125 kg solid-rocket motor and eight hydrazine monopropellant rocket engines four providing pitch and yaw attitude control and four for roll control the propulsion module was jettisoned shortly after the successful jupiter burn
+sixteen hydrazine mr-103 thrusters on the mission module provide attitude control four are used to execute trajectory correction maneuvers the others in two redundant six-thruster branches to stabilize the spacecraft on its three axes only one branch of attitude control thrusters is needed at any timethrusters are supplied by a single 28-inch 70 cm diameter spherical titanium tank it contained 230 pounds 100 kg of hydrazine at launch providing enough fuel until 2034
+
+
+ scientific instruments 
+
+for more details on the voyager space probes identical instrument packages see the separate article on the overall voyager program
+
+
+ mission profile 
+
+
+ launch and trajectory 
+the voyager 2 probe was launched on august 20 1977 by nasa from space launch complex 41 at cape canaveral florida aboard a titan iiiecentaur launch vehicle two weeks later the twin voyager 1 probe was launched on september 5 1977 however voyager 1 reached both jupiter and saturn sooner as voyager 2 had been launched into a longer more circular trajectory
+
+		
+		
+		
+in april 1978 a complication arose when no commands were transmitted to voyager 2 for a period of time causing the spacecraft to switch from its primary radio receiver to its backup receiver sometime afterwards the primary receiver failed altogether the backup receiver was functional but a failed capacitor in the receiver meant that it could only receive transmissions that were sent at a precise frequency and this frequency would be affected by the earths rotation due to the doppler effect and the onboard receivers temperature among other things for each subsequent transmission to voyager 2 it was necessary for engineers to calculate the specific frequency for the signal so that it could be received by the spacecraft
+
+
+ encounter with jupiter 
+
+voyager 2s closest approach to jupiter occurred at 2229 ut on july 9 1979 it came within 570,000 km 350,000 mi of the planets cloud tops 
+jupiters great red spot was revealed as a complex storm moving in a counterclockwise direction other smaller storms and eddies were found throughout the banded clouds
+voyager 2 returned images of jupiter as well as its moons amalthea io callisto ganymede and europa during a 10-hour volcano watch it confirmed voyager 1s observations of active volcanism on the moon io and revealed how the moons surface had changed in the four months since the previous visit together the voyagers observed the eruption of nine volcanoes on io and there is evidence that other eruptions occurred between the two voyager fly-bysjupiters moon europa displayed a large number of intersecting linear features in the low-resolution photos from voyager 1 at first scientists believed the features might be deep cracks caused by crustal rifting or tectonic processes closer high-resolution photos from voyager 2 however were puzzling the features lacked topographic and one scientist said they might have been painted on with a felt marker europa is internally active due to tidal heating at a level about one-tenth that of io europa is thought to have a thin crust less than 30 km 19 mi thick of water ice possibly floating on a 50-kilometer-deep 30 mile ocean
+two new small satellites adrastea and metis were found orbiting just outside the ring a third new satellite thebe was discovered between the orbits of amalthea and io
+
+
+ encounter with saturn 
+
+the closest approach to saturn occurred on august 26 1981while passing behind saturn as viewed from earth voyager 2 probed saturns upper atmosphere with its radio link to gather information on atmospheric temperature and density profiles voyager 2 found that at the uppermost pressure levels seven kilopascals of pressure saturns temperature was 70 kelvins −203 °c while at the deepest levels measured 120 kilopascals the temperature increased to 143 k −130 °c the north pole was found to be 10 kelvins cooler although this may be seasonal see also saturn oppositions
+after the fly-by of saturn the camera platform of voyager 2 locked up briefly putting plans to officially extend the mission to uranus and neptune in jeopardy the missions engineers were able to fix the problem caused by an overuse that temporarily depleted its lubricant and the voyager 2 probe was given the go-ahead to explore the uranian system
+
+
+ encounter with uranus 
+
+the closest approach to uranus occurred on january 24 1986 when voyager 2 came within 81,500 kilometers 50,600 mi of the planets cloudtops voyager 2 also discovered 11 previously unknown moons cordelia ophelia bianca cressida desdemona juliet portia rosalind belinda puck and perdita the mission also studied the planets unique atmosphere caused by its axial tilt of 97.8° and examined the uranian ring system the length of a day on uranus as measured by voyager 2 is 17 hours 14 minutes uranus was shown to have a magnetic field that was misaligned with its rotational axis unlike other planets that had been visited to that point and a helix-shaped magnetic tail stretching 10 million kilometers 6 million miles away from the sunwhen voyager 2 visited uranus much of its cloud features were hidden by a layer of haze however false-color and contrast-enhanced images show bands of concentric clouds around its south pole this area was also found to radiate large amounts of ultraviolet light a phenomenon that is called dayglow the average atmospheric temperature is about 60 k −350°f−213°c surprisingly the illuminated and dark poles and most of the planet exhibit nearly the same temperatures at the cloud tops
+detailed images from voyager 2s flyby of the uranian moon miranda showed huge canyons made from geological faults one hypothesis suggests that miranda might consist of a reaggregation of material following an earlier event when miranda was shattered into pieces by a violent impactvoyager 2 discovered two previously-unknown uranian rings measurements showed that the uranian rings are distinctly different from those at jupiter and saturn the uranian ring system might be relatively young and it did not form at the same time that uranus did the particles that make up the rings might be the remnants of a moon that was broken up by either a high-velocity impact or torn up by tidal effects
+
+
+ encounter with neptune 
+
+following a mid-course correction in 1987 voyager 2s closest approach to neptune occurred on august 25 1989 through repeated computerized test simulations of trajectories through the neptunian system conducted in advance flight controllers determined the best way to route voyager 2 through the neptune-triton system since the plane of the orbit of triton is tilted significantly with respect to the plane of the ecliptic through mid-course corrections voyager 2 was directed into a path about 4950 kilometers 3000 mi above the north pole of neptune five hours after voyager 2 made its closest approach to neptune it performed a close fly-by of triton the larger of neptunes two originally known moons passing within about 40,000 kilometers 25,000 mivoyager 2 discovered previously unknown neptunian rings and confirmed six new moons despina galatea larissa proteus naiad and thalassa while in the neighborhood of neptune voyager 2 discovered the great dark spot which has since disappeared according to observations by the hubble space telescope the great dark spot was later hypothesized to be a region of clear gas forming a window in the planets high-altitude methane cloud deckwith the decision of the international astronomical union to reclassify pluto as a dwarf planet in 2006 the flyby of neptune by voyager 2 in 1989 became the point when every known planet in the solar system had been visited at least once by a space probe
+
+
+ interstellar mission 
+
+once its planetary mission was over voyager 2 was described as working on an interstellar mission which nasa is using to find out what the solar system is like beyond the heliosphere voyager 2 is currently transmitting scientific data at about 160 bits per second information about continuing telemetry exchanges with voyager 2 is available from voyager weekly reports
+
+in 1992 voyager 2 observed the nova v1974 cygni in the far-ultravioletin july 1994 an attempt was made to observe the impacts from fragments of the comet comet shoemaker–levy 9 with jupiter the crafts position meant it had a direct line of sight to the impacts and observations were made in the ultraviolet and radio spectrum voyager 2 failed to detect anything with calculations showing that the fireballs were just below the crafts limit of detectionon november 29 2006 a telemetered command to voyager 2 was incorrectly decoded by its on-board computer—in a random error—as a command to turn on the electrical heaters of the spacecrafts magnetometer these heaters remained turned on until december 4 2006 and during that time there was a resulting high temperature above 130 °c 266 °f significantly higher than the magnetometers were designed to endure and a sensor rotated away from the correct orientation as of this date it had not been possible to fully diagnose and correct for the damage caused to voyager 2s magnetometer although efforts to do so were proceedingon august 30 2007 voyager 2 passed the termination shock and then entered into the heliosheath approximately 1 billion miles 1.6 billion km closer to the sun than voyager 1 did this is due to the interstellar magnetic field of deep space the southern hemisphere of the solar systems heliosphere is being pushed inon april 22 2010 voyager 2 encountered scientific data format problems on may 17 2010 jpl engineers revealed that a flipped bit in an on-board computer had caused the issue and scheduled a bit reset for may 19 on may 23 2010 voyager 2 resumed sending science data from deep space after engineers fixed the flipped bit currently research is being made into marking the area of memory with the flipped bit off limits or disallowing its use the low-energy charged particle instrument is currently operational and data from this instrument concerning charged particles is being transmitted to earth this data permits measurements of the heliosheath and termination shock there has also been a modification to the on-board flight software to delay turning off the ap branch 2 backup heater for one year it was scheduled to go off february 2 2011 doy 033 2011–033
+on july 25 2012 voyager 2 was traveling at 15.447 kms relative to the sun at about 99.13 astronomical units 1.4830×1010 km from the sun at −55.29° declination and 19.888 h right ascension and also at an ecliptic latitude of −34.0 degrees placing it in the constellation telescopium as observed from earth this location places it deep in the scattered disc and traveling outward at roughly 3.264 au per year it is more than twice as far from the sun as pluto and far beyond the perihelion of 90377 sedna but not yet beyond the outer limits of the orbit of the dwarf planet eris
+on september 9 2012 voyager 2 was 99.077 au 1.48217×1010 km 9.2098×109 mi from the earth and 99.504 au 1.48856×1010 km 9.2495×109 mi from the sun and traveling at 15.436 kms 34,530 mph relative to the sun and traveling outward at about 3.256 au per year sunlight takes 13.73 hours to get to voyager 2 the brightness of the sun from the spacecraft is magnitude -16.7 voyager 2 is heading in the direction of the constellation telescopium to compare proxima centauri the closest star to the sun is about 4.2 light-years or 2.65×105 au distant voyager 2s current relative velocity to the sun is 15.436 kms 55,570 kmh 34,530 mph this calculates as 3.254 au per year about 10% slower than voyager 1 at this velocity 81,438 years would pass before voyager 2 reaches the nearest star proxima centauri were the spacecraft traveling in the direction of that star voyager 2 will need about 19,390 years at its current velocity to travel a complete light year
+on november 7 2012 voyager 2 reached 100 au from the sun making it the third human-made object to reach 100 au voyager 1 was 122 au from the sun and pioneer 10 is presumed to be at 107 au while pioneer has ceased communications both the voyager spacecraft are performing well and are still communicating
+in 2013 voyager 1 was escaping the solar system at a speed of about 3.6 au per year while voyager 2 was only escaping at 3.3 au per year each year voyager 1 increases its lead over voyager 2
+by february 25 2019 voyager 2 was at a distance of 120 au 1.80×1010 km from the sun there is a variation in distance from earth caused by the earths revolution around the sun relative to voyager 2it was originally thought that voyager 2 would enter interstellar space in early 2016 with its plasma spectrometer providing the first direct measurements of the density and temperature of the interstellar plasma in december 2018 the voyager project scientist edward c stone announced that voyager 2 reached interstellar space on november 5 2018
+
+
+ future of the probe 
+voyager 2 is not headed toward any particular star although in roughly 40,000 years it should pass 1.7 light-years from the star ross 248 and if undisturbed for 296,000 years voyager 2 should pass by the star sirius at a distance of 4.3 light-years voyager 2 is expected to keep transmitting weak radio messages until at least the mid 2020s more than 48 years after it was launched
+
+
+ golden record 
+
+each voyager space probe carries a gold-plated audio-visual disc in the event that either spacecraft is ever found by intelligent life-forms from other planetary systems the discs carry photos of the earth and its lifeforms a range of scientific information spoken greetings from the people eg the secretary-general of the united nations and the president of the united states and the children of the planet earth and a medley sounds of earth that includes the sounds of whales a baby crying waves breaking on a shore and a collection of music including works by wolfgang amadeus mozart blind willie johnson chuck berrys johnny b goode valya balkanska and other eastern and western classics and ethnic performers see also music in space
+
+
+ see also 
+
+family portrait
+list of artificial objects escaping from the solar system
+list of missions to the outer planets
+new horizons
+pioneer 10
+pioneer 11
+timeline of artificial satellites and space probes
+voyager 1
+
+
+ references 
+
+
+ notes 
+
+
+ citations 
+
+
+ further reading 
+saturn science results voyager science results at saturn retrieved february 8 2005
+uranus science results voyager science results at uranus retrieved february 8 2005
+nardo don 2002 neptune thomson gale isbn 0-7377-1001-2
+jpl voyager telecom manual
+
+
+ external links 
+nasa voyager website
+voyager 2 mission profile by nasas solar system exploration
+voyager 2 nssdc master catalog

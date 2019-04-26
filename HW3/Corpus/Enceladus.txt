@@ -1,0 +1,231 @@
+enceladus  en-sel-ə-dəs is the sixth-largest moon of saturn it is about 500 kilometers 310 mi in diameter about a tenth of that of saturns largest moon titan enceladus is mostly covered by fresh clean ice making it one of the most reflective bodies of the solar system consequently its surface temperature at noon only reaches −198 °c −324 °f far colder than a light-absorbing body would be despite its small size enceladus has a wide range of surface features ranging from old heavily cratered regions to young tectonically deformed terrains
+enceladus was discovered on august 28 1789 by william herschel but little was known about it until the two voyager spacecraft voyager 1 and voyager 2 passed nearby in the early 1980s in 2005 the cassini spacecraft started multiple close flybys of enceladus revealing its surface and environment in greater detail in particular cassini discovered water-rich plumes venting from the south polar region cryovolcanoes near the south pole shoot geyser-like jets of water vapor molecular hydrogen  other volatiles and solid material including sodium chloride crystals and ice particles into space totaling about 200 kg 440 lb per second over 100 geysers have been identified some of the water vapor falls back as snow the rest escapes and supplies most of the material making up saturns e ring according to nasa scientists the plumes are similar in composition to comets in 2014 nasa reported that cassini found evidence for a large south polar subsurface ocean of liquid water with a thickness of around 10 km 6 mithese geyser observations along with the finding of escaping internal heat and very few if any impact craters in the south polar region show that enceladus is currently geologically active like many other satellites in the extensive systems of the giant planets enceladus is trapped in an orbital resonance its resonance with dione excites its orbital eccentricity which is damped by tidal forces tidally heating its interior and driving the geological activityon 27 june 2018 scientists reported the detection of complex macromolecular organics on enceladus jet plumes as sampled by the cassini orbiter
+
+
+ history 
+
+
+ discovery 
+
+enceladus was discovered by william herschel on august 28 1789 during the first use of his new 1.2 m 47 in 40-foot telescope then the largest in the world at observatory house in slough england its faint apparent magnitude hv  11.7 and its proximity to the much brighter saturn and saturns rings make enceladus difficult to observe from earth with smaller telescopes like many satellites of saturn discovered prior to the space age enceladus was first observed during a saturnian equinox when earth is within the ring plane at such times the reduction in glare from the rings makes the moons easier to observe prior to the voyager missions the view of enceladus improved little from the dot first observed by herschel only its orbital characteristics were known with estimations of its mass density and albedo
+
+
+ naming 
+enceladus is named after the giant enceladus of greek mythology the name like the names of each of the first seven satellites of saturn to be discovered was suggested by william herschels son john herschel in his 1847 publication results of astronomical observations made at the cape of good hope he chose these names because saturn known in greek mythology as cronus was the leader of the titans
+features on enceladus are named by the international astronomical union iau after characters and places from burtons translation of the book of one thousand and one nights impact craters are named after characters whereas other feature types such as fossae long narrow depressions dorsa ridges planitiae plains sulci long parallel grooves and rupes cliffs are named after places the iau has officially named 85 features on enceladus most recently samaria rupes formerly called samaria fossa
+
+
+ orbit and rotation 
+
+enceladus is one of the major inner satellites of saturn along with dione tethys and mimas it orbits at 238,000 km from saturns center and 180,000 km from its cloud tops between the orbits of mimas and tethys it orbits saturn every 32.9 hours fast enough for its motion to be observed over a single night of observation enceladus is currently in a 21 mean-motion orbital resonance with dione completing two orbits around saturn for every one orbit completed by dione this resonance maintains enceladuss orbital eccentricity 0.0047 which is known as a forced eccentricity this non-zero eccentricity results in tidal deformation of enceladus the dissipated heat resulting from this deformation is the main heating source for enceladuss geologic activity enceladus orbits within the densest part of saturns e ring the outermost of its major rings and is the main source of the rings material compositionlike most of saturns larger satellites enceladus rotates synchronously with its orbital period keeping one face pointed toward saturn unlike earths moon enceladus does not appear to librate more than 1.5° about its spin axis however analysis of the shape of enceladus suggests that at some point it was in a 14 forced secondary spin–orbit libration this libration could have provided enceladus with an additional heat source
+
+
+ source of the e ring 
+plumes from enceladus which are similar in composition to comets have been shown to be the source of the material in saturns e ring the e ring is the widest and outermost ring of saturn except for the tenuous phoebe ring it is an extremely wide but diffuse disk of microscopic icy or dusty material distributed between the orbits of mimas and titanmathematical models show that the e ring is unstable with a lifespan between 10,000 and 1,000,000 years therefore particles composing it must be constantly replenished enceladus is orbiting inside the ring at its narrowest but highest density point in the 1980s some suspected that enceladus is the main source of particles for the ring this hypothesis was confirmed by cassinis first two close flybys in 2005
+
+		
+		
+
+
+ geology 
+
+
+ surface features 
+
+voyager 2 was the first spacecraft to observe enceladuss surface in detail in august 1981 examination of the resulting highest-resolution imagery revealed at least five different types of terrain including several regions of cratered terrain regions of smooth young terrain and lanes of ridged terrain often bordering the smooth areas in addition extensive linear cracks and scarps were observed given the relative lack of craters on the smooth plains these regions are probably less than a few hundred million years old accordingly enceladus must have been recently active with water volcanism or other processes that renew the surface the fresh clean ice that dominates its surface gives enceladus the most reflective surface of any body in the solar system with a visual geometric albedo of 1.38 and bolometric bond albedo of 0.81±0.04 because it reflects so much sunlight its surface only reaches a mean noon temperature of −198 °c −324 °f somewhat colder than other saturnian satellitesobservations during three flybys by cassini on february 17 march 9 and july 14 2005 revealed enceladus surface features in much greater detail than the voyager 2 observations the smooth plains which voyager 2 had observed resolved into relatively crater-free regions filled with numerous small ridges and scarps numerous fractures were found within the older cratered terrain suggesting that the surface has been subjected to extensive deformation since the craters were formed some areas contain no craters indicating major resurfacing events in the geologically recent past there are fissures plains corrugated terrain and other crustal deformations several additional regions of young terrain were discovered in areas not well-imaged by either voyager spacecraft such as the bizarre terrain near the south pole all of this indicates that enceladuss interior may be liquid today even though it should have been frozen long ago
+
+
+ impact craters 
+impact cratering is a common occurrence on many solar system bodies much of enceladus surface is covered with craters at various densities and levels of degradation this subdivision of cratered terrains on the basis of crater density and thus surface age suggests that enceladus has been resurfaced in multiple stagescassini observations provided a much closer look at the crater distribution and size showing that many of enceladus craters are heavily degraded through viscous relaxation and fracturing viscous relaxation allows gravity over geologic time scales to deform craters and other topographic features formed in water ice reducing the amount of topography over time the rate at which this occurs is dependent on the temperature of the ice warmer ice is easier to deform than colder stiffer ice viscously relaxed craters tend to have domed floors or are recognized as craters only by a raised circular rim dunyazad crater is a prime example of a viscously relaxed crater on enceladus with a prominent domed floor
+
+
+ tectonic features 
+
+voyager 2 found several types of tectonic features on enceladus including troughs scarps and belts of grooves and ridges results from cassini suggest that tectonics is the dominant mode of deformation on enceladus including rifts one of the more dramatic types of tectonic features that were noted these canyons can be up to 200 km long 5–10 km wide and 1 km deep such features are geologically young because they cut across other tectonic features and have sharp topographic relief with prominent outcrops along the cliff facesevidence of tectonics on enceladus is also derived from grooved terrain consisting of lanes of curvilinear grooves and ridges these bands first discovered by voyager 2 often separate smooth plains from cratered regions grooved terrains such as the samarkand sulci are reminiscent of grooved terrain on ganymede however unlike those seen on ganymede grooved topography on enceladus is generally more complex rather than parallel sets of grooves these lanes often appear as bands of crudely aligned chevron-shaped features in other areas these bands bow upwards with fractures and ridges running the length of the feature cassini observations of the samarkand sulci have revealed dark spots 125 and 750 m wide located parallel to the narrow fractures currently these spots are interpreted as collapse pits within these ridged plain beltsin addition to deep fractures and grooved lanes enceladus has several other types of tectonic terrain many of these fractures are found in bands cutting across cratered terrain these fractures probably propagate down only a few hundred meters into the crust many have probably been influenced during their formation by the weakened regolith produced by impact craters often changing the strike of the propagating fracture another example of tectonic features on enceladus are the linear grooves first found by voyager 2 and seen at a much higher resolution by cassini these linear grooves can be seen cutting across other terrain types like the groove and ridge belts like the deep rifts they are among the youngest features on enceladus however some linear grooves have been softened like the craters nearby suggesting that they are older ridges have also been observed on enceladus though not nearly to the extent as those seen on europa these ridges are relatively limited in extent and are up to one kilometer tall one-kilometer high domes have also been observed given the level of resurfacing found on enceladus it is clear that tectonic movement has been an important driver of geology for much of its history
+
+
+ smooth plains 
+two regions of smooth plains were observed by voyager 2 they generally have low relief and have far fewer craters than in the cratered terrains indicating a relatively young surface age in one of the smooth plain regions sarandib planitia no impact craters were visible down to the limit of resolution another region of smooth plains to the southwest of sarandib is criss-crossed by several troughs and scarps cassini has since viewed these smooth plains regions like sarandib planitia and diyar planitia at much higher resolution cassini images show these regions filled with low-relief ridges and fractures probably caused by shear deformation the high-resolution images of sarandib planitia revealed a number of small impact craters which allow for an estimate of the surface age either 170 million years or 3.7 billion years depending on assumed impactor populationthe expanded surface coverage provided by cassini has allowed for the identification of additional regions of smooth plains particularly on enceladuss leading hemisphere the side of enceladus that faces the direction of motion as it orbits saturn rather than being covered in low-relief ridges this region is covered in numerous criss-crossing sets of troughs and ridges similar to the deformation seen in the south polar region this area is on the opposite side of enceladus from sarandib and diyar planitiae suggesting that the placement of these regions is influenced by saturns tides on enceladus
+
+
+ south polar region 
+
+images taken by cassini during the flyby on july 14 2005 revealed a distinctive tectonically deformed region surrounding enceladuss south pole this area reaching as far north as 60° south latitude is covered in tectonic fractures and ridges the area has few sizable impact craters suggesting that it is the youngest surface on enceladus and on any of the mid-sized icy satellites modeling of the cratering rate suggests that some regions of the south polar terrain are possibly as young as 500,000 years or less near the center of this terrain are four fractures bounded by ridges unofficially called tiger stripes they appear to be the youngest features in this region and are surrounded by mint-green-colored in false color uv–green–near ir images coarse-grained water ice seen elsewhere on the surface within outcrops and fracture walls here the blue ice is on a flat surface indicating that the region is young enough not to have been coated by fine-grained water ice from the e ring results from the visual and infrared spectrometer vims instrument suggest that the green-colored material surrounding the tiger stripes is chemically distinct from the rest of the surface of enceladus vims detected crystalline water ice in the stripes suggesting that they are quite young likely less than 1,000 years old or the surface ice has been thermally altered in the recent past vims also detected simple organic carbon-containing compounds in the tiger stripes chemistry not found anywhere else on enceladus thus far and in 27 june 2018 scientists reported the detection of complex macromolecular organics on enceladus jet plumes as sampled by the cassini orbiterone of these areas of blue ice in the south polar region was observed at high resolution during the july 14 2005 flyby revealing an area of extreme tectonic deformation and blocky terrain with some areas covered in boulders 10–100 m across
+
+the boundary of the south polar region is marked by a pattern of parallel y- and v-shaped ridges and valleys the shape orientation and location of these features suggest they are caused by changes in the overall shape of enceladus as of 2006 there were two theories for what could cause such a shift in shape the orbit of enceladus may have migrated inward leading to an increase in enceladuss rotation rate such a shift would lead to a more oblate shape or a rising mass of warm low-density material in enceladuss interior may have led to a shift in the position of the current south polar terrain from enceladuss southern mid-latitudes to its south pole consequently the moons ellipsoid shape would have adjusted to match the new orientation one problem of the polar flattening hypothesis is that both polar regions should have similar tectonic deformation histories however the north polar region is densely cratered and has a much older surface age than the south pole thickness variations in enceladuss lithosphere is one explanation for this discrepancy variations in lithospheric thickness are supported by the correlation between the y-shaped discontinuities and the v-shaped cusps along the south polar terrain margin and the relative surface age of the adjacent non-south polar terrain regions the y-shaped discontinuities and the north-south trending tension fractures into which they lead are correlated with younger terrain with presumably thinner lithospheres the v-shaped cusps are adjacent to older more heavily cratered terrains
+
+
+ internal structure 
+
+before the cassini mission little was known about the interior of enceladus however flybys by cassini provided information for models of enceladuss interior including a better determination of the mass and shape high-resolution observations of the surface and new insights on the interiormass estimates from the voyager program missions suggested that enceladus was composed almost entirely of water ice however based on the effects of enceladuss gravity on cassini its mass was determined to be much higher than previously thought yielding a density of 1.61 gcm3 this density is higher than saturns other mid-sized icy satellites indicating that enceladus contains a greater percentage of silicates and iron
+castillo et al 2005 suggested that iapetus and the other icy satellites of saturn formed relatively quickly after the formation of the saturnian subnebula and thus were rich in short-lived radionuclides these radionuclides like aluminium-26 and iron-60 have short half-lives and would produce interior heating relatively quickly without the short-lived variety enceladuss complement of long-lived radionuclides would not have been enough to prevent rapid freezing of the interior even with enceladuss comparatively high rock–mass fraction given its small size given enceladuss relatively high rock–mass fraction the proposed enhancement in 26al and 60fe would result in a differentiated body with an icy mantle and a rocky core subsequent radioactive and tidal heating would raise the temperature of the core to 1,000 k enough to melt the inner mantle however for enceladus to still be active part of the core must have also melted forming magma chambers that would flex under the strain of saturns tides tidal heating such as from the resonance with dione or from libration would then have sustained these hot spots in the core and would power the current geological activityin addition to its mass and modeled geochemistry researchers have also examined enceladuss shape to determine if it is differentiated porco et al 2006 used limb measurements to determine that its shape assuming hydrostatic equilibrium is consistent with an undifferentiated interior in contradiction to the geological and geochemical evidence however the current shape also supports the possibility that enceladus is not in hydrostatic equilibrium and may have rotated faster at some point in the recent past with a differentiated interior gravity measurements by cassini show that the density of the core is low indicating that the core contains water in addition to silicates
+
+
+ subsurface water ocean 
+
+evidence of liquid water on enceladus began to accumulate in 2005 when scientists observed plumes containing water vapor spewing from its south polar surface with jets moving 250 kg of water vapor every second at up to 2,189 kmh 1,360 mph into space  soon after in 2006 it was determined that enceladuss plumes are the source of saturns e ring the sources of salty particles are uniformly distributed along the tiger stripes whereas sources of fresh particles are closely related to the high-speed gas jets the salty particles are heavier and mostly fall back to the surface whereas the fast fresh particles escape to the e ring explaining its salt-poor composition of 0.5–2% of sodium salts by mass the plumes salty composition indicates that the source is a salty subsurface ocean cassini also found traces of simple organic compounds in some dust grains as well as organics such as benzene c6h6 and complex macromolecular organics as large as 200 atomic mass units and at least 15 carbon atoms in sizegravimetric data from cassinis december 2010 flybys showed that enceladus likely has a liquid water ocean beneath its frozen surface but at the time it was thought the subsurface ocean was limited to the south pole the top of the ocean probably lies beneath a 30 to 40 kilometers 19 to 25 mi thick ice shelf the ocean may be 10 kilometers 6.2 mi deep at the south polemeasurements of enceladuss wobble as it orbits saturn—called libration—suggests that the entire icy crust is detached from the rocky core and therefore that a global ocean is present beneath the surface the amount of libration 0.120° ± 0.014° implies that this global ocean is about 26 to 31 kilometers 16-19 mi deep for comparison earths ocean has an average depth of 3.7 kilometersa model suggests that enceladuss salty ocean -na -cl -co3 has an alkaline ph of 11 to 12 the high ph is interpreted to be a consequence of serpentinization of chondritic rock that leads to the generation of h2 a geochemical source of energy that can support both abiotic and biological synthesis of organic molecules such as those that have been detected in enceladuss plumes
+
+
+ south polar plumes 
+
+following voyagers encounters with enceladus in the early 1980s scientists postulated that it may be geologically active based on its young reflective surface and location near the core of the e ring based on the connection between enceladus and the e ring scientists suspected that enceladus was the source of material in the e ring perhaps through venting of water vapor readings from cassinis 2005 passage suggested that cryovolcanism where water and other volatiles are the materials erupted instead of silicate rock had been discovered on enceladus the first cassini sighting of a plume of icy particles above enceladuss south pole came from the imaging science subsystem iss images taken in january and february 2005 though the possibility of a camera artifact delayed an official announcement data from the magnetometer instrument during the february 17 2005 encounter provided a hint that the feature might be real when it found evidence for a planetary atmosphere the magnetometer observed an increase in the power of ion cyclotron waves near enceladus these waves are produced by the interaction of ionized particles and magnetic fields and the waves frequency can be used to identify their composition in this case ionized water vapor during the two following encounters the magnetometer team determined that gases in enceladuss atmosphere are concentrated over the south polar region with atmospheric density away from the pole being much lower the ultraviolet imaging spectrograph uvis confirmed this result by observing two stellar occultations during the february 17 and july 14 encounters unlike the magnetometer uvis failed to detect an atmosphere above enceladus during the february encounter when it looked over the equatorial region but did detect water vapor during an occultation over the south polar region during the july encounter
+
+fortuitously cassini flew through this gas cloud during the july 14 encounter allowing instruments such as the ion and neutral mass spectrometer inms and the cosmic dust analyzer cda to directly sample the plume inms measured the composition of the gas cloud detecting mostly water vapor as well as traces of molecular nitrogen methane and carbon dioxide the cda detected a large increase in the number of particles near enceladus confirming enceladus as the primary source for the e ring analysis of the cda and inms data suggest that the gas cloud cassini flew through during the july encounter and observed from a distance with its magnetometer and uvis was actually a water-rich cryovolcanic plume originating from vents near the south pole
+
+visual confirmation of venting came in november 2005 when iss imaged geyser-like jets of icy particles rising from enceladuss south polar region although the plume was imaged before in january and february 2005 additional studies of the cameras response at high phase angles when the sun is almost behind enceladus and comparison with equivalent high-phase-angle images taken of other saturnian satellites were required before this could be confirmed the november 2005 images showed the plumes fine structure revealing numerous jets perhaps issuing from numerous distinct vents within a larger faint component extending out nearly 500 km from the surface the particles have a bulk velocity of 1.25 ±0.1 kms and a maximum velocity of 3.40 kms  cassinis uvis later observed gas jets coinciding with the dust jets seen by iss during a non-targeted encounter with enceladus in october 2007
+observations during a flyby on march 12 2008 revealed additional chemicals in the plume including trace amounts of simple hydrocarbons such as methane propane acetylene and formaldehyde the plumes composition as measured by the inms is similar to that seen at most cometsin 2015 the cassini probe made a close fly-by of enceladus south pole flying within 48.3 km 30 mi of the surface and through a plume its mass spectrometer detected molecular hydrogen which was in thermodynamic disequilibrium with the other componentsthe combined analysis of imaging mass spectrometry and magnetospheric data suggests that the observed south polar plume emanates from pressurized subsurface chambers similar to earths geysers the mechanism that drives and sustains the eruptions is thought to be tidal heating the intensity of the eruption of the south polar jets varies significantly as a function of the position of enceladus in its orbit the plumes are about four times brighter when enceladus is at apoapsis the point in its orbit most distant from saturn than when it is at periapsis this is consistent with geophysical calculations which predict the south polar fissures are under compression near periapsis pushing them shut and under tension near apoapsis pulling them openmuch of the plume activity consists of broad curtain-like eruptions optical illusions from a combination of viewing direction and local fracture geometry previously made the plumes look like discrete jetsthe extent to which cryovolcanism really occurs is a subject of some debate as water being denser than ice by about 8 has difficulty erupting under normal circumstances at enceladus it appears that cryovolcanism occurs because water-filled cracks are periodically exposed to vacuum the cracks being opened and closed by tidal stresses
+
+		
+		
+		
+
+
+ possible heat sources 
+during the flyby of july 14 2005 the composite infrared spectrometer cirs found a warm region near the south pole temperatures in this region ranged from 85–90 k with small areas showing as high as 157 k −116 °c much too warm to be explained by solar heating indicating that parts of the south polar region are heated from the interior of enceladus the presence of a subsurface ocean under the south polar region is now accepted but it cannot explain the source of the heat with an estimated heat flux of 200 mwm2 which is about 10 times higher than that from radiogenic heating alone
+
+several explanations for the observed elevated temperatures and the resulting plumes have been proposed including venting from a subsurface reservoir of liquid water sublimation of ice decompression and dissociation of clathrates and shear heating but a complete explanation of all the heat sources causing the observed thermal power output of enceladus has not yet been settled
+heating in enceladus has occurred through various mechanisms ever since its formation radioactive decay in its core may have initially heated it giving it a warm core and a subsurface ocean which is now kept above freezing through an unidentified mechanism geophysical models indicate that tidal heating is a main heat source perhaps aided by radioactive decay and some heat-producing chemical reactions a 2007 study predicted the internal heat of enceladus if generated by tidal forces could be no greater than 1.1 gigawatts but data from cassinis infrared spectrometer of the south polar terrain over 16 months indicate that the internal heat generated power is about 4.7 gigawatts and suggest that it is in thermal equilibriumthe observed power output of 4.7 gigawatts is challenging to explain from tidal heating alone so the main source of heat remains a mystery most scientists think the observed heat flux of enceladus is not enough to maintain the subsurface ocean and therefore any subsurface ocean must be a remnant of a period of higher eccentricity and tidal heating or the heat is produced through another mechanism
+
+
+ tidal heating 
+tidal heating occurs through the tidal friction processes orbital and rotational energy are dissipated as heat in the crust of an object in addition to the extent that tides produce heat along fractures libration may affect the magnitude and distribution of such tidal shear heating tidal dissipation of enceladuss ice crust is significant because enceladus has a subsurface ocean a computer simulation that used data from cassini was published in november 2017 and it indicates that friction heat from the sliding rock fragments within the permeable and fragmented core of enceladus could keep its underground ocean warm for up to billions of years it is thought that if enceladus had a more eccentric orbit in the past the enhanced tidal forces could be sufficient to maintain a subsurface ocean such that a periodic enhancement in eccentricity could maintain a subsurface ocean that periodically changes in size a more recent analysis claimed that a model of the tiger stripes as tidally flexed slots that puncture the ice shell can simultaneously explain the persistence of the eruptions through the tidal cycle the phase lag and the total power output of the tiger stripe terrain while suggesting that eruptions are maintained over geological timescales  previous models suggest that resonant perturbations of dione could provide the necessary periodic eccentricity changes to maintain the subsurface ocean of enceladus if the ocean contains a substantial amount of ammonia the surface of enceladus indicates that the entire moon has experienced periods of enhanced heat flux in the past
+
+
+ radioactive heating 
+the hot start model of heating suggests enceladus began as ice and rock that contained rapidly decaying short-lived radioactive isotopes of aluminium iron and manganese enormous amounts of heat were then produced as these isotopes decayed for about 7 million years resulting in the consolidation of rocky material at the core surrounded by a shell of ice although the heat from radioactivity would decrease over time the combination of radioactivity and tidal forces from saturns gravitational tug could prevent the subsurface ocean from freezing the present-day radiogenic heating rate is 3.2 × 1015 ergss or 0.32 gigawatts assuming enceladus has a composition of ice iron and silicate materials heating from long-lived radioactive isotopes uranium-238 uranium-235 thorium-232 and potassium-40 inside enceladus would add 0.3 gigawatts to the observed heat flux the presence of enceladuss regionally thick subsurface ocean suggests a heat flux 10 times higher than that from radiogenic heating in the silicate core
+
+
+ chemistry 
+because no ammonia was initially found in the vented material by inms or uvis which could act as an antifreeze it was thought such a heated pressurized chamber would consist of nearly pure liquid water with a temperature of at least 270 k −3 °c because pure water requires more energy to melt
+in july 2009 it was announced that traces of ammonia had been found in the plumes during flybys in july and october 2008 reducing the freezing point of water with ammonia would also allow for outgassing and higher gas pressure and less heat required to power the water plumes the subsurface layer heating the surface water ice could be an ammonia–water slurry at temperatures as low as 170 k −103 °c and thus less energy is required to produce the plume activity
+however the observed 4.7 gigawatts heat flux is enough to power the cryovolcanism without the presence of ammonia
+
+
+ shape and size 
+enceladus is a relatively small satellite composed of ice and rock it is a scalene ellipsoid in shape its diameters calculated from images taken by cassinis iss imaging science subsystem instrument are 513 km between the sub- and anti-saturnian poles 503 km between the leading and trailing hemispheres and 497 km between the north and south poles enceladus is only one-seventh the diameter of earths moon it ranks sixth in both mass and size among the satellites of saturn after titan 5,150 km rhea 1,530 km iapetus 1,440 km dione 1,120 km and tethys 1,050 km
+
+		
+		
+
+
+ origin 
+
+
+ mimas–enceladus paradox 
+mimas the innermost of the round moons of saturn and directly interior to enceladus is a geologically dead body even though it should experience stronger tidal forces than enceladus this apparent paradox can be explained in part by temperature-dependent properties of water ice the main constituent of the interiors of mimas and enceladus the tidal heating per unit mass is given by the formula 
+  
+    
+      
+        
+          q
+          
+            t
+            i
+            d
+          
+        
+        
+        
+          
+            
+              63
+              ρ
+              
+                n
+                
+                  5
+                
+              
+              
+                r
+                
+                  4
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            
+              38
+              μ
+              q
+            
+          
+        
+      
+    
+    displaystyle qtidfrac 63rho n5r4e238mu q
+   where ρ is the mass density of the satellite n is its mean orbital motion r is the satellites radius e is the orbital eccentricity of the satellite μ is the shear modulus and q is the dimensionless dissipation factor for a same-temperature approximation the expected value of qtid for mimas is about 40 times that of enceladus however the material parameters μ and q are temperature dependent at high temperatures close to the melting point μ and q are low so tidal heating is high modeling suggests that for enceladus both a basic low-energy thermal state with little internal temperature gradient and an excited high-energy thermal state with a significant temperature gradient and consequent convection endogenic geologic activity once established would be stable for mimas only a low-energy state is expected to be stable despite its being closer to saturn so the model predicts a low-internal-temperature state for mimas values of μ and q are high but a possible higher-temperature state for enceladus values of μ and q are low additional historical information is needed to explain how enceladus first entered the high-energy state eg more radiogenic heating or a more eccentric orbit in the pastthe significantly higher density of enceladus relative to mimas 1.61 vs 1.15 gcm3 implying a larger content of rock and more radiogenic heating in its early history has also been cited as an important factor in resolving the mimas paradoxit has been suggested that for an icy satellite the size of mimas or enceladus to enter an excited state of tidal heating and convection it would need to enter an orbital resonance before it lost too much of its primordial internal heat because mimas being smaller would cool more rapidly than enceladus its window of opportunity for initiating orbital resonance-driven convection would have been considerably shorter
+
+
+ proto-enceladus hypothesis 
+enceladus is losing mass at a rate of 200 kgsecond if mass loss at this rate continued for 4.5 gyr the satellite would have lost approximately 30% of its initial mass a similar value is obtained by assuming that the initial densities of enceladus and mimas were equal it suggests that tectonics in the south polar region is probably mainly related to subsidence and associated subduction caused by the process of mass loss
+
+
+ date of formation 
+in 2016 a study of how the orbits of saturns moons should have changed due to tidal effects suggested that all of saturns satellites inward of titan including enceladus whose geologic activity was used to derive the strength of tidal effects on saturns satellites may have formed as little as 100 million years ago
+
+
+ potential habitability 
+enceladus ejects plumes of salt water that are laced with grains of silica-rich sand nitrogen in ammonia and organic molecules including trace amounts of simple hydrocarbons such as methane ch4 propane c3h8 acetylene c2h2 and formaldehyde ch2o which are carbon-bearing molecules this indicates that hydrothermal activity—an energy source—may be at work in enceladuss subsurface ocean in addition models indicate the large rocky core is porous allowing water to flow through it to pick up heat  molecular hydrogen h2 a geochemical source of energy that can be metabolized by methanogen microbes to provide energy for life could be present if as models suggest enceladuss salty ocean has an alkaline ph from serpentinization of chondritic rockthe presence of an internal global salty ocean with an aquatic environment supported by global ocean circulation patterns with an energy source and complex organic compounds in contact with enceladuss rocky core may advance the study of astrobiology and the study of potentially habitable environments for microbial extraterrestrial life the presence of a wide range of organic compounds and ammonia indicates their source may be similar to the waterrock reactions known to occur on earth and that are known to support life therefore several robotic missions have been proposed to further explore enceladus and assess its habitability some of the proposed missions are journey to enceladus and titan jet enceladus explorer en-ex enceladus life finder elf life investigation for enceladus life and enceladus life signatures and habitability elsah
+
+
+ hydrothermal vents 
+
+on april 13 2017 nasa announced the discovery of possible hydrothermal activity on enceladus sub-surface ocean floor in 2015 the cassini probe made a close fly-by of enceladus south pole flying within 48.3 km 30 mi of the surface as well as through a plume in the process a mass spectrometer on the craft detected molecular hydrogen h2 from the plume and after months of analysis the conclusion was made that the hydrogen was most likely the result of hydrothermal activity beneath the surface it has been speculated that such activity could be a potential oasis of habitabilitythe presence of ample hydrogen in enceladuss ocean means that microbes – if any exist there – could use it to obtain energy by combining the hydrogen with carbon dioxide dissolved in the water the chemical reaction is known as methanogenesis because it produces methane as a byproduct and is at the root of the tree of life on earth the birthplace of all life that is known to exist
+
+
+ exploration 
+
+
+ voyager missions 
+
+the two voyager spacecraft made the first close-up images of enceladus voyager 1 was the first to fly past enceladus at a distance of 202,000 km on november 12 1980 images acquired from this distance had very poor spatial resolution but revealed a highly reflective surface devoid of impact craters indicating a youthful surface voyager 1 also confirmed that enceladus was embedded in the densest part of saturns diffuse e ring combined with the apparent youthful appearance of the surface voyager scientists suggested that the e ring consisted of particles vented from enceladuss surfacevoyager 2 passed closer to enceladus 87,010 km on august 26 1981 allowing higher-resolution images to be obtained these images showed a young surface they also revealed a surface with different regions with vastly different surface ages with a heavily cratered mid- to high-northern latitude region and a lightly cratered region closer to the equator this geologic diversity contrasts with the ancient heavily cratered surface of mimas another moon of saturn slightly smaller than enceladus the geologically youthful terrains came as a great surprise to the scientific community because no theory was then able to predict that such a small and cold compared to jupiters highly active moon io celestial body could bear signs of such activity
+
+
+ cassini 
+
+the answers to many remaining mysteries of enceladus had to wait until the arrival of the cassini spacecraft on july 1 2004 when it entered orbit around saturn given the results from the voyager 2 images enceladus was considered a priority target by the cassini mission planners and several targeted flybys within 1,500 km of the surface were planned as well as numerous non-targeted opportunities within 100,000 km of enceladus the flybys have yielded significant information concerning enceladuss surface as well as the discovery of water vapor with traces of simple hydrocarbons venting from the geologically active south polar region these discoveries prompted the adjustment of cassinis flight plan to allow closer flybys of enceladus including an encounter in march 2008 that took it to within 48 km of the surface cassinis extended mission included seven close flybys of enceladus between july 2008 and july 2010 including two passes at only 50 km in the later half of 2008 cassini performed a flyby on october 28 2015 passing as close as 49 km 30 mi and through a plume confirmation of molecular hydrogen h2 would be an independent line of evidence that hydrothermal activity is taking place in the enceladus seafloor increasing its habitabilitycassini has provided strong evidence that enceladus has an ocean with an energy source nutrients and organic molecules making enceladus one of the best places for the study of potentially habitable environments for extraterrestrial life by contrast the water thought to be on jupiters moon europa is located under a much thicker layer of ice
+
+
+ proposed mission concepts 
+the discoveries cassini made at enceladus have prompted studies into follow-up mission concepts including a probe flyby journey to enceladus and titan or jet to analyze plume contents in-situ a lander by the german aerospace center to study the habitability potential of its subsurface ocean enceladus explorer and two astrobiology-oriented mission concepts the enceladus life finder and life investigation for enceladus lifethe european space agency esa was assessing concepts in 2008 to send a probe to enceladus in a mission to be combined with studies of titan titan saturn system mission tssm tssm was a joint nasaesa flagship-class proposal for exploration of saturns moons with a focus on enceladus and it was competing against the europa jupiter system mission ejsm proposal for funding in february 2009 it was announced that nasaesa had given the ejsm mission priority ahead of tssm although tssm will continue to be studied and evaluated
+in november 2017 russian billionaire yuri milner expressed interest in funding a low-cost privately funded mission to enceladus which can be launched relatively soon in september 2018 nasa and the breakthrough initiatives founded by milner signed a cooperation  agreement for the missions initial concept phase the spacecraft would be low-cost low mass and would be launched at high speed on an affordable rocket the spacecraft would be directed to perform a single flyby through enceladus plumes in order to sample and analyze its content for biosignatures nasa will be providing scientific and technical expertise through various reviews from march 2019 to december 2019
+
+
+ see also 
+
+enceladus in fiction
+list of geological features on enceladus
+list of natural satellites
+
+
+ notes 
+
+
+ references 
+
+
+ further reading 
+ralph lorenz 2018 nasaesaasi cassini-huygens 1997 onwards cassini orbiter huygens probe and future exploration concepts owners workshop manual haynes manuals uk isbn 978-1785211119
+
+
+ external links 
+
+enceladus profile at nasas solar system exploration site
+calvin hamiltons enceladus page
+the planetary society enceladus blogs
+charm cassini–huygens analysis and results from the mission page contains presentations on enceladus results
+paul schenks 3d images and flyover videos of enceladus and other outer solar system satellites
+habitability of enceladus planetary conditions for lifeimagescassini images of enceladus
+images of enceladus at jpls planetary photojournal
+movie of enceladuss rotation from the national oceanic and atmospheric administration
+enceladus global and polar basemaps december 2011 from cassini images
+enceladus atlas may 2010 from cassini images
+enceladus nomenclature and enceladus map with feature names from the usgs planetary nomenclature page
+google enceladus 3d interactive map of the moon
+image album by kevin m gill

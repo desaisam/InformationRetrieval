@@ -1,0 +1,63 @@
+deimos systematic designation mars ii is the smaller and outermost of the two natural satellites of the planet mars the other being phobos deimos has a mean radius of 6.2 km 3.9 mi and takes 30.3 hours to orbit mars deimos is 23,460 km 14,580 mi from mars much further than marss other moon phobos it is named for deimos who in greek mythology is the twin brother of phobos and personifies terror
+
+
+ discovery 
+
+deimos was discovered by asaph hall iii at the united states naval observatory in washington dc on 12 august 1877 at about 0748 utc given in contemporary sources as 11 august 1440 washington mean time using an astronomical convention of beginning a day at noon so 12 hours must be added to get the actual local mean time hall also discovered phobos on 18 august 1877 at about 0914 gmt after deliberately searching for martian moons
+it is named after deimos a figure representing dread in greek mythology the names at first spelled phobus and deimus were suggested by henry madan 1838–1901 science master of eton from book xv of the iliad where ares the roman god mars summons dread deimos and fear phobos
+
+
+ physical characteristics 
+
+deimos like mars other moon phobos has spectra albedos and densities similar to those of a c- or d-type asteroid like most bodies of its size deimos is highly non-spherical with triaxial dimensions of 15 × 12.2 × 11 km making it 56% of the size of phobos deimos is composed of rock rich in carbonaceous material much like c-type asteroids and carbonaceous chondrite meteorites it is cratered but the surface is noticeably smoother than that of phobos caused by the partial filling of craters with regolith the regolith is highly porous and has a radar-estimated density of only 1.471 gcm3escape velocity from deimos is 5.6 ms the apparent magnitude of deimos is 12.45
+
+
+ named geological features 
+only two geological features on deimos have been given names the craters swift and voltaire are named after writers who speculated on the existence of two martian moons before phobos and deimos were discovered
+deimos
+
+
+ orbital characteristics 
+
+deimoss orbit is nearly circular and is close to marss equatorial plane deimos is possibly an asteroid that was perturbed by jupiter into an orbit that allowed it to be captured by mars though this hypothesis is still controversial and disputed both deimos and phobos have very circular orbits which lie almost exactly in mars equatorial plane and hence a capture origin requires a mechanism for circularizing the initially highly eccentric orbit and adjusting its inclination into the equatorial plane most likely by a combination of atmospheric drag and tidal forces it is not clear that sufficient time was available for this to have occurred for deimos
+
+as seen from mars deimos would have an angular diameter of no more than 2.5 minutes sixty minutes make one degree one twelfth of the width of the moon as seen from earth and would therefore appear almost star-like to the naked eye at its brightest full moon it would be about as bright as venus is from earth at the first- or third-quarter phase it would be about as bright as vega with a small telescope a martian observer could see deimoss phases which take 1.2648 days deimoss synodic period to run their courseunlike phobos which orbits so fast that it rises in the west and sets in the east deimos rises in the east and sets in the west the sun-synodic orbital period of deimos of about 30.4 hours exceeds the martian solar day sol of about 24.7 hours by such a small amount that 2.48 days 2.41 sols elapse between its rising and setting for an equatorial observer from deimos-rise to deimos-rise or setting to setting 5.466 days 5.320 sols elapse
+because deimoss orbit is relatively close to mars and has only a very small inclination to marss equator it cannot be seen from martian latitudes greater than 82.7°
+deimoss orbit is slowly getting larger because it is far enough away from mars and because of tidal acceleration it is expected to eventually escape marss gravity
+
+
+ solar transits 
+
+deimos regularly passes in front of the sun as seen from mars it is too small to cause a total eclipse appearing only as a small black dot moving across the sun its angular diameter is only about 2.5 times the angular diameter of venus during a transit of venus from earth on 4 march 2004 a transit of deimos was photographed by mars rover opportunity and on 13 march 2004 a transit was photographed by mars rover spirit
+
+
+ origin 
+
+the origin of marss moons is unknown and the hypotheses are controversial the main hypotheses are that they formed either by capture or by accretion because of the similarity to the composition of c- or d-type asteroids one hypothesis is that the moons may be objects captured into martian orbit from the asteroid belt with orbits that have been circularized either by atmospheric drag or tidal forces as capture requires dissipation of energy the current martian atmosphere is too thin to capture a phobos-sized object by atmospheric braking geoffrey landis has pointed out that the capture could have occurred if the original body was a binary asteroid that separated due to tidal forces the main alternative hypothesis is that the moons accreted in the present position another hypothesis is that mars was once surrounded by many phobos- and deimos-sized bodies perhaps ejected into orbit around it by a collision with a planetesimal
+
+
+ exploration 
+
+overall its exploration history is similar to those of mars and of phobos deimos has been photographed in close-up by several spacecraft whose primary mission has been to photograph mars no landings on deimos have been made
+the soviet phobos program sent two probes to phobos in case phobos 1 succeeded phobos 2 could have been sent to deimos both probes launched successfully in july 1988 the first was lost en route to mars whereas the second returned some data and images but failed shortly before beginning its detailed examination of phoboss surface including a lander
+in 1997 and 1998 the proposed aladdin mission was selected as a finalist in the nasa discovery program the plan was to visit both phobos and deimos and launch projectiles at the satellites the probe would collect the ejecta as it performed a slow flyby 1 kms these samples would be returned to earth for study three years later the principal investigator was carle m pieters of brown university the total mission cost including launch vehicle and operations was 247.7 million ultimately the mission chosen to fly was messenger a probe to the planet mercuryin 2008 nasa glenn research center began studying a phobos and deimos sample-return mission that would use solar electric propulsion the study gave rise to the hall mission concept a new frontiers-class mission currently under further studyalso the sample-return mission called gulliver has been conceptualized and dedicated to deimos in which 1 kilogram 2.2 pounds of material from deimos would be returned to earthanother concept of sample-return mission from phobos and deimos is osiris-rex 2 which would use heritage from the first osiris-rexin march 2014 a discovery class mission was proposed to place an orbiter on mars orbit by 2021 and study phobos and deimos it is called phobos and deimos  mars environment padmehuman exploration of deimos could serve as a catalyst for the human exploration of mars recently  it was proposed that the sands of deimos or phobos could serve as a valuable  material for  aerobraking in the colonization of mars because the small delta-v budget of phobos a small amount of chemical fuel brought from earth could be  transformed in a very large amount of sand lifted from the surface of phobos – from a permanent outpost to  a transfer orbit this sand  could be released  in front of the spacecraft during the descent maneuver  and  then resulting  in a densification of the atmosphere just in front of the spacecraft
+
+
+ see also 
+
+list of missions to the moons of mars
+list of natural satellites
+moons of mars
+phobos and deimos in fiction
+transit of deimos from mars
+
+
+ references 
+
+
+ external links 
+deimos profile by nasas solar system exploration
+deimos rotation movie
+animation of deimos
+3d model of deimos
+usgs deimos nomenclature

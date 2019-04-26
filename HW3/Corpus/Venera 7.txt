@@ -1,0 +1,27 @@
+venera 7 russian венера-7 meaning venus 7 was a soviet spacecraft part of the venera series of probes to venus when it landed on the venusian surface it became the first spacecraft to land on another planet and first to transmit data from there back to earth
+
+
+ design 
+the lander was designed to be able to survive pressure of up to 180 bars 18,000 kpa and temperatures of 580 °c 1,076 °f this was significantly greater than what was expected to be encountered but significant uncertainties as to the surface temperatures and pressure of venus resulted in the designers opting for a large margin of error the degree of hardening added mass to the probe which limited the amount of mass available for scientific instruments both on the probe itself and the interplanetary bus
+
+
+ launch 
+the probe was launched from earth on 17 august 1970 at 0538 utc it consisted of an interplanetary bus based on the 3mv system and a lander during the flight to venus two in-course corrections were made using the buss on-board kdu-414 engine
+
+
+ landing 
+venera 7 entered the atmosphere of venus on 15 december 1970 the lander remained attached to the interplanetary bus during the initial stages of atmospheric entry to allow the bus to cool the lander to −8 °c for as long as possible the lander was ejected once atmospheric buffeting broke the interplanetary buss lock-on with earth the parachute opened at a height of 60 km and atmospheric testing began with results showing the atmosphere to be 97% carbon dioxide the parachute appeared to fail during the descent resulting in a descent more rapid than planned as a result the lander struck the surface of venus at about 16.5 ms 37 mph at 053710 utc the landing coordinates are 5°s 351°ethe probe appeared to go silent on impact but recording tapes kept rolling a few weeks later upon a review of the tapes by the radio astronomer oleg rzhiga another 23 minutes of very weak signals were found on them the spacecraft had landed on venus and probably bounced onto its side leaving the medium gain antenna not aimed correctly for strong signal transmission to earththe probe transmitted information to earth for 53 minutes which included 20 minutes from the surface it was found that the temperature at the surface of venus was 475 °c 887 °f ± 20 °c using the temperature and models of the atmosphere a pressure of 9 megapascal ± 1.5 mpa was calculated from the spacecrafts rapid halt from falling to stationary inside 0.2 seconds it was possible to conclude that the craft had hit a solid surface with low levels of dustthe probe provided information about the surface of venus which could not be seen through a thick veil of atmosphere the spacecraft definitively confirmed that humans cannot survive on the surface of venus and excluded the possibility that there is any liquid water on venus
+
+
+ see also 
+
+list of missions to venus
+timeline of artificial satellites and space probes
+
+
+ references 
+
+
+ external links 
+venera 7 nasa nssdc master catalog data
+plumbing the atmosphere of venus

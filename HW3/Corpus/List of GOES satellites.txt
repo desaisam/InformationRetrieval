@@ -1,0 +1,20 @@
+this is a list of geostationary operational environmental satellites goes spacecraft are operated by the united states national oceanic and atmospheric administration with nasa responsible for research and development and later procurement of spacecraft
+
+
+ history 
+the first three goes satellites used a philco-ford bus developed for nasas synchronous meteorological satellites which preceded goes two sms satellites had been launched sms-1 in may 1974 and sms-2 in february 1975 the first goes satellite goes-1 was launched in october 1975 two more followed launching almost two minutes short of a year apart on 16 june 1977 and 1978 respectively the sms-derived satellites were spin stabilized spacecraft which provided imagery through a visible and infrared spin scan radiometer or vissr
+following the three sms goes spacecraft five satellites were procured from hughes which became the first generation goes satellites four of these reached orbit with goes-g being lost in a launch failure
+
+the next five goes satellites were constructed by space systemsloral under contract to nasa the imager and sounder instruments were produced by itt aerospacecommunication division goes-8 and -9 were designed to operate for three years while -10 -11 and -12 have expected lifespans of five years goes-11 and -12 were launched carrying enough fuel for ten years of operation in the event that they survived beyond their expected lifespan
+a contract to develop four third-generation goes satellites was awarded to hughes corporation with the satellites scheduled for launch on delta iii rockets between 2002 and 2010 after a merger with hughes boeing took over the development contracts with launches transferred to the delta iv following the delta iiis retirement the contract for the fourth satellite goes-q was later cancelled and that satellite will only be completed in the event that another third generation satellite is lost in a launch failure or fails soon after launch the first third generation satellite goes-13 was launched in may 2006 originally serving as an on-orbit backup however in april 2010 goes-12 was moved to south america coverage and goes-13 was moved to the goes-east role  third generation satellites have an expected lifespan of seven years but will carry excess fuel to allow them to operate for longer if possible as with the last two second generation satellites
+
+the fourth generation satellites the goes-r series are being built by lockheed martin using the a2100 satellite bus the goes-r series is a four-satellite program goes-r -s -t and -u that will extend the availability of the operational goes satellite system through 2036 the first satellite of the series the eponymous goes-r was launched on 19 november 2016 it was renamed goes-16 upon reaching orbit 
+
+
+ imagery 
+
+
+ satellites 
+
+
+ references 

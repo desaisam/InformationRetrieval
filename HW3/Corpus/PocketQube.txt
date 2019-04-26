@@ -1,0 +1,42 @@
+a pocketqube is a type of miniaturized satellite for space research that usually has a size of 5 cm cubed one eighth the volume of a cubesat has a mass of no more than 250 grams and typically uses commercial off-the-shelf components for its electronics
+beginning in 2009 morehead state university msu and kentucky space developed the pocketqube specifications to help universities worldwide to perform space science and exploration while the bulk of development comes from academia several companies build pocketqubes such as gauss srl fossa systems and alba orbital pocketqube projects have even been the subject of kickstarter campaigns the pocketqube format is also popular with amateur radio satellite builders
+
+
+ design 
+the pocketqube specification accomplishes several high-level goals simplification makes it possible to design and produce a workable satellite at low cost encapsulation of the launcher-payload interface takes away the prohibitive amount of managerial work  previously required for mating a piggyback satellite with its launcher unification among payloads and launchers enables quick exchanges of payloads and utilization of launch opportunities on short notice pocketqube is similar to cubesat in this regard
+the standard was first proposed by professor bob twiggs of morehead state university and the intention was for a satellite which could fit in a pocket hence the name pocketqube
+
+
+ history 
+first proposed in 2009 as a solution to the increasing costs of cubesat launches to low earth orbit the first 4 pocketqube satellites were launched on 21 november 2013 onboard their mothership unisat-5 the next expected launch will be on vector-r alba cluster 1 in early 2019 the largest so far is a 2.5p pocketqube called t-logoqube
+
+
+ workshops 
+the first us workshop was held at nasa ames and at cape canaveral in april 2014 there was a three year gap until the next pocketqube workshop was held at tu delft in the netherlands in march 2017 the third workshop took place also at tu delft on march 2018 with 22 presentations and 70 attendees this is now an annual event for the pocketqube development community
+
+
+ launched 
+
+
+ in development 
+
+
+ pocketqube vs pocketqub 
+the pocketqube standard originally started as pocketqub this was changed in 2012 by professor bob twiggs of morehead state university the standard is now referred to as pocketqube
+
+
+ launch 
+as of december of 2018 the only launch brokers capable of providing launch integration for pocketqube satellites are alba orbital and gauss srl
+
+
+ see also 
+cubesat
+
+
+ references 
+
+
+ external links 
+nasa article on pocketqubes
+pocketqube builders
+pocketqube developer resources

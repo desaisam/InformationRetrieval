@@ -1,0 +1,61 @@
+2060 chiron  provisional designation 1977 ub and also known as 95pchiron is a small solar system body or minor planet in the outer solar system orbiting the sun between saturn and uranus discovered in 1977 by charles kowal it was the first-identified member of a new class of objects now known as centaurs—bodies orbiting between the asteroid belt and the kuiper beltalthough it was initially called an asteroid and classified only as a minor planet with the designation 2060 chiron it was later found to exhibit behavior typical of a comet today it is classified as both a minor planet and a comet and is accordingly also known by the cometary designation 95pchiron
+chiron is named after the centaur chiron in greek mythology
+michael brown lists it as possibly a dwarf planet with a measured diameter of 206 km 128 miles which is near the lower limit for an icy dwarf planet around 200 km or 124 miles
+
+
+ history 
+
+
+ discovery 
+chiron was discovered on 1 november 1977 by charles kowal from images taken on 18 october at palomar observatory it was given the temporary designation of 1977 ub it was found near aphelion and at the time of discovery it was the most distant known minor planet chiron was even claimed as the tenth planet by the press chiron was later found on several precovery images going back to 1895 which allowed its orbit to be accurately determined it had been at perihelion in 1945 but was not discovered then because there were few searches being made at that time and these were not sensitive to slow-moving objects the lowell observatorys survey for distant planets would not have gone down faint enough in the 1930s and did not cover the right region of the sky in the 1940s
+
+
+ naming 
+in 1979 this minor planet was named after chiron one of the centaurs from greek mythology it was suggested that the names of other centaurs be reserved for objects of the same type the official naming citation was published by the minor planet center before november 1977 mpc 4359
+
+
+ orbit 
+chirons orbit was found to be highly eccentric 0.37 with perihelion just inside the orbit of saturn and aphelion just outside the perihelion of uranus it does not reach the average distance of uranus however according to the program solex chirons closest approach to saturn in modern times was around may 720 when it came within 30.5±2.0 million km 0.204 ± 0.013 au of saturn during this passage saturns gravity caused chirons semi-major axis to decrease from 14.55±0.12 au to 13.7 au it does not come nearly as close to uranus chiron crosses uranuss orbit where the latter is farther than average from the sun
+
+chiron attracted considerable interest because it was the first object discovered in such an orbit well outside the asteroid belt chiron is classified as a centaur the first of a class of objects orbiting between the outer planets chiron is a saturn–uranus object because its perihelion lies in saturns zone of control and its aphelion lies in that of uranus centaurs are not in stable orbits and will be removed by gravitational perturbation by the giant planets over a period of millions of years moving to different orbits or leaving the solar system altogether chiron is probably a refugee from the kuiper belt and will probably become a short-period comet in about a million yearschiron came to perihelion closest point to the sun in 1996
+
+
+ physical characteristics 
+
+
+ spectral type 
+the visible and near-infrared spectrum of chiron is neutral and is similar to that of c-type asteroids and the nucleus of halleys comet the near-infrared spectrum of chiron shows absence of water ice
+
+
+ diameter 
+
+the assumed size of an object depends on its absolute magnitude h and the albedo the amount of light it reflects in 1984 lebofsky estimated chiron to be about 180 km in diameter estimates in the 1990s were closer to 150 km in diameter occultation data from 1993 suggests a diameter of about 180 km combined data from the spitzer space telescope in 2007 and the herschel space observatory in 2011 suggests that chiron is 218±20 km in diameter therefore chiron may be as large as 10199 chariklo the diameter of chiron is difficult to estimate in part because the true absolute magnitude of its nucleus is uncertain due to its highly variable cometary activity
+
+
+ rotation period 
+four rotational lightcurves of chiron were taken from photometric observations between 1989 and 1997 lightcurve analysis gave a concurring well-defined rotational period of 5.918 hours with a small brightness variation of 0.05 to 0.09 magnitude which indicates that the body has a rather spheroidal shape u3/3/3
+
+
+ cometary behavior 
+in february 1988 at 12 au from the sun chiron brightened by 75 percent this is behavior typical of comets but not asteroids further observations in april 1989 showed that chiron had developed a cometary coma a tail was detected in 1993 chiron differs from other comets in that water is not a major component of its coma because it is too far from the sun for water to sublimate in 1995 carbon monoxide was detected in chiron in very small amounts and the derived co production rate was calculated to be sufficient to account for the observed coma cyanide was also detected in the spectrum of chiron in 1991  at the time of its discovery chiron was close to aphelion whereas the observations showing a coma were done closer to perihelion perhaps explaining why no cometary behavior had been seen earlier the fact that chiron is still active probably means it has not been in its current orbit very longchiron is officially designated as both a comet—95pchiron—and a minor planet an indication of the sometimes fuzzy dividing line between the two classes of object the term proto-comet has also been used being about 220 km in diameter it is unusually large for a comet nucleus chiron was the first member of a new family of chiron-type comets with tjupiter  3 a  ajupiter other chiron-type comets include 39poterma 165plinear 166pneat and 167pcineos there are also non-centaur asteroids that are simultaneously classified as comets such as 4015 wilson–harrington 7968 elst–pizarro and 118401 linearsince the discovery of chiron other centaurs have been discovered and nearly all are currently classified as minor planets but are being observed for possible cometary behavior 60558 echeclus has displayed a cometary coma and now also has the cometary designation 174pecheclus after passing perihelion in early 2008 52872 okyrhoe significantly brightened
+
+
+ rings 
+chiron possibly has rings similar to the better-established rings of 10199 chariklo based on unexpected occultation events observed in stellar-occultation data obtained on 7 november 1993 9 march 1994 and 29 november 2011 which were initially interpreted as resulting from jets associated with chirons comet-like activity chirons rings are proposed to be 324±10 km in radius and sharply defined their changing appearance at different viewing angles can largely explain the long-term variation in chirons brightness and hence estimates of chirons albedo and size moreover it can by assuming that the water ice is in chirons rings explain the changing intensity of the infrared water-ice absorption bands in chirons spectrum including their disappearance in 2001 when the rings were edge-on also the geometric albedo of chirons rings as determined by spectroscopy is consistent with that used to explain chirons long-term brightness variationsthe preferred pole of chirons rings is in ecliptic coordinates λ  144°±10° β  24°±10° the rings width separation and optical depths are nearly identical to those of chariklos rings indicating that the same type of structure is responsible for both moreover both their rings are within their respective roche limits
+
+
+ notes 
+
+
+ references 
+
+
+ further reading 
+
+
+ external links 
+orbit fit and astrometric record for 2060 chiron marc w buie swri – space science department 2007
+95pchiron at cometography
+a single clone run of centaur 2060 chiron showing how chiron may someday become an active comet solex 10
+2060 chiron at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

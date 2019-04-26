@@ -1,0 +1,80 @@
+pallas minor-planet designation 2 pallas is the second asteroid to have been discovered after ceres and is one of the largest asteroids in the solar system with an estimated 7% of the mass of the asteroid belt it is the third-most-massive asteroid being 10–30% less massive than vesta it is 512 kilometers 318 mi in diameter somewhat smaller than 4 vesta it is likely a remnant protoplanet
+when pallas was discovered by the german astronomer heinrich wilhelm matthäus olbers on 28 march 1802 it was counted as a planet as were other asteroids in the early 19th century the discovery of many more asteroids after 1845 eventually led to their reclassification
+pallass surface is most likely composed of a silicate material its spectrum and estimated density resemble carbonaceous chondrite meteorites with an orbital inclination of 34.8° pallass orbit is unusually highly inclined to the plane of the asteroid belt and its orbital eccentricity is nearly as large as that of pluto making pallas relatively inaccessible to spacecraftit was formerly considered a possible dwarf planet for its size but it is no longer considered such because its shape departs significantly from an ellipsoid
+
+
+ history 
+
+
+ discovery 
+
+on the night of april 5 1779 charles messier recorded pallas on a star chart he used to track the path of a comet now known as c1779 a1 bode that he observed in the spring of 1779 but apparently assumed it was nothing more than a starin 1801 the astronomer giuseppe piazzi discovered an object which he initially believed to be a comet shortly thereafter he announced his observations of this object noting that the slow uniform motion was uncharacteristic of a comet suggesting it was a different type of object this was lost from sight for several months but was recovered later that year by the baron von zach and heinrich w m olbers after a preliminary orbit was computed by carl friedrich gauss this object came to be named ceres and was the first asteroid to be discovereda few months later olbers was again attempting to locate ceres when he noticed another moving object in the vicinity this was the asteroid pallas coincidentally passing near ceres at the time the discovery of this object created interest in the astronomy community before this point it had been speculated by astronomers that there should be a planet in the gap between mars and jupiter now unexpectedly a second such body had been found when pallas was discovered some estimates of its size were as high as 3,380 km in diameter even as recently as 1979 pallas was estimated to be 673 km in diameter 26% greater than the currently accepted value
+
+the orbit of pallas was determined by gauss who found the period of 4.6 years was similar to the period for ceres pallas has a relatively high orbital inclination to the plane of the ecliptic
+
+
+ later observations 
+in 1917 the japanese astronomer kiyotsugu hirayama began to study asteroid motions by plotting the mean orbital motion inclination and eccentricity of a set of asteroids he discovered several distinct groupings in a later paper he reported a group of three asteroids associated with pallas which became named the pallas family after the largest member of the group since 1994 more than 10 members of this family have been identified and these have semi-major axes between 2.50–2.82 au and inclinations of 33–38° the validity of this grouping was confirmed in 2002 by a comparison of their spectrapallas has been observed occulting stars several times including the best observed of all asteroid occultation events on 29 may 1983 when careful occultation timing measurements were taken by 140 observers these resulted in the first accurate measurements of its diameter
+during the occultation of 29 may 1979 the discovery of a possible tiny satellite with a diameter of about 1 km was reported which was never confirmed in 1980 speckle interferometry was reported as indicating a much larger satellite with a diameter of 175 km whose existence was later refutedradio signals from spacecraft in orbit around mars andor on its surface have been used to estimate the mass of pallas from the tiny perturbations induced by it onto the motion of marsthe dawn team was granted viewing time on the hubble space telescope in september 2007 for a once-in-twenty-year opportunity to view pallas at closest approach to obtain comparative data for ceres and vesta
+
+
+ naming 
+2 pallas is named after pallas athena ancient greek παλλάσ ἀθηνᾶ an alternate name for the goddess athena
+in some mythologies athena killed pallas then adopted her friends name out of mourning
+there are several male characters of the same name in greek mythology but the first asteroids were invariably given female names
+pallas is a greek name and some other languages use variant versions of it for the asteroid in italian pallade russian pallada spanish palas and arabic bālās for example in chinese however the asteroid has a different name 智神星 zhìshénxīng which means the wisdom-goddess star even though the chinese call the goddess pallas herself by the greek name 帕拉斯 pàlāsīthe stony-iron pallasite meteorites are not connected to the pallas asteroid being instead named after the german naturalist peter simon pallas the chemical element palladium on the other hand was named after the asteroid which had been discovered just before the elementas with other asteroids the astronomical symbol for pallas is a disk with its discovery number ② it also has an older more iconic symbol ⚴  or sometimes 🜍 
+
+
+ orbit and rotation 
+
+pallas has unusual dynamic parameters for such a large body its orbit is highly inclined and moderately eccentric despite being at the same distance from the sun as the central part of the asteroid belt furthermore pallas has a very high axial tilt of 84° with its north pole pointing towards ecliptic coordinates β λ  30° −16° with a 5° uncertainty in the ecliptic j2000.0 reference frame this means that every palladian summer and winter large parts of the surface are in constant sunlight or constant darkness for a time on the order of an earth year with areas near the poles experiencing continuous sunlight for as long as two years
+
+
+ near resonances 
+pallas is in a likely coincidental near-11 orbital resonance with ceres pallas also has a near-187 resonance 91,000-year period and an approximate 52 resonance 83-year period with jupiter
+
+
+ transits of planets from pallas 
+from pallas mercury venus mars and earth can occasionally appear to transit or pass in front of the sun earth last did so in 1968 and 1998 and will next transit in 2224 mercury did in october 2009 the last and next by venus are in 1677 and 2123 and for mars they are in 1597 and 2759
+
+
+ physical characteristics 
+
+both vesta and pallas have assumed the title of second-largest asteroid from time to time at 512±3 km in diameter pallas is slightly smaller than vesta 525.4±0.2 km the mass of pallas is only 847−13% that of vesta 22% that of ceres and about 0.3% that of the moon
+pallas is farther from earth and has a much lower albedo than vesta and hence is dimmer as seen from earth indeed the much smaller 7 iris marginally exceeds pallas in mean opposition magnitude pallass mean opposition magnitude is 8.0 which is well within the range of 10×50 binoculars but unlike ceres and vesta it will require more-powerful optical aid to view at small elongations when its magnitude can drop as low as 10.6 during rare perihelic oppositions pallas can reach a magnitude of 6.4 right on the edge of naked-eye visibility during late february 2014 pallas shone with magnitude 6.96
+
+based on spectroscopic observations the primary component of the material on pallass surface is a silicate containing little iron and water minerals of this type include olivine and pyroxene which are found in cm chondrules the surface composition of pallas is very similar to the renazzo carbonaceous chondrite cr meteorites which are even lower in hydrous minerals than the cm type the renazzo meteorite was discovered in italy in 1824 and is one of the most primitive meteorites known pallass visible and near-infrared spectrum is almost flat being slightly brighter in towards the blue there is only one clear absorption band in the 3-micron part which suggests an anhydrous component mixed with hydrated cm-like silicatesvery little is known of pallass surface features hubble images from 2007 with a resolution around 70 kilometres 43 mi per pixel show pixel-to-pixel variation but pallass albedo of 0.12 placed such features at the lower end of detectability there is little variability between lightcurves obtained through visible-light and infrared filters but there are significant deviations in the ultraviolet suggesting large surface or compositional features near 285° 75° west longitude pallass rotation appears to be progradepallas is thought to have undergone at least some degree of thermal alteration and partial differentiation which suggests that it is a remnant protoplanet during the planetary formation stage of the solar system objects grew in size through an accretion process to approximately this size many of these objects were incorporated into larger bodies which became the planets whereas others were destroyed in collisions with other protoplanets pallas and vesta are likely survivors from this early stage of planetary formationpallas was on a watchlist of objects possibly meeting a provisional definition of planet in an early draft of the iaus 2006 definition of planet
+
+
+ satellites 
+it has been suggested that pallas has a moon a moon about 1 kilometer in diameter was suggested based on occultation data from an occultation on 29 may 1978 and another one separated from pallas by 750 kilometers and 175 kilometers in diameter itself was suggested in 1980 but later shown incorrect in 1983 occultation observations considering the level at which pallas has been studied and observed since it was discovered it is unlikely that there are any large moons orbiting pallas
+
+
+ exploration 
+pallas has not been visited by spacecraft and there are no plans for exploration of pallas by spacecraft a flyby after the dawn probes visits to 4 vesta and 1 ceres was discussed but was not possible
+
+
+ see also 
+
+objects formerly considered planets
+pallas in fiction
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+pallas at encyclopædia britannica edward f tedesco
+mona gable study of first high-resolution images of pallas confirms asteroid is actually a protoplanet university of california los angeles ucla archived from the original on 15 october 2009 retrieved 20 october 2009
+jonathan amos 11 october 2009 pallas is peter pan space rock bbc archived from the original on 19 july 2010 retrieved 19 august 2010
+2 pallas jpl small-body database browser retrieved 29 march 2007
+dunn tony 2006 ceres pallas vesta and hygeia gravitysimulatorcom archived from the original on 13 march 2007 retrieved 15 march 2007
+hilton james l 1 april 1999 us naval observatory ephemerides of the largest asteroids us naval observatory retrieved 14 march 2007
+tedesco edward f noah paul v noah meg price stephan d 2002 the supplemental iras minor planet survey the astronomical journal 123 2 1056–1085 bibcode2002aj123.1056t doi10.1086/338320
+2 pallas at astdys-2 asteroids—dynamic site
+ephemeris · observation prediction · orbital info · proper elements · observational info
+2 pallas at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

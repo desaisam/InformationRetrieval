@@ -1,0 +1,49 @@
+the exploration of saturn has been solely performed by crewless probes three missions were flybys which formed an extended foundation of knowledge about the system the cassini–huygens spacecraft launched in 1997 was in orbit from 2004 to 2017
+
+
+ flybys 
+
+
+ pioneer 11 flyby 
+
+saturn was first visited by pioneer 11 in september 1979 it flew within 20,000 km of the top of the planets cloud layer low-resolution images were acquired of the planet and a few of its moons the resolution of the images was not good enough to discern surface features the spacecraft also studied the rings among the discoveries were the thin f-ring and the fact that dark gaps in the rings are bright when viewed towards the sun or in other words they are not empty of material pioneer 11 also measured the temperature of titan at 250 k
+
+
+ voyager 
+
+in november 1980 the voyager 1 probe visited the saturn system it sent back the first high-resolution images of the planet rings and satellites surface features of various moons were seen for the first time because of the earlier discovery of a thick atmosphere on titan the voyager controllers at the jet propulsion laboratory elected for voyager 1 to make a close approach of titan this greatly increased knowledge of the atmosphere of the moon but also proved that titans atmosphere is impenetrable in visible wavelengths so no surface details were seen the flyby also changed the spacecrafts trajectory out from the plane of the solar system which prevented voyager 1 from completing the planetary grand tour of uranus neptune and pluto
+almost a year later in august 1981 voyager 2 continued the study of the saturn system more close-up images of saturns moons were acquired as well as evidence of changes in the rings voyager 2 probed saturns upper atmosphere with its radar to measure temperature and density profiles voyager 2 found that at the highest levels 7 kilopascals pressure saturns temperature was 70 k −203 °c ie 70 degrees above absolute zero while at the deepest levels measured 120 kilopascals the temperature increased to 143 k −130 °c the north pole was found to be 10 k cooler although this may be seasonal unfortunately during the flyby the probes turnable camera platform stuck for a couple of days and some planned imaging was lost saturns gravity was used to direct the spacecrafts trajectory towards uranus
+the probes discovered and confirmed several new satellites orbiting near or within the planets rings they also discovered the small maxwell and keeler gaps in the rings
+
+
+ cassini orbiter 
+
+on july 1 2004 the cassini–huygens spacecraft performed the soi saturn orbit insertion maneuver and entered into orbit around saturn before the soi cassini had already studied the system extensively in june 2004 it had conducted a close flyby of phoebe sending back high-resolution images and data
+the orbiter completed two titan flybys before releasing the huygens probe on december 25 2004 huygens descended onto the surface of titan on january 14 2005 sending a flood of data during the atmospheric descent and after the landing during 2005 cassini conducted multiple flybys of titan and icy satellites
+on march 10 2006 nasa reported that the cassini probe found evidence of liquid water reservoirs that erupt in geysers on saturns moon enceladuson september 20 2006 a cassini probe photograph revealed a previously undiscovered planetary ring outside the brighter main rings of saturn and inside the g and e ringsin july 2006 cassini saw the first proof of hydrocarbon lakes near titans north pole which was confirmed in january 2007 in march 2007 additional images near titans north pole discovered hydrocarbon seas the largest of which is almost the size of the caspian sea
+in 2009 the probe discovered and confirmed four new satellites its primary mission ended in 2008 when the spacecraft completed 74 orbits around the planet in 2010 the probe began its first extended mission the cassini equinox mission the cassini solstice mission the second mission extension lasted through september 2017 the mission ended on september 15 2017 after a planned atmospheric entry into the planet saturn
+for the latest information and news releases see cassini website
+
+
+ proposed missions 
+
+the titan saturn system mission tssm was a joint nasaesa proposal for an exploration of saturn and its moons titan and enceladus where many complex phenomena have been revealed by the recent cassini–huygens mission tssm was competing against the europa jupiter system mission proposal for funding in february 2009 it was announced that esanasa had given the ejsm mission priority ahead of tssm although tssm will continue to be studied for a later launch date the titan saturn system mission tssm was created by the merging of the esas titan and enceladus mission tandem with nasas titan explorer 2007 flagship study
+other proposed missions to the saturn system are
+
+2010 jpl journey to enceladus and titan jet
+2011 titan mare explorer time an aquatic lander that would explore the methane lakes of the moon titan  this mission was given us3 million in may 2011 to develop a detailed concept study as a part of the nasa discovery program
+2012 dlr enceladus explorer enex a lander with an ice mole
+2012 jpl life investigation for enceladus life a sample-return
+2015 jpl enceladus life finder elf
+
+
+ references 
+
+
+ further reading 
+hannu karttunen  et al 1996 fundamental astronomy 3rd ed new york springer isbn 978-3-540-60936-0 retrieved february 21 2012
+nasajpl–caltech october 18 2010 voyager science results saturn voyagerjplnasagov retrieved february 21 2012
+
+
+ external links 
+nasas cassini mission to saturn

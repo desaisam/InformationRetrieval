@@ -1,0 +1,150 @@
+a reusable launch system rls or reusable launch vehicle rlv is a space launch system intended to allow for recovery of all or part of the system for later reuse to date several fully reusable sub-orbital systems and partially reusable orbital systems have been flown however the design issues are extremely challenging and no fully reusable orbital launch system has yet been demonstrated a wide variety of system concepts have been proposed and several are represented in those which have actually flown
+the first aircraft to attain sub-orbital flight was the north american x-15  the first reusable vehicle to reach orbit was nasas space shuttle  it was intended to reduce launch costs below those of expendable launch systems but instead ended up being more expensive  the last shuttle was retired in 2011
+during the 21st century commercial interest in reusable launch systems has grown the spacex falcon 9 rocket has a reusable first stage and expendable second stage and is currently in use for the nasa commercial orbital transportation services program and commercial satellite launches additionally spacex is developing the fully reusable bfr for manned interplanetary missions scaled composites have flown two prototype sub-orbital spaceplanes for virgin galactic while the blue origin new shepard rocket has recoverable first and second stages but is only capable of suborbital flights
+
+
+ vehicle configurations 
+
+
+ single stage 
+there are two approaches to single stage to orbit or ssto  the rocket equation says that an ssto vehicle needs a high mass ratio  mass ratio is defined as the mass of the fully fueled vehicle divided by the mass of the vehicle when empty zero fuel weight zfw
+one way to increase the mass ratio is to reduce the mass of the empty vehicle by using very lightweight structures and high-efficiency engines  this tends to push up maintenance costs as component reliability can be impaired and makes reuse more expensive to achieve
+another is to reduce the weight of oxidant carried by burning the fuel in air during the atmospheric stage of flight a dual-cycle powerplant such as a liquid air cycle engine or the proposed sabre engine is used
+the margins are so small with the ssto approach that there is uncertainty whether such a vehicle could carry any payload into orbit
+
+
+ multiple stages 
+two stage to orbit uses two vehicles joined together at launch usually the second-stage orbiter is 5-10 times smaller than the first-stage launcher although in biamese and triamese configurations both vehicles are the same size
+besides the cost of developing two independent vehicles the complexity of the interactions between them both as a unit and when separating must also be evaluated
+in addition the first stage needs to be returned to the launch site for it to be reused this is usually proposed to be done by flying a compromise trajectory that keeps the first stage above or close to the launch site at all times or by using small air-breathing engines to fly the vehicle back or by recovering the first stage down range and returning it some other way often landing in the sea and returning it by ship most techniques involve some performance penalty these can require the first stage to be several times larger for the same payload although for recovery from downrange these penalties may be small
+the second stage is normally returned after flying one or more orbits and reentering
+this is also called a combination launch system
+
+
+ clustering 
+in a cluster system multiple stages are stacked side by side and typically burn in parallel but only one is the orbiter as the orbiter burns fuel crossfeeds from the tanks of the booster stages may be used to keep it topped up once a booster runs dry it separates and typically glides back to a safe landing for re-usealthough not fully re-usable the space shuttle used a similar crossfeed between the main external tank and the shuttle orbiter
+the fully reusable bac mustard project included an engine in each of its near-identical modules allowing its shut-down engines to be discarded along with the empty tankage where the shuttle had the penalty of carrying its shut-down engines into orbit a criticism of this approach is that designing separate orbiter and boosters or a single vehicle that could do both would compromise performance safety and possible cost savings compromising maximum performance to reduce cargo cost however is the point of the clustering approach stacking two or three winged vehicles can also be challenging
+
+
+ launch 
+all orbital vehicles to date have been launched vertically  rockets are good for this regime because they have a very high thrustweight ratio 100
+non-rocket spacelaunch systems provide a theoretical increase in efficiency since rocket delta-v has a non linear relationship to mass fraction due to the rocket equation any small reduction in delta-v gives a relatively large reduction in the required mass fraction and starting a mission at higher altitude also helps
+a vehicle which takes off or separates from the previous stage horizontally needs wings  a wet wing might be used where the wing contains propellant  wings may be about 9-12% of the vehicle takeoff weight
+rockets air launched from aircraft may be considered to be at least partially reusable because the launch aircraft is reusable  an example of this configuration is the orbital sciences pegasus system
+the scaled composites tier one combination of spaceshipone and white knight one used wings on both the launch aircraft and the sub-orbital second stage
+other proposed launch assists include high-altitude balloons such as the zero2infinity  bloostar more speculative technologies include ground-based sleds maglev systems high-altitude 80 km maglev systems such as launch loops and more exotic systems such as tether propulsion systems to catch the vehicle at high altitude or even space elevators
+
+
+ landing 
+
+every component vehicle of a reusable system must be able to land safely
+horizontal landers require wings and undercarriage unless landing at sea this typically requires about 9-12% of the landing vehicle to be wings which in turn implies that the takeoff weight is higher andor the payload smaller concepts such as lifting bodies attempt to deal with the somewhat conflicting issues of reentry hypersonic and subsonic flight as does the delta wing shape of the space shuttle
+
+a variety of systems are proposed for vertical landers parachutes may be augmented with small landing rockets as with soyuz mcdonnell douglas dc-x ascended to an altitude of about 3.1 kilometers before returning safely alternatively rockets could be used to fully decelerate and soft land the vehicle on the ground after the subsonic speeds had been reached at low altitude see dc-x this typically requires about 10% of the vehicles landing weight to be propellant spacexs falcon 9 rocket became the first orbital rocket to vertically land its first stage on the ground after propelling its second stage and payload to a suborbital trajectory where it would continue on to orbit a different approach to vertical landing is to use an autogyro or helicopter rotor this requires perhaps 2-3% of the landing weight for the rotor
+
+
+ airbreathing engines 
+airbreathing approaches use the air during ascent for propulsion the most commonly proposed approach is the scramjet but turborocket liquid air cycle engine lace and precooled jet engines have also been proposed such as the sabre engine
+in all cases the highest speed that an air-breathing engine can reach is far short of orbital speed about mach 15 for scramjets and mach 5-6 for the other engine designs and rockets would be used for the remaining 10-20 mach required for orbit
+the thermal situation for airbreathers particularly scramjets can be awkward normal rockets fly steep initial trajectories to avoid drag whereas scramjets would deliberately fly through the relatively thick atmosphere at high speed generating enormous heating of the airframe the thermal situation for the other airbreathing approaches is much more benign although is not without its challenges
+
+
+ design issues 
+
+
+ weight 
+any rlv is degrading the launchers performance compared to elv due to additional stage inert mass this additional mass is almost unavoidable due to either supplementary mechanical or propulsion systems or surplus propellant needed for the safe return of rlv stages the actual amount of the mass penalty and its dispersal between structure and propellant is depending on the chosen rlv stage return modes and staging velocity
+
+
+ reentry heat shielding 
+
+robert zubrin has said that as a rough rule of thumb 15% of the landed weight of a vehicle needs to be aerobraking reentry shieldingreentry heat shields on these vehicles are often proposed to be some sort of ceramic andor carbon-carbon heat shields or occasionally metallic heat shields possibly using water cooling or some sort of relatively exotic rare earth metal
+ablative heat shields offer light weight but are not reusable
+a newer thermal protection system tps technology was first developed for use in steering fins on icbm mirvs  given the need for such warheads to reenter the atmosphere swiftly and retain hypersonic velocities to sea level researchers developed what are known as sharp materials typically hafnium diboride and zirconium diboride whose thermal tolerance exceeds 3600 c sharp equipped vehicles can fly at mach 11 at 30 km altitude and mach 7 at sea level  the sharp-edged geometries permitted with these materials also eliminates plasma shock wave interference in radio communications during reentry  sharp materials are very robust and would not require constant maintenance as did the silica tiles used on the space shuttle which accounted for over half of that vehicles maintenance costs and turnaround time  the maintenance savings are thus a major factor in favor of using these materials for a reusable launch vehicle
+
+
+ development cost 
+the research  development costs of reusable vehicle are expected to be higher because making a vehicle reusable implies making it robust enough to survive more than one use which adds to the testing required increasing robustness is most easily done by adding weight but this reduces performance and puts further pressure on the rd to recoup this in some other way
+these extra costs must be recouped and this pushes up the average cost of the vehicle
+
+
+ maintenance 
+reusable launch systems require maintenance which is often substantial the space shuttle system required extensive refurbishing between flights primarily dealing with the silica tile tps and the high performance lh2lox burning main engines both systems require a significant amount of detailed inspection rebuilding and parts replacement between flights and account for over 75% of the maintenance costs of the shuttle system these costs far in excess of what had been anticipated when the system was constructed have cut the maximum flight rate of shuttle to 1/4 of that planned this has also quadrupled the cost per pound of payload to orbit making shuttle economically infeasible in todays launch market for any but the largest payloads for which there is no competition
+for any rlv technology to be successful it must learn from the failings of shuttle and overcome those failings with new technologies in the tps and propulsion areas
+
+
+ manpower and logistics 
+the space shuttle program required a standing army of over 9,000 employees to maintain refurbish and relaunch the shuttle fleet irrespective of flight rates that manpower budget must be divided by the total number of flights per year the fewer flights means the cost per flight goes up significantly streamlining the manpower requirements of any launch system is an essential part of making an rlv economical projects that have attempted to develop this ethic include the dc-x delta clipper project as well as spacexs falcon 9 and falcon 1 programs
+one issue mitigating against this drive for labor savings is government regulation given that nasa and usaf as well as government programs in other countries are the primary customers and sources of development capital government regulatory requirements for oversight parwork quality safety and other documentation tend to inflate the operational costs of any such system
+
+
+ history 
+
+with the invention of rocket propulsion in the first half of the twentieth century space travel in the void beyond the atmosphere became a technical possibility
+early ideas of a single-stage reusable spaceplane proved unrealistic and although the first practical rocket vehicles such as the v-2 weapon of wwii could reach the fringes of space re-usable technology was too heavy and the rockets were expendable the problem of mass efficiency could be overcome using multiple stages and both vertical-launch multistage rockets and horizontal-launch composite spaceplanes were proposed however the first re-usable stages did not appear until the advent of the us space shuttle in 1981
+
+
+ early studies 
+during wwii the german eugen sänger proposed the silbervogel silverbird suborbital skip bomber htol vehicles which can reach orbital velocity are harder to design than vtol due to their higher vehicle structural weight this led to several multi-stage prototypes such as a suborbital x-15 aerospaceplane being one of the first htol ssto concepts proposals have been made to make such a vehicle more viable including
+
+rail boost eg 270 ms at 3000 m on a mountain allowing 35% less ssto takeoff mass for a given payload in one nasa study
+use of lifting body designs to reduce vehicle structural mass
+use of in-flight refuelingduring the 1960s the partially reusable multi-stage nexus launcher was studied by krafft arnold ehricke philip bono worked at douglas proposed several vtol ssto launch vehicles including roost rombus ithacus pegasus and sassto most of his vehicles combined similar innovations to achieve ssto capability bono proposed
+
+plug nozzle engines to retain high specific impulse at all altitudes
+base first re-entry which allowed the reuse of the engine as a heat shield lowering required heat shield mass
+use of spherical tanks and stubby shape to reduce vehicle structural mass further
+use of drop tanks to increase range
+use of in-orbit refueling to increase rangebono also proposed the use of his vehicles for space launch rapid intercontinental military transport ithacus rapid intercontinental civilian transport pegasus even moon and mars missions project selena project deimos
+in europe dietrich koelle inspired by bonos sassto design proposed his own vtvl vehicle named beta
+other launch system configuration designs are possible such as horizontal launch with vertical landing htvl and vertical launch with horizontal landing vthl one of the few htvl vehicles is the 1960s concept spacecraft hyperion ssto designed by philip bonox-20 dyna-soar is an early example of a vthl design
+while the hl-20 and x-34 are examples from the 1990s
+as of  february 2010 the vthl x-37 has completed initial development and flown an initial classified orbital mission of over seven months duration
+currently proposed vthl manned spaceplanes include the dream chaser and prometheus both circa 2010 concept spaceplanes proposed to nasa under the ccdev program
+
+
+ the space shuttle era 
+the late 1960s saw the start of the space shuttle design process from an initial multitude of ideas a two-stage reusable vthl design was pushed forward that eventually resulted in a reusable orbiter payload spacecraft and reusable solid rocket boosters the external tank and its load frame were discarded and the parts that were reusable took a 10,000-person group nine months to refurbish for flight early studies from 1980 and 1982 proposed in-space uses for the tank but nasa never pursued those options beyond the proposal stage
+during the 1970s further vtol and htol ssto designs were proposed for solar power satellite and military applications there was a vtol ssto study by boeing hthl ssto designs included the rockwell star-raker and the boeing hthl ssto study however the focus of all space launch funding in the united states on the shuttle killed off these prospects the soviet union followed suit with buran others preferred expendables for their lower design risk and lower design cost
+eventually the shuttle was found to be even more expensive to operate than an expendable launch system
+the cancellation of a shuttle-centaur rocket after the loss of challenger also caused a hiatus and the united states military scrambled back towards expendables to launch their payloads many commercial satellite customers had already switched to expendables due to the lack of response to customer concerns by the shuttle launch system
+in 1986 president ronald reagan called for an air-breathing scramjet plane to be built by the year 2000 called naspx-30 that would be capable of ssto based on the research from project copper canyon the project failed due to severe technical issues and was canceled in 1993
+this research may have inspired the british hotol program which rather than air breathing up to high hypersonic speeds as with nasp proposed to use a pre-cooler up to mach 5.5 the programs funding was canceled by the british government when the research identified some technical risks and indicated the proposed vehicle architecture would only be able to deliver a relatively small payload to orbit
+when the soviet union collapsed in the early nineties the cost of buran became untenable russia has only used pure expendables for space launch since
+interest in developing new reusable vehicles arose during the 1990s the military strategic defense initiative star wars program brilliant pebbles required low cost rapid turnaround launches from this requirement came the mcdonnell douglas delta clipper vtol ssto proposal the dc-x prototype for delta clipper demonstrated rapid turnaround time and that automatic computer control of such a vehicle was possible it also demonstrated that a reusable space launch vehicle need not require a large standing army to maintain like the shuttle
+in mid-1990 further british research and major re-engineering to avoid deficiencies of the hotol design led to the far more promising skylon design with a much greater payload
+from the commercial side large satellite constellations such as iridium satellite constellation were proposed which also demanded low-cost launches this fueled a private launch industry including partially reusable vehicle players such as rocketplane kistler and reusable vehicle players such as rotary rocket
+the end of that decade saw the implosion of the satellite constellation market with the bankruptcy of iridium in turn the nascent private launch industry collapsed the fall of the soviet union eventually had political ripples which led to a scaling down of ballistic missile defense including the demise of the brilliant pebbles program the military decided to replace their aging expendable launcher workhorses evolved from ballistic missile technology with the eelv program nasa proposed riskier reusable concepts to replace the shuttle technology to be demonstrated under the x-33 and x-34 programs
+in the early 2000s rising costs and teething problems led to the cancellation of both x-33 and x-34 and the 2003 space shuttle columbia disaster caused another grounding of the fleet the shuttle design was now over 20 years old and in need of replacement meanwhile the military eelv program churned out a new generation of better expendables the commercial satellite market was depressed due to a glut of cheap expendable rockets and a dearth of satellite payloads the space shuttle retired in 2011
+
+
+ 21st century 
+against this backdrop came the ansari x prize contest inspired by the aviation contests made in the early 20th century  many private companies competed the winner being scaled composites with their reusable hthl spaceshipone  it won the ten million dollars by reaching the kármán line twice in a two-week period  while spaceshipone is suborbital like the x-15 some hope the private sector can eventually develop reusable orbital vehicles given enough incentive spacex is a recent player in the private launch market succeeding in converting its falcon 9 expendable launch vehicle into a partially reusable vehicle by returning the first stage for reuse
+in 2012 spacex had started a flight test program with experimental vehicles grasshopper and f9r dev1 these subsequently led to the development of the falcon 9 re-usable rocket launcheron 23 november 2015 the blue origin new shepard rocket became the first vertical take-offlanding vtol rocket to reach space by passing the kármán line 100 kilometres reaching 329,839 feet 100.5 kilometers before returning to a parachute landingspacex achieved the first vertical soft landing of a re-usable rocket stage on december 21 2015 after helping send 11 orbcomm og-2 commercial satellites into low earth orbita refurbished booster was successfully re-used on march 30 2017 and recovered by landing on an autonomous spaceport drone ship asds spacex now routinely recovers and reuses their first stages both on land and using the asds at sea
+as of  march 2019 the only operational orbital reusable module is the spacex falcon 9 core booster which forms the first stage of the falcon 9 and also propels the falcon heavy three-core version
+spacex is also developing a fully and more rapidly reusable launch system the bfr the 9-meter 30 ft core diameter system is intended to replace both falcon 9 and falcon heavy launch vehicles as well as the dragon spacecraft initially aiming at the earth-orbit launch market but explicitly adding substantial capability to support long-duration spaceflight in the cislunar and mars mission environments
+
+
+ list of reusable launch systems 
+
+
+ regulation 
+in 2006 the us federal aviation administration issued a new regulation regarding commercial reusable launch vehicles both suborbital and orbital as part 431  the text can be found under the us federal code at 14 cfr part 431  the new regulation was made in anticipation of planned commercial reusable launch operations including the american companies listed above  faa regulations only have jurisdiction within the united states and its territories and to aircraft and spacecraft registered in the united states
+
+
+ see also 
+non-rocket spacelaunch
+rocket sled launch
+list of private spaceflight companies
+
+
+ references 
+
+
+ bibliography 
+heribert kuczera et al reusable space transportation systems springer berlin 2011 isbn 978-3-540-89180-2
+
+
+ external links 
+skyhooks and space elevators
+illustration of a space shuttle at takeoff and orbiter visual dictionary - qainternational

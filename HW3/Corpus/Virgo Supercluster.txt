@@ -1,0 +1,59 @@
+the virgo supercluster virgo sc or the local supercluster lsc or ls is a mass concentration of galaxies containing  the virgo cluster and local group which in turn contains the milky way and andromeda galaxies at least 100 galaxy groups and clusters are located within its diameter of 33 megaparsecs 110 million light-years the virgo sc is one of about 10 million superclusters in the observable universe and is in the pisces–cetus supercluster complex a galaxy filament
+a 2014 study indicates that the virgo supercluster is only a lobe of an even greater supercluster laniakea a larger competing referent of local supercluster centered on the great attractor
+
+
+ background 
+beginning with the first large sample of nebulae published by william and john herschel in 1863 it was known that there is a marked excess of nebular fields in the constellation virgo near the north galactic pole in the 1950s french–american astronomer gérard henri de vaucouleurs was the first to argue that this excess represented a large-scale galaxy-like structure coining the term local supergalaxy in 1953 which he changed to local supercluster lsc in 1958 harlow shapley in his 1959 book of stars and men suggested the term metagalaxy debate went on during the 1960s and 1970s as to whether the local supercluster ls was actually a structure or a chance alignment of galaxies
+the issue was resolved with the large redshift surveys of the late 1970s and early 1980s which convincingly showed the flattened concentration of galaxies along the supergalactic plane
+
+
+ structure 
+in a comprehensive 1982 paper r brent tully presented the conclusions of his research concerning the basic structure of the ls it consists of two components an appreciably flattened disk containing two-thirds of the superclusters luminous galaxies and a roughly spherical halo containing the remaining one-third
+the disk itself is a thin 1 mpc ellipsoid with a long axis  short axis ratio of at least 6 to 1 and possibly as high as 9 to 1
+data released in june 2003 from the 5-year two-degree-field galaxy redshift survey 2df has allowed astronomers to compare the ls to other superclusters the ls represents a typical poor that is lacking a high density core supercluster of rather small size it has one rich galaxy cluster in the center surrounded by filaments of galaxies and poor groups 
+the local group is located on the outskirts of the ls in a small filament extending from the fornax cluster to the virgo cluster the virgo superclusters volume is very approximately 7000 times that of the local group or 100 billion times that of the milky way see volumes of similar orders of magnitude
+
+
+ galaxy distribution 
+the number density of galaxies in the ls falls off with the square of the distance from its center near the virgo cluster suggesting that this cluster is not randomly located overall the vast majority of the luminous galaxies less than absolute magnitude −13 are concentrated in a small number of clouds groups of galaxy clusters ninety-eight percent can be found in the following 11 clouds given in decreasing order of number of luminous galaxies canes venatici virgo cluster virgo ii southern extension leo ii virgo iii crater ngc 3672 leo i leo minor ngc 2841 draco ngc 5907 antlia ngc 2997 and ngc 5643 of the luminous galaxies located in the disk one third are in the virgo cluster while the remainder are found in the canes venatici cloud and virgo ii cloud plus the somewhat insignificant ngc 5643 group the luminous galaxies in the halo are also concentrated in a small number of clouds 94% in 7 clouds this distribution indicates that most of the volume of the supergalactic plane is a great void a helpful analogy that matches the observed distribution is that of soap bubbles flattish clusters and superclusters are found at the intersection of bubbles which are large roughly spherical on the order of 20–60 mpc in diameter voids in space
+long filamentary structures seem to predominate an example of this is the hydra-centaurus supercluster the nearest supercluster to the ls which starts at a distance of roughly 30 mpc and extends to 60 mpc
+
+
+ cosmology 
+
+
+ large-scale dynamics 
+since the late 1980s it has been apparent that not only the local group but all matter out to a distance of at least 50 mpc is experiencing a bulk flow on the order of 600 kms in the direction of the  norma cluster abell 3627
+lynden-bell et al 1988 dubbed the cause of this the great attractor the great attractor is now understood to be the center of mass of an even larger structure of galaxy clusters dubbed laniakea which includes the virgo supercluster including the local group as well as the hydra-centaurus supercluster the pavo-indus supercluster and the fornax group
+
+
+ dark matter 
+the ls has a total mass m ≈ 1015 m☉ and a total optical luminosity l ≈ 3×1012 l☉ this yields a mass-to-light ratio of about 300 times that of the solar ratio m☉l☉  1 a figure that is consistent with results obtained for other superclusters
+by comparison the mass-to-light ratio for the milky way is 63.8 assuming a solar absolute magnitude of 4.83 a milky way absolute magnitude of −20.9
+and a milky way mass of 1.25×1012 m☉ these ratios are one of the main arguments in favor of the presence of large amounts of dark matter in the universe if dark matter did not exist a much smaller mass-to-light ratios would be expected
+
+
+ maps 
+
+
+ diagrams 
+
+
+ see also 
+
+abell catalogue
+large-scale structure of the universe
+list of abell clusters
+supercluster
+
+
+ references 
+
+
+ further reading 
+tully brent 1982 the local supercluster astrophys j 257 389–422 bibcode1982apj257389t doi10.1086/159999
+lynden-bell d  et al 1988 spectroscopy and photometry of elliptical galaxies v — galaxy streaming toward the new supergalactic center astrophysical journal 326 19–49 bibcode1988apj32619l doi10.1086/166066
+
+
+ external links 
+the atlas of the universe a website created by astrophysicist richard powell that shows maps of our local universe on a number of different scales similar to above maps

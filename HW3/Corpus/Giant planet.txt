@@ -1,0 +1,67 @@
+a giant planet is any massive planet they are usually primarily composed of low-boiling-point materials gases or ices rather than rock or other solid matter but massive solid planets can also exist there are four known giant planets in the solar system jupiter saturn uranus and neptune many extrasolar giant planets have been identified orbiting other stars
+giant planets are also sometimes called jovian planets after jupiter jove being another name for the roman god jupiter they are also sometimes known as gas giants however many astronomers now apply the latter term only to jupiter and saturn classifying uranus and neptune which have different compositions as ice giants both names are potentially misleading all of the giant planets consist primarily of fluids above their critical points where distinct gas and liquid phases do not exist the principal components are hydrogen and helium in the case of jupiter and saturn and water ammonia and methane in the case of uranus and neptune
+the defining differences between a very low-mass brown dwarf and a gas giant 13 mj are debated one school of thought is based on formation the other on the physics of the interior part of the debate concerns whether brown dwarfs must by definition have experienced nuclear fusion at some point in their history
+
+
+ terminology 
+the term gas giant was coined in 1952 by the science fiction writer james blish and was originally used to refer to all giant planets arguably it is something of a misnomer because throughout most of the volume of these planets the pressure is so high that matter is not in gaseous form other than solids in the core and the upper layers of the atmosphere all matter is above the critical point where there is no distinction between liquids and gases fluid planet would be a more accurate term jupiter also has metallic hydrogen near its center but much of its volume is hydrogen helium and traces of other gases above their critical points the observable atmospheres of all these planets at less than unit optical depth are quite thin compared to their radii only extending perhaps one percent of the way to the center thus the observable portions are gaseous in contrast to mars and earth which have gaseous atmospheres through which the crust can be seen
+the rather misleading term has caught on because planetary scientists typically use rock gas and ice as shorthands for classes of elements and compounds commonly found as planetary constituents irrespective of what phase the matter may appear in in the outer solar system hydrogen and helium are referred to as gases water methane and ammonia as ices and silicates and metals as rock when deep planetary interiors are considered it may not be far off to say that by ice astronomers mean oxygen and carbon by rock they mean silicon and by gas they mean hydrogen and helium the many ways in which uranus and neptune differ from jupiter and saturn have led some to use the term only for the planets similar to the latter two with this terminology in mind some astronomers have started referring to uranus and neptune as ice giants to indicate the predominance of the ices in fluid form in their interior compositionthe alternative term jovian planet refers to the roman god jupiter—the genitive form of which is jovis hence jovian—and was intended to indicate that all of these planets were similar to jupiter
+objects large enough to start deuterium fusion above 13 jupiter masses for solar composition are called brown dwarfs and these occupy the mass range between that of large giant planets and the lowest-mass stars the 13-jupiter-mass mj cutoff is a rule of thumb rather than something of precise physical significance larger objects will burn most of their deuterium and smaller ones will burn only a little and the 13 mj value is somewhere in between the amount of deuterium burnt depends not only on the mass but also on the composition of the planet especially on the amount of helium and deuterium present the extrasolar planets encyclopaedia includes objects up to 25 jupiter masses and the exoplanet data explorer up to 24 jupiter masses
+
+
+ description 
+
+a giant planet is a massive planet and has a thick atmosphere of hydrogen and helium they may have a dense molten core of rocky elements or the core may have completely dissolved and dispersed throughout the planet if the planet is hot enough in traditional giant planets such as jupiter and saturn the gas giants hydrogen and helium constitute most of the mass of the planet whereas they only make up an outer envelope on uranus and neptune which are instead mostly composed of water ammonia and methane and therefore increasingly referred to as ice giants
+extrasolar giant planets that orbit very close to their stars are the exoplanets that are easiest to detect these are called hot jupiters and hot neptunes because they have very high surface temperatures hot jupiters were until the advent of space-borne telescopes the most common form of exoplanet known due to the relative ease of detecting them with ground-based instruments
+giant planets are commonly said to lack solid surfaces but it is more accurate to say that they lack surfaces altogether since the gases that constitute them simply become thinner and thinner with increasing distance from the planets centers eventually becoming indistinguishable from the interplanetary medium therefore landing on a giant planet may or may not be possible depending on the size and composition of its core
+
+
+ subtypes 
+
+
+ gas giants 
+
+gas giants consist mostly of hydrogen and helium the solar systems gas giants jupiter and saturn have heavier elements making up between 3 and 13 percent of their mass gas giants are thought to consist of an outer layer of molecular hydrogen surrounding a layer of liquid metallic hydrogen with a probable molten core with a rocky composition
+jupiter and saturns outermost portion of the hydrogen atmosphere has many layers of visible clouds that are mostly composed of water and ammonia the layer of metallic hydrogen makes up the bulk of each planet and is referred to as metallic because the very high pressure turns hydrogen into an electrical conductor the core is thought to consist of heavier elements at such high temperatures 20,000 k and pressures that their properties are poorly understood
+
+
+ ice giants 
+
+ice giants have distinctly different interior compositions from gas giants the solar systems ice giants uranus and neptune have a hydrogen-rich atmosphere that extends from the cloud tops down to about 80% uranus or 85% neptune of their radius below this they are predominantly icy ie consist mostly of water methane and ammonia there is also some rock and gas but various proportions of ice–rock–gas could mimic pure ice so that the exact proportions are unknownuranus and neptune have very hazy atmospheric layers with small amounts of methane giving them aquamarine colors light blue and ultramarine respectively both have magnetic fields that are sharply inclined to their axes of rotation
+unlike the other giant planets uranus has an extreme tilt that causes its seasons to be severely pronounced the two planets also have other subtle but important differences uranus has more hydrogen and helium than neptune despite being less massive overall neptune is therefore denser and has much more internal heat and a more active atmosphere the nice model in fact suggests that neptune formed closer to the sun than uranus did and should therefore have more heavy elements
+
+
+ massive solid planets 
+massive solid planets can also exist for example kepler-10c is composed of mostly of rock with possibly up to 20% high-pressure water ice but does have a hydrogen-dominated envelope
+solid planets up to thousands of earth masses may be able to form around massive stars b-type and o-type stars 5–120 solar masses where the protoplanetary disk would contain enough heavy elements also these stars have high uv radiation and winds that could photoevaporate the gas in the disk leaving just the heavy elements
+for comparison neptunes mass equals 17 earth masses jupiter has 318 earth masses and the 13 jupiter-mass limit used in the iaus working definition of an exoplanet equals approximately 4000 earth masses
+
+
+ extrasolar giant planets 
+
+because of the limited techniques currently available to detect exoplanets many of those found to date have been of a size associated in the solar system with giant planets because these large planets are inferred to share more in common with jupiter than with the other giant planets some have claimed that jovian planet is a more accurate term for them many of the exoplanets are much closer to their parent stars and hence much hotter than the giant planets in the solar system making it possible that some of those planets are a type not observed in the solar system considering the relative abundances of the elements in the universe approximately 98% hydrogen and helium it would be surprising to find a predominantly rocky planet more massive than jupiter on the other hand models of planetary-system formation have suggested that giant planets would be inhibited from forming as close to their stars as many of the extrasolar giant planets have been observed to orbit
+
+
+ atmospheres 
+the bands seen in the atmosphere of jupiter are due to counter-circulating streams of material called zones and belts encircling the planet parallel to its equator the zones are the lighter bands and are at higher altitudes in the atmosphere they have an internal updraft and are high-pressure regions the belts are the darker bands are lower in the atmosphere and have an internal downdraft they are low-pressure regions these structures are somewhat analogous to the high and low-pressure cells in earths atmosphere but they have a very different structure—latitudinal bands that circle the entire planet as opposed to small confined cells of pressure this appears to be a result of the rapid rotation and underlying symmetry of the planet there are no oceans or landmasses to cause local heating and the rotation speed is much higher than that of earth
+there are smaller structures as well spots of different sizes and colors on jupiter the most noticeable of these features is the great red spot which has been present for at least 300 years these structures are huge storms some such spots are thunderheads as well
+
+
+ see also 
+
+planet nine
+
+
+ references 
+
+
+ bibliography 
+spacecom qa the iaus proposed planet definition 16 august 2006 200 am et
+bbc news qa new planets proposal wednesday 16 august 2006 1336 gmt 1436 uk
+
+
+ external links 
+spacecom qa the iaus proposed planet definition 16 august 2006 200 am et
+bbc news qa new planets proposal wednesday 16 august 2006 1336 gmt 1436 uk
+gas giants in science fiction 1
+episode giants on the science channel tv show planets

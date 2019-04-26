@@ -1,0 +1,49 @@
+the convention on registration of objects launched into outer space commonly known as the registration convention was adopted by the united nations general assembly in 1974 and went into force in 1976 as of december 2018 it has been ratified by 69 statesthe convention requires states to furnish to the united nations with details about the orbit of each space object  a registry of launchings was already being maintained by the united nations as a result of a general assembly resolution in 1962the registration convention and four other space law treaties are administered by the united nations committee on the peaceful uses of outer spacethe european space agency and european organization for the exploitation of meteorological satellites have submitted declarations of acceptance of rights and obligations according to the convention
+
+
+ current status 
+the register is kept by the united nations office for outer space affairs unoosa and includes
+name of launching state
+an appropriate designator of the space object or its registration number
+date and territory or location of launch
+basic orbital parameters nodal period inclination apogee and perigee
+general function of the space objectinformation on registered objects is available at the unoosa site
+
+
+ list of states parties 
+there are currently 69 states parties to the convention
+
+
+ signatories that are not parties 
+there are three states which have signed but not ratified the convention
+
+
+ organizations accepting the rights and obligations 
+several intergovernmental organizations which cannot be party to the convention have nonetheless notified the secretary-general of the united nations that they have accepted the rights and obligations of the convention
+
+
+ proposals 
+a general assembly resolution from december 2007 that was accepted by consensus recommended that the data should be extended to include
+coordinated universal time as the time reference for the date of launch
+kilometres minutes and degrees as the standard units for basic orbital parameters
+any useful information relating to the function of the space object in addition to the general function requested by the registration convention
+the geostationary orbit location if appropriate
+any change of status in operations eg when a space object is no longer functional
+the approximate date of decay or re-entry
+the date and physical conditions of moving a space object to a disposal orbit
+web links to official information on space objects
+
+
+ background 
+as of  2008 more than 200 dead satellites littered the part of space near geostationary orbit within 10 years that number could increase fivefold warns a report by the un the resulting chaos could lead to serious damage or loss of a spacecraft
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+unoosa webpage for the convention
+1 at depositary

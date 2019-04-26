@@ -1,0 +1,164 @@
+air force space command afspc is a major command of the united states air force with its headquarters at peterson air force base colorado afspc supports us military operations worldwide through the use of many different types of space operations operationally afspc is an air force major command subordinate to us strategic command usstratcom a unified combatant command as of  2019 it is the primary space force for the us armed forces
+more than 38,000 people perform afspc missions at 88 locations worldwide they include military personnel of the regular air force air force reserve and air national guard department of the air force civilians dafc and civilian military contractors composition consists of approximately 22,000 military personnel and 9,000 civilian employees although their missions overlap
+on 1 december 2009 the strategic nuclear intercontinental ballistic missile icbm mission that afspc inherited from air combat command acc in 1993 and which acc had inherited following the inactivation of strategic air command in 1992 was transferred to the newly established air force global strike command afgsc
+
+
+ mission 
+according to afspc its mission is to provide resilient and affordable space capabilities for the joint force and the nationafspcs primary mission areas are
+
+space forces support involving the launching of satellites and other high-value payloads into space using a variety of expendable launch vehicles and operating those satellites once in space
+space control ensuring the friendly use of space through the conduct of counterspace operations encompassing surveillance negation protection and space intelligence analysis
+force enhancement providing satellite-based weather communications intelligence missile warning and navigation force enhancement is direct support to the warfighter
+
+
+ history 
+during the cold war space operations focused on missile warning and associated command and control for the national command authority nca
+missile warning operations from the former aerospace defense command adc that had been assumed by tactical air command tac in the late 1970s and space and spaceliftspace launch operations that had been resident in the air force systems command afsc were combined to form a new air force major command majcom in 1982 known as space command following the creation of united states space command usspacecom as a unified combatant command in 1985 space command was renamed air force space command afspc and assigned to usspacecom as its usaf component command
+in 1991 operation desert storm provided emphasis for afpscs new focus on support to the warfighter icbm forces previously assigned to the inactivated strategic air command sac were merged into afspc in 1993 until moved into air force global strike command afgsc in 2009 in august 2009 air force space command became the lead majcom for all air force cyberspace operations with the stand-up of 24th air force gaining air force cyber operations and combat communications units the air force network integration center and the air force spectrum management office formerly known as the air force frequency management agency on 1 april 2013 air force space command announced that the space innovation and development centers missions had been realigned under headquarters air force space command and the air force warfare center of the air combat command accthe space command was the subject of a 60 minutes news segment on cbs in april 2015  when speaking with 60 minutes reporter david martin commanding general john e hyten was not able to respond to many of the questions claiming the information was classified but that the program was doing its part in keeping the global world of gps satellites and other important global satellite usage peaceful  to ensure satellite safety general hyten confirmed the belief that other countries were developing anti-satellite technology but that the space command program was developing technologies of their own including telescopic lasers to better track the paths of satellites  reporter david martin also asked about the new boeing x-37 spaceplane the us air force had been testing general hyten confirmed that it could bring satellites into orbit and bring them back and that the us air force would do everything they could to protect the country and its satellites from the danger posed by anti-satellite technology from china and russia in the futurein 2016 space command began their space mission force concept of operations to respond quickly to attacks in space each space wing undergoes special training then serves a four to six-month rotation
+
+
+ launch service agreements 
+in 2016 the us congress authorized the air force to  sign deals with the space industry to co-finance the development of new rocket propulsion systems the program known as the launch service agreement lsa fits the air force’s broader goal to get out of the business of buying rockets and instead acquire end-to-end services from companies the air force signed cost-sharing partnerships with launch vehicle company ula launch vehicle and rocket engine manufacturers spacex and orbital atk and with rocket engine supplier aerojet rocketdyne the original request for proposals noted the air force wants to leverage commercial launch solutions in order to have at least two domestic commercial launch service providers as of  march 2018 the air force intended to select three companies by mid-year 2018 so that the space and missile systems center could contract for launch system prototypes
+
+
+ 2018 
+on july 17 2018 24th air force along with the cyber mission was moved from air force space command to air combat command
+
+
+ list of commanders 
+
+
+ organization 
+
+
+ numbered air forces 
+air force space command has one active numbered air force naf
+
+
+ fourteenth air force 
+
+the fourteenth air force 14 af provides space warfighting forces to us strategic command in its capacity as air forces strategic-space and is located at vandenberg afb california it is responsible for space launch  space lift of payloads from facilities in california and florida and manages the generation and employment of space forces to support us strategic command and north american aerospace defense command norad operational plans and missions
+
+
+ direct reporting units 
+afspc is the major command providing space forces for us strategic command afspc also supports norad with ballistic missile warning information operates the space warfare center to develop space applications for direct warfighter support and is responsible for the us department of defenses icbm follow-on operational test and evaluation program
+
+
+ space and missile systems center 
+
+the space and missile systems center smc at los angeles afb california designs and acquires all air force and most department of defense space systems it oversees launches completes on-orbit checkouts then turns systems over to user agencies it supports the program executive officer for space on the navstar global positioning defense satellite communications and milstar systems smc also supports the defense meteorological satellite program and the follow-on early warning system in addition it supports development and acquisition of land-based intercontinental ballistic missiles for the air force program executive office for strategic systems
+
+
+ locations 
+the afspc headquarters is a major unit located at peterson afb colorado there are six afspc host bases
+
+buckley afb colorado
+460th space wing
+233rd space group colorado air national guard
+los angeles afb california
+space and missile systems center
+global positioning systems directorate
+space superiority systems directorate
+launch systems directorate
+infrared space systems directorate
+defense weather systems directorate
+military satellite communications systems directorate
+space logistics directorate
+missile defense systems directorate
+space development and test directorate kirtland afb new mexico
+spacelift range and network systems division
+61st air base group
+61st civil engineering and logistics squadron
+61st medical squadron
+61st mission support squadron
+patrick afb and cape canaveral afs florida
+45th space wing
+114th space control squadron florida air national guard
+peterson afb colorado
+21st space wing
+821st air base group gsu at thule air base greenland
+20th space control squadron gsu at eglin afb site c-6 florida
+310th space wing afrc
+schriever afb colorado
+50th space wing
+space innovation and development center
+vandenberg afb california
+14th air force
+30th space wing
+148th space operations squadron california air national guardafspc also operates several air force stations for launch support and early warning missions
+
+cape cod air force station massachusetts
+6th space warning squadron
+cavalier afs north dakota
+10th space warning squadron
+cheyenne mountain afs colorado
+cheyenne mountain division
+clear air force station alaska
+13th space warning squadron
+213th space warning squadron alaska air national guard
+greeley air national guard station colorado
+137th space warning squadron colorado air national guard
+new boston afs new hampshire
+23d space operations squadron
+
+
+ space capabilities 
+spacelift operations including those at the east and west coast launch bases provide services facilities and range safety control for the conduct of dod nasa and other commercial launches through the command and control of all dod satellites satellite operators provide force-multiplying effects—continuous global coverage low vulnerability and autonomous operations satellites provide essential in-theater secure communications weather and navigational data for ground air and fleet operations and threat warning ground-based radar and defense support program satellites monitor ballistic missile launches around the world to guard against a surprise missile attack on north america space surveillance radars provide vital information on the location of satellites and space debris for the nation and the world
+general shelton has said that in order to protect against attacks space situational awareness is much more important than additional hardening or armoring of satellitesas of 2013 air force space command was considering space disaggregation which would involve replacing a few large multimission satellites with larger numbers of smaller single purpose platforms this could be used to defend against asats by increasing the number of targets that needed to be attacked
+
+
+ resources 
+
+
+ satellites 
+advanced extremely high frequency
+defense satellite communications system
+defense meteorological satellite program
+defense support program
+fleet satellite communications system uhf follow-on
+global positioning system
+milstar
+nato iii and iv communications
+space based space surveillance
+
+
+ launch vehicles 
+delta ii
+atlas v
+delta iv
+
+
+ space situational awareness 
+air force satellite control network
+maui optical tracking identification facility
+ground-based electro-optical deep space surveillance system
+passive space surveillance system
+rapid attack identification detection reporting system
+anfps-85 space track radar
+
+
+ ballistic missile warning radars 
+anfps-115 pave paws
+anfps-108 cobra dane
+anfpq-16 perimeter acquisition radar characterization system parcs
+sea-based x-band radar sea-based x-band radar
+ballistic missile early warning system bmews
+
+
+ see also 
+
+list of government space agencies
+united states space surveillance network
+united states space forcecomparable organizations
+united states army space and missile defense command
+naval network warfare command us navy
+
+
+ references 
+
+ this article incorporates public domain material from the air force historical research agency website httpwwwafhraafmil
+
+
+ external links 
+air force space command fact sheet air force space command august 2015 archived from the original on 3 march 2016
+air force space command fact sheet air force april 2003 archived from the original on 24 june 2003

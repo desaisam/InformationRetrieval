@@ -1,0 +1,50 @@
+nix is a natural satellite of pluto with a diameter of 49.8 km 30.9 mi across its longest dimension it was discovered along with plutos outermost moon hydra in june 2005 by the pluto companion search team it was named after nyx the greek goddess of the night nix is the third moon of pluto by distance orbiting between the moons styx and kerberosnix was imaged along with pluto and its other moons by the new horizons spacecraft as it flew by the pluto system in july 2015 images from the new horizons spacecraft reveal a large reddish area on nix that is likely an impact crater
+
+
+ discovery 
+
+nix was discovered by researchers of the pluto companion search team using the hubble space telescope the new horizons team had suspected that pluto and its moon charon might be accompanied with other moons hence they used the hubble space telescope to search for faint moons around pluto in 2005 since nixs brightness is about 5,000 times fainter than pluto long exposure images were taken in order to find itthe discovery images were taken on 15 may 2005 and 18 may 2005 nix and hydra were independently discovered by max j mutchler on 15 june 2005 and by andrew j steffl on 15 august 2005 the discoveries were announced on 31 october 2005 after confirmation by precovering archival hubble images of pluto from 2002 the two newly announced moons of pluto were subsequently provisionally designated s2005 p 1 for hydra and s2005 p 2 for nix the moons were informally referred to as p1 and p2 respectively by the discovery team
+
+
+ naming 
+
+the name nix was approved by the international astronomical union iau and was announced on 21 june 2006 along with the naming of hydra in the iau circular 8723 nix was named after nyx the greek goddess of darkness and night and mother of charon the ferryman of hades in greek mythology the two newly named moons were intentionally named that their order of their initials n and h honors the new horizons mission to pluto similarly to how the first two letters of plutos name honors percival lowell the original proposal for the naming of nix was to use the classical spelling nyx but to avoid confusion with the asteroid 3908 nyx the spelling was changed to nix the egyptian spelling of the namethe names of features on the bodies in the pluto system are related to mythology and the literature and history of exploration in particular the names of features on nix must be related to deities of the night from literature mythology and history
+
+
+ origin 
+plutos smaller moons including nix were thought to have formed from debris ejected from a massive collision between pluto and another kuiper belt object similarly to how the moon was thought to have formed from debris ejected by a large collision of earth the ejecta from the collision would then coalesce into the moons of pluto however the collisional hypothesis cannot explain how nix maintained its highly reflective surface
+
+
+ characteristics 
+
+
+ physical characteristics 
+nix has an elongated shape with its longest axis measured at 49.8 km 30.9 mi across and its shortest axis 31.1 km 19.3 mi across this gives nix the measured dimensions of 49.8 km × 33.2 km × 31.1 km 30.9 mi × 20.6 mi × 19.3 miearly research appeared to show that the surface of nix is reddish in color contrary to this other studies show that nix is spectrally neutral similar to the small moons of pluto the neutral spectrum of nix signifies that water ice is present on its surface nix also appeared to vary in brightness and albedo or reflectivity the brightness fluctuations were thought to be caused by areas with different albedos on the surface of nix images of nix from the new horizons spacecraft show a large reddish area approximately 18 km 11 mi across which could explain the two conflicting measurements of nixs surface colorthe reddish area is thought to be a large impact crater where the reddish material was ejected from underneath nixs water ice layer and deposited on its surface in this case nix would likely have regoliths originating from the impact another explanation suggests that the reddish material may have originated from a collision with nix and another object with a different composition however there were no significant color variations on other impact craters on nixthe water ice present on the surface of nix is responsible for its high reflectivity trace amounts of frozen methane may be also present on the surface of nix and could be responsible for the presence of reddish material likely tholins on its surface in this case tholins on the surface of nix may have originated from the reaction of methane with ultraviolet radiation from the sun derived from crater counting data from new horizons the age of nixs surface is estimated to be at least four billion years old
+
+
+ rotation 
+
+nix is not tidally locked and tumbles chaotically similarly to all smaller moons of pluto the moons axial tilt and rotation period vary greatly over short timescales due to the chaotic rotation of nix it can occasionally flip its entire rotational axis the varying gravitational influences of pluto and charon as they orbit their barycenter causes the chaotic tumbling of plutos small moons including nix the chaotic tumbling of nix is also strengthened by its elongated shape which creates torques that act on the object at the time of the new horizons flyby nix was rotating with a period of 43.9 hours retrograde to plutos equator with an axial tilt of 132 degrees —  it was rotating backwards in relation to its orbit around pluto the rotation rate of nix had increased by 10 percent since nix was discovered it was rotating faster since its discovery
+
+
+ orbit 
+
+nix orbits the pluto-charon barycenter at a distance of 48,694 km 30,257 mi between the orbits of styx and kerberos all of plutos moons including nix have very circular orbits that are coplanar to charons orbit the moons of pluto have very low orbital inclinations to plutos equator the nearly circular and coplanar orbits of plutos moons suggest that they may have gone through tidal evolutions since their formation at the time of the formation of plutos smaller moons nix may have had a more eccentric orbit around the pluto-charon barycenter the present circular orbit of nix may have been caused by charons tidal damping of the eccentricity of nixs orbit through tidal interactions the mutual tidal interactions of charon on nixs orbit would cause nix to transfer its orbital eccentricity to charon thus causing the orbit of nix to gradually become more circular over timenix has an orbital period of approximately 24.8546 days and its orbit is resonant with other moons of pluto nix is in a 32 orbital resonance with hydra and a 911 resonance with styx the ratios represent numbers of orbits completed per unit time the period ratios are the inverses as a result of this laplace-like 3-body resonance it has conjunctions with styx and hydra in a 23 ratio
+nixs orbital period is close to a 14 orbital resonance with charon with a timing discrepancy of 2.8 there is no active resonance a hypothesis explaining such a near-resonance is that the resonances originated before the outward migration of charon following the formation of all five known moons and is maintained by the periodic local fluctuation of 9 percent in the pluto–charon gravitational field strength
+
+
+ exploration 
+
+the new horizons spacecraft visited the pluto system and photographed pluto and its moons during its flyby on 14 july 2015 before the flyby of pluto in 13 july 2015 measurements of nixs size were performed by the long range reconnaissance imager on board new horizons estimating nix to be about 35 km 22 mi in diameter the first detailed images of nix taken by new horizons from a distance of about 231,000 km 144,000 mi were downlinked or received from the spacecraft on 18 july 2015 and released to the public on 21 july 2015 with an image resolution 3 km 1.9 mi per pixel nixs shape was often referred to as a jelly bean shape enhanced color images from the ralph mvic instrument of new horizons show a reddish region on its surface from those images another accurate measurement of nixs dimensions was made giving the approximate dimensions of 42 km × 36 km 26 mi × 22 miof plutos smaller moons only nix and hydra were imaged at resolutions high enough for surface features to be visible
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+background information regarding our two newly discovered satellites of pluto – the discoverers website
+nasas hubble reveals possible new moons around pluto – hubble press release
+nix in depth - nasa solar system exploration

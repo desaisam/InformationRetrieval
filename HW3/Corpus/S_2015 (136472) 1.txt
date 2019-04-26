@@ -1,0 +1,73 @@
+makemake minor-planet designation 136472 makemake is a dwarf planet and plutoid and perhaps the largest kuiper belt object in the classical population with a diameter approximately two-thirds that of pluto makemake has one known satellite s2015 136472 1 makemakes extremely low average temperature about 30 k −243.2 °c means its surface is covered with methane ethane and possibly nitrogen icesmakemake was discovered on march 31 2005 by a team led by michael e brown and announced on july 29 2005 initially it was known as 2005 fy9 and later given the minor-planet number 136472 makemake was recognized as a dwarf planet by the international astronomical union iau in july 2008 its name derives from makemake in the mythology of the rapa nui people of easter island
+
+
+ history 
+
+
+ discovery 
+makemake was discovered on march 31 2005 by a team at the palomar observatory led by michael e brown and was announced to the public on july 29 2005 the team had planned to delay announcing their discoveries of the bright objects makemake and eris until further observations and calculations were complete but announced them both on july 29 when the discovery of another large object they had been tracking haumea was controversially announced on july 27 by a different team in spaindespite its relative brightness it is about a fifth as bright as pluto makemake was not discovered until after many much fainter kuiper belt objects most searches for minor planets are conducted relatively close to the ecliptic the region of the sky that the sun moon and planets appear to lie in as seen from earth due to the greater likelihood of finding objects there it probably escaped detection during the earlier surveys due to its relatively high orbital inclination and the fact that it was at its farthest distance from the ecliptic at the time of its discovery in the northern constellation of coma berenicesprecovery images have been identified back to january 29 1955besides pluto makemake is the only other dwarf planet that was bright enough that clyde tombaugh could have detected it during his search for trans-neptunian planets around 1930 at the time of tombaughs survey makemake was only a few degrees from the ecliptic near the border of taurus and auriga at an apparent magnitude of 16.0 this position however was also very near the milky way and makemake would have been almost impossible to find against the dense background of stars tombaugh continued searching for some years after the discovery of pluto but he did not find makemake or any other trans-neptunian objects
+
+
+ name 
+the provisional designation 2005 fy9 was given to makemake when the discovery was made public before that the discovery team used the codename easterbunny for the object because of its discovery shortly after easterin july 2008 in accordance with iau rules for classical kuiper belt objects 2005 fy9 was given the name of a creator deity the name of makemake the creator of humanity and god of fertility in the myths of the rapa nui the native people of easter island was chosen in part to preserve the objects connection with easter
+
+
+ orbit and classification 
+
+as of  december 2015 makemake is 52.4 au 7.84×109 km from the sun almost as far from the sun as it ever reaches on its orbit makemake follows an orbit very similar to that of haumea highly inclined at 29° and a moderate eccentricity of about 0.16 nevertheless makemakes orbit is slightly farther from the sun in terms of both the semi-major axis and perihelion its orbital period is nearly 310 years more than plutos 248 years and haumeas 283 years both makemake and haumea are currently far from the ecliptic—the angular distance is almost 29° makemake is approaching its 2033 aphelion whereas haumea passed its aphelion in early 1992makemake is a classical kuiper belt object kbo which means its orbit lies far enough from neptune to remain stable over the age of the solar system unlike plutinos which can cross neptunes orbit due to their 23 resonance with the planet the classical objects have perihelia further from the sun free from neptunes perturbation such objects have relatively low eccentricities e below 0.2 and orbit the sun in much the same way the planets do makemake however is a member of the dynamically hot class of classical kbos meaning that it has a high inclination compared to others in its population makemake is probably coincidentally near the 116 resonance with neptune
+
+
+ physical characteristics 
+
+
+ brightness size and rotation 
+
+makemake is currently visually the second-brightest kuiper belt object after pluto having a march opposition apparent magnitude of 17.0 in the constellation coma berenices this is bright enough to be visible using a high-end amateur telescope
+combining the detection in infrared by the spitzer space telescope and herschel space telescope with the similarities of spectrum with pluto yielded an estimated diameter from 1,360 to 1,480 km from the 2011 stellar occultation by makemake its dimensions have been initially measured to be 1502 ± 45 × 1430 ± 9 km however this analysis of the occultation data was later reanalyzed which led to the dimension estimate of 143448−18 × 142018−24 km without a pole-orientation constraint this means that makemake is slightly larger than haumea making it likely the fourth-largest-known trans-neptunian object after pluto eris and 2007 or10 though the error bars with the latter overlap makemake was the fourth dwarf planet recognized because it has a bright v-band absolute magnitude of −0.44 makemake has a high geometrical albedo of 0.810.01−0.02the rotation period of makemake is estimated at 7.77 hours its lightcurve amplitude is small only 0.03 mag this was thought to be due to makemake currently being viewed pole on from earth however s2015 136472 1s orbital plane which is probably orbiting with little inclination relative to makemakes equator due to tides resulting from its rapid rotation is edge-on from earth implying that makemake is really being viewed equator-on
+
+
+ spectra and surface 
+like pluto makemake appears red in the visible spectrum and significantly redder than the surface of eris see colour comparison of tnos the near-infrared spectrum is marked by the presence of the broad methane ch4 absorption bands methane is observed also on pluto and eris but its spectral signature is much weakerspectral analysis of makemakes surface revealed that methane must be present in the form of large grains at least one centimetre in size in addition to methane large amounts of ethane and tholins as well as smaller amounts of ethylene acetylene and high-mass alkanes like propane may be present most likely created by photolysis of methane by solar radiation the tholins are probably responsible for the red color of the visible spectrum although evidence exists for the presence of nitrogen ice on its surface at least mixed with other ices there is nowhere near the same level of nitrogen as on pluto and triton where it composes more than 98 percent of the crust the relative lack of nitrogen ice suggests that its supply of nitrogen has somehow been depleted over the age of the solar systemthe far-infrared 24–70 μm and submillimeter 70–500 μm photometry performed by spitzer and herschel telescopes revealed that the surface of makemake is not homogeneous although the majority of it is covered by nitrogen and methane ices where the albedo ranges from 78 to 90 there are small patches of dark terrain whose albedo is only 2 to 12 and that make up 3 to 7% of the surface these studies were made before s2015 136472 1 was discovered thus these small dark patches may actually have been the dark surface of the satellite rather than any actual surface features on makemakehowever some experiments have refuted these studies spectroscopic studies collected from 2005 to 2008 using the william herschel telescope la palma spain were analyzed together with other spectra in the literature as of 2014 they show some degree of variation in the spectral slope which would be associated with different abundance of the complex organic materials byproduct of the irradiation of the ices present on the surface of makemake however the relative ratio of the two dominant icy species methane and nitrogen remains quite stable on the surface revealing a low degree of inhomogeneity in the ice component these results have been recently confirmed when the telescopio nazionale galileo acquired new visible and near infra-red spectra for makemake between 2006 and 2013 that covered nearly 80% of its surface this study found that the variation in the spectra were negligible suggesting that makemakes surface may indeed be homogenous
+
+
+ atmosphere 
+makemake was expected to have an atmosphere similar to that of pluto but with a lower surface pressure however on 23 april 2011 makemake passed in front of an 18th-magnitude star and abruptly blocked its light the results showed that makemake presently lacks a substantial atmosphere and placed an upper limit of 4–12 nanobar on the pressure at its surfacethe presence of methane and possibly nitrogen suggests that makemake could have a transient atmosphere similar to that of pluto near its perihelion nitrogen if present will be the dominant component of it the existence of an atmosphere also provides a natural explanation for the nitrogen depletion because the gravity of makemake is weaker than that of pluto eris and triton a large amount of nitrogen was probably lost via atmospheric escape methane is lighter than nitrogen but has significantly lower vapor pressure at temperatures prevalent at the surface of makemake 32–36 k which hinders its escape the result of this process is a higher relative abundance of methane however studies of plutos atmosphere by new horizons suggest that methane not nitrogen is the dominant escaping gas suggesting that the reasons for makemakes absence of nitrogen may be more complicated
+
+
+ satellite 
+s2015 136472 1 nicknamed mk 2 by the discovery team is the only known moon of makemake it is estimated to be 175 km 110 mi in diameter for an assumed albedo of 4 and has a semi-major axis at least 21,000 km 13,000 mi from makemake its orbital period is ≥ 12 days the minimum values are those for a circular orbit the actual orbital eccentricity is unknown observations leading to its discovery occurred in april 2015 using the hubble space telescopes wide field camera 3 and its discovery was announced on 26 april 2016most other large trans-neptunian objects have at least one known satellite eris has one haumea has two pluto has five and 2007 or10 has one satellite 10% to 20% of all trans-neptunian objects are expected to have one or more satellites because satellites offer a simple method to measure an objects mass makemakes satellite should lead to better estimates of its mass
+
+
+ observations 
+a preliminary examination of the imagery suggests that s2015 136472 1 has a reflectivity similar to charcoal making it an extremely dark object this is somewhat surprising because makemake is the second-brightest-known object in the kuiper belt one hypothesis to explain this is that its gravity is not strong enough to prevent bright but volatile ices from being lost to space when it is heated by the distant sunfurther observations will be needed in order to determine s2015 136472 1s orbit if it is circular it would suggest that s2015 136472 1 was formed by an ancient impact event but if it is elliptical it suggests that it may have been capturedalex parker the leader of the team that performed the analysis of the images at the southwest research institute said that s2015 136472 1s orbit appears to be aligned edge-on to earth-based observatories this would make it much more difficult to detect because it would be lost in makemakes glare much of the time which along with its dark surface would contribute to previous surveys failing to observe it
+
+
+ exploration 
+it was calculated that a flyby mission to makemake could take just over 16 years using a jupiter gravity assist based on a launch date of 21 august 2024 or 24 august 2036 makemake would be approximately 52 au from the sun when the spacecraft arrives
+
+
+ see also 
+
+astronomical naming conventions
+clearing the neighbourhood
+international astronomical union
+planets beyond neptune
+list of solar system objects most distant from the sun in 2015
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+mpec listing for makemake
+astdys orbital elements
+orbital simulation from jpl java  ephemeris
+press release from wht and tng on makemakes similarity to pluto
+makemake sky charts and coordinates
+precovery image with the 1.06 m kleť observatory telescope on april 20 2003
+makemake as seen on 2010-02-18 ut with the keck 1
+makemake of the outer solar system apod july 15 2008
+simulation of makemake 2005 fy9s orbit

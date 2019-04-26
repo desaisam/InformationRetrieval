@@ -1,0 +1,18 @@
+this is a list of unmanned spaceflights to mir components of the space station are indicated in green
+
+a 1 2 3 4 5 6 7  - time from docking until debris impact in the pacific ocean at approximately 0559 gmt on 23 march 2001
+b 1  - from time of launch
+c 1 2 3 4 5 6 7  - remained attached during deorbit of space station on 23 march 2001
+d 1 2 3  - decayed naturally
+
+
+ see also 
+mir
+list of progress flights
+list of human spaceflights to mir
+list of human spaceflights to the international space station
+list of unmanned spaceflights to the international space station
+list of mir spacewalks
+
+
+ references 

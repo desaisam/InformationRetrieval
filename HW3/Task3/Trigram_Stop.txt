@@ -1,0 +1,18 @@
+Cut off : 9 th most frequent Trigram.
+
+Why ? 
+Same reasoning used in choosing the stop words for previos two terms.
+The relative frequency drops drastically. THe difference between the frequency is in single digit after 9th word.
+Contents ofstop words ?
+Contains frequently used words like the,as,from,of.
+Also conatins nouns like united states, solar system. These are probaly because if the choice of the corpus from assignment 2 with the specified seed url
+
+the united states : 1979
+one of the : 1957
+as well as : 1623
+part of the : 1467
+such as the : 1065
+the solar system : 914
+due to the : 912
+known as the : 911
+from the original : 870

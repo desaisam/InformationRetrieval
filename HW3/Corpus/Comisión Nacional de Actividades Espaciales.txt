@@ -1,0 +1,114 @@
+comisión nacional de actividades espaciales conae in english national space activities commission is the civilian agency of the government of argentina in charge of the national space program
+
+
+ history 
+
+
+ sociedad argentina interplanetaria 
+during the 1940s teofilo tabanera organized a group of foreign and argentine specialists as the sociedad argentina interplanetaria sai argentine interplanetary society tabaneras efforts ensured that argentina was the first latin american nation to create a spaceflight organization and in 1952 was one of the founding members of the international astronautical federation argentine aldo cocca was a pioneer in space law and helped originate the idea of space being the common heritage of humankind later enshrined in united nations treaties of the 1960s
+
+
+ comisión nacional de investigaciones espaciales 
+in 1960 tabanera was named head of the newly created comisión nacional de investigaciones espaciales cnie national commission for space research a forerunner agency founded in 1960cnie worked with the argentine air forces instituto de investigaciones aeronáuticas y espaciales iiae to develop a number of indigenous multistage high-altitude sounding rockets and missiles argentina was the first country in latin america to send an object into space using an indigenously-developed rocketduring the 1970s argentina regularly launched the american two-stage solid-propellant castor rocket up to 500 kilometers altitude this rocket carried international experiments for several countries
+
+
+ condor program 
+in the 1980s argentina took part in a multinational effort to develop the condor missile under us pressure the condor program was canceled in 1991 the associated development and production facilities at falda del carmen were closed down the fabrica militar de aviones which concentrated on development of surveillance satellites for earth resource and environmental monitoring
+
+
+ comisión nacional de actividades espaciales 
+the present commission conae was created on may 28 1991 during the government of carlos menem after the cancellation of the military condor missile program in an attempt to move all the commission efforts to civilian purposes 
+it received the air force aerospace facilities in córdoba and buenos aires of the former cnie as well as some of the civil personnel involved in the canceled projectsince the 1990s the new commission signed agreements with nasa and european agencies and has developed a number of earth observation satellites including sac-a the failed mission sac-b and the sac-c launched in 2000 and still operatingthe administration of cristina fernandez de kirchner renationalized fabrica militar de aviones in 2009 and the falda del carmen facility has been reactivated to support the development of the new tronador ii rocket defense missile and rocket development has been restarted under the umbrella of citefa
+
+
+ teofilo tabanera space center 
+
+the teofilo tabanera space center or cett centro espacial teofilo tabanera is  located 30 km southwest from cordoba city in a region called falda del carmen and  houses the following installations
+
+
+ cordoba ground station 
+responsible for the tracking command and control ttc of the argentine satellites and for the ingestion cataloging and archiving of satellite data products conaes córdoba ground station etc has been in operation since 1997 it has capacity for data reception and ttc currently it receives data from 12 international satellites besides the data from argentine missions the national space program foresees the setting up of a second ground station in ushuaia tierra del fuego province at the southern tip of argentina to enable the collection of data on the antarctic continent
+
+
+ mission operation center 
+responsible for planning commands elaboration and monitoring the argentine satellites today the sac-c mission operation center is fully operative and sac-d moc is being implemented in order to control the future sac-daquarius satellites
+
+
+ testing and integration facilities 
+in charge of integrating domestic satellites and running environmental and qualification tests
+
+
+ institute for advance space studies mario gulich 
+for the promotion of advanced knowledge and innovative use of space information it also aims at developing highly skilled human resourcesit has been named in honor of former conae physicist mario gulich who conceived the first argentine satellite for scientific applications the sac-b mr gulich died in 1994
+
+
+ tronador ii test site 
+conae built a rocket test site at las pipinas punta indio partido in the buenos aires province named polo espacial de punta indio its intended to test the vex rockets technological demonstrators for the tronador ii launcher
+
+
+ tronador ii launch site 
+the tronador launch site will be called complejo argentino de acceso al espacio argentine space access complex  its located at punta alta some 578 km from buenos airesthe site is located inside the marines camp base de baterías
+
+
+ satellite systems 
+
+the national space program provides for two satellite series and both are devoted to earth observation one with main argentine instruments in the optical range sac and the other one in the microwave range saocom
+
+
+ sac series 
+the sac series has been developed by the conae together with the argentine company invap and a number of local universities in close cooperation with the nasa it has also included the participation of brazil denmark italy and germanycurrently three argentine satellites have been launched sac-b which was devoted to scientific research sac-a a technological demonstration satellite and sac-c the first earth observation satellite of argentinain this context conae has joined efforts with nasa in the creation of the first international earth observation constellation with argentine sac-c and the us landsat 7 eo-1 and terra missionsthe most recent satellite launched by conae was sac-daquarius which was launched on june 10 2011 it will carry the nasa-provided aquarius mission for taking measurements of sea salinity which will contribute to the better understanding of the environment together with conae-provided sensors which will contribute to monitoring possible fire focuses
+
+
+ past missions 
+
+sac-a december 3 1998 space shuttle conceived to test systems and as a technological model
+sac-b november 4 1996 pegasus rocket the first argentinian scientific satellite whose main goal was the study of solar physics and astrophysics launching problems prevented it from been deployed in orbit as it was still attached to the rocket it could not extend its solar panels and was only operated while the batteries lasted
+sac-c november 21 2000 delta rocket still operational launched as part of the am constellation together with nasas landsat 7 terra and eo-1 carries a multispectral mid resolution sensor mmrs a high resolution technological camera hrtc a high sensitivity camera hstc and the gps occultation and passive reflection experiment golpe all instruments where provided by conae except golpe which was provided by nasa
+sac-daquarius sac-d was launched on june 10 2011 part of a cooperation program between conae and nasa goddard space flight center and jpl it carries seven instruments to study the environment and a technology demonstration
+
+
+ future missions 
+sac-esabia-mar unknown launch date satellite for the observation and information recollection on water and food on the mercosur area developed together with the brazilian space agency
+sac-f unknown launch date
+
+
+ saocom series 
+on the other hand the saocom series involves the construction of two missions with an l-band full polarimetric synthetic aperture radar sar as main payload with belgium and italian partnership
+
+
+ future missions 
+saocom under development satellite that will carry a synthetic aperture radar sar and will be part of a constellation of other satellites in partnership with the italian space agency
+
+
+ sare 
+the sare satellites are under study they will weight around 200 kg and employ nanotechnology
+
+
+ launch vehicles 
+
+the tronador rocket under development is a multi-stage satellite launcher it is expect to start flight tests in 2012
+the t-4000 third stage test-rocket with a diameter of 438mm is also being developed with the current version using a liquid propellant engine of 40 kn trust however in the last 4 years 1 third stage prototype and 1 first stage pre-prototype launch attempts have been unsuccessful the last of these attempts ended with the rocket falling in the side of the launcher structure without any fire or explosion due the rocket being loaded with only 460 kg of fuel for a short combustion in order to test the engine in flight for a few seconds no material human or environmental harm resulting
+
+
+ airborne systems 
+conae is actually operating a self developed airborne sar called sarat the radar is capable of obtaining full polarimetric l band data with a resolution of 3 x 0.4 m it is intended as a pre-saocom test bench
+
+
+ international cooperation 
+these missions will be part of the italian-argentine system of satellites for emergency management siasge together with the italian cosmo-skymed missions see related article orfeo programme knowing the great advantages of combining the information provided by l and x band radars and the convenience of a shorter revisit period argentina and italy are joining efforts to develop this system which will be fully devoted the provision of information to lessen the consequences of natural disasters
+conae in july 2003 joined the international charter on space and major disasters which aims to provide a unified system of space data acquisition and delivery to those affected by natural or man-made disasters through authorized users
+the agency secured an agreement with the european space agency on june 24 2009 for the installation of a 35-m antenna and other mission support facilities at the pierre auger observatory near malargüe mendoza the facility will contribute to the esas mars express venus express and rosetta space probe projects as well as conaes own domestic research and the esas planned deep space project one of only three such esa installations in the world the new antenna will create a triangulation which will allow the esa to ensure mission coverage around the clock
+
+
+ see also 
+list of government space agencies
+invap
+arsat
+
+
+ references 
+
+
+ external links 
+official website in spanish in english
+space research in argentina  nasa archive from 1965 in english

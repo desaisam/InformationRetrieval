@@ -1,0 +1,59 @@
+this is a list of crewed and uncrewed flights of soyuz series spacecraft
+the soyuz programme is an ongoing human spaceflight programme which was initiated by the soviet union in the early 1960s originally part of a moon landing project intended to put a soviet cosmonaut on the moon it is the third soviet human spaceflight programme after the vostok and voskhod programmes since the 1990s as the successor state to the soviet union russia has continued and expanded the programme which became part of a multinational collaboration to ensure a permanent human presence in low earth orbit on the international space station iss since the retirement of the space shuttle in 2011 soyuz spacecraft are the exclusive vessels ferrying astronauts to and from the iss
+
+
+ crewed mission numbers and spacecraft generations 
+beginning in 1967 the soyuz programme has sent humans into space on a regular basis for over fifty years  due to its length the program has a complex history which may lead to confusion about its mission numbers  the mission numbering scheme for crewed soyuz flights is closely related to the generations of soyuz spacecraft  understanding the former is made significantly easier by understanding the latter
+the first era of the soyuz programmes crewed missions soyuz 1-40 used the 7k series of soyuz craft which included the first-generation 1.0 soyuz 7k-ok a variant 1.5 soyuz 7k-oks the second-generation 2.0 soyuz 7k-t and the 2.5 soyuz 7k-tm variant  following this first era successive eras of crewed missions have had mission numbers which were directly tied to the names of craft used
+
+the second era of soyuz t flights used the third-generation 3.0 craft of the same name  mission numbers were of the form soyuz t-
+the third era of soyuz tm flights used the fourth-generation 4.0 craft of the same name  mission numbers were of the form soyuz tm-
+the fourth era of soyuz tma flights used the fifth-generation 5.0 craft of the same name  mission numbers were of the form soyuz tma-
+the fifth era of soyuz tma-m flights used the fifth-generation variant 5.5 craft of the same name  mission numbers were of the form soyuz tma-m
+the sixth and current era of soyuz ms flights uses the sixth-generation 6.0 craft of the same name  mission numbers are of the form soyuz ms-within each given era a mission number generally reflects the missions chronological launch order eg soyuz tma-12m was the twelfth mission of the tma-m era immediately preceded by soyuz tma-11m and immediately followed by soyuz tma-13m  although there are exceptions to this detailed below in the first table the mission numbering scheme is usually consistent with chronological launch orders  this is in contrast with the mission numbers of the space shuttle program which were tied to specific mission objectives and did not reflect chronological launch orders eg sts-50 the forty-eighth shuttle mission was immediately followed by sts-46 the forty-ninth shuttle mission
+
+
+ soyuz 7k 1967-1981 
+the first soyuz series was the 7k series
+
+
+ soyuz 7k-l1 
+
+spacecraft designed for soviet human circumlunar missions missions are included under the zond programme
+
+
+ soyuz 7k-lok 
+
+spacecraft designed for soviet human lunar orbital and landing missions
+
+
+ soyuz t 1979-1986 
+
+
+ soyuz tm 1987-2002 
+
+
+ soyuz tma 2002-2012 
+
+
+ soyuz tma-m 2010-2016 
+
+
+ soyuz ms 2016- 
+
+
+ see also 
+list of space shuttle missions
+progress spacecraft
+soyuz programme
+soyuz spacecraft
+
+
+ notes 
+
+
+ references 
+wade mark encyclopedia astronautica
+
+
+ footnotes 

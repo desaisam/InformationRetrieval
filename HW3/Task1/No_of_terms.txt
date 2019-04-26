@@ -1,0 +1,997 @@
+300163 2006 VW139-->607
+457175 2008 GO98-->489
+100P_Hartley-->66
+101P_Chernykh-->104
+102P_Shoemaker-->221
+103P_Hartley-->1243
+104P_Kowal-->68
+105P_Singer Brewster-->160
+107P_Wilson–Harrington-->478
+10P_Tempel-->177
+111P_Helin–Roman–Crockett-->190
+113P_Spitaler-->127
+114P_Wiseman–Skiff-->70
+118401 LINEAR-->433
+11P_Tempel–Swift–LINEAR-->133
+122P_de Vico-->128
+128P_Shoemaker–Holt-->83
+12P_Pons–Brooks-->875
+139P_Väisälä–Oterma-->47
+13P_Olbers-->160
+144P_Kushida-->198
+147P_Kushida–Muramatsu-->103
+14P_Wolf-->150
+153P_Ikeya–Zhang-->189
+157P_Tritton-->334
+15P_Finlay-->349
+163P_NEAT-->118
+165P_LINEAR-->50
+166P_NEAT-->114
+167P_CINEOS-->59
+168P_Hergenrother-->253
+169P_NEAT-->45
+16P_Brooks-->651
+177P_Barnard-->179
+178P_Hug–Bell-->146
+18D_Perrine–Mrkos-->192
+19P_Borrelly-->190
+1P_Halley-->5175
+2 Pallas-->1886
+2011 QF99-->224
+2013 ND15-->454
+205P_Giacobini-->439
+2060 Chiron-->1343
+206P_Barnard–Boattini-->205
+209P_LINEAR-->475
+20D_Westphal-->133
+21P_Giacobini-Zinner-->199
+21P_Giacobini–Zinner-->199
+22P_Kopff-->420
+238P_Read-->260
+23P_Brorsen–Metcalf-->150
+243 Ida-->3139
+246P_NEAT-->102
+24P_Schaumasse-->262
+25143 Itokawa-->1345
+252P_LINEAR-->541
+255P_Levy-->300
+259P_Garradd-->439
+25D_Neujmin-->144
+26P_Grigg–Skjellerup-->358
+271P_van Houten–Lemmon-->82
+273P_Pons–Gambart-->55
+276P_Vorobjov-->255
+27P_Crommelin-->344
+289P_Blanpain-->300
+28P_Neujmin-->150
+29P_Schwassmann–Wachmann-->336
+2P_Encke-->1084
+3 Juno-->912
+30P_Reinmuth-->157
+311P_PANSTARRS-->318
+31P_Schwassmann–Wachmann-->91
+322P_SOHO-->291
+324P_La Sagra-->439
+32P_Comas Solà-->254
+332P_Ikeya-Murakami-->245
+33P_Daniel-->193
+34D_Gale-->112
+354P_LINEAR-->571
+4 Vesta-->4149
+67P_Churyumov–Gerasimenko-->2301
+951 Gaspra-->938
+9P_Tempel-->1059
+Age of Discovery-->16868
+Agencia Espacial Mexicana-->676
+Air Force Space Command-->1765
+Aleksei Leonov-->1809
+Algeria-->9688
+Algerian Space Agency-->1184
+Alpha Centauri-->4713
+Animals in space-->3553
+Anti-matter-->4056
+Antrix Corporation-->796
+Apollo 11-->11717
+Apollo 13-->6346
+Apollo 16-->6372
+Apollo 17-->4138
+Apollo 8-->8150
+Apollo program-->10452
+Apollo Telescope Mount-->817
+Apollo–Soyuz Test Project-->3607
+Argentina-->12956
+Ariel moon-->2926
+Arthur C. Clarke-->7732
+ArXiv-->1263
+Asia's Space Race-->4400
+Asia-Pacific Space Cooperation Organization-->268
+Associated Press-->3428
+Asteroid belt-->4919
+Asteroid family-->1592
+Asteroid mining-->6200
+Asteroid-->6400
+Astrobiology Magazine-->172
+Astrobiology-->6222
+Astrobotic Technology-->1328
+Astrodynamics-->5226
+Astronaut-->3711
+Astronautics-->610
+Astronomer-->803
+Astronomical unit-->3511
+Astronomy-->6824
+Atmospheric reentry-->8961
+Aurora astronomy-->7316
+Aurora Programme-->649
+Australia-->8652
+Australian Broadcasting Corporation-->6926
+Australian Space Agency-->332
+Austria-->10993
+Austrian colonial policy-->2011
+Austrian Space Agency-->100
+Axial tilt-->1803
+Azerbaijan International-->500
+Azerbaijan National Aerospace Agency-->375
+Azerbaijan-->11582
+Bangladesh-->14554
+BBC-->12078
+Beam-powered propulsion-->2285
+Belarus Space Agency-->710
+Belarus-->8297
+Belgian colonial empire-->1843
+Belgian Institute for Space Aeronomy-->772
+Belgium-->7770
+BepiColombo-->2153
+Bernal sphere-->328
+Bibcode-->278
+Bigelow Commercial Space Station-->2151
+Bioastronautics-->600
+Biology-->4608
+Blue Origin-->4892
+Bolivarian Agency for Space Activities-->522
+Brazil-->13009
+Brazilian Space Agency-->2183
+Breakthrough Initiatives-->1032
+Breakthrough Starshot-->1739
+British Empire-->10446
+Bulgaria-->8091
+Bumper rocket-->261
+Buzz Aldrin-->7273
+Callisto moon-->4199
+Canada-->9147
+Canadian Space Agency-->2153
+Cassini-Huygens-->7627
+CBS News-->2405
+Celestial body-->555
+Centaur minor planet-->2385
+Ceres dwarf planet-->5611
+Chandrayaan-1-->5478
+Charon moon-->2229
+Chartered company-->177
+China Academy of Launch Vehicle Technology-->202
+China Academy of Space Technology-->84
+China Aerospace Science and Technology Corporation-->542
+China Chang Feng-->155
+China National Space Administration-->633
+China-->15212
+Chinese imperialism-->1163
+Chinese Lunar Exploration Program-->1718
+Chinese space program-->6221
+Christopher C. Kraft Jr.-->5351
+Chronology of European exploration of Asia-->2543
+Chronology of Western colonialism-->2518
+Cis-Neptunian object-->65
+Claimed moons of Earth-->2497
+Classical Kuiper belt object-->1414
+CNES-->1016
+Cold War-->15529
+Colombia-->10794
+Colombian Space Commission-->98
+Colonial empire-->1457
+Colonial war-->2447
+Colonialism-->9410
+Colonies in antiquity-->3361
+Colonisation of Africa-->2889
+Colonisation of Oceania-->17
+Colonization of Antarctica-->597
+Colonization of Callisto-->4199
+Colonization of Europa-->1019
+Colonization of Jupiter-->3768
+Colonization of Mars-->5943
+Colonization of Mercury-->7401
+Colonization of Phobos-->7401
+Colonization of the asteroids-->567
+Colonization of the Moon-->8867
+Colonization of the outer Solar System-->1125
+Colonization of Titan-->880
+Colonization of trans-Neptunian objects-->376
+Colonization of Venus-->1613
+Colonization-->2497
+Columbus Module-->1312
+Comet-->7155
+Comisión Nacional de Actividades Espaciales-->1607
+Commercial astronaut-->613
+Commercial use of space-->1617
+Commercialization of space-->1617
+Commission for Science Technology and Industry for National Defense-->382
+Committee on Space Research-->206
+Commonwealth Scientific and Industrial Research Organisation-->3517
+Comparison of Asian national space programs-->4400
+Comparison of communication satellite operators-->81
+Comparison of orbital launch systems-->183
+Constellation program-->4630
+Cosmonaut-->3711
+Cosmos 186-->281
+Cosmos 188-->281
+Couronian colonization-->354
+Crew Exploration Vehicle-->1449
+Crore-->370
+CubeSat-->6639
+Czech Republic-->14321
+Czech Space Office-->432
+Damocloid-->487
+Danish colonial empire-->1465
+Dawn spacecraft-->4515
+Decolonisation of Africa-->1921
+Decolonisation of Asia-->994
+Decolonisation of Oceania-->165
+Decolonization of the Americas-->1355
+Decolonization-->9750
+Deep Impact spacecraft-->4435
+Deep space exploration-->465
+Deimos moon-->1388
+Delta-v budget-->2128
+Delta-v-->1741
+Denmark-->12411
+Department of Aerospace Science and Technology-->336
+Department of Space-->431
+Dependent territory-->1723
+Detached object-->1140
+Digital object identifier-->2972
+Dione moon-->1490
+Direct ascent-->342
+Discovery observation-->920
+Discovery and exploration of the Solar System-->1971
+Discovery program-->3195
+DTU Space-->151
+Dutch Empire-->7693
+Dwarf planet-->3386
+Dysnomia moon-->652
+Earth observation satellite-->826
+Earth trojan-->539
+Earth-->8216
+Effect of spaceflight on the human body-->5622
+Egypt-->13828
+Electric propulsion-->1280
+Emirates Mars Mission-->1819
+Empire of Japan-->9843
+Enceladus-->7074
+Energy development-->6970
+Eris dwarf planet-->2814
+Escape velocity-->3115
+EUMETSAT-->865
+Europa moon-->5472
+Europe-->10951
+European colonisation of Southeast Asia-->2765
+European colonization of the Americas-->4850
+European Cooperation for Space Standardization-->61
+European Space Agency-->5868
+European Union Satellite Centre-->350
+European Union-->11272
+Europeans in Oceania-->566
+Evolution-->10164
+Expendable launch system-->786
+Exploration Mission 2-->587
+Exploration of Africa-->4598
+Exploration of Antarctica-->19
+Exploration of Callisto-->4199
+Exploration of Ceres-->5611
+Exploration of Europa-->5472
+Exploration of Jupiter-->3768
+Exploration of Mars-->5893
+Exploration of Mercury-->1724
+Exploration of Neptune-->1312
+Exploration of Phobos-->3697
+Exploration of Pluto-->2607
+Exploration of Saturn-->923
+Exploration of the Americas-->18
+Exploration of the asteroids-->6400
+Exploration of the Moon-->2380
+Exploration of Titan-->8315
+Exploration of Uranus-->1261
+Exploration-->2358
+Explorer 1-->1671
+Extra-vehicular activity-->2473
+Extraterrestrial life-->5478
+Extravehicular activity-->2473
+Eyeglass-->4522
+Far side of the Moon-->2412
+Five-planet Nice model-->4489
+Flexible path-->241
+Flight controller-->6041
+Flyby spaceflight-->822
+Fobos-Grunt-->3691
+France-->20630
+French colonial empire-->10199
+French space program-->1438
+Future of space exploration-->3917
+Galaxy-->6654
+Galileo spacecraft-->7213
+Ganymede moon-->5151
+Gemini program-->4721
+General Organization of Remote Sensing-->52
+Geo-Informatics and Space Technology Development Agency-->124
+Geocentric orbit-->1653
+Geosynchronous orbit-->1510
+German Aerospace Center-->3826
+German colonial empire-->5018
+Germany-->12906
+Ghana Space Science and Technology Centre-->412
+Ghana-->10695
+Giant planet-->1801
+GN-z11-->330
+Google Lunar X Prize-->2154
+Gould Belt-->274
+Gravitational slingshot-->3347
+Gravity assist-->3347
+Gravity-->3855
+Great Dark Spot-->501
+Greece-->18862
+Ground segment-->1625
+Ground station-->591
+H. G. Wells-->7923
+Halley Armada-->402
+Hans Lippershey-->633
+Harrison Schmitt-->1890
+Haumea-->3557
+Hayabusa spacecraft-->4499
+Health threat from cosmic rays-->3834
+Heliopause astronomy-->4384
+Hellenic Space Agency-->68
+Hermann Oberth-->2016
+Hills cloud-->1898
+History of astronomy-->7055
+History of colonialism-->6029
+History of spaceflight-->4409
+Hiʻiaka moon-->1528
+Hubble Space Telescope-->11139
+Hubble Ultra Deep Field-->1594
+Human extinction-->2829
+Human outpost-->378
+Human spaceflight-->6524
+Hungarian Space Office-->176
+Hungary-->15110
+Hydra moon-->1483
+Hyperion moon-->944
+Iapetus moon-->2716
+ICBM-->3599
+Imperialism-->8975
+In-situ resource utilization-->2718
+In-space propulsion technologies-->953
+Independence referendum-->535
+Independence-->508
+India-->9106
+Indian Human Spaceflight Programme-->1246
+Indian Space Research Organisation-->7391
+Indigenous peoples-->5720
+Indonesia-->10488
+Institute for Unmanned Space Experiment Free Flyer-->488
+Institute of Space and Astronautical Science-->417
+Instituto Nacional de Técnica Aeroespacial-->575
+Instituto Tecnológico de Aeronáutica-->2409
+Integrated Authority File-->270
+Interdisciplinary-->3834
+Intergalactic travel-->977
+Interkosmos-->1038
+Internal colonialism-->1498
+International Academy of Astronautics-->223
+International Business Times-->1123
+International Cometary Explorer-->2172
+International Space Station-->16617
+International Standard Book Number-->4102
+International Telecommunications Satellite Organization-->111
+Interplanetary contamination-->3820
+Interplanetary spaceflight-->5376
+Intersputnik-->185
+Interstellar medium-->3410
+Interstellar spaceflight-->6365
+Interstellar travel-->6365
+Interventionism politics-->1960
+Io moon-->7083
+Iran Aviation Industries Organization-->1139
+Iran-->15306
+Iranian Space Agency-->3580
+Israel Space Agency-->4580
+Israel-->15424
+Israeli Space Agency-->4580
+Italian Empire-->3822
+Italian Space Agency-->2040
+Italy-->18420
+Japan Aerospace Exploration Agency-->4860
+Japan-->13612
+JAXA-->4860
+Jet Propulsion Laboratory-->2215
+John F. Kennedy-->17333
+John Young astronaut-->2039
+Jules Verne-->6206
+Juno spacecraft-->3165
+Jupiter trojan-->2869
+Jupiter-->7197
+KAIST Satellite Technology Research Center-->101
+Kazakhstan-->13895
+KazCosmos-->402
+Kerberos moon-->1126
+Kerim Kerimov-->567
+Kirkwood gap-->440
+Konstantin Tsiolkovsky-->3124
+Korea Aerospace Research Institute-->1711
+Kuiper belt-->7571
+Lagrangian point-->3936
+Land claim-->812
+Lander spacecraft-->2581
+Landings on other planets-->108
+Laniakea Supercluster-->650
+Launch pad-->864
+Launch vehicle-->2148
+Life support system-->1763
+Light sail-->7706
+Light-year-->995
+Light-years-->995
+List of active Solar System probes-->1585
+List of African-American astronauts-->48
+List of Apollo astronauts-->2579
+List of Apollo missions-->1054
+List of Arab Astronauts-->640
+List of Ariane launches-->120
+List of artificial objects in heliocentric orbit-->671
+List of artificial objects leaving the Solar System-->1312
+List of artificial objects on extra-terrestrial surfaces-->54
+List of artificial objects on Mars-->480
+List of artificial objects on the Moon-->306
+List of artificial objects on Venus-->77
+List of astronauts by first flight-->139
+List of astronauts by name-->4389
+List of astronauts by year of selection-->7827
+List of Atlas launches-->99
+List of Black Brant launches-->25
+List of Chinese astronauts-->290
+List of climate research satellites-->783
+List of communication satellite companies-->109
+List of communications satellite firsts-->8
+List of Constellation missions-->402
+List of cosmonauts-->2122
+List of crewed spacecraft-->1542
+List of cumulative spacewalk records-->79
+List of Earth observation satellites-->783
+List of Earth-crossing minor planets-->399
+List of European astronauts-->530
+List of exceptional asteroids-->1546
+List of extraterrestrial orbiters-->58
+List of Falcon 9 and Falcon Heavy launches-->2662
+List of female astronauts-->411
+List of Gemini astronauts-->331
+List of GOES satellites-->440
+List of government space agencies-->397
+List of gravitationally rounded objects of the Solar System-->531
+List of H-I and H-II launches-->30
+List of human spaceflight programs-->6007
+List of human spaceflights by program-->6007
+List of human spaceflights to Mir-->532
+List of human spaceflights to Salyut space stations-->232
+List of human spaceflights to the International Space Station-->210
+List of human spaceflights 1961–1970-->321
+List of human spaceflights 1971–1980-->133
+List of human spaceflights 1981–1990-->129
+List of human spaceflights 1991–2000-->138
+List of human spaceflights 2001–2010-->116
+List of human spaceflights 2011–present-->113
+List of human spaceflights-->628
+List of hypothetical Solar System objects-->709
+List of International Space Station expeditions-->112
+List of International Space Station spacewalks-->550
+List of International Space Station visitors-->1076
+List of interplanetary voyages-->171
+List of Jewish astronauts-->8
+List of Jupiter-crossing minor planets-->454
+List of Kosmos satellites-->98
+List of landings on extraterrestrial bodies-->108
+List of Long March launches-->656
+List of lunar probes-->241
+List of manned spacecraft-->1542
+List of Mars orbiters-->669
+List of Mars-crossing minor planets-->329
+List of Mercury-crossing minor planets-->213
+List of minor planets-->2030
+List of minor planets_ 1–1000-->126
+List of Mir expeditions-->121
+List of Mir spacewalks-->520
+List of Mir visitors-->426
+List of missions to comets-->39
+List of missions to Mars-->913
+List of missions to Mercury-->1724
+List of missions to minor planets-->221
+List of missions to the Moon-->347
+List of missions to the outer planets-->258
+List of missions to Venus-->59
+List of Muslim astronauts-->100
+List of NASA missions-->1404
+List of natural satellites-->1229
+List of Neptune-crossing minor planets-->176
+List of NRO Launches-->74
+List of objects at Lagrangian points-->943
+List of orbital launch systems-->967
+List of possessions of Norway-->930
+List of possible dwarf planets-->1448
+List of predecessors of sovereign states in Europe-->62
+List of predecessors of sovereign states in South America-->124
+List of private spaceflight companies-->117
+List of Proton launches-->73
+List of PSLV launches-->1459
+List of R-7 launches-->113
+List of rocket launch sites-->618
+List of Russian manned space missions-->137
+List of Salyut expeditions-->200
+List of Salyut spacewalks-->213
+List of Salyut visitors-->418
+List of satellites in geosynchronous orbit-->405
+List of satellites which have provided data on Earth's magnetosphere-->23
+List of Satish Dhawan Space Centre launches-->195
+List of Saturn-crossing minor planets-->122
+List of Scout launches-->20
+List of Solar System objects by size-->1793
+List of Solar System objects-->435
+List of Solar System probes-->571
+List of sounding rockets-->1396
+List of sovereign states by date of formation-->704
+List of Soviet manned space missions-->115
+List of Soyuz missions-->559
+List of Space Shuttle crews-->188
+List of Space Shuttle missions-->1139
+List of space shuttle rollbacks-->76
+List of space travelers by name-->2924
+List of space travelers by nationality-->7183
+List of spacecraft manufacturers-->245
+List of spaceflight records-->1255
+List of spaceflight-related accidents and incidents-->3109
+List of spaceflights to the International Space Station-->340
+List of spaceflights-->168
+List of spacewalkers-->105
+List of spacewalks 2000–2014-->144
+List of spacewalks and moonwalks 1965–1999-->486
+List of spacewalks since 2015-->97
+List of TDRS satellites-->84
+List of the most distant astronomical objects-->417
+List of Thor and Delta launches-->123
+List of Titan launches-->58
+List of unmanned spacecraft by program-->22
+List of unmanned spaceflights to Mir-->115
+List of unmanned spaceflights to Salyut space stations-->118
+List of unmanned spaceflights to the International Space Station-->949
+List of upper stages-->62
+List of Uranus-crossing minor planets-->125
+List of USA satellites-->127
+List of V-2 test launches-->268
+List of Venus-crossing minor planets-->134
+List of Zenit launches-->58
+Lists of comets-->170
+Lists of exoplanets-->478
+Local Bubble-->535
+Local Group-->626
+Local Interstellar Cloud-->421
+Local Sheet-->364
+Low Earth orbit-->1282
+Luna 10-->385
+Luna 2-->1333
+Luna 9-->869
+Luna program-->549
+Lunar Roving Vehicle-->3687
+Lunokhod programme-->2266
+Luxembourg-->5431
+Luxinnovation-->339
+Magnetosphere-->1318
+Main-belt comet-->956
+Makemake-->2110
+Malaysia-->10023
+Mariner 10-->4221
+Mariner 2-->3264
+Mariner 4-->2537
+Mariner program-->1214
+Maritime history of Europe-->2502
+Maritime history-->12335
+Mars 3-->1322
+Mars Curse-->5893
+Mars Exploration Rover-->7866
+Mars Orbiter Mission-->3441
+Mars probe program-->1953
+Mars sample return mission-->2267
+Mars to Stay-->3749
+Mars trojan-->303
+Mars-->10247
+Marshall Space Flight Center-->9475
+Maxime Faget-->596
+Meanings of minor planet names-->589
+Mercury planet-->7839
+Mercury program-->6897
+MESSENGER-->3114
+Meteoroid-->3849
+Mexico-->18923
+Militarisation of space-->3741
+Militarization of space-->3741
+Milky Way-->7921
+Mimas moon-->1079
+Minor planet-->1908
+Minor-planet moon-->1606
+Mir-->10391
+Miranda moon-->1728
+Mission control center-->729
+Mission Control-->729
+Modern era-->16546
+Mongolia-->8296
+Monkeys in space-->1581
+Moon Impact Probe-->1101
+Moon landing-->8056
+Moon Treaty-->622
+Moon-->10129
+Moons of Haumea-->1528
+Moons of Jupiter-->2469
+Moons of Mars-->2368
+Moons of Neptune-->2482
+Moons of Pluto-->1983
+Moons of Saturn-->4875
+Moons of Uranus-->2209
+Namaka moon-->1528
+NASA Authorization Act of 2010-->631
+NASA spin-off-->4372
+NASA-->8487
+Nation-building-->866
+National Aeronautics and Space Administration-->8487
+National Aerospace Development Administration-->1117
+National Aerospace Laboratory of Japan-->136
+National Authority for Remote Sensing and Space Sciences-->316
+National Committee for Space Research-->805
+National Diet Library-->1915
+National Institute for Space Research-->578
+National Institute of Aeronautics and Space-->2966
+National Institute of Information and Communications Technology-->288
+National Remote Sensing Centre-->39
+National Space Agency Malaysia-->1005
+National Space Development Agency of Japan-->210
+National Space Organization-->732
+National Space Research and Development Agency-->1565
+Natural satellite-->2290
+Nature journal-->3424
+Nazi-->14735
+NDTV-->1193
+NEAR Shoemaker-->2182
+Near-Earth object-->7841
+Nemesis hypothetical star-->1913
+Neo-colonialism-->3724
+Neocolonialism-->3724
+Neptune Orbiter-->782
+Neptune trojan-->1300
+Neptune-->6012
+Nereid moon-->732
+Netherlands Institute for Space Research-->572
+Netherlands-->18009
+New Horizons-->11616
+New York Times-->9687
+New Zealand Space Agency-->116
+New Zealand-->8315
+NewSpace-->2765
+NGC 1952-->3089
+NGC 6357-->322
+Nigeria-->13049
+Nix moon-->1472
+Non-rocket spacelaunch-->3529
+North Korea-->11241
+Norway-->17580
+Norwegian Space Centre-->189
+Nuclear power-->12840
+Nuclear weapon-->6770
+Oberon moon-->2149
+Observable universe-->4712
+Observations and explorations of Venus-->3844
+Ocean colonization-->164
+Ocean exploration-->776
+Oort cloud-->2938
+Operation Paperclip-->3516
+Orbital mechanics-->5226
+Orbital spaceflight-->1151
+Orbital Technologies Commercial Space Station-->308
+Orbiter-->216
+Orbiting Astronomical Observatory 2-->289
+Origin of life-->14792
+Orion spacecraft-->4088
+Orion Arm-->356
+Outer Space Treaty-->1106
+Outer space-->6339
+Outline of space exploration-->829
+Outline of space science-->570
+Outline of the Solar System-->615
+Ozone depletion-->8811
+Pakistan-->16609
+Parker Solar Probe-->2492
+Pass spaceflight-->343
+Peter Ward paleontologist-->1157
+Phaeton hypothetical planet-->844
+Philae spacecraft-->4122
+Phobos moon-->3697
+Phobos program-->985
+Phoebe moon-->1351
+Pioneer 10-->3724
+Pioneer 11-->2125
+Pioneer 6 7 8 and 9-->974
+Pioneer program-->881
+Pismis 24-->322
+Planet Nine-->8039
+Planet V-->873
+Planet-->8930
+Planetary flyby-->287
+Planetesimal-->679
+Planets beyond Neptune-->5943
+Planets-->8930
+Plutino-->465
+Pluto-->6356
+Plutoid-->1299
+PocketQube-->411
+Poland-->19181
+Portuguese Empire-->9750
+Postcolonialism international relations-->433
+Postcolonialism-->7239
+Private property-->1306
+Private spaceflight-->5084
+Proceedings of the IEEE-->505
+Project Apollo-->10452
+Project Gemini-->4721
+Project Mercury-->6897
+Property rights-->2896
+Proteus moon-->836
+Psychological and sociological effects of spaceflight-->2334
+PubMed Identifier-->1760
+R-7 Semyorka-->1431
+Radar-->9597
+Ranger 4-->1108
+Ranger program-->1183
+Realm of New Zealand-->1301
+Reconnaissance satellite-->821
+Recorded history-->1793
+Registration Convention-->435
+Reinhold Tiling-->404
+Religion in space-->657
+Rescue Agreement-->771
+Reusable launch system-->3602
+Review of United States Human Space Flight Plans Committee-->1377
+Rhea moon-->1551
+Ring system-->1789
+Rings of Chariklo-->1533
+Rings of Jupiter-->3839
+Rings of Neptune-->2358
+Rings of Rhea-->963
+Rings of Saturn-->7062
+Rings of Uranus-->4368
+Robert Gilruth-->666
+Robert Goddard-->11803
+Robotic spacecraft-->2107
+Rocket engine-->7926
+Rocket launch-->617
+Rocket-->7108
+Romania-->9506
+Romanian Space Agency-->3573
+Roscosmos-->2625
+Rosetta spacecraft-->6314
+Rover space exploration-->1986
+RTV-G-4 Bumper-->261
+Russia-->19232
+Russian Aerospace Defence Forces-->1072
+Russian Empire-->10554
+Russian explorers-->1489
+Russian space dogs-->1827
+Russian Space Research Institute-->579
+SAHA Iran aviation-->174
+Salyut 1-->1516
+Salyut programme-->3275
+Salyut-->3275
+Sample return mission-->2578
+Sample-return mission-->2578
+Satellite archaeology-->1716
+Satellite communications-->4472
+Satellite galaxies of the Milky Way-->384
+Satellite imagery-->2343
+Satellite Internet access-->6065
+Satellite navigation system-->2250
+Satellite navigation-->2250
+Satellite phone-->2305
+Satellite radio-->1753
+Satellite television-->5641
+Satellite-->5966
+Saturn V-->8488
+Saturn-->4834
+Scaled Composites Tier One-->2102
+Scattered disc-->2611
+Sednoid-->970
+Self-replicating spacecraft-->4626
+Sergei Korolev-->6640
+Settler colonialism-->5632
+Shenzhou program-->1200
+Shuttle–Mir Program-->5365
+Singapore-->12272
+Sky-->2034
+Skylab-->8450
+Small Solar System body-->403
+Soft landing aeronautics-->126
+Solar sail-->7706
+Solar System model-->552
+Solar System-->7605
+South Africa-->10682
+South African National Space Agency-->592
+South Korea-->15078
+South West Africa-->1079
+Sovereign state-->2626
+Soviet space program-->4872
+Soviet Union-->13593
+Soyuz program-->639
+Soyuz programme-->639
+Soyuz spacecraft-->3363
+Space adaptation syndrome-->1062
+Space advocacy-->385
+Space and survival-->1474
+Space and Upper Atmosphere Research Commission-->5442
+Space archaeology-->1241
+Space architecture-->7143
+Space colonization-->7401
+Space disasters-->3109
+Space Exploration Technologies-->7198
+Space exploration-->6070
+Space habitat-->3589
+Space launch market competition-->5912
+Space Launch System-->3791
+Space launch-->1204
+Space law-->3850
+Space Liability Convention-->405
+Space medicine-->4675
+Space missions-->6070
+Space nursing-->262
+Space observatory-->615
+Space policy of the European Union-->986
+Space policy of the United States-->3684
+Space policy-->2009
+Space probe-->1365
+Space Race-->11169
+Space Research and Remote Sensing Organization-->447
+Space Research and Technology Institute-->706
+Space Research Centre of Polish Academy of Sciences-->267
+Space research-->1306
+Space Shuttle program-->5036
+Space Shuttle-->11150
+Space Station-->2425
+Space suit-->5816
+Space technology-->284
+Space telescope-->615
+Space toilet-->1046
+Space tourism-->4082
+Space weather-->5861
+Space.com-->353
+Spacecraft propulsion-->6668
+Spacecraft-->2949
+Spacefaring-->926
+Spaceflight-->4159
+Spacelab-->2176
+Spaceplane-->3723
+Spaceport-->1517
+Spacewalk-->2473
+SpaceX-->7198
+Spain-->17865
+Spanish Empire-->27910
+Sputnik 1-->4899
+Sputnik 2-->2163
+Star-->9965
+Stardust spacecraft-->2993
+State organisation of the Ottoman Empire-->1549
+State Space Agency of Ukraine-->1743
+Stephen Hawking-->9288
+STS-122-->4339
+STS-133-->5977
+Styx moon-->1040
+Sub-orbital spaceflight-->2939
+Subsatellite-->363
+Sun-->11135
+Surveyor 1-->1285
+Surveyor program-->921
+Sweden-->19019
+Swedish National Space Agency-->300
+Swedish overseas colonies-->1044
+Swiss Space Office-->414
+Switzerland-->12788
+Syria-->10982
+S_2015 136472 1-->2110
+Taiwan-->13697
+Telecommunications satellite-->4472
+Telescope-->2008
+Terra nullius-->2813
+Terrestrial planet-->1349
+Terrestrial planets-->1349
+Territory of Papua and New Guinea-->809
+Tethys moon-->2634
+Thailand-->13209
+The Blue Marble-->2044
+Theia planet-->558
+Tiangong program-->1617
+Timeline of artificial satellites and space probes-->76
+Timeline of discovery of Solar System planets and their moons-->443
+Timeline of Earth science satellites-->61
+Timeline of first orbital launches by country-->1654
+Timeline of longest spaceflights-->117
+Timeline of planetary exploration-->3453
+Timeline of private spaceflight-->1168
+Timeline of rocket and missile technology-->1440
+Timeline of Solar System exploration-->3453
+Timeline of space exploration-->114
+Timeline of Space Shuttle missions-->11
+Timeline of space travel by nationality-->1286
+Timeline of spaceflight-->168
+Timeline of the Space Race-->472
+TIROS-1-->383
+Titan moon-->8315
+Titania moon-->2928
+Trans-Neptunian object-->2213
+Triton moon-->3863
+Tupan Patera-->478
+Turkey-->15652
+Turkmenistan National Space Agency-->169
+Turkmenistan-->4935
+Tyche hypothetical planet-->762
+TÜBİTAK Space Technologies Research Institute-->401
+U.S. space exploration history on U.S. stamps-->3957
+UK Space Agency-->1005
+Ukraine-->18746
+Umbriel moon-->2220
+Uncontacted peoples-->5372
+Underground living-->925
+United Arab Emirates Space Agency-->604
+United Arab Emirates-->11998
+United Kingdom-->17194
+United Nations Committee on the Peaceful Uses of Outer Space-->1597
+United Nations list of Non-Self-Governing Territories-->2744
+United Nations Office for Outer Space Affairs-->1162
+United Nations-->7783
+United States territorial acquisitions-->3978
+United States-->17906
+Universe-->9228
+Unmanned robotic space probes-->2107
+Uranus-->7668
+V-2-->6424
+Valentin Glushko-->1885
+Valeri Polyakov-->1002
+Van Allen radiation belt-->2767
+Vasily Mishin-->1149
+Vega program-->1327
+Venera 1-->608
+Venera 13-->883
+Venera 4-->1350
+Venera 7-->520
+Venera 9-->827
+Venera program-->1686
+Venezuela-->13698
+Venezuelan Institute for Scientific Research-->281
+Venus-->6803
+Viking 1-->1502
+Viking program-->2645
+Virgo Supercluster-->1001
+Vision for Space Exploration-->1694
+Voskhod program-->648
+Voskhod programme-->648
+Vostok 1-->4144
+Vostok program-->2540
+Vostok programme-->2540
+Voyager 1-->3981
+Voyager 2-->3183
+Voyager program-->3936
+Vulcan hypothetical planet-->2130
+Vulcanoid-->1531
+WAC Corporal-->458
+Wars of national liberation-->1869
+Weather satellite-->1965
+Weightlessness-->5018
+Wernher von Braun-->10203
+Western imperialism in Asia-->10860
+Yuri Gagarin-->4278
+Zond program-->834

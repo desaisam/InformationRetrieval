@@ -1,0 +1,53 @@
+the hubble ultra-deep field hudf is an image of a small region of space in the constellation fornax containing an estimated 10,000 galaxies the original release was combined from hubble space telescope data accumulated over a period from september 24 2003 through to january 16 2004 looking back approximately 13 billion years between 400 and 800 million years after the big bang it has been used to search for galaxies that existed at that time the hudf image was taken in a section of the sky with a low density of bright stars in the near-field allowing much better viewing of dimmer more distant objects in august and september 2009 the hudf field was observed at longer wavelengths 1.0 to 1.6 micrometers using the infrared channel of the recently attached wide field camera 3 wfc3 instrument when combined with existing hudf data astronomers were able to identify a new list of potentially very distant galaxieslocated southwest of orion in the southern-hemisphere constellation fornax the rectangular image is 2.4 arcminutes to an edge or 3.4 arcminutes diagonally this is approximately one tenth of the angular diameter of a full moon viewed from earth which is less than 34 arcminutes smaller than a 1 mm by 1 mm square of paper held at 1 meter away and equal to roughly one twenty-six-millionth of the total area of the sky  the image is oriented so that the upper left corner points toward north −46.4° on the celestial sphere
+on september 25 2012 nasa released a further refined version of the ultra-deep field dubbed the extreme deep field xdf the xdf reveals galaxies that span back 13.2 billion years in time revealing a galaxy theorized to be formed only 450 million years after the big bang event on june 3 2014 nasa released the hubble ultra-deep field image composed of for the first time the full range of ultraviolet to near-infrared lighton january 23 2019 the instituto de astrofísica de canarias released an even deeper version of the infrared images of the hubble ultra deep field obtained with the wfc3 instrument named the abyss hubble ultra deep field the new images improve the previous reduction of the wfc3ir images including careful sky background subtraction around the largest galaxies on the field of view after this update some galaxies were found to be almost twice as big as previously measured
+
+
+ planning 
+
+in the years since the original hubble deep field the hubble deep field south and the goods sample were analyzed providing increased statistics at the high redshifts probed by the hdf when the advanced camera for surveys acs detector was installed on the hst it was realized that an ultra-deep field could observe galaxy formation out to even higher redshifts than had currently been observed as well as providing more information about galaxy formation at intermediate redshifts z2 a workshop on how to best carry out surveys with the acs was held at stsci in late 2002 at the workshop massimo stiavelli advocated an ultra deep field as a way to study the objects responsible for the reionization of the universe following the workshop the stsci director steven beckwith decided to devote 400 orbits of directors discretionary time to the udf and appointed stiavelli as the lead of the home team implementing the observations
+unlike the deep fields the hudf does not lie in hubbles continuous viewing zone cvz the earlier observations using the wide field and planetary camera 2 wfpc2 camera were able to take advantage of the increased observing time on these zones by using wavelengths with higher noise to observe at times when earthshine contaminated the observations however acs does not observe at these wavelengths so the advantage was reducedas with the earlier fields this one was required to contain very little emission from our galaxy with little zodiacal dust the field was also required to be in a range of declinations such that it could be observed both by southern hemisphere instruments such as the atacama large millimeter array and northern hemisphere ones such as those located on hawaii it was ultimately decided to observe a section of the chandra deep field south due to existing deep x-ray observations from chandra x-ray observatory and two interesting objects already observed in the goods sample at the same location a redshift 5.8 galaxy and a supernova the coordinates of the field are right ascension  3h 32m 39.0s declination −27° 47′ 29.1″ j2000 the field is 200 arcseconds to a side with a total area of 11 square arcminutes and lies in the constellation of fornax
+
+
+ observations 
+
+four filters were used on the acs centered on 435 606 775 and 850 nm with exposure times set to give equal sensitivity in all filters these wavelength ranges match those used by the goods sample allowing direct comparison between the two as with the deep fields the hudf used directors discretionary time in order to get the best resolution possible the observations were dithered by pointing the telescope at slightly different positions for each exposure—a process trialled with the hubble deep field—so that the final image has a higher resolution than the pixels on their own would normally allowthe observations were done in two sessions from september 23 to october 28 2003 and december 4 2003 to january 15 2004 the total exposure time is just under 1 million seconds from 400 orbits with a typical exposure time of 1200 seconds in total 800 acs exposures were taken over the course of 11.3 days 2 every orbit and nicmos observed for 4.5 days all the individual acs exposures were processed and combined by anton koekemoer into a single set of scientifically useful images each with a total exposure time ranging from 134,900 seconds to 347,100 seconds to observe the whole sky to the same sensitivity the hst would need to observe continuously for a million years
+the sensitivity of the acs limits its capability of detecting galaxies at high redshift to about 6 the deep nicmos fields obtained in parallel to the acs images could in principle be used to detect galaxies at redshift 7 or higher but they were lacking visible band images of similar depth these are necessary to identify high redshift objects as they should not be seen in the visible bands in order to obtain deep visible exposures on top of the nicmos parallel fields a follow-up program hudf05 was approved and granted 204 orbits to observe the two parallel fields go-10632 the orientation of the hst was chosen so that further nicmos parallel images would fall on top of the main udf field
+after the installation of wfc3 on hubble in 2009 the hudf09 programme go-11563 devoted 192 orbits to observations of three fields including hudf using the newly available f105w f125w and f160w infra-red filters which correspond to the y j and h bands
+
+
+ contents 
+
+the hudf is the deepest image of the universe ever taken and has been used to search for galaxies that existed between 400 and 800 million years after the big bang redshifts between 7 and 12 several galaxies in the hudf are candidates based on photometric redshifts to be amongst the most distant astronomical objects the red dwarf udf 2457 at distance of 59,000 light-years is the furthest star resolved by the hudf the star near the center of the field is usno-a2.0 0600-01400432 with apparent magnitude of 18.95the field imaged by the acs contains over 10,000 objects the majority of which are galaxies many at redshifts greater than 3 and some that probably have redshifts between 6 and 7  the nicmos measurements may have discovered galaxies at redshifts up to 12
+
+
+ scientific results 
+the hudf has revealed high rates of star formation during the very early stages of galaxy formation within a billion years after the big bang it has also enabled improved characterization of the distribution of galaxies their numbers sizes and luminosities at different epochs aiding investigation into the evolution of galaxies galaxies at high redshifts have been confirmed to be smaller and less symmetrical than ones at lower redshifts illuminating the rapid evolution of galaxies in the first couple of billion years after the big bang
+
+
+ hubble extreme deep field 
+
+the hubble extreme deep field hxdf released on september 25 2012 is an image of a portion of space in the center of the hubble ultra deep field image representing a total of two million seconds approximately 23 days of exposure time collected over 10 years the image covers an area of 2.3 arcminutes by 2 arcminutes or approximately 80% of the area of the hudf this represents approximately one thirty-two millionth of the sky
+the hxdf contains approximately 5,500 galaxies the oldest of which are seen as they were 13.2 billion years ago the faintest galaxies are one ten-billionth the brightness of what the human eye can see the red galaxies in the image are the remnants of galaxies after major collisions during their elderly years many of the smaller galaxies in the image are very young galaxies that eventually developed into major galaxies similar to the milky way and other galaxies in our galactic neighborhood
+
+		
+		
+
+
+ see also 
+list of deep fields
+hudf-jd2
+udf 2457 star
+udfj-39546284
+udfy-38135539
+
+
+ references 
+
+
+ external links 
+nasa site with animations
+exploring galaxy formation in the early universe - how did the first galaxies get so large so quickly
+scalable interactive udf with 10,000 galaxies mapped wikiskyorg
+hubblesite page for the xdf image
+xdf project from the ucolick observatory
+the hubble ultra-deep field in light and sound at apod

@@ -1,0 +1,68 @@
+the instituto nacional de técnica aeroespacial inta english national institute of aerospace technology is spains space agency it was founded in 1942 as the instituto nacional de técnica aeronáutica national institute of aeronautics and has its headquarters in torrejón de ardoz near madrid
+
+
+ organization 
+its budget of more than €150 million comes from the spanish ministry of defence and from its own projects with the industry as of 2008 inta has a total of 1200 employees 80% of them dedicated to rd activitiesits two main areas of activity are research and development for example in propulsion materials remote sensing and certification and testing for example in aircraft software metrology
+
+
+ operations 
+
+
+ tracking and launch sites 
+nowadays inta controls both the madrid deep space communication complex and the el arenosillo rocket launch site in southern spain
+
+
+ launchers 
+inta designed atmospheric sounding rockets such as
+
+inta-100
+inta-255
+inta-300
+capricorniothese operate from the el arenosillo rocket launch site
+
+
+ satellites 
+main objectives of the nano-satellites and mini-satellites programmes
+
+rd programmes in the field of small satellites from 20 kg to 150 kg started in 1997 after minisat-1 launch to keep running internat space activities at inta
+the systems and subsystems are mainly developed at inta with collaborations in the rd work with several universities and other institutions in spain
+development of multimission service modules compatible with available launchers up to 150 kg and 60x60x80cm
+other specific tasks or satellite units to the small business spanish industries to encourage their participation in space technology
+give flight opportunities to the spanish research community at an affordable budget target each 3–4 years for new experiments and instruments in orbit demonstration technologies earth observation and space exploration from low earth orbit
+
+
+ intasat 
+inta launched its first satellite the intasat on november 15 1974 aboard a nasa delta rocket
+
+
+ lbsat 
+lbsat was launched on ariane 4 on july 7 1995
+
+
+ minisat 01 
+next satellite in orbit was minisat 01 with its 190 kg it was launched on board of a pegasus rocket over the canary islands in april 1997
+
+
+ nanosat 01 
+nanosat 01 project was created to continue with the spanish space program of low cost satellites it was finally put into orbit by the ariane 5 launch vehicle in december 2004
+
+
+ nanosat 1b 
+it was only 5 years after when nanosat 1b  was launched on board of a dnepr parallel to this research activity  a new research line was opened with microsat-1 which is a bit heavier at just above 100 kg and was scheduled to be launched in early 2012 nanosat-2 seosat spanish earth observation satellite are also part of the inta rd projects 
+
+
+ optos 
+launched in 2013 optos is the most recent addition to intas small satellites line optos is based on the cubesat standard a 3u platform but goes far beyond the usual approach for this kind of satellites it was designed developed and tested with a completely professional methodology as it is conceived as a technology demonstrator with the target of proving that a satellite of that size can carry out dedicated missions as bigger satellites it was launched in november 2013 by means of a dnepr rocket and has been successfully active in orbit since then
+all these satellites are totally spanish in manufacture and design comprising a low-cost multiuse platform with modular design subsystems and standard interfaces with the payload module
+
+
+ see also 
+maspalomas station
+list of government space agencies
+
+
+ references 
+
+
+ external links 
+inta official site in spanish

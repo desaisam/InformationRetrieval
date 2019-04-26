@@ -1,0 +1,152 @@
+the korea aerospace research institute kari established in 1989 is the aeronautics and space agency of republic of koreasouth korea  its main laboratories are located in daejeon in the daedeok science town karis vision is to continue building upon indigenous launch capabilities strengthen national safety and public service industrialize satellite information and applications technology explore the moon and develop environmentally-friendly and highly-efficient cutting-edge aircraft and core aerospace technology  current projects include the kslv-2 launcher past projects include the 1999 arirang-1 satellite  the agency was founded in 1989  prior to south koreas entry into the iae in 1992 it focused primarily on aerospace technology
+
+
+ background 
+kari began on october 10 1989 as a national aerospace research institute with the purpose of contributing to sound development of the national economy and enhancement of peoples  lives through a new exploration technological advancement development and dissemination in the field of aerospace science and technologykari began in 1989 to develop its own rockets it produced the ksr-i and ksr-ii one and two-stage rockets in the early 1990s
+in december 1997 it began development of a loxkerosene rocket engine kari wished to develop satellite launch capability a test launch of the ksr-iii took place in 2002
+
+
+ timeline 
+1989.10 establishment of kari affiliated to kimmkorea institute of machinery  materials
+1990.12 cornerstone – laying ceremony for the building of the institute
+1992.07 authorized as the inspection agency designated by the aidp law
+1992.10 completion of construction of the research building complex
+1993.04 experimental aircraft kachi development
+1993.06.09 launch of single-stage sounding rocket ksr-i
+1993.09 expo unmanned airship development
+1995 korea launched its first communications satellite named koreasat  1996.11 independent organization as kari an incorporated foundation
+1997.03 twin-engine composite aircraft development
+1997.04 authorized as the type certification agency designated by the aviation law
+1998.06 launch of two-stage sounding rocket ksr-ii
+1999.01 change of type certification agency
+1999.12 launch of korea multiple purpose satellite kompsat i also known as arirang i
+2001.01 change of name to korea aerospace research institute
+2001.09 canard aircraft development
+2002.11 launch of liquid-propellant rocket ksr-iii
+2003.05 cornerstone – laying ceremony for the aircraft flight test center
+2003.08 cornerstone – laying ceremony for the naro space center
+2003.09 launch of stsat science and technology satellite-1
+2003.10 multi-purpose stratosphere unmanned-airship development
+2004.10 completion of jeju island tracking station
+2005.01 installation of south pole ground station
+2006.07 launch of korea multi-purpose satellite kompsat 2 also known as arirang ii
+2008.03 transfer to krcfkorea research council of fundamental science o technology
+2008.04 the first korean astronaut
+2008.12 medium aero stats development
+2009.06 completion of naro space center
+2009.08 the 1st launch of koreas 1st space launch vehicle kslv-1
+2010.06 launch of coms
+2010.06 the 2nd launch of koreas 1st space launch vehicle kslv-1
+2011.11 smart uav development
+2012.05 launch of korea multi-purpose satellitekompsat-3
+2012.06 korean utility helicopter surion development
+2013.01 the 3rd launch of koreas 1st space launch vehicle kslv-1
+2013.08 launch of korea multi-purpose satellite kompsat-5
+2013.11 stsatscience and technology satellite-3 development
+2013.12 4kc-100 development
+2014.05 opv development
+2014 research on lunar exploration cooperation began
+2015.03 launch of korea multi-purpose satellite kompsat-3a
+2015.08 eav-3 development
+2015.12 the completion of kslv-ii’s engine combustion test facility
+2016.12 designated as a national space development agency
+
+
+ aerospace developments 
+
+kari is also developing unmanned aerial vehicles high-altitude airships a next-generation multi-purpose helicopter project next- generation medium satellite and a lunar exploration project in addition several satellites including the kompsat also known as arirang series the coms communication ocean and meteorological satellite and the stsat science and technology satellite are developed operated or under development by kari on january 30 2013 they launched a satellite into space from their own soil for the first time
+
+
+ mission and major functions 
+perform basic and applied studies in aerospace technologydevelopment of leading-edge technology aircraft aircraft evaluation and testing and support of national development projectsresearch and development of comprehensive system and core technology of aircraft satellite and space launch vehiclesupport national aerospace development policy establishment distribution and diffusion of aerospace technology informationdevelopment and kslvkorea launching of space launch vehicles and operation of space centerperform government-delegated tasks and support policy developmentdevelopment of technology for assuring aerospace safety and quality and maintenance of legal quality certification and internationally recognized certification systems
+establishment and support of the national aerospace development policy and dissemination of knowledge on aerospace technologysupport industries and transfer technologyjoint utilization of testing facilities and equipment with industries and academia and training of scientists and engineers
+transfer of technology from research and development and provisions for commercialization support
+
+
+ space launch vehicles 
+
+
+ kslv-1 and kslv-2 
+
+kslv-1 launched on august 25 2009 it was originally a cluster indigenous liquid ksr-iii rockets with a solid propellant to form a multistage launcher however kari experienced more difficulties than expected in slv development because it required much stronger propellant power than ksr-iii possessed to launch a satellite into orbit after several failed attempts kari turned to russias khrunichev design bureau for assistance in developing a liquid-propellant rocket engine for the kslv-1 as well as for cooperation in the construction of the launch facility at the naro space center kslv-1 was transformed into a two-stage launcher 33 m high with a maximum diameter of 2.9 m it has a mass of 140 tons at lift-off the first stage of the launcher was derived from the russian urm-1 universal rocket module developed by khrunichev the second stage of the launcher was a solid kick motor developed by korea which includes the inertial navigation system the power control and flight safety systems plus the nose fairing kslv-1 was the most prominent project of the whole south korean space development program and was successfully launched in late january 2013 
+south korea is planning to launch its next rocket kslv-2 by year 2019 the first stage of its rocket will have 4 clustered engines each of which will have a 75 metric ton thrust it was announced that kari has already developed few prototypes of a 75 metric ton thrust engine
+
+
+ kslv-2 tlv 
+the test launch vehicle tlv is a two stages rocket used to test the performance of the 75-tons and 7-tons thrust rocket engines that will power the kslv-2 
+the tlv is 25.8 meters in length 2.6 meters in diameter and with a mass of 52.1 tons the main-stage kerolox engine is fully gimballed 
+
+
+ kre-075 engine 
+
+
+ test flight 1 
+the first tlv was launched from the naro space center in goheung south jeolla province 
+the main objective of the first suborbital flight was for the  single-stage rockets main engine to burn 140 seconds reaching a 100 km altitude before splashing down in the sea between jeju island and okinawa islandthe maiden flight was first delayed from october 25 2018 for two months due to abnormal readings detected in the rocket propellant pressurization system
+the test flight was then rescheduled for november 28 2018 at 1600 kstutc9 no payload is to be placed into orbitthe launch of the first tlv while deemed successful with its main engine burning for 151 seconds in a 10 minute flight was not broadcast live
+after reaching a maximum suborbital altitude of 209 kilometers the rocket stage hit the ocean 429 kilometers southeast of jeju
+
+
+ kslv-3 
+kslv-3 was initially designed to launch geostationary satellites of 6 tons and to enter service in 2023
+due to the development of the small launch vehicle sslv kslv-iii is changed to geo-slv whith a payload of 3t to geo
+
+
+ development 
+
+
+ engines development 
+the core stage will powered by four kre-90 engines of 90 tons thrust plus four liquid boosters each with a kre-90 engine the second stage will be powered by a kre-90v staged combustion cycle engine
+kre-010v the korean staged combustion cycle engine of 10 tons thrust had a 100 second burn test on december 6th 2018 it will be used as the upper stage 3rd stage engine of kslv-iii
+
+
+ kre-010v engine 
+
+
+ kslv-4 
+kslv-4 was expected to carry the 64-tons class space stations modules kslv-4 scheduled to enter service in 2028 updated plan
+due to the development of the small launch vehicle sslv kslv-iv will be no longer be developed
+
+
+ small launch vehicle sslv 
+by 2025 it should be able to put a payload of less than 500kg to leo
+
+
+ solid-fuel launcher 
+on november 12 2018 the south korean government was discussing with its american counterparts on its plan to develop solid-fuel space vehicles and comparable to the japanese epsilon rocket in performance
+
+
+ korean lunar exploration program 
+in december 2016 kari signed a lunar exploration technical cooperation with nasa which increased the possibility of exploration success greatly the korean lunar exploration program klep is divided in two phases phase 1 incorporates the launch and operation of a lunar orbiter called korea pathfinder lunar orbiter kplo which will be the first lunar probe by south korea meant to develop and enhance south koreas technological capabilities as well as map natural resources from orbit phase 2 will include a lunar obiter a lunar lander and a rover to be launched together on a kslv-ii south korean rocket from the naro space center in 2025
+
+
+ satellite navigation 
+kass is the korean model of satellite-based augmented systems sbas a technology that is capable of reducing gps error to less than 3m
+korea is expected to become the only seventh country  in the world to own an sbas beginning in july 2020
+this technological achievement is a prerequisite for korea joining the g7
+
+
+ korea multiple- purpose satellite-3a 
+korea multiple-purpose satellite- 3a kompsat-3a was launched on 25 march 2015 on a dnepr-1 launch vehicle from the jasny kombarovsky site in russia the purpose of the kompsat-3a is to enable us to take advantage of geographical information systems gis in environmental agricultural and oceanographic sciences and to facilitate natural hazards the kompsat-3a is equipped with two distinctive sensors a high-resolution multi-spectral ms optical sensor namely the advanced earth image sensor system-a aeiss-a and the scanner infrared imaging system siis
+
+
+ smart tilt rotor uav 
+in late 2011 kari unveiled its tiltrotor unmanned aerial vehicle uav that can fly at around 400 kmhr
+
+
+ see also 
+naro space center
+korean astronaut program
+list of aircraft manufacturers
+list of korea-related topics
+government of south korea
+list of government space agencies
+naro-1
+
+
+ references 
+
+
+ external links 
+kari official website korean  english
+south korean space projects from encyclopedia astronautica

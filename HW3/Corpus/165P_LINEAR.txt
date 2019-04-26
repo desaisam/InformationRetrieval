@@ -1,0 +1,9 @@
+165plinear is a periodic comet in the solar system 165plinear has a perihelion distance of 6.8 au and is a chiron-type comet with tjupiter smaller than 3 and a semi-major axis larger than jupiters
+
+
+ references 
+
+
+ external links 
+orbital simulation from jpl java  horizons ephemeris
+165p on seiichi yoshidas comet list

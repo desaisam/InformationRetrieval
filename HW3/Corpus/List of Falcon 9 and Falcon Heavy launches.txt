@@ -1,0 +1,129 @@
+since their first mission in june 2010 rockets from the falcon 9 family have been launched 70 times with 68 full mission successes one partial failure and one total loss of spacecraft in addition one rocket and its payload were destroyed on the launch pad in the fueling process before a static fire test
+designed and operated by private manufacturer spacex the falcon 9 rocket family includes the retired versions falcon 9 v1.0 v1.1 and v1.2 full thrust along with the currently active block 5 evolution falcon heavy is a heavy-lift derivative of falcon 9 combining a strengthened central core with two falcon 9 first stages as side boostersthe falcon design features reusable first-stage boosters landing either on a ground pad near the launch site or on a drone ship at sea in december 2015 falcon 9 became the first rocket to land propulsively after delivering a payload to orbit this achievement is expected to significantly reduce launch costs falcon 9 core boosters have successfully landed 35 times in 42 attempts 18 of them have flown a second mission including two as falcon heavy side boosters and two boosters have gone on to fly a third mission
+falcon 9s typical missions include cargo delivery to the international space station iss with the dragon capsule launch of communications satellites and earth observation satellites to  geostationary transfer orbits gto and low-earth orbits leo some of them at polar inclinations the heaviest payloads launched to date were batches of 10 iridium next satellites weighing 9,600 kg 21,200 lb to a 625 km 388 mi low earth orbit leo and intelsat 35e with 6,761 kg 14,905 lb to gto  launches to higher orbits have included the dscovr probe to the sun–earth lagrangian point l1 the tess space telescope launched on a lunar flyby trajectory and the falcon heavy test flight whose payload a tesla roadster escaped earths gravity well and reached a heliocentric orbit extending beyond the orbit of mars 
+
+
+ launch statistics 
+rockets from the falcon 9 family have been launched 70 times over 9 years resulting in 68 full mission successes 97.1 one partial success crs-1 delivered its cargo to the iss but a secondary payload was stranded in a lower-than-planned orbit and one failure the crs-7 spacecraft was lost in flight additionally one rocket and its payload amos-6 were destroyed before launch in preparation for an on-pad static fire test
+the first rocket version falcon 9 v1.0 was launched 5 times from june 2010 to march 2013 its successor falcon 9 v1.1 15 times from september 2013 to january 2016 and the latest upgrade falcon 9 full thrust 49 times from december 2015 to present 18 of which using a re-flown first stage booster falcon heavy was launched once in february 2018 incorporating two refurbished first stages as side boosters the final block 4 booster to be produced was flown in april 2018 and the first block 5 version in may while block 4 boosters were only ever flown twice and required several months of refurbishment block 5 versions are designed to sustain 10 flights with just inspections possibly on a 24-hour turnoverthe rockets first-stage boosters have been recovered in 35 of 42 landing attempts 83
+
+
+ past launches 
+
+
+ 2010 to 2013 
+
+
+ 2014 
+
+
+ 2015 
+
+
+ 2016 
+
+
+ 2017 
+
+
+ 2018 
+in november 2017 gwynne shotwell expected to increase launch cadence in 2018 by about 50% compared to 2017 leveling out at a rate of about 30 to 40 per year not including launches for the planned spacex satellite constellation starlink the actual launch rate increased by 17% from 18 in 2017 to 21 in 2018
+
+
+ 2019 
+
+
+ future launches 
+future launches are listed chronologically when firm plans are in place the order of the later launches is much less certain as the official spacex manifest does not include a schedule tentative launch dates are picked from various sources for each launch launches are expected to take place no earlier than net the listed date
+
+
+ future 2019 launches 
+
+
+ 2020 
+
+
+ 2021 
+
+
+ notable missions 
+
+
+ maiden launch of falcon 9 
+
+the falcon 9 maiden launch occurred on june 4 2010 and was deemed a success placing the test payload within 1% of the intended orbit ken bowersox vice president of spacex described the launch as having a little bit of roll at liftoff the roll stopped before the craft reached the top of the tower but the second stage unexpectedly began to roll slowly near the end of its burn the halo from the venting of propellant from the falcon 9 second stage as it rolled in space could be seen from all of eastern australia where some believed it to be a ufo
+
+
+ cots demo missions 
+
+the second launch of falcon 9 was called cots demo flight 1 aiming to test an operational dragon capsule the launch took place on december 8 2010 the booster placed the dragon spacecraft in a roughly 300-kilometer 190 mi orbit after two orbits the capsule re-entered the atmosphere to be recovered off the coast of mexico this flight tested the pressure vessel integrity attitude control using the draco thrusters telemetry guidance navigation control systems and the pica-x heat shield and intended to test the parachutes at speed the secret test payload on this mission was a wheel of cheese the capsule is now permanently on display at spacex headquarters
+
+the nasa cots qualification program included two more test flights demo 2 and demo 3 whose objectives were combined into a single dragon c2 mission on the condition that all demo 2 milestones would be validated in space before proceeding with the ultimate demonstration goal berthing dragon to the international space station iss and delivering its cargo after clearing a few readiness delays and a launch abort the dragon capsule was propelled to orbit on may 22 2012 and tested its positioning system solar panels grapple fixture and proximity navigation sensors over the next two days the spacecraft performed a series of maneuvers to catch up to the iss orbit and prove its rendezvous capabilities at safe distances on may 24 all the demo 2 milestones had been successfully cleared and nasa approved the extended mission on may 25 dragon performed a series of close approach maneuvers until reaching its final hold position a mere 9 meters 30 ft away from the harmony nadir docking port astronaut don pettit subsequently grabbed the spacecraft with the stations robotic arm on the next day may 26 at 0953 utc pettit opened the hatch and remarked that dragon smells like a brand new car over the next few days iss crew unloaded the incoming cargo and filled dragon with earth-bound items such as experiment samples and unneeded hardware the spacecraft was released on may 31 at 0949 utc and successfully completed all the return procedures unberthing maneuvering away from the iss deorbit burn trunk jettison atmospheric reentry parachute deployment and ocean splashdown the dragon c2 capsule is now on display at kennedy space centerwith successful completion of these demo missions falcon 9 became the first fully commercially developed launcher to deliver a payload to the international space station paving the way for spacex and nasa to sign the first commercial resupply services agreement for 12 cargo deliveries starting in october 2012
+
+
+ crs-1 
+
+the first operational cargo resupply mission to iss the fourth flight of falcon 9 was launched on october 7 2012 at 76 seconds after liftoff engine 1 of the first stage suffered a loss of pressure which caused an automatic shutdown of that engine the remaining eight first-stage engines continued to burn and the dragon capsule reached orbit successfully this was the first demonstration of the rockets engine out capability in flight as per iss visiting vehicle safety rules the primary payload owner nasa was contractually allowed to decline a second reignition and due to safety regulations required by nasa the secondary orbcomm-2 satellite payload was released into a lower-than-intended orbit despite the incident orbcomm said they gathered useful test data from the mission and planned to send more satellites via spacex which happened in july 2014 and december 2015 the mission continued to rendezvous and berth the dragon capsule with the iss where the iss crew unloaded its payload and reloaded the spacecraft with cargo for return to earth
+
+
+ maiden flight of v1.1 
+
+spacex launched the maiden flight of the falcon 9 v1.1 also termed block 2—an essentially new launch vehicle much larger and with greater thrust than falcon 9 v1.0—on september 29 2013 a demonstration launch
+although the rocket carried cassiope as a primary payload cassiope had a payload mass that is very small relative to the rockets capability and it did so at a discounted rate—approximately 20% of the normal published price for spacex falcon 9 leo missions—because the flight was a technology demonstration mission for spacexafter the second stage separated from the booster stage spacex conducted a novel high-altitude high-velocity flight test wherein the booster attempted to reenter the lower atmosphere in a controlled manner and decelerate to a simulated over-water landing  the test was successful but the booster stage was not recovered
+
+
+ loss of crs-7 mission 
+
+on june 28 2015 falcon 9 flight 19 carried a dragon capsule on the seventh commercial resupply services mission to the iss the second stage disintegrated due to an internal helium tank failure while the first stage was still burning normally this was the first primary mission loss for any falcon 9 rocket in addition to iss consumables and experiments this mission carried the first international docking adapter ida-1 whose loss delayed preparedness of the stationss us orbital segment for future crewed missionsperformance was nominal until t140 seconds into launch when a cloud of white vapor appeared followed by rapid loss of second-stage lox tank pressure the booster continued on its trajectory until complete vehicle breakup at t150 seconds the dragon capsule was ejected from the disintegrating rocket and continued transmitting data until impact with the ocean spacex officials stated that the capsule could have been recovered if the parachutes had deployed however the dragon software did not include any provisions for parachute deployment in this situation subsequent investigations traced the cause of the accident to the failure of a strut that secured a helium bottle inside the second-stage lox tank with the helium pressurization system integrity breached excess helium quickly flooded the tank eventually causing it to burst from overpressure nasas independent accident investigation into the loss of spacex crs-7 found that the failure of the strut which led to the breakup of the falcon-9 represented a design error specifically that industrial grade stainless steel had been used in a critical load path under cryogenic conditions and flight conditions without additional part screening and without regard to manufacturer recommendations
+
+
+ full-thrust version and first booster landings 
+
+after pausing launches for months spacex launched on december 22 2015 the highly anticipated return-to-flight mission after the loss of crs-7 this launch inaugurated a new falcon 9 full thrust version also initially termed block 3 of its flagship rocket featuring increased performance notably thanks to subcooling of the propellants after launching a constellation of 11 orbcomm-og2 second-generation satellites  the first stage performed a controlled-descent and landing test for the eighth time spacex attempted to land the booster on land for the first time it managed to return the first stage successfully to the landing zone 1 at cape canaveral marking the first successful recovery of a rocket first stage that launched a payload to orbit after recovery the first stage booster performed further ground tests and then was put on permanent display outside spacexs headquarters in hawthorne californiaon april 8 2016 spacex delivered its commercial resupply mission to the international space station marking the return-to-flight of the dragon capsule after the loss of crs-7  after separation the first-stage booster slowed itself with a boostback maneuver re-entered the atmosphere executed an automated controlled descent and landed vertically onto the drone ship of course i still love you marking the first successful landing of a rocket on a ship at sea this was the fourth attempt to land on a drone ship as part of the companys experimental controlled-descent and landing tests
+
+
+ loss of amos-6 on the launch pad 
+
+on september 1 2016 the 29th falcon 9 rocket exploded on the launchpad while propellant was being loaded for a routine pre-launch static fire test the payload israeli satellite amos-6 partly commissioned by facebook was destroyed with the launcher on 2 january 2017 spacex released an official statement indicating that the cause of the failure was a buckled liner in several of the copv tanks causing perforations that allowed liquid andor solid oxygen to accumulate underneath the lining which was ignited by friction
+
+
+ first launch of a refurbished first stage 
+
+on march 30 2017 flight 32 launched the ses-10 satellite with the first-stage booster b1021 which had been previously used for the crs-8 mission a year earlier the stage was successfully recovered a second time and was retired and put on display at cape canaveral
+
+
+ zuma 
+
+zuma was a classified us government satellite and was developed and built by northrop grumman at an estimated cost of 3.5 billion its launch originally planned for mid-november 2017 was postponed to january 2018 as fairing tests for another spacex customer were assessed following a successful falcon 9 launch the first-stage booster landed at lz-1 unconfirmed reports suggested that the zuma spacecraft was lost with claims that  either the payload failed following orbital release or that the customer-provided adapter failed to release the satellite from the upper stage while other claims argued that zuma was in orbit and operating covertly spacexs coo gwynne shotwell stated that their falcon 9 did everything correctly and that information published that is contrary to this statement is categorically false a preliminary report indicated that the payload adapter modified by northrop grumman after purchasing it from a subcontractor failed to separate the satellite from the second stage under the zero gravity conditions due to the classified nature of the mission little official confirmation is expected
+
+
+ falcon heavy test flight 
+
+the maiden launch of the falcon heavy occurred on february 6 2018 marking the launch of the most powerful rocket since the energia with a theoretical payload capacity to low earth orbit more than double the delta iv heavy both side boosters landed nearly simultaneously after a ten-minute flight  the central core failed to land on a floating platform at sea the rocket carried a car and a mannequin to an eccentric heliocentric orbit that reaches further than aphelion of mars
+
+
+ third flight of a booster 
+
+on december 3 2018 spaceflight sso-a smallsat express was the first time a booster was used for a third flight
+
+
+ first flight of crew dragon 
+
+on march 2 2019 spacex launched its first orbital flight of dragon 2 crew dragon it was an uncrewed mission to the international space station the dragon contained a mannequin named ripley which was equipped with multiple sensors to gather data about how a human would feel during the flight along with the mannequin was 300 pounds of cargo of food and other supplies  also on board was earth plush toy referred to as a super high tech zero-g indicator  the toy became a hit with astronaut anne mcclain who showed the plushy on the iss each day and also deciding to keep it onboard to experience the crewed spx-dm2
+the dragon spent six days in space including five docked to the international space station during the time various systems were tested to make sure the vehicle was ready for us astronauts doug hurley and bob behnken to fly on it no earlier than july 2019 the dragon undocked and performed a re-entry burn before splashing down on march 8 2019 at 0845 est 320 km off the coast of florida
+
+
+ see also 
+list of falcon 1 launches an overview of launches for falcon 9s predecessor
+list of falcon 9 first-stage boosters
+list of spacex dragon missions
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+httpwwwspacexcommissions

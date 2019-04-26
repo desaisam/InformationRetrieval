@@ -1,0 +1,89 @@
+a mars sample-return mission msr would be a spaceflight mission to collect rock and dust samples on mars and then return them to earth sample-return would be a very powerful type of exploration because analysis is freed from the time budget and space constraints of spacecraft sensorsaccording to louis friedman executive director of the planetary society a mars sample-return mission is often described by the planetary science community as one of the most important robotic space missions due to its high expected scientific return on investmentover time several concept missions have been studied but none of them got beyond the study phase the three latest concepts for a msr mission are a nasa-esa proposal a russian proposal mars-grunt and a chinese proposal
+
+
+ scientific value 
+
+the return of mars samples would be beneficial to science by allowing more extensive analysis to be undertaken of the samples than could be done by instruments painstakingly transferred to mars also the presence of the samples on earth would allow scientific equipment to be used on stored samples even years and decades after the sample-return missionin 2006 mepag identified 55 important future science investigations related to the exploration of mars in 2008 they concluded that about half
+of the investigations could be addressed to one degree or another by msr making msr the single mission that would make the most progress towards the entire list of investigations moreover it was found that a significant fraction of the investigations cannot be meaningfully advanced without returned samplesone source of mars samples is what are thought to be martian meteorites which are rocks ejected from mars that made their way to earth of over 61,000 meteorites that have been found on earth 132 were identified as martian as of  3 march 2014 these meteorites are thought to be from mars because they have elemental and isotopic compositions that are similar to rocks and atmosphere gases analyzed by spacecraft on marsin 1996 the possibility of life on mars was questioned again when apparent microfossils might have been found in a mars meteorite see alh84001 this led to a renewed interest in a mars sample-return and several different architectures were considered nasa administrator goldin laid out three options for msr paced accelerated and aggressive it was thought that msr could be done for less than us100 million per year with something similar to then-current mars exploration budgets
+
+
+ history 
+
+for at least three decades western scientists have advocated the return of geological samples from mars one concept was studied with the sample collection for investigation of mars scim proposal which involved sending a spacecraft in a grazing pass through mars upper atmosphere to collect dust and air samples without landing or orbitingthe soviet union considered a mars sample-return mission mars 5nm in 1975 but it was cancelled due to the repeated failures of the n1 rocket that would have been used to launch it a double sample-return mission mars 5m mars-79 planned for 1979 was cancelled due to complexity and technical problemsone mission concept provisionally named simply mars sample-return was originally considered by nasas mars exploration program to return samples by 2008 but was cancelled following a review of the program a nasa-esa concept mission was aborted in 2012the united states mars exploration program formed after mars observers failure in september 1992 supported a mars sample-return one example of a mission architecture was the groundbreaking mars sample-return by macphereson in the early 2000sin early 2011 the national research councils planetary science decadal survey which laid out mission planning priorities for the period 2013–2022 at the request of nasa and the nsf declared a msr campaign its highest priority flagship mission for that period in particular it endorsed the proposed mars astrobiology explorer-cacher max-c mission in a descoped less ambitious form although this mission plan was officially cancelled in april 2011
+in september 2012 the united states mars program planning group endorsed a sample-return after evaluating long-term mars plansthe key mission requirement for the planned mars 2020 rover is that it must help prepare nasa for its msr campaign which is needed before any crewed mission takes place such effort would require three additional vehicles an orbiter a fetch rover and a mars ascent vehicle mav
+
+
+ nasa–esa concept 
+
+in mid-2006 the international mars architecture for the return of samples imars working group was chartered by the international mars exploration working group imewg to outline the scientific and engineering requirements of an internationally sponsored and executed mars sample-return mission in the 2018–2023 time framein october 2009 nasa and esa established the mars exploration joint initiative to proceed with the exomars mission whose ultimate aim is the return of samples from mars in the 2020s a first step in this was one particular proposal a joint project between nasa and esa called exomars would launch in 2018 with unspecified missions to return the sample itself expected in the 2020–2022 time frame the cancellation of the caching rover max-c and later nasa withdrawal from exomars pushed back a sample-return mission to an undetermined date
+due to budget limitations the max-c mission which was the first nasa-esa mission leading to a msr was canceled in 2011 and the overall plan in 2012 the pull-out was described as traumatic for the science community however in april 2018 a letter of intent was signed by nasa and esa that may provide a basis for a mars sample-return mission
+
+
+ nasa proposals 
+
+in september 2012 nasa announced its intention to further study several strategies of bringing a sample of mars to earth – including a multiple launch scenario a single-launch scenario and a multiple-rover scenario – for a mission beginning as early as 2018
+dozens of samples would be collected and cached by the mars 2020 rover and would be left on the surface of mars for possible later retrieval a fetch rover would retrieve the sample caches and deliver them to a mars ascent vehicle mav in july 2018 nasa contracted airbus to produce a fetch rover concept the mav would launch from mars and enter a 500 km orbit and rendezvous with a new mars orbiter the sample container would be transferred to an earth entry vehicle eev which would bring it to earth enter the atmosphere under a parachute and hard-land for retrieval and analyses in specially designed safe laboratories
+
+
+ two-launches architecture 
+in this scenario the sample-return mission would span two launches at an interval of about four years the first launch would be for the orbiter the second for the lander the lander would include the mars ascent vehicle mav
+
+
+ three-launches architecture 
+this concept is to have the sample-return mission split into a total of three launches in this scenario the sample-collection rover eg mars 2020 rover would be launched separately to land on mars first and carry out analyses and sample collection over a lifetime of at least 500 sols martian dayssome years later a mars orbiter would be launched followed by the lander including the mars ascent vehicle mav the lander would bring a small and simple fetch rover whose sole function would be to retrieve the sample containers from the caches left on the surface or directly from the mars 2020 rover and return them to the lander where it would be loaded onto the mav for delivery to the orbiter and then be sent to earththis design would ease the schedule of the whole mission giving controllers time and flexibility to carry out the required operations furthermore the program could rely on the successful landing system developed for the mars science laboratory avoiding the costs and risks associated with developing and testing yet another landing system from scratch
+
+
+ scim 
+
+scim sample collection for investigation of mars was a low-cost low-risk mars sample-return mission design proposed in the mars scout program scim would return dust and air samples without landing or orbiting by dipping through the atmosphere as it collects mars material it uses heritage from the successful stardust and genesis sample-return missions
+
+
+ additional plans 
+
+
+ russia 
+a russian mars sample-return mission concept is mars-grunt it is meant to use fobos-grunt design heritage plans as of 2011 envisioned a two-stage architecture with an orbiter and a lander but no roving capability with samples gathered from the immediate surroundings of the lander by a robotic arm
+
+
+ china 
+china has plans for a mars sample-return mission by 2030 the mission plan combines elements of remote sensing of the surface soft landing using a rover to gather samples then sample-return
+
+
+ france 
+france has worked towards a sample-return for many years this included the preparation of laboratories for returned samples and numerous proposals they worked on the development of a mars sample-return orbiter which would capture and return the samples as part of a joint mission with either the united states or other european countries
+
+
+ japan 
+on 9 june 2015 the japanese aerospace exploration agency jaxa unveiled a plan named martian moons exploration mmx to retrieve samples from one of the moons of mars this mission will build on the expertise to be gained from the hayabusa 2 and slim missions of the two moons phoboss orbit is closer to mars and its surface may have adhered particles blasted from the red planet thus the phobos samples collected by mmx may contain material originating from mars itself japan has also shown interest in participating in an international mars sample-return mission
+
+
+ potential for back contamination 
+
+since it is currently unknown whether life forms exist on mars the mission could potentially transfer viable organisms resulting in back contamination—the introduction of extraterrestrial organisms into earths biosphere the scientific consensus is that the potential for large-scale effects either through pathogenesis or ecological disruption is extremely small nevertheless returned samples from mars will be treated as potentially biohazardous until scientists can determine that the returned samples are safe the goal is to reduce the probability of release of a mars particle to less than one in a million in addition the proposed nasa mars sample-return mission will not be approved by nasa until the national environmental policy act nepa process has been completed the nepa process would require a public review of all potential impacts that could result from msr including worst case back contamination scenarios it is likely that a formal environmental impact statement eis would have to be prepared furthermore under the terms of article vii of the outer space treaty and probably various other legal frameworks were a release of organisms to occur the releasing nation or nations would be liable for any resultant damagespart of the sample-return mission would be to prevent contact between the martian environment and the exterior of the sample container in order to eliminate the risk of parachute failure the current plan is to use the thermal protection system to cushion the capsule upon impact at terminal velocity the sample container will be designed to withstand the force of the impact to receive the returned samples nasa proposed a specially designed biosafety level 4 containment facility the mars sample-return receiving facility msrrf not knowing what properties eg size any martian organisms might exhibit is a complication in design of such a facilityother scientists and engineers—notably robert zubrin of the mars society—argue that contamination risk is functionally zero and there is little need to worry they cite among other things lack of any verifiable incident although trillions of kilograms of material have been exchanged between mars and earth due to meteorite impactsthe international committee against mars sample return icamsr is a small advocacy group led by barry  digregorio who campaigns against a mars sample-return mission while icamsr acknowledges a low probability for biohazards it considers the proposed containment measures insufficient and unsafe at this stage icamsr is demanding more in situ studies on mars first and preliminary biohazard testing at the international space station before the samples are brought to earth digregorio also supports the conspiracy theory of a nasa coverup regarding the discovery of microbial life by the 1976 viking landers icamsr also supports a fringe view that several pathogens -such as common viruses- originate in space and probably caused some of the mass extinctions and deadly pandemics claims connecting terrestrial disease and extraterrestrial pathogens have been rejected by the scientific community
+
+
+ nasa sample-return robot challenge 
+the sample-return robot challenge as part of nasas centennial challenges program offered a total 1.5 million to teams that can build fully autonomous robots that can find retrieve and return up to 10 different sample types within a large outdoor environment 80,000 m2 the challenge started in 2012 and ended in 2016 over 50 teams competed during the 5-year history of the nasa challenge a robot named cataglyphis developed by team mountaineers from west virginia university completed the final challenge in 2016
+
+
+ in popular culture 
+life 2017 film - fictional story set in the near future centres around a robotic  mars sample-return space probe which returns to the international space station with soil samples potentially containing evidence of extraterrestrial life despite taking careful precautions the lives of the crew become endangered the choice between personal safety and the risk of infecting earth is an important theme in the film
+
+
+ see also 
+exomars aurora multi-mission flagship
+fobos-grunt russian-chinese sample-return mission to phobos moon of mars crashed
+mars 2020 rover plans may include a sample-cacher
+mars astrobiology explorer-cacher max-c cancelled in 2011
+mars meteorite
+timeline of solar system exploration
+
+
+ references 
+
+
+ external links 
+esas mars sample return page
+esa open to mars sample return abc news 2007-09-27
+mars sample return lander mission profile by nasas solar system exploration
+mars sample return discussions as presented on february 23 2010

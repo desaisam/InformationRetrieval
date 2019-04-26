@@ -1,0 +1,42 @@
+detached objects are a dynamical class of minor planets in the outer reaches of the solar system and belong to the broader family of trans-neptunian objects tnos these objects have orbits whose points of closest approach to the sun perihelion are sufficiently distant from the gravitational influence of neptune that they are only moderately affected by neptune and the other known planets this makes them appear to be detached from the solar systemin this way detached objects differ substantially from most other known tnos which form a loosely defined set of populations that have been perturbed to varying degrees onto their current orbit by gravitational encounters with the giant planets predominantly neptune detached objects have larger perihelia than these other tno populations including the objects in orbital resonance with neptune such as pluto the classical kuiper belt objects in non-resonant orbits such as makemake and the scattered disk objects like eris
+detached objects have also been referred to in the scientific literature as extended scattered disc objects e-sdo distant detached objects ddo or scattered–extended as in the formal classification by the deep ecliptic survey this reflects the dynamical gradation that can exist between the orbital parameters of the scattered disk and the detached population
+at least nine such bodies have been securely identified of which the largest most distant and best known is sedna those with perihelia greater than 50 au are termed sednoids  as of 2018 there are three known sednoids sedna 2012 vp113 and 2015 tg387
+
+
+ orbits 
+detached objects have perihelia much larger than neptunes aphelion they often have highly elliptical very large orbits with semi-major axes of up to a few hundred astronomical units au the radius of earths orbit such orbits cannot have been created by gravitational scattering by the giant planets not even neptune instead a number of explanations have been put forward including an encounter with a passing star or a distant planet-sized object or neptune itself which may once have had a much more eccentric orbit from which it could have tugged the objects to their current orbit 
+or ejected planets present in the early solar system that were ejectedthe classification suggested by the deep ecliptic survey team introduces a formal distinction between scattered-near objects which could be scattered by neptune and scattered-extended objects eg 90377 sedna using a tisserands parameter value of 3the planet nine hypothesis suggests that the orbits of several detached objects can be explained by the gravitational influence of a large unobserved planet between 200 au and 1200 au from the sun andor the influence of neptune
+
+
+ classification 
+detached objects are one of five distinct dynamical classes of tno the other four classes are classical kuiper-belt objects resonant objects scattered-disc objects sdo and sednoids detached objects generally have a perihelion distance greater than 40 au deterring strong interactions with neptune which has an approximately circular orbit about 30 au from the sun however there are no clear boundaries between the scattered and detached regions since both can coexist as tnos in an intermediate region with perihelion distance between 37 and 40 au one such intermediate body with a well determined orbit is 120132 2003 fy128
+the discovery of 90377 sedna in 2003 together with a few other objects discovered around that time such as 148209 2000 cr105 and 2004 xr190 has motivated discussion of a category of distant objects that may also be inner oort cloud objects or more likely transitional objects between the scattered disc and the inner oort cloudalthough sedna is officially considered a scattered-disc object by the mpc its discoverer michael e brown has suggested that because its perihelion distance of 76 au is too distant to be affected by the gravitational attraction of the outer planets it should be considered an inner-oort-cloud object rather than a member of the scattered disc this classification of sedna as a detached object is accepted in recent publicationsthis line of thinking suggests that the lack of a significant gravitational interaction with the outer planets creates an extended–outer group starting somewhere between sedna perihelion 76 au and more conventional sdos like 1996 tl66 perihelion 35 au which is listed as a scattered–near object by the deep ecliptic survey
+
+
+ influence of neptune 
+one of the problems with defining this extended category is that weak resonances may exist and would be difficult to prove due to chaotic planetary perturbations and the current lack of knowledge of the orbits of these distant objects they have orbital periods of more than 300 years and most have only been observed over a short observation arc of a couple years due to their great distance and slow movement against background stars it may be decades before most of these distant orbits are determined well enough to confidently confirm or rule out a resonance further improvement in the orbit and potential resonance of these objects will help to understand the migration of the giant planets and the formation of the solar system for example simulations by emel’yanenko and kiseleva in 2007 show that many distant objects could be in resonance with neptune they show a 10% likelihood that 2000 cr105 is in a 201 resonance a 38% likelihood that 2003 qk91 is in a 103 resonance and an 84% likelihood that 82075 2000 yw134 is in an 83 resonance the likely dwarf planet 145480 2005 tb190 appears to have less than a 1% likelihood of being in a 41 resonance
+
+
+ influence of hypothetical planets beyond neptune 
+mike brown—who made the planet nine hypothesis—makes an observation that all of the known distant objects which are pulled even a little bit away from the kuiper seem to be clustered under the influence of this hypothetical planet specifically objects with semimajor axis  100 au and perihelion  42 au
+carlos de la fuente marcos and ralph de la fuente marcos have calculated that some of the statistically significant commensurabilities are compatible with the planet nine hypothesis in particular a number of objects may be trapped in the 53 and 31 mean-motion resonances with a putative planet nine with a semimajor axis ∼700 au
+
+
+ possible detached objects 
+
+this is a list of known objects by decreasing perihelion that could not be easily scattered by neptunes current orbit and therefore are likely to be detached objects but that lie inside the perihelion gap of ≈50–75 au that defines the sednoidsobjects listed below have a perihelion of more than 40 au and a semimajor axis of more than 47.7 au the 12 resonance with neptune and the approximate outer limit of the kuiper belt 
+the following objects can also be generally thought to be detached objects although with slightly lower perihelion distances of 38-40 au
+
+
+ see also 
+classical kuiper belt object
+list of solar system objects by greatest aphelion
+list of trans-neptunian objects
+extreme trans-neptunian object
+planets beyond neptune
+
+
+ notes 
+
+
+ references 

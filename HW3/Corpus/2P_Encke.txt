@@ -1,0 +1,59 @@
+comet encke or enckes comet official designation 2pencke is a periodic comet that completes an orbit of the sun once every 3.3 years this is the shortest period of a reasonably bright comet the faint main-belt comet 311ppanstarrs has a period of 3.2 years encke was first recorded by pierre méchain in 1786 but it was not recognized as a periodic comet until 1819 when its orbit was computed by johann franz encke like halleys comet it is unusual in being named after the calculator of its orbit rather than its discoverer like most comets it has a very low albedo reflecting only 4.6% of the light it receives the diameter of the nucleus of enckes comet is 4.8 km
+
+
+ discovery 
+as its official designation implies enckes comet was the first periodic comet discovered after halleys comet designated 1phalley it was independently observed by several astronomers the second being caroline herschel in 1795  and the third jean-louis pons in 1818 its orbit was calculated by johann franz encke who through laborious calculations was able to link observations of comets in 1786 designated 2p1786 b1 1795 2p1795 v1 1805 2p1805 u1 and 1818 2p1818 w1 to the same object in 1819 he published his conclusions in the journal correspondance astronomique and predicted correctly its return in 1822 2p1822 l1 it was recovered by carl ludwig christian rümker at parramatta observatory on 2 june 1822
+
+
+ orbit 
+comets are in unstable orbits that evolve over time due to perturbations and outgassing given enckes low orbital inclination near the ecliptic and brief orbital period of 3 years the orbit of encke is frequently perturbed by the inner planetsenckes orbit gets as close as 0.17309 au 25,894,000 km 16,090,000 mi to earth minimum orbit intersection distance on 4 july 1997 encke passed 0.19 au from earth and on june 29 2172 it will make a close approach of roughly 0.1735 au on 18 november 2013 it passed 0.02496 au 3,734,000 km 2,320,000 mi from mercury close approaches to earth usually occur every 33 years
+
+
+ observations 
+the failed contour mission was launched to study this comet and also schwassmann-wachmann 3
+
+on april 20 2007 stereo-a observed the tail of comet encke to be temporarily torn off by magnetic field disturbances caused by a coronal mass ejection a blast of solar particles from the sun the tail grew back due to the continuous shedding of dust and gas by the comet
+
+
+ meteor showers 
+
+comet encke is believed to be the originator of several related meteor showers known as the taurids which are encountered as the northern and southern taurids across november and the beta taurids in late june and early july a shower has similarly been reported affecting mercurynear-earth object 2004 tg10 may be a fragment of encke
+
+
+ mercury 
+measurements on board the nasa satellite messenger have revealed encke may contribute to seasonal meteor showers on mercury the mercury atmospheric and surface composition spectrometer mascs instrument discovered seasonal surges of calcium since the probe began orbiting the planet in march 2011 the spikes in calcium levels are thought to originate from small dust particles hitting the planet and knocking calcium-bearing molecules into the atmosphere in a process called impact vaporization however the general background of interplanetary dust in the inner solar system cannot by itself account for the periodic spikes in calcium this suggests a periodic source of additional dust for example a cometary debris field
+
+
+ effects on earth 
+more than one theory has associated enckes comet with impacts of cometary material on earth and with cultural significance
+the tunguska event of 1908 probably caused by the impact of a cometary body has also been postulated by czechoslovakian astronomer ľubor kresák as a fragment of comet encke
+
+a theory holds that the ancient symbol of the swastika appeared in a variety of cultures across the world at a similar time and could have been inspired by the appearance of a comet from head on as the curved jets would be reminiscent of the swastika shape see comets and the swastika motif comet encke has sometimes been identified as the comet in question in their 1982 book cosmic serpent page 155 victor clube and bill napier reproduce an ancient chinese catalogue of cometary shapes from the mawangdui silk texts which includes a swastika-shaped comet and suggest that some comet drawings were related to the breakup of the progenitor of encke and the taurid meteoroid stream fred whipple in his the mystery of comets 1985 page 163 points out that comet enckes polar axis is only 5 degrees from its orbital plane such an orientation is ideal to have presented a pinwheel like aspect to our ancestors when encke was more active
+
+
+ importance in the scientific history of luminiferous aether 
+comet encke and bielas comet had a role in scientific history in the generally discredited concept of luminiferous aether as its orbit was perturbed and shortened the shortening could only be ascribed to the drag of an ether through which it orbited in outer space one reference reads
+
+enckes comet is found to lose about two days in each successive period of 1200 days bielas comet with twice that length of period loses about one day that is the successive returns of these bodies is found to be accelerated by this amount no other cause for this irregularity has been found but the agency of the supposed etherenckes pole tumbles in an 81-year period therefore it will accelerate for half that time and decelerate for the other half of the time since the orientation of the comets rotation to solar heating determines how its orbit changes due to outgassing forward or aft of the comets course the authors of this 1860 textbook of course could not know that the pole of the comet would tumble as it does over such a long period of time or that outgassing would induce a thrust to change its course
+
+
+ gallery 
+
+		
+
+
+ references 
+
+
+ external links 
+orbital simulation from jpl java  ephemeris
+2pencke at the minor planet centers database
+gary w kronks cometography page for 2p
+2pencke at cometbase database
+2pencke light curve by seiichi yoshida
+comets and the bronze age collapse
+solar storm tears tail from comet encke
+nasa astronomy picture of the day animation of enckes tail being torn away 3 october 2007
+hi-1a movie showing comet encke april 2007
+importance in history of luminiferous aether search for enckes comet
+study of the april 20 2007 cme-comet interaction event with an sic mhd model arxiv 0903.4942

@@ -1,0 +1,66 @@
+an expendable launch vehicle elv  is a launch system or launch vehicle stage that is used only once to carry a payload into space historically satellites and human spacecraft were launched mainly using expendable launchers elv advantages include cost savings through mass production and a greater payload fractiontheir components are not recovered  this contrasts with a reusable launch system or rlv in which some or all of the components are recovered intact  the vehicle typically consists of several rocket stages discarded one by one as the vehicle gains altitude and speed
+a few companies are developing reusable launch systems intended to cut costs  a reusable launch vehicle such as the spacex falcon 9 first-stage booster may be flown in expendable configuration to increase performance although this is unusual  the now-retired space shuttle was one of the earliest rlvs  it was intended to greatly reduce launch costs but actually increased them
+
+
+ expendable configuration of reusable launch vehicles 
+some reusable launch vehicles are on occasion launched to orbit in expendable configuration  for example echostar 23 was launched to orbit in march 2017 on an rlv falcon 9 where the first stage carried no grid fins nor landing legs 
+and used all of the requisite propellant for landing to impart additional energy to the heavy mass of the large commsat payload being transported to geosynchronous orbit
+
+
+ development 
+
+
+ european sponsorship 
+
+on march 26 1980 the european space agency and the centre national detudes spatiales cnes created arianespace the worlds first commercial space transportation company arianespace produces operates and markets the ariane launcher family during 1995 arianespace lofted its 100th satellite and on 23 september 1997 the ariane rocket had its 100th launch arianespaces 23 shareholders represent scientific technical financial and political entities from 10 different european countries the major shareholder is the cnes with 34.68% of capital
+
+
+ american deregulation 
+
+from the beginning of the shuttle program until the challenger disaster in 1986 it was the policy of the united states that nasa be the public-sector provider of us launch capacity to the world market at the start nasa subsidized satellite launches intending to eventually price shuttle service for the commercial market at long-run marginal cost
+on october 30 1984 united states president ronald reagan signed into law the commercial space launch act this enabled an american industry of private operators of expendable launch systems
+on november 5 1990 united states president george h w bush signed into law the launch services purchase act  the act in a complete reversal of the earlier space shuttle monopoly specified that nasa is to purchase launch services for its primary payloads from commercial providers whenever such services are required in the course of its activities this eventually lead to the nasa cots program
+
+
+ russian privatization 
+the russian government sold part of its stake in rsc energia to private investors in 1994 energia together with khrunichev state research and production space center constituted most of the russian manned space program in 1997 the russian government sold off enough of its share to lose the majority position
+
+
+ american subsidization 
+
+in 1996 the united states government selected lockheed martin and boeing to each develop evolved expendable launch vehicles eelv to compete for launch contracts and provide assured access to space the governments acquisition strategy relied on the strong commercial viability of both vehicles to lower unit costs this anticipated market demand did not materialize but both the delta iv and atlas v eelvs remain in active service
+
+
+ russian renationalization 
+
+beginning in 2013 the russian government began a renationalization of the russian space sector  among the actions taken was the formation of the united rocket and space corporation russian объединенная ракетно-космическая корпорация to consolidate a large number of disparate companies and bureaus   
+the efforts have continued into 2014 on 19 may 2015 state duma passed a bill on a creation of roscosmos state corporation further consolidating the industry
+
+
+ launch alliances 
+since 1995 khrunichevs proton rocket is marketed through international launch services while the soyuz rocket is marketed via starsem energia builds the soyuz rocket and owns part of the sea launch project which flies the ukrainian zenit rocket
+in 2003 arianespace joined with boeing launch services and mitsubishi heavy industries to create the launch services alliance in 2005 continued weak commercial demand for eelv launches drove lockheed martin and boeing to propose a joint venture called the united launch alliance to lower costs for the united states government
+
+
+ see also 
+
+comparison of orbital launch systems
+comparison of orbital launchers families
+evolved expendable launch vehicle
+launch vehicle
+lists of rockets
+newspace
+spacecraft propulsion
+spaceflight
+
+
+ references 
+
+
+ external links 
+lockheed martin website
+the boeing company
+arianespace website
+esa website
+mitsubishi heavy industries website in japanese
+mitsubishi heavy industries website in english

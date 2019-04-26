@@ -1,0 +1,37 @@
+styx  is a small natural satellite of pluto whose discovery was announced on 11 july 2012 it was imaged along with pluto and plutos other moons by the new horizons spacecraft in july 2015 a single image was returnedstyx is the second satellite of pluto by distance and the fifth discovered it was discovered one year after kerberos styx is approximately 19 km 12 mi across its longest dimension and its orbital period is 20.2 days
+
+
+ discovery and observations 
+styx was discovered by a team led by astronomer mark r showalter using fourteen sets of images taken between 26 june and 9 july 2012 by the wide field camera 3 fitted to the hubble space telescope the discovery was announced on 11 july 2012 styx is about half as bright as the dimmest previously known object in the system kerberos and about one hundred thousandth as bright as pluto it was designated s2012 134340 1 and informally referred to as p5the survey work leading to the discovery of styx was in preparation for the mission of the unmanned new horizons spacecraft which flew by the pluto system on 14 july 2015 the discovery of another small plutonian moon heightened concerns that this region of space may harbor more bodies too small to be detected and that the spacecraft could be damaged by an uncharted body or ring as it traversed the system at a speed of over 13 kms tiny moons such as saturns moon pallene tend to be associated with tenuous rings or arcs because their gravity is unable to hold on to material ejected by meteoroid impacts such diffuse material represents the chief navigational hazard however the new horizons spacecraft did not detect any smaller moons or rings and passed through the pluto system safely
+
+
+ origin 
+the unexpectedly complex moon system around pluto may be the result of a collision between pluto and another sizable kuiper belt object in the distant past plutos moons may have coalesced from the debris from such an event similar to the early giant impact thought to have created the moon the orbital resonances may have acted as ruts to gather material from the collision
+
+
+ physical properties 
+styx was originally estimated to have a diameter of between 10 and 25 km 6.2 and 15.5 mi these figures were inferred from the apparent magnitude of styx and by using an estimated albedo of 0.35 and 0.04 for the lower and upper bounds respectively after measurements made by new horizons it turns out that styx albeit not surprisingly is very irregularly shaped measuring approximately 16 km × 9 km × 8 km 9.9 mi × 5.6 mi × 5.0 mi it is thought to have formed from the debris lofted by a collision which would have led to losses of the more volatile ices such as those of nitrogen and methane in the composition of the impactors this process is expected to have created a body consisting mainly of water ice
+
+
+ orbit 
+
+styx orbits the pluto–charon barycenter at a distance of 42,656 km putting it between the orbits of charon and nix all of plutos moons appear to travel in orbits that are very nearly circular and coplanar described by styxs discoverer mark showalter as neatly nested  a bit like russian dollsit is in an 116 orbital resonance with hydra and an 119 resonance with nix the ratios represent numbers of orbits completed per unit time the period ratios are the inverses as a result of this laplace-like 3-body resonance it has conjunctions with nix and hydra in a 25 ratio
+its orbital period of 20.16155 days is about 5.0% from a 13 mean-motion resonance with the charon–pluto orbital period of 6.387 days with the other moons nix kerberos and hydra it forms part of an unusual 13456 period ratio sequence of near resonances in contrast to its orbit styxs rotation is very chaotic like the other small plutonian moons styxs rotation is not tidally locked and it varies rapidly over short timescales with a rate of about 3.239 days at the time of the new horizons flyby
+
+
+ naming 
+upon discovery styx received the minor planet designation s2012 134340 1 because it was the first satellite s discovered orbiting minor planet 134340 in 2012 it is known informally as p5 meaning the fifth plutonian moon to be discovered
+the convention for naming plutonian moons is to use names associated with the god pluto in classical mythology to decide on names for p4 and p5 mark showalter and the seti institute on behalf of the discovery team conducted a non-binding internet poll in 2013 in which the general public was invited to vote for their favorite names the public could choose from a selection of greek mythological names related to the god pluto or could propose their own names after the initial announcement william shatner the actor who plays captain james t kirk in the star trek franchise proposed the names vulcan and romulus ostensibly referring to the fire god vulcan a nephew of pluto and to romulus the founder of rome but also alluding to the fictional planets of vulcan and romulus in the star trek universe the romulus suggestion was discounted as there is already an asteroid moon of that name but vulcan won the poll after shatner tweeted about it with cerberus the dog that guards plutos underworld coming second and styx the goddess of the river of the same name in the underworld coming third the winning names were submitted to the international astronomical union
+however vulcan was unacceptable to the iau because it was not the name of an underworld figure and had already been used for a hypothetical planet inside the orbit of mercury as well as having given its name to the vulcanoidson 2 july 2013 the iau announced that it had formally approved the names styx for p5 and kerberos for p4
+
+
+ in science fiction 
+author edmond hamilton referred to three moons of pluto in his 1940 novel calling captain future naming them charon styx and cerberus
+
+
+ references 
+
+
+ external links 
+showalter mark hubble press release hubble discovers a fifth moon orbiting pluto 11 july 2012
+zme science new moon discovered around pluto – the fifth 11 july 2012

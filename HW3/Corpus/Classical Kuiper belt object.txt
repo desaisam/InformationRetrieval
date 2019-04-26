@@ -1,0 +1,87 @@
+a classical kuiper belt object also called a cubewano  qb1-o is a low-eccentricity kuiper belt object kbo that orbits beyond neptune and is not controlled by an orbital resonance with neptune cubewanos have orbits with semi-major axes in the 40–50 au range and unlike pluto do not cross neptunes orbit that is they have low-eccentricity and sometimes low-inclination orbits like the classical planets
+the name cubewano derives from the first trans-neptunian object tno found after pluto and charon 15760 albion which until january 2018 had only had the provisional designation 15760 1992 qb1 similar objects found later were often called qb1-os or cubewanos after this object though the term classical is much more frequently used in the scientific literature
+objects identified as cubewanos include
+
+15760 albion aka 1992 qb1 and gave rise to term cubewano
+makemake the largest known cubewano and a dwarf planet
+50000 quaoar and 20000 varuna each considered the largest tno at the time of discovery
+19521 chaos 58534 logos 53311 deucalion 66652 borasisi 88611 teharonhiawako
+33001 1997 cu29 55636 2002 tx300 55565 2002 aw197 55637 2002 ux25
+486958 2014 mu69 nicknamed ultima thulehaumea was provisionally listed as a cubewano by the minor planet center in 2006 but turned out to be resonant
+
+
+ orbits hot and cold populations 
+
+there are two basic dynamical classes of kuiper-belt bodies those with relatively unperturbed cold orbits and those with markedly perturbed hot orbits
+most cubewanos are found between the 23 orbital resonance with neptune populated by plutinos and the 12 resonance 50000 quaoar for example has a near-circular orbit close to the ecliptic plutinos on the other hand have more eccentric orbits bringing some of them closer to the sun than neptune
+the majority of objects the so-called cold population have low inclinations  5° and near-circular orbits lying between 42 and 47 au a smaller population the hot population is characterised by highly inclined more eccentric orbits the terms hot and cold refer to the orbits of the objects by analogy with the motion of molecules in a hot or cold gas and have nothing to do with their surface or internal temperatures 
+the deep ecliptic survey reports the distributions of the two populations one with the inclination centered at 4.6° named core and another with inclinations extending beyond 30° halo
+
+
+ distribution 
+the vast majority of kbos more than two-thirds have inclinations of less than 5° and eccentricities of less than 0.1 their semi-major axes show a preference for the middle of the main belt arguably smaller objects close to the limiting resonances have been either captured into resonance or have their orbits modified by neptune
+the hot and cold populations are strikingly different more than 30% of all cubewanos are in low inclination near-circular orbits the parameters of the plutinos’ orbits are more evenly distributed with a local maximum in moderate eccentricities in 0.15–0.2 range and low inclinations 5–10°
+see also the comparison with scattered disk objects
+when the orbital eccentricities of cubewanos and plutinos are compared it can be seen that the cubewanos form a clear belt outside neptunes orbit whereas the plutinos approach or even cross neptunes orbit when orbital inclinations are compared hot cubewanos can be easily distinguished by their higher inclinations as the plutinos typically keep orbits below 20° no clear explanation currently exists for the inclinations of hot cubewanos
+
+
+ cold and hot populations physical characteristics 
+in addition to the distinct orbital characteristics the two populations display different physical characteristics
+the difference in colour between the red cold population such as 2014 mu69 and more heterogeneous hot population was observed as early as in 2002
+recent studies based on a larger data set indicate the cut-off inclination of 12° instead of 5° between the cold and hot populations and confirm the distinction between the homogenous red cold population and the bluish hot populationanother difference between the low-inclination cold and high-inclination hot classical objects is the observed number of binary objects binaries are quite common on low-inclination orbits and are typically similar-brightness systems binaries are less common on high-inclination orbits and their components typically differ in brightness this correlation together with the differences in colour support further the suggestion that the currently observed classical objects belong to at least two different overlapping populations with different physical properties and orbital history
+
+
+ toward a formal definition 
+there is no official definition of cubewano or classical kbo however the terms are normally used to refer to objects free from significant perturbation from neptune thereby excluding kbos in orbital resonance with neptune resonant trans-neptunian objects the minor planet center mpc and the deep ecliptic survey des do not list cubewanos classical objects using the same criteria many tnos classified as cubewanos by the mpc are classified as scatnear possibly scattered by neptune by the des dwarf planet makemake is such a borderline classical cubewanoscatnear object 119951 2002 kx14 may be an inner cubewano near the plutinos furthermore there is evidence that the kuiper belt has an edge in that an apparent lack of low-inclination objects beyond 47–49 au was suspected as early as 1998 and shown with more data in 2001 consequently the traditional usage of the terms is based on the orbits semi-major axis and includes objects situated between the 23 and 12 resonances that is between 39.4 and 47.8 au with exclusion of these resonances and the minor ones in-betweenthese definitions lack precision in particular the boundary between the classical objects and the scattered disk remains blurred as of 2010 there are 377 objects with perihelion q  40 au and aphelion q  47 au
+
+
+ des classification 
+introduced by the report from the deep ecliptic survey by j l elliott et al in 2005 uses formal criteria based on the mean orbital parameters put informally the definition includes the objects that have never crossed the orbit of neptune according to this definition an object qualifies as a classical kbo if
+
+it is not resonant
+its average tisserands parameter with respect to neptune exceeds 3
+its average eccentricity is less than 0.2
+
+
+ ssbn07 classification 
+an alternative classification introduced by b gladman b marsden and c van laerhoven in 2007 uses a 10-million-year orbit integration instead of the tisserands parameter classical objects are defined as not resonant and not being currently scattered by neptuneformally this definition includes as classical all objects with their current orbits that
+
+are non-resonant see the definition of the method
+have a semi-major axis greater than that of neptune 30.1 au ie excluding centaurs but less than 2000 au to exclude inner-oort-cloud objects
+are not being scattered by neptune
+have their eccentricity 
+  
+    
+      
+        e
+        
+        0.240
+      
+    
+    displaystyle e0.240
+   to exclude detached objectsunlike other schemes this definition includes the objects with major semi-axis less than 39.4 au 23 resonance—termed inner classical belt or more than 48.7 12 resonance – termed outer classical belt and reserves the term main classical belt for the orbits between these two resonances
+
+
+ families 
+the first known collisional family in the classical kuiper belt—a group of objects thought to be remnants from the breakup of a single body—is the haumea family it includes haumea its moons 2002 tx300 and seven smaller bodies† the objects not only follow similar orbits but also share similar physical characteristics unlike many other kbo their surface contains large amounts of ice h2o and no or very little tholins the surface composition is inferred from their neutral as opposed to red colour and deep absorption at 1.5 and 2 μm in infrared spectrum several other collisional families might reside in the classical kuiper belt†as of 2008 the four brightest objects of the family are situated on the graphs inside the circle representing haumea
+
+
+ exploration 
+
+as of january 2019 only one classical kuiper belt object has been observed up close by spacecraft both voyager spacecrafts have passed through the region before the discovery of the kuiper belt new horizons was the first mission to visit a classical kbo after its successful exploration of the pluto system in 2015 the nasa spacecraft has visited the small kbo 486958 2014 mu69 at a distance of 3,500 kilometres 2,200 mi on january 1 2019
+
+
+ list 
+
+here is a very generic list of classical kuiper belt objects as of  march 2018 there are about 579 objects with q  40 au and q  48 au
+
+
+ references 
+
+
+ external links 
+david jewitts kuiper belt site
+the kuiper belt electronic newsletter
+minor planet center list of trans-neptunian objects
+tno pages at johnstonarchive
+plot of the current positions of bodies in the outer solar system

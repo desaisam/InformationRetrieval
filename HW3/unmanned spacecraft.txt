@@ -1,0 +1,100 @@
+1.List of unmanned spacecraft by program.txt Score : 0.9004297
+2.List of unmanned spaceflights to Salyut space stations.txt Score : 0.6285044
+3.Timeline of artificial satellites and space probes.txt Score : 0.46308547
+4.List of human spaceflights to the International Space Station.txt Score : 0.40570372
+5.List of spaceflights to the International Space Station.txt Score : 0.34738874
+6.List of Apollo missions.txt Score : 0.32890543
+7.List of human spaceflights to Mir.txt Score : 0.30427778
+8.Spacecraft.txt Score : 0.30033326
+9.Cosmos 186.txt Score : 0.28687584
+10.Cosmos 188.txt Score : 0.28687584
+11.Soyuz program.txt Score : 0.28250772
+12.Soyuz programme.txt Score : 0.28250772
+13.Shenzhou program.txt Score : 0.2819683
+14.List of missions to the Moon.txt Score : 0.2692654
+15.List of Constellation missions.txt Score : 0.265959
+16.Robotic spacecraft.txt Score : 0.26463658
+17.Unmanned robotic space probes.txt Score : 0.26463658
+18.Voskhod program.txt Score : 0.26149225
+19.Voskhod programme.txt Score : 0.26149225
+20.List of human spaceflights to Salyut space stations.txt Score : 0.25356483
+21.Ground station.txt Score : 0.23876247
+22.Subsatellite.txt Score : 0.22510743
+23.Moon landing.txt Score : 0.22509047
+24.History of spaceflight.txt Score : 0.21182683
+25.List of Mars orbiters.txt Score : 0.20952955
+26.Luna 9.txt Score : 0.20952955
+27.Soyuz spacecraft.txt Score : 0.20457713
+28.Ground segment.txt Score : 0.2002769
+29.Mercury program.txt Score : 0.19828226
+30.Project Mercury.txt Score : 0.19828226
+31.Outline of space exploration.txt Score : 0.19494875
+32.Surveyor program.txt Score : 0.19394453
+33.Zond program.txt Score : 0.1903994
+34.Exploration of the Moon.txt Score : 0.18875831
+35.Ranger program.txt Score : 0.18853897
+36.List of spaceflight records.txt Score : 0.17567486
+37.Salyut programme.txt Score : 0.17543846
+38.Salyut.txt Score : 0.17543846
+39.Pioneer 10.txt Score : 0.1722495
+40.Mars 3.txt Score : 0.17125046
+41.NASA.txt Score : 0.17067999
+42.National Aeronautics and Space Administration.txt Score : 0.17067999
+43.Neptune Orbiter.txt Score : 0.16829088
+44.Mariner program.txt Score : 0.16762364
+45.Spaceflight.txt Score : 0.1672473
+46.Soviet space program.txt Score : 0.1671362
+47.List of unmanned spaceflights to Mir.txt Score : 0.15816793
+48.Interkosmos.txt Score : 0.15600842
+49.Phobos program.txt Score : 0.15515563
+50.Vega program.txt Score : 0.15515563
+51.Mars probe program.txt Score : 0.15462856
+52.Interstellar spaceflight.txt Score : 0.1542286
+53.Interstellar travel.txt Score : 0.1542286
+54.Apollo–Soyuz Test Project.txt Score : 0.15314946
+55.Stardust (spacecraft).txt Score : 0.1514575
+56.Venera 9.txt Score : 0.15136546
+57.Lunokhod programme.txt Score : 0.14621156
+58.Constellation program.txt Score : 0.1456388
+59.Spaceport.txt Score : 0.1448273
+60.Gemini program.txt Score : 0.1448107
+61.Project Gemini.txt Score : 0.1448107
+62.Pioneer 11.txt Score : 0.14374667
+63.Apollo program.txt Score : 0.1409378
+64.Project Apollo.txt Score : 0.1409378
+65.Surveyor 1.txt Score : 0.14036626
+66.Interplanetary spaceflight.txt Score : 0.13552566
+67.Apollo 8.txt Score : 0.13524607
+68.Space Shuttle program.txt Score : 0.13179311
+69.Lander (spacecraft).txt Score : 0.1313101
+70.Far side of the Moon.txt Score : 0.12843785
+71.Styx (moon).txt Score : 0.12829077
+72.Discovery and exploration of the Solar System.txt Score : 0.124137685
+73.List of human spaceflight programs.txt Score : 0.12289982
+74.List of human spaceflights by program.txt Score : 0.12289982
+75.List of active Solar System probes.txt Score : 0.12282047
+76.List of NASA missions.txt Score : 0.12282047
+77.Beam-powered propulsion.txt Score : 0.122746274
+78.Moon.txt Score : 0.121229015
+79.Exploration of Uranus.txt Score : 0.121092364
+80.List of Space Shuttle missions.txt Score : 0.121092364
+81.Spaceplane.txt Score : 0.121092364
+82.Mars Orbiter Mission.txt Score : 0.1197889
+83.Galileo (spacecraft).txt Score : 0.1197858
+84.Galileo spacecraft.txt Score : 0.1197858
+85.Rover (space exploration).txt Score : 0.11963639
+86.List of spaceflight-related accidents and incidents.txt Score : 0.118259504
+87.Space disasters.txt Score : 0.118259504
+88.Space exploration.txt Score : 0.11757262
+89.Space missions.txt Score : 0.11757262
+90.Asia's Space Race.txt Score : 0.11659534
+91.Comparison of Asian national space programs.txt Score : 0.11659534
+92.Intergalactic travel.txt Score : 0.112553716
+93.Pioneer program.txt Score : 0.112553716
+94.Exploration of Mars.txt Score : 0.11157231
+95.Mars Curse.txt Score : 0.11157231
+96.Future of space exploration.txt Score : 0.11110307
+97.Hayabusa (spacecraft).txt Score : 0.109616354
+98.Space Station.txt Score : 0.10922909
+99.Sub-orbital spaceflight.txt Score : 0.10703154
+100.Interplanetary contamination.txt Score : 0.104764774

@@ -1,0 +1,32 @@
+a kirkwood gap is a gap or dip in the distribution of the semi-major axes or equivalently of the orbital periods of the orbits of main-belt asteroids they correspond to the locations of orbital resonances with jupiter
+for example there are very few asteroids with semimajor axis near 2.50 au period 3.95 years which would make three orbits for each orbit of jupiter hence called the 31 orbital resonance other orbital resonances correspond to orbital periods whose lengths are simple fractions of jupiters the weaker resonances lead only to a depletion of asteroids while spikes in the histogram are often due to the presence of a prominent asteroid family see list of asteroid families
+the gaps were first noticed in 1866 by daniel kirkwood who also correctly explained their origin in the orbital resonances with jupiter while a professor at jefferson college in canonsburg pennsylvaniamost of the kirkwood gaps are depleted unlike the mean-motion resonances mmr of neptune or jupiters 32 resonance that retain objects captured during the giant planet migration of the nice model the loss of objects from the kirkwood gaps is due to the overlapping of the ν5 and ν6 secular resonances within the mean-motion resonances the orbital elements of the asteroids vary chaotically as a result and evolve onto planet-crossing orbits within a few million years the 21 mmr has a few relatively stable islands within the resonance however these islands are depleted due to slow diffusion onto less stable orbits this process which has been linked to jupiter and saturn being near a 52 resonance may have been more rapid when jupiters and saturns orbits were closer togethermore recently a relatively small number of asteroids have been found to possess high eccentricity orbits which do lie within the kirkwood gaps examples include the alinda and griqua groups these orbits slowly increase their eccentricity on a timescale of tens of millions of years and will eventually break out of the resonance due to close encounters with a major planet
+the most prominent kirkwood gaps are located at mean orbital radii of
+2.06 au 41 resonance
+2.5  au 31 resonance home to the alinda group of asteroids
+2.82 au 52 resonance
+2.95 au 73 resonance
+3.27 au 21 resonance hecuba gap home to the griqua group of asteroidsweaker andor narrower gaps are also found at
+
+1.9 au 92 resonance
+2.25 au 72 resonance
+2.33 au 103 resonance
+2.71 au 83 resonance
+3.03 au 94 resonance
+3.075 au 115 resonance
+3.47 au 116 resonance
+3.7  au 53 resonance
+
+
+ see also 
+orbital resonance
+alinda group
+cybele group
+griqua group
+
+
+ references 
+
+
+ external links 
+article on kirkwood gaps at wolframs scienceworld

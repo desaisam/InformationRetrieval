@@ -1,0 +1,144 @@
+in human spaceflight a life support system is a group of devices that allow a human being to survive in space
+us government space agency nasa and private spaceflight companies
+use the term environmental control and life support system or the acronym eclss when describing these systems for their human spaceflight missions the life support system may supply air water and food it must also maintain the correct body temperature an acceptable pressure on the body and deal with the bodys waste products shielding against harmful external influences such as radiation and micro-meteorites may also be necessary components of the life support system are life-critical and are designed and constructed using safety engineering techniques
+
+
+ human physiological and metabolic needs 
+a crewmember of typical size requires approximately 5 kilograms 11 lb of food water and oxygen per day to perform standard activities on a space mission and outputs a similar amount in the form of waste solids waste liquids and carbon dioxide  the mass breakdown of these metabolic parameters is as follows 0.84 kg of oxygen 0.62 kg of food and 3.52 kg of water consumed converted through the bodys physiological processes to 0.11 kg of solid wastes 3.87 kg of liquid wastes and 1.00 kg of carbon dioxide produced these levels can vary due to activity level specific to mission assignment but will correlate to the principles of mass balance actual water use during space missions is typically double the specified values mainly due to non-biological use ie personal cleanliness additionally the volume and variety of waste products varies with mission duration to include hair finger nails skin flaking and other biological wastes in missions exceeding one week in length other environmental considerations such as radiation gravity noise vibration and lighting also factor into human physiological response in space though not with the more immediate effect that the metabolic parameters have
+
+
+ atmosphere 
+space life support systems maintain atmospheres composed at a minimum of oxygen water vapor and carbon dioxide  the partial pressure of each component gas adds to the overall barometric pressure
+by reducing or omitting diluents constituents other than oxygen eg nitrogen and argon the total pressure can be lowered to a minimum of about 16 kpa this can lighten spacecraft structures reduce leaks and simplify the life support system
+however the elimination of diluent gases substantially increases fire risks especially in ground operations when for structural reasons the total cabin pressure must exceed the external atmospheric pressure see apollo 1 furthermore oxygen toxicity becomes a factor at high oxygen concentrations for this reason most modern crewed spacecraft use conventional air nitrogenoxygen atmospheres and use pure oxygen only in pressure suits during extravehicular activity where acceptable suit flexibility mandates the lowest inflation pressure possible
+
+
+ water 
+water is consumed by crew members for drinking cleaning activities eva thermal control and emergency uses it must be stored used and reclaimed from waste water efficiently since no on-site sources currently exist for the environments reached in the course of human space exploration future lunar missions may utilise water sourced from polar ices mars missions may utilise water from the atmosphere or ice deposits
+
+
+ food 
+all space missions to date have used supplied food  life support systems could include a plant cultivation system which allows food to be grown within buildings andor vessels this would also regenerate water and oxygen  however no such system has flown in space as yet  such a system could be designed so that it reuses most otherwise lost nutrients this is done for example by composting toilets which reintegrate waste material excrement back into the system allowing the nutrients to be taken up by the food crops the food coming from the crops is then consumed again by the systems users and the cycle continues
+
+
+ space vehicle systems 
+
+
+ gemini mercury  apollo 
+american mercury gemini and apollo spacecraft contained 100% oxygen atmospheres suitable for short duration missions to minimize weight and complexity
+
+
+ space shuttle 
+the space shuttle was the first american spacecraft to have an earth-like atmospheric mixture comprising 22% oxygen and 78% nitrogen for the space shuttle nasa includes in the eclss category systems that provide both life support for the crew and environmental control for payloads the shuttle reference manual contains eclss sections on crew compartment cabin pressurization cabin air revitalization water coolant loop system active thermal control system supply and waste water waste collection system waste water tank airlock support extravehicular mobility units crew altitude protection system and radioisotope thermoelectric generator cooling and gaseous nitrogen purge for payloads
+
+
+ orion crew module 
+the orion crew module life support system is being designed by lockheed martin in houston texas
+
+
+ soyuz 
+the life support system on the soyuz spacecraft is called the kompleks sredstv obespecheniya zhiznideyatelnosti ksozh
+vostok voshkod and soyuz contained air-like mixtures at approx 101kpa 14.7 psi
+
+
+ plug and play 
+the paragon space development corporation is developing a plug and play eclss called commercial crew transport-air revitalization system cct-ars for future spacecraft partially paid for using nasas commercial crew development ccdev moneythe cct-ars provides seven primary spacecraft life support functions in a highly integrated and reliable system air temperature control humidity removal carbon dioxide removal trace contaminant removal post-fire atmospheric recovery air filtration and cabin air circulation
+
+
+ space station systems 
+space station systems include technology that enables humans to live in space for a prolonged period of time  such technology includes filtration systems for human waste disposal and air production
+
+
+ skylab 
+skylab used 72% oxygen and 28% nitrogen at a total pressure of 5 psi  
+
+
+ salyut and mir 
+the salyut and mir space stations contained an air-like oxygen and nitrogen mixture at approximately sea-level pressures of 93.1 kpa 13.5psi to 129 kpa 18.8 psi with an oxygen content of 21% to 40
+
+
+ spacelab 
+
+
+ international space station 
+
+
+ bigelow commercial space station 
+the life support system for the bigelow commercial space station is being designed by bigelow aerospace in las vegas nevada  the space station will be constructed of habitable sundancer and ba 330 expandable spacecraft modules
+as of  october 2010 human-in-the-loop testing of the environmental control and life support system eclss for sundancer has begun
+
+
+ eva systems 
+extra-vehicular activity eva systems primarily consist of the traditional space suit along with a portable life support system
+
+
+ space suits 
+both space suit models currently in use the us emu and the russian orlan include primary life support systems plsss allowing the user to work independently without an umbilical connection from a spacecraft  a space suit must provide life support either through an umbilical connection or an independent plss
+
+
+ natural systems 
+natural lss like the biosphere 2 in arizona have been tested for future space travel or colonization these systems are also known as closed ecological systems they have the advantage of using solar energy as primary energy only and being independent from logistical support with fuel
+natural systems have the highest degree of efficiency due to integration of multiple functions they also provide the proper ambience for humans which is necessary for a longer stay in space
+
+
+ life support systems 
+
+
+ melissa 
+micro-ecological life support system alternative melissa is a european space agency led initiative conceived as a micro-organisms and higher plants based ecosystem intended as a tool to gain understanding of the behaviour of artificial ecosystems and for the development of the technology for a future regenerative life support system for long term manned space missions
+
+
+ cybliss 
+cybliss cyanobacterium-based life support systems is a concept developed by researchers from several space agencies nasa the german aerospace center and the italian space agency which would use cyanobacteria to process resources available on mars directly into useful products and into substrates for other key organisms of bioregenerative life support system blss the goal is to make future manned outposts on mars as independent of earth as possible explorers living off the land to reduce mission costs and increase safety
+even though developed independently cybliss would be complementary to other blss projects such as melissa as it can connect them to materials found on mars thereby making them sustainable and expandable there instead of relying on a closed loop new elements found on site can be brought into the system
+
+
+ see also 
+
+bioregenerative life support systemblss
+closed ecological system
+chlorella pyrenoidosa
+effect of spaceflight on the human body
+environmental control system aircraft
+international conference on environmental systems
+primary life support system
+thermal control system
+artificial gravity
+
+
+ footnotes 
+
+
+ references 
+barry patrick l november 13 2000 breathing easy on the space station sciencenasa archived from the original on 21 september 2008
+bell trudy e may 11 2007 preventing sick spaceships sciencenasa archived from the original on july 20 2012
+volunteers test bigelow life-support gear aviation week 2010-10-22 retrieved 2010-10-23
+davis jeffrey r johnson robert  stepanek jan 2008 fundamentals of aerospace medicine xii philadelphia pa usa lippincott williams  wilkins pp 261–264
+international space station environmental control and life support system pdf nasa retrieved 11 december 2010
+commercial crew and cargo paragon ccdev nasa november 30 2010
+hsf – the shuttle environmental control and life support system nasa
+paragon projects paragon january 2011 archived from the original on 24 june 2011
+press release – paragon space development corporation completes all development milestones on the nasa commercial crew development program paragon space development corporation archived from the original on 31 january 2013 retrieved 25 november 2012
+sulzman fm genin am 1994 space biology and medicine vol ii life support and habitability american institute of aeronautics and astronautics
+
+
+ further reading 
+eckart peter spaceflight life support and biospherics torrance ca microcosm press 1996 isbn 1-881883-04-3
+larson wiley j and pranke linda k eds human spaceflight mission analysis and design  new york mcgraw hill 1999 isbn 0-07-236811-x
+reed ronald d and coulter gary r physiology of spaceflight – chapter 5 103–132
+eckart peter and doll susan environmental control and life support system eclss – chapter 17 539–572
+griffin brand n spampinato phil and wilde richard c extravehicular activity systems – chapter 22 707–738
+wieland paul o designing for human presence in space an introduction to environmental control and life support systems national aeronautics and space administration nasa reference publication rp-1324 1994
+
+
+ external links 
+environmental control and life support system nasa-ksc
+dedication and perspiration builds the next generation life support system nasa fall 2007
+aerospace biomedical and life support engineering mit opencourseware page – spring 2006
+space advanced life support purdue course page – spring 2004
+advanced life support for missions to mars
+mars advanced life support
+mars life support systems
+publications on mars life support systems
+personal hygiene in space canadian space agency
+plants will be critical for human life support systems in space

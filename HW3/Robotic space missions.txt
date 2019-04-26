@@ -1,0 +1,100 @@
+1.List of missions to the Moon.txt Score : 0.48839355
+2.Aurora Programme.txt Score : 0.48066664
+3.List of lunar probes.txt Score : 0.3721882
+4.Robotic spacecraft.txt Score : 0.3166666
+5.Unmanned robotic space probes.txt Score : 0.3166666
+6.Sample return mission.txt Score : 0.31276655
+7.Sample-return mission.txt Score : 0.31276655
+8.Flexible path.txt Score : 0.31222424
+9.Vision for Space Exploration.txt Score : 0.30693924
+10.Outline of space exploration.txt Score : 0.29041293
+11.Deep space exploration.txt Score : 0.28220955
+12.Luna program.txt Score : 0.27901006
+13.Surveyor program.txt Score : 0.250847
+14.Chinese Lunar Exploration Program.txt Score : 0.24896662
+15.In-space propulsion technologies.txt Score : 0.24882382
+16.Exploration Mission 2.txt Score : 0.2451976
+17.Space architecture.txt Score : 0.24366084
+18.List of Solar System probes.txt Score : 0.24223088
+19.List of NASA missions.txt Score : 0.23942164
+20.Institute for Unmanned Space Experiment Free Flyer.txt Score : 0.230829
+21.Review of United States Human Space Flight Plans Committee.txt Score : 0.22855651
+22.Timeline of Space Shuttle missions.txt Score : 0.22736776
+23.Space exploration.txt Score : 0.22018076
+24.Space missions.txt Score : 0.22018076
+25.Space probe.txt Score : 0.21979056
+26.List of missions to comets.txt Score : 0.21699719
+27.List of private spaceflight companies.txt Score : 0.21683592
+28.List of unmanned spaceflights to the International Space Station.txt Score : 0.21215673
+29.List of Soviet manned space missions.txt Score : 0.20885062
+30.Future of space exploration.txt Score : 0.2064394
+31.Lander (spacecraft).txt Score : 0.20625487
+32.Canadian Space Agency.txt Score : 0.20499891
+33.List of missions to Venus.txt Score : 0.20458692
+34.Space policy of the United States.txt Score : 0.20437278
+35.Spaceflight.txt Score : 0.2020133
+36.Discovery program.txt Score : 0.19666553
+37.Rover (space exploration).txt Score : 0.1944434
+38.Chinese space program.txt Score : 0.19426961
+39.Interplanetary contamination.txt Score : 0.19373803
+40.List of human spaceflight programs.txt Score : 0.19325323
+41.List of human spaceflights by program.txt Score : 0.19325323
+42.Psychological and sociological effects of spaceflight.txt Score : 0.19313909
+43.Colonization of Venus.txt Score : 0.19301894
+44.Exploration of Mars.txt Score : 0.19232807
+45.Mars Curse.txt Score : 0.19232807
+46.Spacecraft.txt Score : 0.18774854
+47.Colonization of Mars.txt Score : 0.18202922
+48.List of artificial objects in heliocentric orbit.txt Score : 0.18121415
+49.European Space Agency.txt Score : 0.18017787
+50.List of Russian manned space missions.txt Score : 0.1796577
+51.Exploration of the Moon.txt Score : 0.17743142
+52.Indian Human Spaceflight Programme.txt Score : 0.17592962
+53.Google Lunar X Prize.txt Score : 0.1750691
+54.Moon landing.txt Score : 0.17310286
+55.Mars sample return mission.txt Score : 0.17041072
+56.Discovery and exploration of the Solar System.txt Score : 0.1695578
+57.Timeline of space exploration.txt Score : 0.16683257
+58.Roscosmos.txt Score : 0.16678187
+59.Italian Space Agency.txt Score : 0.16489923
+60.Flight controller.txt Score : 0.16431816
+61.Soviet space program.txt Score : 0.1630345
+62.NASA.txt Score : 0.1597436
+63.National Aeronautics and Space Administration.txt Score : 0.1597436
+64.Marshall Space Flight Center.txt Score : 0.15973678
+65.Shuttle–Mir Program.txt Score : 0.15748037
+66.International Space Station.txt Score : 0.15506695
+67.Asteroid mining.txt Score : 0.15338314
+68.History of spaceflight.txt Score : 0.14965676
+69.Swiss Space Office.txt Score : 0.14879686
+70.Pioneer 11.txt Score : 0.1463538
+71.Colonization of the Moon.txt Score : 0.1454004
+72.Private spaceflight.txt Score : 0.14504623
+73.Mars 3.txt Score : 0.14497131
+74.Colonization of Mercury.txt Score : 0.14226201
+75.Colonization of Phobos.txt Score : 0.14226201
+76.Space colonization.txt Score : 0.14226201
+77.STS-122.txt Score : 0.14123516
+78.Human spaceflight.txt Score : 0.14092354
+79.Timeline of longest spaceflights.txt Score : 0.14067662
+80.Timeline of planetary exploration.txt Score : 0.14001106
+81.Timeline of Solar System exploration.txt Score : 0.14001106
+82.Emirates Mars Mission.txt Score : 0.13919304
+83.Jet Propulsion Laboratory.txt Score : 0.13911603
+84.NASA spin-off.txt Score : 0.13833685
+85.List of female astronauts.txt Score : 0.13648033
+86.Stardust (spacecraft).txt Score : 0.13631631
+87.Space Research Centre of Polish Academy of Sciences.txt Score : 0.13488272
+88.List of Space Shuttle crews.txt Score : 0.13485694
+89.STS-133.txt Score : 0.13373528
+90.Swedish National Space Agency.txt Score : 0.13306013
+91.Lunar Roving Vehicle.txt Score : 0.13212885
+92.List of human spaceflights to the International Space Station.txt Score : 0.12926464
+93.Pioneer 10.txt Score : 0.12913649
+94.Orion (spacecraft).txt Score : 0.12909845
+95.Hubble Space Telescope.txt Score : 0.12894006
+96.List of Space Shuttle missions.txt Score : 0.12890595
+97.Interplanetary spaceflight.txt Score : 0.12879999
+98.Space Shuttle.txt Score : 0.1281026
+99.Timeline of artificial satellites and space probes.txt Score : 0.1265817
+100.Fobos-Grunt.txt Score : 0.12569386

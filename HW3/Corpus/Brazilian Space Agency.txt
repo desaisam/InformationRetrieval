@@ -1,0 +1,132 @@
+the brazilian space agency portuguese agência espacial brasileira aeb is the civilian authority in brazil responsible for the countrys space program it operates a spaceport at alcântara and a rocket launch site at barreira do inferno the agency has given brazil a role in space in south america and made brazil a former partner for cooperation in the international space stationthe brazilian space agency is the heir to brazils space program previously the program had been under the control of the brazilian military the program was transferred into civilian control on 10 february 1994
+it suffered a major setback in 2003 when a rocket explosion killed 21 technicians brazil successfully launched its first rocket into space on 23 october 2004 from the alcântara launch center it was a vsb-30 launched on a sub-orbital mission several other successful launches have followedon march 30 2006 aeb astronaut marcos pontes became the first brazilian and the first native portuguese-speaking person to go into space where he stayed on the international space station for a week during his trip pontes carried out eight experiments selected by the brazilian space agency he landed in kazakhstan on april 8 2006 with the crew of expedition 12the brazilian space agency has pursued a policy of joint technological development with more advanced space programs initially it relied heavily on the united states but after meeting difficulties from them on technological transfers brazil has branched out working with other nations including china india russia and ukraine
+
+
+ history 
+
+the then president jânio quadros in 1960 established a commission that elaborated a national program for the space exploration as a result of this work in august 1961 the organization group of the national commission of space activities portuguese grupo de organização da comissão nacional de atividades espaciais was formed operating in são josé dos campos in the state of são paulo its researchers participated in international projects in the areas of astronomy geodesy geomagnetism and meteorology
+the gocnae was replaced in april 1971 by the institute for space research currently called the national institute for space research inpe since the creation of the then technical center of aeronautics cta the current department of aerospace science and technology dcta of the brazilian air force in 1946 the country has been following the international progress in the aerospace sector
+with the creation of the technological institute of aeronautics ita a fully qualified institution was formed to train highly qualified human resources in areas of state-of-the-art technology the dcta through the ita and the institute of aeronautics and space iae play a key role in the consolidation of the brazilian space program
+in the early 1970s the cobae was created - a body linked to the then general staff of the armed forces emfa - to coordinate and monitor the implementation of the space program this coordinating role in february 1994 was transferred to the brazilian space agency the creation of the aeb represents a change in government orientation by establishing a central coordinating body for the space program reporting directly to the presidency of the republic
+in 2011 argentinas defense minister arturo puricelli made a proposal to the brazilian minister celso amorim for the creation of a unified south american space agency by the year 2025 according to the european space agency in 2015 however the brazilian space agency and the ministry of defense rejected the argentine proposal because it understood that it would be an organ that would yield a lot of bureaucracy and few results like the confederation proposed by the united states and never came to anything and also because according to the agencys adviser a regional space agency would reverberate in the brazilian pocket that due to its territorial size would end up getting most of the invoice to pay
+
+
+ launch sites 
+
+
+ alcântara launch center 
+
+2°20′s 44°24′w
+the alcântara launch center portuguese centro de lançamento de alcântara cla is the main launch site and operational center of the brazilian space agency it is located in the peninsula of alcântara in the state of maranhão this region presents some excellent requirements such as low population density excellent security conditions and easiness of aerial and maritime access the most important factor is its closeness to the equator - alcântara is the closest launching base to the equator this gives the launch site a significant advantage in launching geosynchronous satellites
+
+
+ barreira do inferno launch center 
+
+5°55′30″s 35°9′47″w
+the barreira do inferno launch center portuguese centro de lançamento da barreira do inferno clbi is a rocket launch base of the brazilian space agency it is located in the city of parnamirim in the state of rio grande do norte it is primarily used to launch sounding rockets and to support the alcântara launch center
+
+
+ launch vehicles 
+
+
+ sounding rockets 
+
+the brazilian space agency has operated a series of sounding rockets
+
+sonda i
+sonda ii
+sonda iii
+sonda iv
+vsb-30
+vs-30
+vs-40
+vs-50 projected will use the new s-50 rocket engine
+
+
+ vlm 
+brazil has forged a cooperative arrangement with germany to develop a dedicated micro-satellite launch vehicle as a result the vlm veiculo lançador de microsatelites microsatelite launch vehicle based on the s50 rocket engine is being studied with the objective of orbiting satellites up to 150 kg in circular orbits ranging from 250 to 700 km it will be a three-stage rocket expected to launch the shefex iii mission by the german aerospace center dlr in 2019
+
+
+ vls 
+
+the vls - satellite launch vehicle portuguese veículo lançador de satélites was the brazilian space agencys main satellite launch vehicle it is a four-stage rocket composed of a core and four strap-on motors the vehicles first stage has four solid fuel motors derived from the sonda sounding rockets it is intended to deploy 100 to 380 kg satellites into 200 to 1200 km orbit or to deploy 75 to 275 kg payloads into 200 to 1000 km polar orbit the first 3 prototypes for the vehicle failed to launch with the 3rd exploding on the launch pad in 2003 resulting in the deaths of 21 aeb personnel
+the vls-1 v4 prototype was expected a launch in 2013 after subsequent delays the project was cancelled in 2016
+
+
+ southern cross program 
+
+the brazilian space agency was developing a new family of launch vehicles in cooperation with the russian federal space agency the five rockets of the southern cross family will be based on russias angara vehicle and liquid-propellant enginesthe first stage of the vls gama delta and epsilon rockets was to be powered by a unit based on the rd-191 engine the second stage which will be the same for all the southern cross rockets will be driven by an engine based on the molniya rocket the third stage will be a solid-propellant booster based on an upgraded version of the vls-1 the program was named southern cross in reference to the crux constellation present on the flag of brazil and composed of five stars hence the names of the future launch vehicles
+vls alfa light-weight rocketthe first rocket to be developed as a direct modification of the vls-1 of the original project replacing the fourth and fifth stages by a single liquid fuel engine it can place payloads in the range 200–400 kg in orbits up to 750 km
+
+vls beta light-weight rocketconsisting of three stages without auxiliary thrusters the first stage is a solid fuel propellant 40 tons the second will have 30 tons of thrust engine and the latter will be 7.5 tons of thrust with the same mixture kerolox it can place payloads up to 800 kg in orbits up to 800 km
+
+vls gama light-weight rocketthe vls gama launcher is part of the light-weight class but using the near-equatorial position of the alcântara launch center it can place almost 1 ton of payload into orbit up to 800 km
+
+vls delta medium-weight rocketthe vls delta launcher is a medium-weight rocket and differs from the gamma by having four solid-propellant boosters attached to the first stage its payload deliverable to a geostationary orbit is 2 tons
+vls epsilon heavy-weight rocketthe vls epsilon launcher is a heavy-weight rocket with three identical units attached to the first stage it can place a 4 tons spacecraft in geostationary orbit if it is launched from alcântarathe brazilian government was planning to allocate 1 billion dollars for the project over six years it has already set aside 650 million for the construction of five launch pads able to handle up to 12 launches per year the program was scheduled to be completed by 2022 however it was cancelled by brazilian president dilma rouseff instead brazil will focus on a series of smaller launch vehicles that appear to rely more on home-grown technology
+
+
+ engines 
+
+a number of different engines were developed for usage on the several launch vehicles
+
+s-10-1 solid rocket engine used on sonda 1 thrust 27 kn
+s-10-2 solid rocket engine used on sonda 1 thrust 4.20 kn burn time 32 s
+s-20 avibras solid rocket engine used on sonda 2 and sonda 3  thrust36 kn
+s-23 avibrassolid rocket engine used on sonda 3m1  thrust18 kn
+s-30 iae solid rocket engine used on sonda 3 sonda 3m1 sonda 4 vs-30 vs-30orion and vsb-30  thrust 20.490 kn
+s-31 iae solid rocket engine used on vsb-30  thrust 240 kn
+s-40tm iae solid rocket engine used on vls-r1 vs-40 vls-1 and vlm-1  thrust 208.4 kn isp272s
+s-43 iae solid rocket engine  used on sonda 4 vls-r1 and vls-1 thrust 303 kn isp265s
+s-43tm iae solid rocket engine used on vls-r1 vls-1 and vlm thrust 321.7 kn isp276s
+s-44 iae solid rocket engine used on vls-r1 vs-40 vls-1 and vlm-1 thrust33.24 kn isp282s
+l5 estágio líquido propulsivo epl liquid fuel rocket engine tested on vs-30 and projected for use on vls-alfa
+l15 liquid fuel rocket engine projected for use on vs-15 thrust 15 kn
+l75 liquid fuel rocket engine similar to the russian rd-0109 projected for use on vls-alfa vls-beta vls-omega vls-gama and vls-epsilon thrust 75 kn
+s-50 iae solid rocket engine projected for use on vlm-1 and vs-50
+l1500 liquid fuel rocket engine used on vls-beta vls-omega vls-gama and vls-epsilon thrust 1500 kn
+
+
+ satellites 
+the brazilian space agency has several active imagery intelligence satellites in orbit including reconnaissance and earth observation satellites several others are currently in development
+
+
+ human spaceflight 
+marcos pontes a lieutenant colonel in the brazilian air force is an astronaut of the brazilian space agency pontes was the first brazilian astronaut having launched with the expedition 13 crew from the baikonur cosmodrome in kazakhstan on march 29 2006 aboard a soyuz-tma spacecraft pontes docked with the international space station iss on march 31 2006 where he lived and worked for 9 days pontes returned to earth with the expedition 12 crew landing in kazakhstan on april 8 2006 in january of 2019 marcos pontes was nominated by the brazilian president jair bolsonaro as minister of science technology innovation and communication a position he holds still
+
+
+ international cooperation 
+
+
+ chinacbers 
+the china–brazil earth resources satellite program cbers is a technological cooperation program between brazil and china which develops and operates earth observation satellites
+brazil and china negotiated the cbers project during two years 1986–1988 renewed in 1994 and again in 2004
+
+
+ international space station 
+the brazilian space agency is a bilateral partner of nasa in the international space station the agreement for the design development operation and use of brazilian developed flight equipment and payloads for the space station was signed in 1997 it includes the development of six items among which are a window observational research facility and a technology experiment facility in return nasa will provide brazil with access to its iss facilities on-orbit as well as a flight opportunity for one brazilian astronaut during the course of the iss program
+however due to cost issues the subcontractor embraer was unable to provide the promised express pallet and brazil left the programme in 2007
+
+
+ ukraineciclone 4 
+on october 21 2003 the brazilian space agency and the state space agency of ukraine established a cooperation agreement creating a joint venture space enterprise called the new company will focus on launching satellites from the alcântara launch center using the tsyklon-4 rocket the company will invest 160 million dollars in infrastructure for the new launch pad that will be constructed at the alcântara launch center
+in march 2009 the brazilian government increased its financial capital by us 50 millionthe first launch was planned for 2014 from the alcantara launch center 
+
+
+ japan 
+on november 8 2010 national institute for space research inpe and japan aerospace exploration agency jaxa signed a letter of intent regarding the reducing emissions from deforestation and forest degradation in developing countries redd program examples of the cooperation include the monitoring of illegal logging in the amazon rainforest utilizing data from jaxas alos satellite both brazil and japan are members of the global precipitation measurement project
+
+
+ see also 
+national institute for space research inpe
+aerospace technology and science department dcta
+technological institute of aeronautics ita
+list of government space agencies
+
+
+ references 
+
+
+ external links 
+official site in portuguese
+an article on the agency

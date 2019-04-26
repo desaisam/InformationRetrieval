@@ -1,0 +1,45 @@
+neptune trojans are bodies that orbit the sun near one of the stable lagrangian points of neptune similar to the trojans of other planets they therefore have approximately the same orbital period as neptune and follow roughly the same orbital path 22 neptune trojans are currently known of which 19 orbit near the sun–neptune l4 lagrangian point 60° ahead of neptune and three orbit near neptunes l5 region 60° behind neptune the neptune trojans are termed trojans by analogy with the jupiter trojans
+the discovery of 2005 tn53 in a high-inclination 25° orbit was significant because it suggested a thick cloud of trojans jupiter trojans have inclinations up to 40° which is indicative of freeze-in capture instead of in situ or collisional formation it is suspected that large radius ≈ 100 km neptune trojans could outnumber jupiter trojans by an order of magnitudein 2010 the discovery of the first known l5 neptune trojan 2008 lc18 was announced neptunes trailing l5 region is currently very difficult to observe because it is along the line-of-sight to the center of the milky way an area of the sky crowded with stars
+it would have been possible for the new horizons spacecraft to investigate 2011 hm102 the only l5 neptune trojan discovered by 2014 detectable by new horizons when it passed through this region of space en route to pluto however new horizons may not have had sufficient downlink bandwidth so it was decided to give precedence to the preparations for the pluto flyby
+
+
+ discovery and exploration 
+in 2001 the first neptune trojan was discovered 2001 qr322 near neptunes l4 region and with it the fifth known populated stable reservoir of small bodies in the solar system in 2005 the discovery of the high-inclination trojan 2005 tn53 has indicated that the neptune trojans populate thick clouds which has constrained their possible origins see below
+on august 12 2010 the first l5 trojan 2008 lc18 was announced it was discovered by a dedicated survey that scanned regions where the light from the stars near the galactic center is obscured by dust clouds this suggests that large l5 trojans are as common as large l4 trojans to within uncertainty further constraining models about their origins see below
+it would have been possible for the new horizons spacecraft to investigate l5 neptune trojans discovered by 2014 when it passed through this region of space en route to pluto some of the patches where the light from the galactic center is obscured by dust clouds are along new horizonss flight path allowing detection of objects that the spacecraft could image 2011 hm102 the highest-inclination neptune trojan known was just bright enough for new horizons to observe it in end-2013 at a distance of 1.2 au however new horizons may not have had sufficient downlink bandwidth so it was eventually decided to give precedence to the preparations for the pluto flyby
+
+
+ dynamics and origin 
+
+the orbits of neptune trojans are highly stable neptune may have retained up to 50% of the original post-migration trojan population over the age of the solar system neptunes l5 can host stable trojans equally well as its l4 neptune trojans can librate up to 30° from their associated lagrangian points with a 10,000-year period neptune trojans that escape enter orbits similar to centaurs although neptune cannot currently capture stable trojans roughly 2.8% of the centaurs within 34 au are predicted to be neptune co-orbitals of these 54% would be in horseshoe orbits 10% would be quasi-satellites and 36% would be trojans evenly split between the l4 and l5 groupsthe unexpected high-inclination trojans are the key to understanding the origin and evolution of the population as a whole the existence of high-inclination neptune trojans points to a capture during planetary migration instead of in situ or collisional formation the estimated equal number of large l5 and l4 trojans indicates that there was no gas drag during capture and points to a common capture mechanism for both l4 and l5 trojans the capture of neptune trojans during a migration of the planets occurs via process similar to the chaotic capture of jupiter trojans in the nice model when uranus and neptune are near but not in a mean-motion resonance the locations where uranus passes neptune can circulate with a period that is in resonance with the libration periods of neptune trojans this results in repeated perturbations that increase the libration of existing trojans causing their orbits to become unstable this process is reversible allowing new trojans to be captured when the planetary migration continues for high-inclination trojans to be captured the migration must have been slow or their inclinations must have been acquired previously
+
+
+ colors 
+the first four discovered neptune trojans have similar colors they are modestly red slightly redder than the gray kuiper belt objects but not as extremely red as the high-perihelion cold classical kuiper belt objects this is similar to the colors of the blue lobe of the centaur color distribution the jupiter trojans the irregular satellites of the gas giants and possibly the comets which is consistent with a similar origin of these populations of small solar system bodiesthe neptune trojans are too faint to efficiently observe spectroscopically with current technology which means that a large variety of surface compositions are compatible with the observed colors
+
+
+ naming 
+in 2015 the iau has adopted a new naming scheme for neptune trojans which are to be named after amazons with no differentiation between objects in l4 and l5 the amazons were an all-female warrior tribe that fought in the trojan war on the side of the trojans against the greeks as of 2018 the only named neptune trojan is 385571 otrera after otrera the first amazonian queen in greek mythology
+
+
+ members 
+the amount of high-inclination objects in such a small sample in which relatively fewer high-inclination neptune trojans are known due to observational biases implies that high-inclination trojans may significantly outnumber low-inclination trojans the ratio of high- to low-inclination neptune trojans is estimated to be about 41 assuming albedos of 0.05 there are an expected 400250−200 neptune trojans with radii above 40 km in neptunes l4 this would indicate that large neptune trojans are 5 to 20 times more abundant than jupiter trojans depending on their albedos there may be relatively fewer smaller neptune trojans which could be because these fragment more readily large l5 trojans are estimated to be as common as large l4 trojans2001 qr322 and 2008 lc18 display significant dynamical instability this means they could have been captured after planetary migration but may as well be a long-term member that happens not to be perfectly dynamically stableas of october 2018 22 neptune trojans are known of which 19 orbit near the sun–neptune l4 lagrangian point 60° ahead of neptune three orbit near neptunes l5 region 60° behind neptune and one orbits on the opposite side of neptune l3 but frequently changes location relative to neptune to l4 and l5 these are listed in the following table it is constructed from the list of neptune trojans maintained by the iau minor planet center and with diameters from sheppard and trujillos paper on 2008 lc18 unless otherwise noted
+
+2005 tn74 and 309239 2007 rw10 were thought to be neptune trojans at the time of their discovery but further observations have disconfirmed their membership 2005 tn74 is currently thought to be in a 35 resonance with neptune 309239 2007 rw10 is currently following a quasi-satellite loop around neptune
+
+
+ see also 
+nice model
+nice 2 model
+309239 2007 rw10 a temporary quasi-satellite of neptune
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+horner j lykawka p s 2010 planetary trojans – the main source of short period comets international journal of astrobiology 9 4 227–234 arxiv1007.2541 bibcode2010ijasb9227h doi10.1017s1473550410000212
+new trojan asteroid hints at huge neptunian cloud new scientist

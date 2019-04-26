@@ -1,0 +1,92 @@
+this is a list of launches made by isro using polar satellite launch vehicle pslv rockets
+
+
+ notable missions 
+
+
+ pslv flight d1 
+
+this was the first developmental flight of the pslv-d1 the irs-1e satellite which was proposed to be launched was derived from the engineering model of irs-1a incorporating a similar camera and an additional german-built monocular electro-optical stereo scanner even though the mission was a failure the launch team and an expert committee appointed thereafter noted that the mission had validated many technologies and that most sub-systems had performed optimally
+
+
+ pslv flight c2 
+
+in the flight sequence irs-p4 was injected first followed by kitsat-3 and dlr-tubsat in that order the mission was supported by isro telemetry tracking and command network of ground stations located at bangalore sriharikota lucknow mauritius bearslake russia and biak indonesia during the initial phase of the mission the ground station at wilhem in germany also provided network support upon injection of the satellites data from the irs-p4 was received at hyderabad while kitsat-3 data was received at the ground station in south korea and the data from the dlr-tubsat was received at the university ground station in berlin
+
+
+ pslv flight c6 
+
+the former president dr abdul kalam witnessed the launch from the mission control centre it was the first pslv launch from second pad using integrate-transfer-and-launch technology after its integration in the vehicle assembly building the pslv-c6 was transported on rails to the umbilical tower ut located one km away using the mobile launch pedestal where the final operations were carried out
+
+
+ pslv flight c7 
+the following hardware changes were made since pslv-c6
+
+first use of dla dual launch adapter to launch 2 primary satellites in time
+reduction of propellant from 2.5 tonne to 2 tonne in the fourth liquid propellant stage
+incorporation of a video imaging system to capture payload and dla separation events
+altitude based day of launch wind-biased steering programme during open loop guidance
+removal of secondary injection thrust vector control sitvc system for one of the strapons ignited in the air
+
+
+ pslv flight c9 
+the fourth stage first fired cartosat-2a into orbit at an altitude of 637 km about 885 seconds after lift-off about 45 seconds later it propelled ims-1 into the orbit then the six nano satellites belonging to a cluster called nanosatellite launch system-4 nls-4 were injected into orbit at intervals of 20 seconds each nls-5 a single satellite flew out and finally the tenth satellite rubin-8 went along with the fourth stage into orbit two satellites belonged to india and the remaining were nanosatellites built by universities in different countries this was the maximum number of satellites placed in orbit in a single pslv launch
+
+
+ pslv flight c21 
+launch attended by the former prime minister manmohan singh mresins mini redundant strapdown inertial navigation system bolted to the vehicles fourth stage have tested avionics for future pslv missions with this launch indian space research organisation marked its 100 space missions with 62 satellites 37 launch vehicles and 1 space capsule recovery experiment
+
+
+ pslv flight c22 
+earlier launch date for pslv c22 was fixed as 12 june 2013 1.01am but the launch had been postponed because of a technical snag in the 2nd stageisro then replaced a faulty component in the pslv c22 rocket and rescheduled the flight of the irnss-1a satellite on it for 1141 pm on 1 july 2013 pslv c22 successfully launched irnss-1a the first satellite in the indian regional navigation satellite system irnss
+at the completion of the countdown pslv c22 lifted off from the first launch pad at 2341 hrs ist on 1 july 2013 with the ignition of the first stage and four strap-on motors of the launch vehicle
+
+
+ pslv flight c25 
+
+the mars orbiter mission mom informally called mangalyaan is a mars orbiter that was successfully injected into earth orbit on 5 november 2013 at 238 pm ist 908 utc atop a pslv-xl launch vehicle from satish dhawan space centre sriharikota shar
+
+
+ pslv flight c29 
+pslv c29 lifted off from the first launch pad flp of sdsc shar at 1800 hrs ist on 16 december 2015 it successfully deployed six satellites it carried with gross weight of 624 kg after fourth stage engines were cut off primary payload teleos-1 was injected in orbit at about 18 min 12 seconds after lift-off this was followed by the deployment of other five satellites namely kent ridge-1 velox-c1 velox-ii galassia and athenoxat-1 in quick succession in the subsequent three minutes 67 minutes into flight fourth stage re-ignition capability was demonstrated successfully by firing its engines for duration of nearly five seconds this capability would enable multiple satellite deployment in varying orbits on same flight
+
+
+ pslv flight c34 
+
+pslv-c34 was launched on 22 june 2016 and successfully deployed 20 satellites in sun-synchronous orbit a dual launch adapter with new design compared to its previous version was used to integrate all ride-sharing payloads with ps4 after completion of mission a pair of ps4 re-ignition tests were performed to reaffirm multi-orbit deployment capability of ps4 a new inertial navigation system mk iv a employing next generation accelerometer was introduced on this mission
+
+
+ pslv flight c36 
+remote umbilical fill and drain system was used on fourth stage for the first time reducing the countdown time by one day  experimental avionics packages were flown bolted to fourth stage including miniaturized advanced inertial navigation system miniains navic based positioning system vikram processor and new lithium-ion based power system a video imaging system was also on-board consisting of five cameras which captured and live streamed various staging events
+
+
+ pslv flight c37 
+pslv c37 was launched from satish dhawan space centre sriharikota shar carrying a payload of 104 satellites from 6 countries around the world israel kazakhstan the netherlands switzerland united arab emirates and the united states of the 104 satellites 96 were cubesats made by planet labs and spire global two san francisco companies adding to their commercial satellite constellationsthe launch set the record for the largest number of spacecraft ever launched on a single rocket the previous record was held by russia which in 2014 catapulted 37 satellites in a single launch using a modified inter-continental ballistic missile
+
+
+ launch failures 
+
+
+ irs-1e 
+on 20 september 1993 a pslv d1 the first developmental flight rocket failed during launch a significant attitude disturbance occurred during second to third-stage separation causing the attitude control command to exceed its maximum value because of the programming error in the pitch control loop of the digital autopilot software in the guidance and control processor the required reversal of command polarity did not take place causing the pitch loop to become unstable resulted in loss of attitude control and failure to achieve orbit the attitude control disturbance was traced to failure of one of the retro rockets designed to pull the burnt second stage away from the third stage the vehicle crashed into the bay of bengal 700 seconds after take off
+
+
+ irs-1d 
+on 29 september 1997 a pslv c1 rocket failed during launch anomalous interaction between the primary and secondary pressure regulators of the fourth stage caused a reduction in propellant flow and thrust after 250 seconds of burn time as a result the fourth stage was shut down by a software override timer after burning 435 seconds before reaching the target orbit or depleting propellant the injection velocity was 140 ms low resulting in an orbit of 301 x 823 km instead of the planned 817 km circular sso  initially a leak of helium gas from one of the components in the fourth stage was suspected similar to recent long march 3 launch failure but later ruled out resulting orbit was partially corrected using satellites on-board thrusters thereby raising the perigee to 737 km while the apogee remained at 821 km
+
+
+ irnss-1h 
+pslv-c39 carrying irnss-1h was launched on 31 august 2017 at 1330 utc from second launch pad of satish dhawan space centre shar after about 203 seconds of flight payload fairing failed to be jettisoned as planned despite completing rest of the flight with all other systems working as expected with about 1000 kg of extra weight orbit achieved was 6554.8 x 167.4 km at 19.18° inclination well below the intended 284 x 20650 km at 19.2° inclination after fourth stage engine cut off irnss-1h separation occurred leaving it adrift inside the closed payload fairing this was second event of total failure in pslv launch history
+
+
+ launch statistics 
+
+
+ launch history 
+as of  february 2018 the pslv has made 46 launches with 43 successfully reaching their planned orbits two outright failures and one partial failure yielding a success rate of 93% or 96% including the partial failure all launches have occurred from the satish dhawan space centre known before 2002 as the sriharikota range shar
+
+
+ future launches 
+
+
+ references 

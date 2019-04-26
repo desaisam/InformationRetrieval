@@ -1,0 +1,97 @@
+eris minor-planet designation 136199 eris is the most massive and second-largest by volume dwarf planet and plutoid in the known solar system eris was discovered in january 2005 by a palomar observatory-based team led by mike brown and its discovery  was verified later that year in september 2006 it was named after eris the greek goddess of strife and discord eris is the ninth most massive object directly orbiting the sun and the 16th most massive overall because seven moons are more massive than all known dwarf planets it is also the largest which has not yet been visited by a spacecraft eris was measured to be 2,326 ± 12 kilometers 1,445.3 ± 7.5 mi in diameter eriss mass is about 0.27% of the earth mass about 27% more than dwarf planet pluto although pluto is slightly larger by volumeeris is a trans-neptunian object tno and a member of a high-eccentricity population known as the scattered disk it has one known moon dysnomia as of  february 2016 its distance from the sun was 96.3 astronomical units 1.441×1010 km 8.95×109 mi roughly three times that of pluto with the exception of some long-period comets until 2018 vg18 was discovered on december 17 2018 eris and dysnomia were the most distant known natural objects in the solar systembecause eris appeared to be larger than pluto nasa initially described it as the solar systems tenth planet this along with the prospect of other objects of similar size being discovered in the future motivated the international astronomical union iau to define the term planet for the first time under the iau definition approved on august 24 2006 eris is a dwarf planet along with objects such as pluto ceres haumea and makemake thereby reducing the number of known planets in the solar system to eight the same as before plutos discovery in 1930 observations of a stellar occultation by eris in 2010 showed that its diameter was 2,326 ± 12 kilometers 1,445.3 ± 7.5 mi very slightly less than pluto which was measured by new horizons as 2,372 ± 4 kilometers 1,473.9 ± 2.5 mi in july 2015
+
+
+ history 
+
+
+ discovery 
+
+eris was discovered by the team of mike brown chad trujillo and david rabinowitz on january 5 2005 from images taken on october 21 2003 the discovery was announced on july 29 2005 the same day as makemake and two days after haumea due in part to events that would later lead to controversy about haumea the search team had been systematically scanning for large outer solar system bodies for several years and had been involved in the discovery of several other large tnos including 50000 quaoar 90482 orcus and 90377 sedna
+routine observations were taken by the team on october 21 2003 using the 1.2 m samuel oschin schmidt telescope at palomar observatory california but the image of eris was not discovered at that point due to its very slow motion across the sky the teams automatic image-searching software excluded all objects moving at less than 1.5 arcseconds per hour to reduce the number of false positives returned when sedna was discovered in 2003 it was moving at 1.75 arcsech and in light of that the team reanalyzed their old data with a lower limit on the angular motion sorting through the previously excluded images by eye in january 2005 the re-analysis revealed eriss slow motion against the background stars
+follow-up observations were then carried out to make a preliminary determination of eriss orbit which allowed the objects distance to be estimated the team had planned to delay announcing their discoveries of the bright objects eris and makemake until further observations and calculations were complete but announced them both on july 29 when the discovery of another large tno they had been tracking haumea was controversially announced on july 27 by a different team in spainprecovery images of eris have been identified back to september 3 1954more observations released in october 2005 revealed that eris has a moon later named dysnomia observations of dysnomias orbit permitted scientists to determine the mass of eris which in june 2007 they calculated to be 1.66±0.02×1022 kg 27±2% greater than plutos
+
+
+ name 
+initially eris was given a provisional designation the so called license plate name and then eventually a name based on greek mythology
+eris is named after the greek goddess eris greek ἔρισ a personification of strife and discord the name was proposed by the caltech team on september 6 2006 and it was assigned on september 13 2006 following an unusually long period in which the object was known by the provisional designation 2003 ub313 which was granted automatically by the iau under their naming protocols for minor planets the regular adjectival form of eris is eridian
+
+
+ xena 
+
+due to uncertainty over whether the object would be classified as a planet or a minor planet because different nomenclature procedures apply to these different classes of objects the decision on what to name the object had to wait until after the august 24 2006 iau ruling as a result for a time the object became known to the wider public as xena
+xena was an informal name used internally by the discovery team it was inspired by the title character of the television series xena warrior princess the discovery team had reportedly saved the nickname xena for the first body they discovered that was larger than pluto according to brown
+
+we assumed that a real name would come out fairly quickly but the process got stalled mike brown said in an interview
+
+
+ choosing an official name 
+according to science writer govert schilling brown initially wanted to call the object lila after a concept in hindu mythology that described the cosmos as the outcome of a game played by brahman the name was very similar to lilah the name of browns newborn daughter brown was mindful of not making his name public before it had been officially accepted he had done so with sedna a year previously and had been heavily criticized however no objection was raised to the sedna name other than the breach of protocol and no competing names were suggested for sednahe listed the address of his personal web page announcing the discovery as mbrownplanetlila and in the chaos following the controversy over the discovery of haumea forgot to change it rather than needlessly anger more of his fellow astronomers he simply said that the webpage had been named for his daughter and dropped lila from considerationbrown had also speculated that persephone the wife of the god pluto would be a good name for the object the name had been used several times in science fiction and was popular with the public having handily won a poll conducted by new scientist magazine xena despite only being a nickname came fourth this was not possible once the object was classified as a dwarf planet because there is already an asteroid with that name 399 persephonewith the dispute resolved the discovery team proposed eris on september 6 2006 on september 13 2006 this name was accepted as the official name by the iau brown decided that because the object had been considered a planet for so long it deserved a name from greek or roman mythology like the other planets the asteroids had taken the vast majority of graeco-roman names eris whom brown described as his favorite goddess had fortunately escaped inclusion the name in part reflects the discord in the astronomical community caused by the debate over the objects and plutos classification
+
+
+ classification 
+
+eris is a trans-neptunian dwarf planet plutoid its orbital characteristics more specifically categorize it as a scattered-disk object sdo or a tno that has been scattered from the kuiper belt into more-distant and unusual orbits following gravitational interactions with neptune as the solar system was forming although its high orbital inclination is unusual among the known sdos theoretical models suggest that objects that were originally near the inner edge of the kuiper belt were scattered into orbits with higher inclinations than objects from the outer belt inner-belt objects are expected to be generally more massive than outer-belt objects and so astronomers expect to discover more large objects like eris in high-inclination orbits which planetary searches have traditionally neglected
+because eris was initially thought to be larger than pluto it was described as the tenth planet by nasa and in media reports of its discovery in response to the uncertainty over its status and because of ongoing debate over whether pluto should be classified as a planet the iau delegated a group of astronomers to develop a sufficiently precise definition of the term planet to decide the issue this was announced as the iaus definition of a planet in the solar system adopted on 24 august 2006 at this time both eris and pluto were classified as dwarf planets a category distinct from the new definition of planet brown has since stated his approval of this classification the iau subsequently added eris to its minor planet catalogue designating it 136199 eris
+
+
+ orbit 
+
+eris has an orbital period of 558 years its maximum possible distance from the sun aphelion is 97.65 au and its closest perihelion is 37.91 au it came to perihelion between 1698 and 1699 to aphelion around 1977 and will return to perihelion around 2256 to 2258 when discovered eris and its moon were the most distant known objects in the solar system apart from long-period comets and space probes it retained this distinction until the discovery of 2018 vg18 in 2018as of 2008 there were approximately forty known tnos most notably 2006 sq372 2000 oo67 and sedna that are currently closer to the sun than eris even though their semimajor axis is larger than that of eris 67.8 au
+
+eriss orbit is highly eccentric and brings eris to within 37.9 au of the sun a typical perihelion for scattered objects this is within the orbit of pluto but still safe from direct interaction with neptune 29.8–30.4 au pluto on the other hand like other plutinos follows a less inclined and less eccentric orbit and protected by orbital resonance can cross neptunes orbit unlike the eight planets whose orbits all lie roughly in the same plane as the earths eriss orbit is highly inclined it is tilted at an angle of about 44 degrees to the ecliptic in about 800 years eris will be closer to the sun than pluto for some time see the graph at the left
+as of  february 2016 eris has an apparent magnitude of 18.7 making it bright enough to be detectable to some amateur telescopes a 200-millimeter 7.9 in telescope with a ccd can detect eris under favorable conditions the reason it had not been noticed until now is its steep orbital inclination searches for large outer solar system objects tend to concentrate on the ecliptic plane where most bodies are found
+
+because of the high inclination of its orbit eris only passes through a few constellations of the traditional zodiac it is now in the constellation cetus it was in sculptor from 1876 until 1929 and phoenix from roughly 1840 until 1875 in 2036 it will enter pisces and stay there until 2065 when it will enter aries it will then move into the northern sky entering perseus in 2128 and camelopardalis where it will reach its northernmost declination in 2173
+
+
+ size mass and density 
+in november 2010 eris was the subject of one of the most distant stellar occultations yet from earth preliminary data from this event cast doubt on previous size estimates the teams announced their final results from the occultation in october 2011 with an estimated diameter of 23266−6 kmthis makes eris a little smaller than pluto which is 2372±4 km across it also indicates an albedo of 0.96 higher than that of any other large body in the solar system except enceladus it is speculated that the high albedo is due to the surface ices being replenished because of temperature fluctuations as eriss eccentric orbit takes it closer and farther from the sunthe mass of eris can be calculated with much greater precision based on the currently accepted value for dysnomias period—15.774 days—eris is 27 percent more massive than pluto using the 2011 occultation results eris has a density of 2.52±0.07 gcm3 substantially denser than pluto and thus must be composed largely of rocky materialsmodels of internal heating via radioactive decay suggest that eris could have an internal ocean of liquid water at the mantle–core boundaryin july 2015 after nearly ten years of eris being considered the ninth-largest object known to directly orbit the sun close-up imagery from the new horizons mission more accurately determined plutos volume to be slightly larger than eriss rather than slightly smaller as previously thought eris is now the tenth-largest object known to directly orbit the sun by volume but remains the ninth-largest by mass
+
+
+ surface and atmosphere 
+
+the discovery team followed up their initial identification of eris with spectroscopic observations made at the 8 m gemini north telescope in hawaii on january 25 2005 infrared light from the object revealed the presence of methane ice indicating that the surface may be similar to that of pluto which at the time was the only tno known to have surface methane and of neptunes moon triton which also has methane on its surface no surface details can be resolved from earth or its orbit with any instrument currently available
+due to eriss distant eccentric orbit its surface temperature is estimated to vary between about 30 and 56 k −243.2 and −217.2 °cunlike the somewhat reddish pluto and triton eris appears almost white plutos reddish color is thought to be due to deposits of tholins on its surface and where these deposits darken the surface the lower albedo leads to higher temperatures and the evaporation of methane deposits in contrast eris is far enough from the sun that methane can condense onto its surface even where the albedo is low the condensation of methane uniformly over the surface reduces any albedo contrasts and would cover up any deposits of red tholinseven though eris can be up to three times farther from the sun than pluto it approaches close enough that some of the ices on the surface might warm enough to sublime because methane is highly volatile its presence shows either that eris has always resided in the distant reaches of the solar system where it is cold enough for methane ice to persist or that the celestial body has an internal source of methane to replenish gas that escapes from its atmosphere this contrasts with observations of another discovered tno haumea which reveal the presence of water ice but not methane
+
+
+ satellite 
+
+in 2005 the adaptive optics team at the keck telescopes in hawaii carried out observations of the four brightest tnos pluto makemake haumea and eris using the newly commissioned laser guide star adaptive optics system images taken on september 10 revealed a moon in orbit around eris in keeping with the xena nickname already in use for eris browns team nicknamed the moon gabrielle after the television warrior princess sidekick when eris received its official name from the iau the moon received the name dysnomia after the greek goddess of lawlessness who was eriss daughter brown says he picked it for similarity to his wifes name diane the name also retains an oblique reference to eriss old informal name xena portrayed on tv by lucy lawless
+
+
+ exploration 
+in the 2010s on the heels of the successful pluto flyby there were multiple studies for follow-on missions to explore the kuiper belt and eris was evaluated among the candidates it was calculated that a flyby mission to eris could take 24.66 years using a jupiter gravity assist based on launch dates of 3 april 2032 or 7 april 2044 eris would be 92.03 or 90.19 au from the sun when the spacecraft arrives
+
+
+ see also 
+
+clearing the neighbourhood
+former classification of planets
+list of solar system objects most distant from the sun in 2015
+list of trans-neptunian objects
+mesoplanet
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+mpc database entry for 136199 eris
+michael browns webpage about eris
+browns webpage about dysnomia
+2007 kcet interview of mike brown about eris and haumea with julia sweeney
+compiled list of data
+mpec listing for 2003 ub313
+java 3d orbit visualization
+spaceflight now article about 2003 ub313 eris 2003 el61 and 2005 fy9 makemake
+slacker astronomy interview with co-discoverer trujillo
+trans-neptunian object 2003 ub313—iau statement regarding the planetary status of eris
+simulation of 2003 ub313s orbit
+keck observatory page about the discovery of dysnomia
+caltech press release 7/29/2005 planetary scientists discover tenth planet
+press release on the spitzer space telescope trying to image 2003 ub313 again
+eris at the jpl small-body database 
+close approach · discovery · ephemeris · orbit diagram · orbital elements · physical parameters

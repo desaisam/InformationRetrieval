@@ -1,0 +1,95 @@
+a minor-planet moon is an astronomical object that orbits a minor planet as its natural satellite as of february 2019 there are 352 minor planets known or suspected to have moons discoveries of minor-planet moons and binary objects in general are important because the determination of their orbits provides estimates on the mass and density of the primary allowing insights of their physical properties that is generally not otherwise possiblethe first modern era mention of the possibility of an asteroid satellite was in connection with an occultation of the bright star gamma ceti by the asteroid 6 hebe in 1977 the observer amateur astronomer paul d maley detected an unmistakable 0.5 second disappearance of this naked eye star from a site near victoria texas many hours later several observations were reported in mexico attributed to the occultation by 6 hebe itself although not confirmed this documents the first formally documented case of a suspected companion of an asteroid
+
+
+ terminology 
+
+in addition to the terms satellite and moon the term binary binary minor planet is sometimes used for minor planets with moons and triple for minor planets with two moons if one object is much bigger it can be referred to as the primary and its companion as secondary the term double asteroid is sometimes used for systems in which the asteroid and its moon are roughly the same size while binary tends to be used independently from the relative sizes of the components when binary minor planets are similar in size the minor planet center mpc refers to them as binary companions instead of referring to the smaller body as a satellite a good example of a true binary is the 90 antiope system identified in august 2000 small satellites are often referred to as moonlets
+
+
+ discovery milestones 
+prior to the era of the hubble space telescope and space probes reaching the outer solar system attempts to detect satellites around asteroids were limited to optical observations from earth for example in 1978 stellar occultation observations were claimed as evidence of a satellite for the asteroid 532 herculina however later more-detailed imaging by the hubble telescope did not reveal a satellite and the current consensus is that herculina does not have a significant satellite there were other similar reports of asteroids having companions usually referred to as satellites in the following years also a letter in sky  telescope magazine at this time pointed to apparently simultaneous impact craters on earth for example the clearwater lakes in quebec suggesting that these craters were caused by pairs of gravitationally bound objects
+in 1993 the first asteroid moon was confirmed when the galileo probe discovered the small dactyl orbiting 243 ida in the asteroid belt the second was discovered around 45 eugenia in 1998 in 2001 617 patroclus and its same-sized companion menoetius became the first known binary asteroids in the jupiter trojans the first trans-neptunian binary after pluto–charon 1998 ww31 was optically resolved in 2002
+
+
+ triple systems 
+triple or trinary minor planets are known since 2005 when the asteroid 87 sylvia was discovered to have two satellites making it the first known triple system this was followed by the discovery of a second moon orbiting 45 eugenia also in 2005 the dwarf planet haumea was discovered to have two moons making it the second trans-neptunian object after pluto known to have more than one moon additionally 216 kleopatra and 93 minerva were discovered to be trinary asteroids in 2008 and 2009 respectively since the first few triple minor planets were discovered more continue to be discovered at a rate of about one a year most recently discovered were two moons orbiting large near-earth asteroid 3122 florence bringing the number of known trinary systems in the solar system up to 14
+the following table lists all satellites of triple systems or higher multiplicities chronologically by their discovery date starting with charon discovered in 1978
+
+
+ commonality 
+the data about the populations of binary objects are still patchy in addition to the inevitable observational bias dependence on the distance from earth size albedo and separation of the components the frequency appears to be different among different categories of objects among asteroids an estimated 2% would have satellites among trans-neptunian objects tno an estimated 11% are thought to be binary or multiple objects and the majority of the large tnos have at least one satellite including all four iau-listed dwarf planets
+more than 50 binaries are known in each of the main groupings near-earth asteroids belt asteroids and trans-neptunian objects not including numerous claims based solely on light-curve variation
+two binaries have been found so far among centaurs with semi-major axes smaller than neptune
+both are double ring systems around 2060 chiron and 10199 chariklo discovered in 1994–2011 and 2013 respectively
+
+
+ origin 
+the origin of minor-planet moons is not currently known with certainty and a variety of theories exist a widely accepted theory is that minor-planet moons are formed from debris knocked off of the primary by an impact other pairings may be formed when a small object is captured by the gravity of a larger one
+formation by collision is constrained by the angular momentum of the components ie by the masses and their separation close binaries fit this model eg pluto–charon distant binaries however with components of comparable size are unlikely to have followed this scenario unless considerable mass has been lost in the event
+the distances of the components for the known binaries vary from a few hundreds of kilometres 243 ida 3749 balam to more than 3000 km 379 huenna for the asteroids among tnos the known separations vary from 3,000 to 50,000 km
+
+
+ populations and classes 
+what is typical for a binary system tends to depend on its location in the solar system presumably because of different modes of origin and lifetimes of such systems in different populations of minor planets
+among near-earth asteroids satellites tend to orbit at distances of the order of 3–7 primary radii and have diameters two to several times smaller than the primary since these binaries are all inner-planet crossers it is thought that tidal stresses that occurred when the parent object passed close to a planet may be responsible for the formation of many of them although collisions are thought to also be a factor in the creation of these satellites
+among main-belt asteroids the satellites are usually much smaller than the primary a notable exception being 90 antiope and orbit around 10 primary radii away many of the binary systems here are members of asteroid families and a good proportion of satellites are expected to be fragments of a parent body whose disruption after an asteroid collision produced both the primary and satellite
+among trans-neptunian objects it is common for the two orbiting components to be of comparable size and for the semi-major axis of their orbits to be much larger − about 100 to 1000 primary radii a significant proportion of these binaries are expected to be primordial
+pluto has five known moons its largest moon charon is more than half the size of pluto itself and large enough to orbit a point outside plutos surface in fact each orbits the common barycenter between them with plutos orbit entirely enclosed by charons thus they form a binary system informally referred to as a double dwarf planet plutos four other moons nix hydra kerberos and styx are far smaller and orbit the pluto–charon system
+haumea has two moons with radii estimated around 155 km hiʻiaka and 85 km namaka
+makemake has one known moon s2015 136472 1 estimated to be some 160 kilometers 100 mi in diameter
+eris has one known moon dysnomia its radius based on its brightness is estimated to be roughly between 150 and 350 km
+
+
+ list 
+as of february 2019 there are 352 minor planets with 370 known companions these consist of
+
+
+ near-earth objects 
+there are 72 known near-earth asteroids with moons candidate binaries with an unconfirmed status are displayed on a dark background
+to summary 
+
+
+ mars crossers 
+there are 28 mars-crossing asteroids with moons candidate binaries with an unconfirmed status are displayed on a dark background
+to summary 
+
+
+ main-belt asteroids 
+there are 160 asteroids with moons in the asteroid belt candidate binaries with an unconfirmed status are displayed on a dark background
+to summary 
+
+the following binaries are double asteroids with similarly-sized components and a barycenter outside of the larger object
+
+in addition these bodies might be double asteroids but due to errors in their size and orbit it is uncertain
+
+
+ jupiter trojans 
+there are 5 jupiter trojans with a moon candidate binaries with an unconfirmed status are displayed on a dark background
+to summary 
+
+
+ centaurs 
+there are only 2 centaurs with satellites both of which are ring systems instead of moons
+to summary 
+
+
+ trans-neptunian objects 
+there are 87 trans-neptunian objects known to have moons with a total of 93 moons discovered candidate binaries with an unconfirmed status are displayed on a dark background
+to summary 
+
+
+ see also 
+lists of astronomical objects
+ subsatellite also known as moonmoon – a satellite that orbits a natural satellite
+ yarkovsky–okeefe–radzievskii–paddack effect also known as yorp effect – second-order variation on the yarkovsky effect that changes the rotation rate of a small body
+
+
+ references 
+
+
+ external links 
+binary asteroids by franck marchis on youtube lecture at seti talk duration 10002
+orbits of binary asteroids with adaptive optics franck marchis
+satellites and companions of minor planets cbat
+asteroids with satellites johnstons archive
+the vobad database  a web page built and designed by f marchis and his collaborators uc-berkeleyseti institute which contains the parameters of 169 multiple asteroid systems last update may 9 2009

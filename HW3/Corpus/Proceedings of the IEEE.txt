@@ -1,0 +1,43 @@
+the proceedings of the ieee is a monthly peer-reviewed scientific journal published by the institute of electrical and electronics engineers ieee the journal focuses on electrical engineering and computer science according to the journal citation reports the journal has a 2017 impact factor of 9.107 ranking it sixth in the category engineering electrical  electronic
+
+
+ history of the proceedings 
+the journal was established in 1909 known as the proceedings of the wireless institute six issues were published under this banner by greenleaf pickard and alfred goldsmith then in 1911 a merger between the wireless institute new york and  the society of wireless telegraph engineers boston resulted in a society named the institute of radio engineers ire
+in january 1913 newly formed ire published the first issue of the proceedings of the ire later a 1000-page special issue commemorated the ires fiftieth anniversary in may 1962 one of the founding editors alfred norton goldsmith tallied 42 years as the first editor-in-chief when the ieee was formed in 1963 as a merger of ire and the american institute of electrical engineers the journal obtained its current name
+
+
+ journal content 
+proceedings of the ieee provides in-depth review survey and tutorial coverage of the technical developments in electronics electrical and computer engineering and computer science 
+
+reviews critically examine a technology tracing its progress from its inception to the present—and perhaps into the future
+surveys comprehensively view a technology—its applications issues ramifications and potential
+tutorials explain a technology and may give practical information for implementing itthe journal offers applications-oriented coverage that goes beyond the traditional boundaries typically found in other journals
+
+
+ special issues and regular papers 
+the journal publishes approximately ten special issues and two regular paper issues per year
+special issues are led by distinguished guest editor teams and contain articles from leading experts in the technology area being covered they serve as a guide to the state-of-the-art and are highly valued by the core research community as well as specialists in other areas
+regular paper issues consist of three to four papers on more focused topics giving readers background and insight into emerging areas
+
+
+ abstracting and indexing 
+this journal is indexed by the following services
+science citation index
+science citation index expanded
+current contents  engineering computing  technology
+chemical abstracts service - cassi
+
+
+ references 
+
+
+ further reading 
+brittain james e 1996 the evolution of electrical and electronics engineering and the proceedings of the ire 1913–1937 proceedings of the ieee 84 12 1747–1772 doi10.1109/5.546400
+brittain james e 1997 the evolution of electrical and electronics engineering and the proceedings of the ire 1938–1962 proceedings of the ieee 85 5 762–797 doi10.1109/5.588975
+kline r 1990 an overview of twenty-five years of electrical and electronics engineering in the proceedings of the ieee 1963-87 proceedings of the ieee 78 3 469–485 doi10.1109/5.52226
+ieee history center staff 2011 proceedings of the ieee through 100 years proceedings of the ieee 100 1 300–303 doi10.1109jproc2011.2169511
+geselowitz m 2012 the proceedings of the ieee into the next century proceedings of the ieee 101 12 3220–3222 doi10.1109jproc2012.2219192
+
+
+ external links 
+official website

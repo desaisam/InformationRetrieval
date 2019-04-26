@@ -1,0 +1,74 @@
+mimas also designated saturn i is a moon of saturn which was discovered in 1789 by william herschel it is named after mimas a son of gaia in greek mythology
+with a diameter of 396 kilometres 246 mi it is the smallest astronomical body that is known to be rounded in shape because of self-gravitation
+
+
+ discovery 
+mimas was discovered by the astronomer william herschel on 17 september 1789 he recorded his discovery as follows the great light of my forty-foot 12 m telescope was so useful that on the 17th of september 1789 i remarked the seventh satellite then situated at its greatest western elongation
+
+
+ name 
+mimas is named after one of the giants in greek mythology mimas the names of all seven then-known satellites of saturn including mimas were suggested by william herschels son john in his 1847 publication results of astronomical observations made at the cape of good hope he named them after titans specifically because saturn the roman equivalent of cronus in greek mythology was the leader of the titans and ruler of the world for some time mimas was a son of the greek goddess gaia
+
+
+ physical characteristics 
+
+the surface area of mimas is slightly less than the land area of spain the low density of mimas 1.15 gcm3 indicates that it is composed mostly of water ice with only a small amount of rock due to the tidal forces acting on it mimas is noticeably prolate its longest axis is about 10% longer than the shortest the ellipsoidal shape of mimas is especially noticeable in some recent images from the cassini probe
+mimass most distinctive feature is a giant impact crater 130 km 81 mi across named herschel after the discoverer of mimas herschels diameter is almost a third of mimass own diameter its walls are approximately 5 km 3 mi high parts of its floor measure 10 km 6 mi deep and its central peak rises 6 km 4 mi above the crater floor if there were a crater of an equivalent scale on earth in relative size it would be over 4,000 km 2,500 mi in diameter wider than australia the impact that made this crater must have nearly shattered mimas fractures can be seen on the opposite side of mimas that may have been created by shock waves from the impact travelling through mimass corethe mimantean surface is saturated with smaller impact craters but no others are anywhere near the size of herschel although mimas is heavily cratered the cratering is not uniform most of the surface is covered with craters larger than 40 km 25 mi in diameter but in the south polar region there are generally no craters larger than 20 km 12 mi in diameter
+three types of geological features are officially recognized on mimas craters chasmata chasms and catenae crater chains
+
+
+ orbital resonances 
+a number of features in saturns rings are related to resonances with mimas mimas is responsible for clearing the material from the cassini division the gap between saturns two widest rings the a ring and b ring particles in the huygens gap at the inner edge of the cassini division are in a 21 orbital resonance with mimas they orbit twice for each orbit of mimas the repeated pulls by mimas on the cassini division particles always in the same direction in space force them into new orbits outside the gap the boundary between the c and b rings is in a 31 resonance with mimas recently the g ring was found to be in a 76 co-rotation eccentricity resonance with mimas the rings inner edge is about 15,000 km 9,300 mi inside mimass orbitmimas is also in a 21 mean-motion resonance with the larger moon tethys and in a 23 resonance with the outer f ring shepherd moonlet pandora
+
+
+ anomalous libration 
+in 2014 researchers noted that the librational motion of mimas has a component that cannot be explained by its orbit alone and concluded that it was due to either an interior that is not in hydrostatic equilibrium an elongated core or an internal ocean however in 2017 it was concluded that an ocean would lead to surface tidal stresses comparable to or greater than those on tectonically active europa thus the lack of evidence for surface cracking or other tectonic activity on  mimas argues against the presence of such an ocean since formation of a core would likely have led to formation of an internal ocean in the past probably leading to geologic activity this explanation for the libration is also problematic the presence of an asymmetric mass anomaly associated with the crater herschel is another possible explanation for the libration
+
+
+ exploration 
+pioneer 11 flew by saturn in 1979 and its closest approach to mimas was 104,263 km on september 1 1979 voyager 1 flew by in 1980 and voyager 2 in 1981
+mimas was imaged several times by the cassini orbiter which entered into orbit around saturn in 2004 a close flyby occurred on february 13 2010 when cassini passed by mimas at 9,500 km 5,900 mi
+
+
+ in popular culture 
+when seen from certain angles mimas resembles the death star a fictional space station and superweapon known from the 1977 film star wars herschel resembles the concave disc of the death stars superlaser this is coincidental as the film was made nearly three years before mimas was resolved well enough to see the craterin 2010 nasa revealed a temperature map of mimas using images obtained by cassini the warmest regions which are along one edge of mimas create a shape similar to the video game character pac-man with herschel crater assuming the role of an edible dot or power pellet known from pac-man gameplay
+
+
+ gallery 
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+ see also 
+
+list of natural satellites
+mimas in fiction
+
+
+ references 
+
+
+ external links 
+
+cassini mission page – mimas
+mimas profile at nasas solar system exploration site
+the planetary society mimas
+google mimas 3d interactive map of the moon
+mimas page at the nine planets
+views of the solar system – mimas
+cassini images of mimas
+images of mimas at jpls planetary photojournal
+3d shape model of mimas requires webgl
+paul schenks mimas blog entry and movie of mimass rotation on youtube
+mimas global and polar basemaps june 2012 from cassini images
+mimas atlas july 2010 from cassini images
+mimas nomenclature and mimas map with feature names from the usgs planetary nomenclature page
+figure j is mimas transiting saturn in 1979 imaged by pioneer 11 from here

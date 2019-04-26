@@ -1,0 +1,26 @@
+damocloids are a class of minor planets such as 5335 damocles and 1996 pw that have halley-family or long-period highly eccentric orbits typical of periodic comets such as halleys comet but without showing a cometary coma or tail david jewitt defines a damocloid as an object with a tisserands parameter relative to jupiter of 2 or less tj ≤ 2 while akimasa nakamura defines this group with the following orbital criterion
+q  5.2 au a  8.0 au and e  0.75
+or alternatively i  90°however this definition that does not focus on jupiter excludes objects such as 127546 2002 xu93 2003 wg166 and 2004 da62using the tisserands parameter with respect to jupiter of 2 or less there are currently 155 damocloid candidates of these objects 122 have orbital observation arcs greater than 30 days providing reasonably decent orbits their average radius is eight kilometers assuming an albedo of 0.04 the albedos of four damocloids have been measured and they are among the darkest objects known in the solar system damocloids are reddish in color but not as red as many kuiper-belt objects or centaurs other damocloids include 2013 bl76 2012 dr30 2008 kv42  65407 2002 rp120 and 20461 dioretsa
+retrograde objects such as halleys comet and damocloid 343158 2009 hc82 can have relative velocities to earth of 81 kms 290,000 kmh
+
+
+ origin 
+damocloids are thought to be nuclei of halley-type comets that have lost all their volatile materials due to outgassing and become dormant such comets probably originate from the oort cloud this hypothesis is strengthened by the fact that a number of objects thought to be damocloids and assigned minor-planet provisional designations subsequently showed a coma and were confirmed to be comets c2001 og108 loneos c2002 ce10 linear c2002 vq94 linear c2004 hv60 spacewatch and possibly others another strong indication of cometary origin is the fact that some damocloids have retrograde orbits unlike any other minor planets objects with an inclination beyond 90 degrees up to 180 degrees are in a retrograde orbit and orbit in the opposite direction of other objects
+
+
+ list 
+
+this is a list of 17 numbered and 132 unnumbered bodies from the jpl sbdb as of november 2018 that meet akimasa nakamuras criteria for being classified as a damocloid that is either a retrograde orbit or the following orbital elements q  5.2 au a  8.0 au and e  0.75 also see § top tisserands parameter with respect to jupiter tjupiter is also given akimasa nakamuras criteria and a tjupiter of less than 2 are largely equivalent as only a few listed bodies do not meet the defined tjupiter threshold most damocloids are also listed on mpcs list of other unusual minor planets the orbital data is sourced from jpl numbered and unnumbered element files and excludes comets and hyperbolic bodies such as ʻoumuamua
+
+back to top 
+
+
+ see also 
+extinct comet
+
+
+ references 
+
+
+ external links 
+david jewitt a first look at the damocloids january 2005

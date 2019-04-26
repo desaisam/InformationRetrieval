@@ -1,0 +1,77 @@
+space launch is the earliest part of a flight that reaches space space launch involves liftoff when a rocket or other space launch vehicle leaves the ground floating ship or midair aircraft at the start of a flight liftoff is of two main types rocket launch the current conventional method and non-rocket spacelaunch where other forms of propulsion are employed including airbreathing jet engines or other kinds
+
+
+ issues with reaching space 
+
+
+ definition of space 
+space has no physical edge to it as the atmospheric pressure gradually reduces with altitude instead the edge of space is defined by convention often the kármán line of 100 km other definitions have been created as well in the us for example space has been defined as 50 miles
+
+
+ energy 
+therefore by definition for spaceflight to occur sufficient altitude is necessary this implies a minimum gravitational potential energy needs to be overcome for the kármán line this is approximately 1 mjkg
+wmgh m1 kg g9.82 ms2 h105m
+w19.82105≈106jkg1mjkg
+in practice a higher energy than this is needed to be expended due to losses such as airdrag propulsive efficiency cycle efficiency of engines that are employed and gravity drag
+in the past fifty years spaceflight has usually meant remaining in space for a period of time rather than going up and immediately falling back to earth this entails orbit which is mostly a mater of velocity not altitude although that does not mean air friction and relevant altitudes in relation to that and orbit dont have to be taken into account at much much higher altitudes than many orbital ones maintained by satellites altitude begins to become a larger and larger factor and speed a lesser one at lower altitudes due to the high speed required to remain in orbit air friction is a very important consideration affecting satellites much more than in the popular image of space at even lower altitudes balloons with no forward velocity can serve many of the roles satellites play
+
+
+ g-forces 
+many cargoes particularly humans have a limiting g-force that they can survive for humans this is about 3-6 g some launchers such as gun launchers would give accelerations in the hundred or thousands of g and thus are completely unsuitable
+
+
+ reliability 
+launchers vary with respect to their reliability for achieving the mission
+
+
+ safety 
+safety is the probability of causing injury or loss of life unreliable launchers are not necessarily unsafe whereas reliable launchers are usually but not invariably safe
+apart from catastrophic failure of the launch vehicle itself other safety hazards include depressurisation and the van allen radiation belts which preclude orbits which spend long periods within them
+
+
+ trajectory optimisation 
+trajectory optimization is the process of designing a trajectory that minimizes or maximizes some measure of performance within prescribed constraint boundaries  while not exactly the same the goal of solving a trajectory optimization problem is essentially the same as solving an optimal control problem this problem was first studied by robert h goddard and is also known as the goddard problem
+the selection of flight profiles that yield the greatest performance plays a substantial role in the preliminary design of flight vehicles since the use of ad-hoc profile or control policies to evaluate competing configurations may inappropriately penalize the performance of one configuration over another  thus to guarantee the selection of the best vehicle design it is important to optimize the profile and control policy for each configuration early in the design process
+for example for tactical missiles the flight profiles are determined by the thrust and load factor lift histories  these histories can be controlled by a number of means including such techniques as using an angle of attack command history or an altitudedownrange schedule that the missile must follow  each combination of missile design factors desired missile performance and system constraints results in a new set of optimal control parameters
+
+
+ sustained spaceflight 
+
+
+ suborbital launch 
+
+sub-orbital space flight is any space launch that reaches space without doing a full orbit around the planet and requires a maximum speed of around 1 kms just to reach space and up to 7 kms for longer distance such as an intercontinental space flight an example of a sub-orbital flight would be a ballistic missile or future tourist flight such as virgin galactic or an intercontinental transport flight like spaceliner any space launch without an orbit-optimization correction to achieve a stable orbit will result in a suborbital space flight unless there is sufficient thrust to leave orbit completely see space gungetting to orbit
+
+
+ orbital launch 
+
+in addition if orbit is required then a much greater amount of energy must be generated in order to give the craft some sideways speed the speed that must be achieved depends on the altitude of the orbit – less speed is needed at high altitude however after allowing for the extra potential energy of being at higher altitudes overall more energy is used reaching higher orbits than lower ones
+the speed needed to maintain an orbit near the earths surface corresponds to a sideways speed of about 7.8 kms 17,400 mph an energy of about 30mjkg this is several times the energy per kg of practical rocket propellant mixes
+gaining the kinetic energy is awkward as the airdrag tends to slow the spacecraft so rocket-powered spacecraft generally fly a compromise trajectory that leaves the thickest part of the atmosphere very early on and then fly on for example a hohmann transfer orbit to reach the particular orbit that is required this minimises the airdrag as well as minimising the time that the vehicle spends holding itself up airdrag is a significant issue with essentially all proposed and current launch systems although usually less so than the difficulty of obtaining enough kinetic energy to simply reach orbit at all
+
+
+ escape velocity 
+
+if the earths gravity is to be overcome entirely then sufficient energy must be obtained by a spacecraft to exceed the depth of the gravity potential energy well once this has occurred provided the energy is not lost in any non-conservative way then the vehicle will leave the influence of the earth the depth of the potential well depends on the vehicles position and the energy depends on the vehicles speed if the kinetic energy exceeds the potential energy then escape occurs at the earths surface this occurs at a speed of 11.2 kms 25,000 mph but in practice a much higher speed is needed due to airdrag
+
+
+ types of space launch 
+
+
+ rocket launch 
+
+rocket launch is the only current way to reach space in some cases an airbreathing jet engine first stage has been used as well
+
+
+ non-rocket launch 
+
+non-rocket space launch is a launch into space where some or all of the needed speed and altitude are provided by something other than expendable rockets  a number of alternatives to expendable rockets have been proposed  in some systems such as skyhooks rocket sled launch and air launch a rocket is used to reach orbit but it is only part of the system
+
+
+ references 
+
+
+ external links 
+httpwwwspacelaunchreportcom a periodic news digest of worldwide space launch activity
+latest satellite launches from httpwwwn2yocom
+the space review is an online publication devoted to in-depth articles commentary and reviews regarding all aspects of space exploration

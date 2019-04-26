@@ -1,0 +1,59 @@
+uncrewed spaceflights to the international space station iss are made primarily to deliver cargo however several russian modules have also docked to the outpost following uncrewed launches resupply missions typically use the russian progress spacecraft european automated transfer vehicles japanese kounotori vehicles and the american dragon and cygnus spacecraft the primary docking system for progress spacecraft is the automated kurs system with the manual toru system as a backup atvs also use kurs however they are not equipped with toru progress and atv can remain docked for up to six months the other spacecraft — the japanese htv the spacex dragon and the orbital sciences cygnus — rendezvous with the station before being grappled using canadarm2 and berthed at the nadir port of the harmony or unity module for one to two months as of march 2019 progress spacecraft have flown most of the uncrewed missions to the iss
+
+
+ spaceports 
+
+
+ baikonur cosmodrome 
+baikonur cosmodrome in kazakhstan is the oldest and busiest spaceport the first module of the iss was launched from baikonur cosmodrome site 81 as the uncrewed spacecraft zarya in 1998 and flew uncrewed for about two years before the first crew arrived the progress spacecraft is the most frequent cargo ship sent from baikonur to the station bringing supplies such as food fuel gas experiments and parts its light payload is offset by its ability to deliver critical replacement parts at short notice fresh fruit and vegetables from earth are an important part of the crews diet
+
+
+ tanegashima space center 
+
+located in japan on an island 115 kilometres 71 mi south of kyūshū the tanegashima space center tcs is the launch site for h-ii transfer vehicle htv called kounotori こうのとり oriental stork or white stork used to resupply the kibō japanese experiment module jem and the iss the name kounotori was chosen for the htv by jaxa because a white stork carries an image of conveying an important thing a baby happiness and other joyful things therefore it precisely expresses the htvs mission to transport essential materials to the isswhite kounotori can carry 6,000 kilograms 13,000 lb of cargo in total about 3,500–4,500 kilograms 7,700–9,900 lb of which is accessible by the crew in the pressurized section the remainder is unpressurised cargo on exposed pallet to be handled by the isss robotic arm
+
+
+ guiana space centre 
+the european space agency esa uses the guiana space centre or more commonly centre spatial guyanais csg it is a french spaceport near kourou in french guiana operational since 1968 it is particularly suitable as a location for a spaceport due to its proximity to the equator and that launches are in a favorable direction over water the near-equatorial launch location provides an advantage for launches to low-inclination or geostationary earth orbits compared to launches from spaceports at higher latitude the eastward boost provided by the earths rotation is about 463 metres per second 1,520 fts 1,035 miles per hour at this spaceport
+the esas automated transfer vehicle weighs 20.7 tonnes 20,700 kg at launch and has a cargo capacity of 8 tonnes 8,000 kg 1,500 to 5,500 kilograms 3,300 to 12,100 lb of dry cargo up to 1,000 kilograms 2,200 lb of water nitrogen oxygen air with up to two gases per flight and up to 4,700 kilograms 10,400 lb of propellant for the re-boost and refueling the station
+
+
+ cape canaveral 
+cape canaveral air force station located in florida usa has been operational since 1950 with its first orbital launch occurring in 1958 all of nasas crewed mercury and gemini missions were launched from the cape along with some of the earlier apollo missions cape canaveral is adjacent to the kennedy space center where the majority of apollo missions and all
+the space shuttle missions were launched from under contract with nasa spacex launches the dragon spacecraft to resupply the american portion of the iss the dragon can transport 6,000 kilograms 13,000 lb of pressurized and unpressurized cargo and can return 3,000 kilograms 6,600 lb to earth it is the only uncrewed resupply vehicle capable of returning a payload
+
+
+ mid-atlantic regional spaceport 
+the mid-atlantic regional spaceport located at wallops island virginia usa is the launch site for the northrop grumman cygnus spacecraft for resupplying the american portion of the iss
+
+
+ current and completed spaceflights 
+this is a list of uncrewed spaceflights to the international space station assembly flights are indicated in bold text
+note russia has delivered cargo via the uncrewed missions of progress since the launch of the iss while the us had used space shuttles for hybrid humancargo missions resulting in greater number of russian uncrewed flights to the iss since the discontinuation of the space shuttle program in 2011 the numbers of crewed and uncrewed flights by the us and russia are more closely matched
+
+ for vehicles that are berthed to the station using the space station remote manipulator system ssrms the times of berthing and unberthing are given these vehicles remain physically attached to the station longer than indicated when counting the time between initial ssrms capture and release currently the japanese htv the spacex dragon and the orbital sciences cygnus are the visiting vehicles to attach in this manner for all other vehicles the times of docking and undocking are given
+
+
+ future spaceflights 
+scheduled future flights are shown below
+
+
+ see also 
+list of spaceflights to the international space station
+list of human spaceflights to the international space station
+list of international space station spacewalks
+list of international space station visitors
+list of progress flights
+comparison of space station cargo vehicles
+cargo spacecraft
+
+
+ external links 
+nasa iss consolidated launch manifest
+esa iss consolidated launch manifest
+spacex launch manifest
+orbital cygnus launch manifest
+russian launch manifest
+
+
+ references 

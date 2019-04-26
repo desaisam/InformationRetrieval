@@ -1,0 +1,66 @@
+the national space organization nspo chinese 國家太空中心 pinyin guójiā tàikōng zhōngxīn pe̍h-ōe-jī kok-ka thài-khong tiong-sim formerly known as the national space program office is the national civilian space agency of taiwan under the auspices of the ministry of science and technology nspo is involved in the development of space technologies and related research
+
+
+ organization 
+nspo headquarters and the main ground control station are in hsinchu taiwan the nspo is organized as follows
+nspo also has numerous laboratories such as
+
+system simulation laboratory
+thermal control laboratory
+microwave communication laboratory
+data processing laboratory
+attitude determination and control laboratory
+electro-optics laboratory
+structure development laboratory
+electrical power laboratory
+multi-layer insulation mli laboratory
+
+
+ taiwanese rocket launch program 
+the nspo developed several suborbital launch vehicles based on the sky bow ii surface-to-air missile there have been six to seven launches as of 2010
+
+
+ taiwanese satellite launch vehicle program 
+little has been publicly revealed about the specification of the roc taiwans first launch vehicle for small satellites slv 小型發射載具 it should be able to place a 100 kg payload to a 500–700 km orbit this slv will be a major technological improvement based on existing sounding rockets and will consist of four solid propellant stages with two strap-on solid rocket boosters therefore it will be in the same class of the indian slv-3 the inaugural launch is scheduled to take place during the second phase of the 2004–2018 space project 第二期太空計畫 placing a taiwanese-made satellite into orbit and after the preparatory launches of 10 to 15 sounding rockets 探空火箭
+
+
+ taiwanese designed and built satellites 
+
+
+ formosat formerly rocsat 
+
+the formosat 福爾摩沙衛星 name derived from formosa and satellite formerly rocsat 中華衛星  republic of china roc  satellite sat
+
+formosat-1 formerly rocsat-1 communications and ionospheric research satellite launched in january 1999
+formosat-2 formerly rocsat-2 ionospheric research and surface mapping satellite launched may 2004
+formosat-3cosmic constellation of six microsatellites to perform gps occultation studies of the upper atmosphere collaborative project with us agencies including nasa noaa and the university corporation for atmospheric research launched in april 2006
+formosat-5  optical earth observation and magnetic field research as a successor to the japanese reimei mission cooperation with japan and canada launch was originally planned for 2011 it was launched in 2017
+
+
+ others 
+yamsat series of picosatellites volume 1000 cubic cm weight roughly 850 grams designed to carry out simple short duration spectroscopy missions originally planned for launch in 2003 by a russian launch vehicle but cancelled due to political pressure from the russian government
+arase jaxa mission to study the inner magnetosphere launched 2016 taiwan provided an instrument
+
+
+ planned missions 
+formosat-7cosmic-2 constellation of twelve small satellites to perform gps occultation studies of the upper atmosphere collaborative project with us agencies including nasa noaa and the university corporation for atmospheric research launch is planned for 2017 and 2019
+
+
+ developments and long term plans 
+the first phase of taiwans space program involves the development of the human and technological resources required to build and maintain three satellite programs which is expected to be completed with the launch of formosat-3cosmic by the end of 2005 currently the spacecraft and instrumentation are designed and assembled in taiwan by local and foreign corporations and shipped to the us for launch by commercial space launch firms the nspo the military and chungshan institute of science and technology have also been working on the development of a sounding rocket for upper atmospheric studies
+the second phase is scheduled to take place between 2006 and 2018 it will involve an emphasis on developing technological integration and miniaturization capabilities required for the development of constellations of microsatellites as well as encouraging growth in the local aerospace industry
+since 2009 nspo has been working with university research teams in developing innovative technology to improve the overall efficiency of hybrid rockets nitrous oxidehtpb propellant systems were employed with efficiency boosting designs which resulted in great improvements in hybrid rocket performance using two patented designs so far several hybrid rockets have been successfully launched to 1020 km altitudes including a demonstration of in-flight stopsrestarts by the end of 2014 they will attempt conducting suborbital experiments to 100200 km altitude
+there have been proposals to elevate nspos status to that of a national research institute however such plans were under debate legislative yuan as of late 2007
+
+
+ see also 
+list of government space agencies
+
+
+ references 
+
+
+ external links 
+nspo website
+globalsecurity article on taiwans space program
+encyclopedia astronautica – taiwan

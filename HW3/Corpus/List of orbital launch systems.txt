@@ -1,0 +1,364 @@
+this is a list of conventional orbital launch systems this is composed of carrier rockets and other conventional systems used to place satellites into orbit
+
+
+ argentina 
+orbit ii – retired
+tronador – under development
+
+
+ australia 
+ausrock iv – under development
+
+
+ brazil 
+vls-1 - retired
+vlm – under development
+
+
+ china peoples republic 
+
+feng bao 1 - retired
+kaituozhe-1 - retired
+kuaizhou
+long march
+long march 1
+long march 1d - retired
+long march 2
+long march 2a - retired
+long march 2c
+long march 2d
+long march 2e - retired
+long march 2f
+long march 3
+long march 3 - retired
+long march 3a
+long march 3b - retired
+long march 3be
+long march 3c
+long march 4
+long march 4a - retired
+long march 4b
+long march 4c
+long march 5
+long march 5b
+long march 6
+long march 7
+long march 11
+
+
+ europe 
+
+ariane
+ariane 1 - retired
+ariane 2 - retired
+ariane 3 - retired
+ariane 4 - retired
+ariane 5 - active
+ariane 6 - under development
+europa - retired
+vega - active
+ariane m – proposal only
+miura 5 — under development
+
+
+ france 
+diamant - retired
+
+
+ germany 
+otrag - retired
+
+
+ india 
+
+satellite launch vehicle – retired
+augmented satellite launch vehicle – retired
+polar satellite launch vehicle
+pslv-g – retired
+pslv-ca – active
+pslv-xl – active
+pslv-3s – concept
+pslv-dl – active
+geosynchronous satellite launch vehicle
+gslv mk i a – retired
+gslv mk i b – retired
+gslv mk ii – active
+geosynchronous satellite launch vehicle mark iii – active
+small satellite launch vehicle – under development
+reusable launch vehicle tsto reusable launcher – under development
+admire test vehicle demonstration of vtvl reusable launcher – under development
+unified modular launch vehicle – under development
+
+
+ indonesia 
+rps-420 pengorbitan-1 – under development 
+rps-550 pengorbitan-2 – under development 
+
+
+ iran 
+
+safir
+simorgh
+
+
+ iraq 
+al abid - retired
+
+
+ israel 
+shavit
+
+
+ italy 
+vega jointly with european space agency
+
+
+ japan 
+
+lambda - retired
+l-4s
+mu - retired
+m-4s
+m-3c
+m-3h
+m-3s
+m-3sii
+m-v
+n - retired
+n-i
+n-ii
+h-i - retired
+h-ii
+h-ii - retired
+h-iia
+h-iib
+h3 - under development
+j-i - retired
+gx - cancelled
+epsilon
+ss-520 - active as suborbital launch system at least no further orbital mission planned as of february 2018
+
+
+ north korea 
+paektusan-1 - retired
+unha-2 - retired
+unha-3
+
+
+ romania 
+haas – under development
+
+
+ russia 
+see soviet union and successor states
+
+
+ south africa 
+rsa-3 - development retired
+cheetah-1 – under development
+
+
+ south korea 
+naro family
+kslv-1 naro
+kslv-2 nuri – under development
+
+
+ soviet union and successor states 
+
+angara
+corona ssto – under development
+kosmos
+kosmos-1 - retired
+kosmos-2i - retired
+kosmos-3 - retired
+kosmos-3m
+lin industrial projectsadler – under development
+aldan – under development
+aniva – under development
+taymyr – under development
+vyuga – under development
+buran - retired
+n1 - retired
+r-7
+luna
+molniya - retired
+molniya-m
+molniya-l
+polyot
+soyuz family
+soyuz - retired
+soyuz-l
+soyuz-m
+soyuz-u
+soyuz-u2 - retired
+soyuz-fg
+soyuz-2
+sputnik
+voskhod
+vostok
+r-27 derivatives
+zyb
+r-29 derivatives
+shtil
+volna
+r-36 derivatives
+dnepr-1
+tsyklon
+tsyklon-2 - retired
+tsyklon-3 - retired
+tsyklon-4 – under development
+rus-m – under development
+start-1
+universal rocket
+ur-100 derived
+rokot
+strela
+proton ur-500
+proton-k - retired
+proton-m
+zenitenergia family
+energia
+zenit
+zenit 2
+zenit 3
+zenit-3sl
+zenit 3slb
+zenit-3f ukraine - active
+
+
+ spain 
+capricornio - retired
+
+
+ republic of china taiwan 
+tslv - under development
+
+
+ turkey 
+ufs - under development
+
+
+ ukraine 
+see soviet union and successor statestsyklon-4
+cyclone-4m
+
+
+ united kingdom 
+black arrow - retired
+black prince - cancelled
+
+
+ united states 
+
+bold denotes active ols
+
+antares – operational
+ares – cancelled
+ares i
+ares iv
+ares v
+athena
+athena i - retired
+athena ii - retired
+atlas
+atlas b - retired
+atlas d - retired
+atlas-able - retired
+atlas-agena - retired
+atlas ef - retired
+atlas h - retired
+atlas lv-3b - retired
+atlas slv-3 - retired
+atlas-centaur- retired
+atlas g - retired
+atlas i - retired
+atlas ii - retired
+atlas iii - retired
+atlas v - operational
+conestoga - retired
+electron rocket lab – operational
+falcon
+falcon 1 - retired
+falcon 1e - cancelled
+falcon 5 - cancelled
+falcon 9
+falcon 9 air - cancelled
+falcon 9 v1.0 - retired
+falcon 9 v1.1 - retired
+falcon 9 full thrust - operational
+falcon heavy - operational
+interplanetary transport system
+its launch vehicle - cancelled
+bfr rocket - under development
+minotaur
+minotaur i
+minotaur iv
+minotaur v - operational
+new glenn - under development
+omega - under development
+pegasus - operational
+pilot - retired
+redstone
+juno i - retired
+sparta - retired
+saturn - retired
+saturn i - retired
+saturn ib - retired
+saturn v - retired
+saturn int-21 - retired
+scout - retired
+space shuttle - retired
+space launch system - under development
+taurus minotaur-c - operational
+thor - retired
+thor-able  - retired
+thor-ablestar - retired
+thor-agena - retired
+thorad-agena - retired
+thor-burner - retired
+thor dsv-2u - retired
+delta
+thor-delta - retired
+delta a - retired
+delta b - retired
+delta c - retired
+delta d - retired
+delta e - retired
+delta g - retired
+delta j - retired
+delta l - retired
+delta m - retired
+delta n - retired
+delta 0100 - retired
+delta 1000 - retired
+delta 2000 - retired
+delta 3000 - retired
+delta 4000 - retired
+delta 5000 - retired
+delta ii - retired
+delta ii 6000 - retired
+delta ii 7000 - retired
+delta iii - retired
+delta iv - active
+delta iv heavy - operational
+n and h-i - see japan - retired
+titan - retired
+titan ii glv- retired
+titan 23g - retired
+titan iiib - retired
+titan iii - retired
+titan 34d - retired
+commercial titan iii - retired
+titan iv - retired
+vanguard - retired
+vector-r - under development
+vulcan - under development
+
+
+ see also 
+comparison of orbital launch systems
+comparison of orbital launchers families
+
+
+ references 

@@ -1,0 +1,28 @@
+comet 252plinear is a periodic comet and near-earth object discovered by the linear survey on april 7 2000 the comet is an earth-jupiter family comet meaning that it passes quite close to both earth and jupiter this causes its orbit to be perturbed frequently on an astronomical timescale
+the nominal orbit of 252plinear 2001 k102/1 was thrown into the near-earth region by jupiter in february 1785 before which it had a perihelion near that of mars 1774–1785 prior to this it had a perihelion in the asteroid belt 1607–1690 and even further before was most likely a jupiter trojan since its jupiter moid is currently 0.2 au jupiter remains the primary factor in its orbital disruption
+at some point before 1860 252plinear separated from a secondary smaller fragment discovered in january 2016 designated p2016 ba14 panstarrs the nucleus of the secondary is 60–200 meters wide half that of the primary 252plinear will get as close as 0.0356 au 13.9 ld to earth on 21 march 2016 and p2016 ba14 panstarrs will get as close as 0.0237 au 9.2 ld to earth on 22 march 2016
+
+
+ associated meteor shower 
+252plinear is predicted to perhaps make a weak new meteor shower during its 2016 approach peter jenniskens and jeremie
+vaubaillon calculated that possible meteors from this comet would radiate from the constellation of lepus south of orion from a radiant at ra  77.0 deg decl  -16.3 deg with a slow geocentric velocity of vg  11.1 kms on march 28 and 29 when earth reaches the comet orbit rates will be low there are no encounters with the dust trails created since ad 1850 but instead a diffuse cloud of perturbed meteoroids ejected during 1894-1926 is calculated to be in earths path see cbet telegram 4267quan-zhi ye calculated that possible meteors from comet p2016 ba14 panstarrs would radiate from the constellation columba south of lepus during the late ut hours of march 20 the radiant is at ra  82 deg decl  -39 deg with geocentric velocity vg  14.1 kms meteoroids ejected since ad 1750 were studied with also no dust trail encounters found in 2016 see cbet telegram 4259a meteor shower has been observed with a similar orbit to 252plinear previously known as the march lyncids in the constellation lynx it is not known for certain if the shower is related to the comet
+
+
+ p2016 ba14 
+
+p2016 ba14 was radar imaged at distance of 2.2 million miles 9 lunar distances during a flyby of earth in 2016 this enabled the size of the nucleus to be calculated to be about 3000 to 3300 feet 1 km in diameter which was bigger than expectedba 14 had unique history in that when it was discovered in january 2016 by a panstarrs telescope it was thought to be an asteroid and went by a provisional minor planet designation 2016 ba14  an astronomer then realized the bodys orbit was very similar to 252plinear  which lead to a follow up observation by the discovery channel telescope the body showed a tail identifying it as a probable comet and then named p2016 ba14
+
+
+ gallery 
+
+
+ see also 
+55ptempel–tuttle close approach to earth 1366
+comet iras–araki–alcock close approach to earth in 1983
+
+
+ references 
+
+
+ external links 
+orbital simulation from jpl java  horizons ephemeris

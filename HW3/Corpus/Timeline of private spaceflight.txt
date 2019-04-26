@@ -1,0 +1,59 @@
+the following is a timeline of important events in the history of private spaceflight including important technical as well as legislative and political advances though the industry has its origins in the early 1960s soon after the beginning of the space age private companies did not begin conducting launches into space until the 1980s and it was not until the 21st century that multiple companies began privately developing and operating launch vehicles and spacecraft in earnest
+
+
+ before 1980 
+
+12 december 1961 – oscar 1 the first amateur built satellite is launched aboard an american thor-agena rocket
+10 july 1962 – telstar 1 the first satellite to be used commercially is launched on the first commercially sponsored space launch aboard a thor-delta rocket
+31 august 1962 – president john f kennedy signs the communications satellite act of 1962 providing the regulatory framework for private companies in the united states to own and operate their own satellites
+1975 – otrag the first company to attempt private development and manufacture of space propulsion systems is founded in stuttgart germany though its program is ultimately abandoned in the early 1980s
+
+
+ 1980s 
+
+9 september 1982 – conestoga i a repurposed minuteman second stage is launched from matagorda island to an altitude of 309 km 192 miles by space services inc becoming the first privately owned and operated rocket to reach space
+30 october 1984 – president ronald reagan signs the commercial space launch act of 1984 which mandates nasa to encourage private spaceflight and authorizes the office of commercial space transportation to regulate private spaceflight in the united states
+29 march 1989 – starfire a repurposed black brant sounding rocket launched by space services inc is the first rocket to launch with a commercial launch license from the office of commercial space transportation
+
+
+ 1990s 
+
+5 april 1990 – pegasus an air launched rocket developed by orbital sciences corporation becomes the first launch vehicle fully developed by a private company to reach space as well as the first air launched rocket of any kind to reach orbit
+16 november 1992 – space flight europe-america 500 an orbital mission consisting of a space capsule bearing gifts from russia to the united states is launched by the russian company tsskb-progress aboard a soyuz rocket before landing six days later off the coast of grays harbor in the united states
+november 1995 – the office of commercial space transportation is transferred to the federal aviation administration faa becoming the faa associate administrator for space transportation or faaast
+13 may 1998– hgs-1 a communications satellite operated at the time by hughes global services inc becomes the first commercial spacecraft to visit the moon after flying to within 6,200 km of the lunar surface on a free return trajectory in order to salvage it from an unusable orbit
+
+
+ 2000s 
+
+4 april 2000 – soyuz tm-30 a manned mission to the space station mir arranged by the company mircorp in collaboration with the russian federal space agency launches becoming the first privately funded space station expedition
+28 april 2001 – dennis tito becomes the first space tourist launching to the international space station aboard a russian soyuz spacecraft after paying for a seat arranged by the american company space adventures
+17 may 2004 – the civilian space exploration team csxt becomes the first amateur organization to send a rocket into space with the launch of their “gofast” rocket to 116 km 72 miles altitude
+21 june 2004 – scaled composites’ spaceshipone conducts the first privately flown and funded manned spaceflight piloted by mike melvill
+23 december 2004 – president george w bush signs the commercial space launch amendments act of 2004 which provides a basic legal framework for commercial human spaceflight it also creates the so-called “learning period” a temporary restriction on the faa’s ability to regulate the private spaceflight industry which has since been extended multiple times
+12 july 2006 – a russian-ukrainian dnepr rocket launches genesis i an experimental inflatable space habitat developed and owned by bigelow aerospace that is the first inflatable habitat module to reach orbit
+28 september 2008 – spacex conducts the first successful launch of its falcon 1 rocket the first privately developed liquid fueled rocket to reach orbit
+
+
+ 2010s 
+
+8 december 2010 – spacex successfully launches and recovers its dragon capsule on its first mission marking the first time a privately developed and operated spacecraft is recovered from orbit
+25 may 2012 – the second mission of spacex’s dragon capsule completes a successful rendezvous and berthing with the international space station making it the first private spacecraft to do so
+may-july 2014 – a private initiative known as the isee-3 reboot project successfully contacts and takes control of nasa’s defunct isee-3 space probe with support from nasa and the arecibo observatory making them the first private group to command a spacecraft in deep space though their plans to change the probe’s orbit are abandoned weeks later when its thrusters fail to respond properly
+23 october 2014 – luxspace an aerospace contractor based in luxembourg launches the manfred memorial moon mission 4m the first commercial payload sent to the moon attached to the third stage of the rocket that lifted chinese lunar flyby spacecraft change 5-t1
+23 november 2015 – blue origin successfully launches its new shepard launch system into space and lands it vertically making it the first vtvl rocket to land on earth from space
+25 november 2015 – president barack obama signs the us commercial space launch competitiveness act also known as the spurring private aerospace competitiveness and entrepreneurship act or space act of 2015 which codifies the ability of american companies to own material resources extracted in outer space
+21 december 2015 – spacex lands the first stage of its falcon 9 rocket at landing zone 1 at cape canaveral marking the first recovery of a vtvl stage from an orbital rocket
+22 january 2016– blue origin successfully launches and lands the same new shepard booster flown in november making it the first vtvl rocket to reach space twice
+30 march 2017– spacex successfully launches and lands the first stage of a falcon 9 that had previously flown in april 2016 making it the first vtvl rocket to be used on two orbital flights
+13 july 2017– the luxembourg chamber of deputies adopts a law guaranteeing companies the right to own resources extracted in space making luxembourg the first european nation to do so
+21 january 2018 – american aerospace company rocket lab successfully launched its electron rocket from mahia launch center on january 21st 2018 carrying three cubesats into low earth orbit this was the first time that a rocket entered orbit after launching from a privately owned and operated spaceport
+06 february 2018– spacex successfully launches their new rocket falcon heavy on its first test flight and manages to land two of the three boosters upright
+
+
+ see also 
+history of spaceflight
+commercialization of space
+
+
+ references 

@@ -1,0 +1,137 @@
+Stop words I have choosen after inspecting the table below in the next section . There is a clear drop in the frequency of the word "other" .
+Contents ofstop words ?
+All the entries also fit my understanding of the most frequently used words in English.However the word "space" appears , this is because of the requirement in assginent two , to 
+use a particular seed url as we are using the corpus from the previous assignment.
+For the resons above , i have chosen the cutoff as 34.
+I have not listed all the terms here, as it was clear from inspection that all terms have very less frequency (between 7 to 40)
+
+=======================================================================================================================================
+the 
+of 
+and 
+in 
+to 
+a 
+is
+as
+by
+was 
+that
+for 
+on 
+with 
+from 
+are 
+at 
+it 
+an 
+be 
+which
+or 
+this
+were
+have
+its 
+space
+his
+also
+not
+first
+has
+he
+other
+===================================================SECTION 2=======================================================================================
+Unigram : Freq			       Difference 
+the : 345782  
+of : 179451    				166331
+and : 128109				51342
+in : 108452				19657	
+to : 95153				13299
+a : 85134				10019
+is : 48042				37092
+as : 37296				10746
+by : 34595				2701
+was : 32436				2159
+that : 31564				872
+for : 31103				461
+on : 30816				287
+with : 28725				2091
+from : 27460				1265
+are : 21448				6012
+at : 19682				1766
+it : 19177				505
+an : 17554				1623
+be : 17107				447
+which : 16334				773
+or : 16240				94
+this : 15286				954
+were : 13337				1949
+have : 11746				1591
+its : 11564				182
+space : 11524				40
+his : 10923				601
+also : 10674				249
+not : 10237				437
+first : 9939				298
+has : 9587				352
+he : 9195				392
+other : 8488				707
+============================================================DROP IN FREQUENCY============================================================================ 
+but : 8392				96
+their : 8326				66
+one : 8137				189
+can : 7906				231
+had : 7889				17
+been : 7526				363
+such : 7470				56
+they : 7321				149
+than : 7307				 14		
+into : 6910				397
+more : 6855				55
+new : 6716				139
+after : 6564				152
+these : 6406				158
+most : 6396				 10
+about : 6331				 65
+two : 6284				 47
+during : 6243				 41
+between : 6108				135
+would : 6082				 26
+earth : 6072			 	10
+when : 5988				 84
+system : 5986				  2
+may : 5879				107
+some : 5791				 88
+used : 5768				 23
+all : 5554				214
+time : 5550				  4
+– : 5413				137
+there : 5304				109
+only : 4874				430
+over : 4824				  0	
+years : 4661				163
+many : 4483				178
+known : 4388				 95
+1 : 4348				 40
+states : 4319				 29
+solar : 4312				  7
+who : 4305				  7
+spacecraft : 4301			  4
+through : 4295			          6
+orbit : 4226				 69
+world : 4207				 19
+energy : 4152				 55 	
+s : 3779				373
+mission : 3772				  7	
+light : 3769				  3
+while : 3752			 	 17
+2 : 3742				 10
+de : 3735				  7
+surface : 3722				 13
+century : 3706		     		 16	
+where : 3705 		         	  1	
+around : 3554		     		201
+sun : 3537		     		 17
+however : 3536		     		  1		
+united : 3528                		  8
+no : 3476		     		 52

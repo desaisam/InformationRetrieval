@@ -1,0 +1,140 @@
+observations of the planet venus include those in antiquity telescopic observations and from visiting spacecraft spacecraft have performed various flybys orbits and landings on venus including balloon probes that floated in the atmosphere of venus study of the planet is aided by its relatively close proximity to the earth compared to other planets but the surface of venus is obscured by an atmosphere opaque to visible light
+
+
+ historical observations and impact 
+
+as one of the brightest objects in the sky venus has been known since prehistoric times and as such many ancient cultures recorded observations of the planet a cylinder seal from the jemdet nasr period indicates that the ancient sumerians already knew that the morning and evening stars were the same celestial object the sumerians named the planet after the goddess inanna who was known as ishtar by the later akkadians and babylonians she had a dual role as a goddess of both love and war thereby representing a deity that presided over birth and death one of the oldest surviving astronomical documents from the babylonian library of ashurbanipal around 1600 bc is a 21-year record of the appearances of venus
+
+because the movements of venus appear to be discontinuous it disappears due to its proximity to the sun for many days at a time and then reappears on the other horizon some cultures did not immediately recognize venus as single entity instead they assumed it to be two separate stars on each horizon the morning star and the evening star the ancient egyptians for example believed venus to be two separate bodies and knew the morning star as tioumoutiri and the evening star as ouaiti the ancient greeks called the morning star φωσφόροσ phosphoros latinized phosphorus the bringer of light or ἐωσφόροσ eosphoros latinized eosphorus the bringer of dawn the evening star they called hesperos latinized hesperus ἓσπεροσ the star of the evening by hellenistic times the ancient greeks identified it as a single planet which they named after their goddess of love aphrodite αφροδίτη phoenician astarte a planetary name that is retained in modern greek hesperos would be translated into latin as vesper and phosphoros as lucifer light bearer
+venus was considered the most important celestial body observed by the maya who called it chac ek or noh ek the great star the maya monitored the movements of venus closely and observed it in daytime the positions of venus and other planets were thought to influence life on earth so the maya and other ancient mesoamerican cultures timed wars and other important events based on their observations in the dresden codex the maya included an almanac showing venuss full cycle in five sets of 584 days each approximately eight years after which the patterns repeated since venus has a synodic period of 583.92 days the maya civilization developed a religious calendar based in part upon the motions of the planet and held the motions of venus to determine the propitious time for events such as war they also named it xux ek the wasp star the maya were aware of the planets synodic period and could compute it to within a hundredth part of a day
+
+
+ phases 
+
+because its orbit takes it between the earth and the sun venus as seen from earth exhibits visible phases in much the same manner as the earths moon galileo galilei was the first person to observe the phases of venus in december 1610 an observation which supported copernicuss then contentious heliocentric description of the solar system he also noted changes in the size of venuss visible diameter when it was in different phases suggesting that it was farther from earth when it was full and nearer when it was a crescent this observation strongly supported the heliocentric model venus and also mercury is not visible from earth when it is full since at that time it is at superior conjunction rising and setting concomitantly with the sun and hence lost in the suns glare
+venus is brightest when approximately 25% of its disk is illuminated this typically occurs 37 days both before in the evening sky and after in the morning sky its inferior conjunction its greatest elongations occur approximately 70 days before and after inferior conjunction at which time it is half full between these two intervals venus is actually visible in broad daylight if the observer knows specifically where to look for it the planets period of retrograde motion is 20 days on either side of the inferior conjunction in fact through a telescope venus at greatest elongation appears less than half full due to schröters effect first noticed in 1793 and shown in 1996 as due to its thick atmosphere
+
+on rare occasions venus can actually be seen in both the morning before sunrise and evening after sunset on the same day this scenario arises when venus is at its maximum separation from the ecliptic and concomitantly at inferior conjunction then one hemisphere northern or southern will be able to see it at both times this opportunity presented itself most recently for northern hemisphere observers within a few days on either side of march 29 2001 and for those in the southern hemisphere on and around august 19 1999 these respective events repeat themselves every eight years pursuant to the planets synodic cycle
+
+
+ transit and early terrestrial observations 
+
+transits of venus directly between the earth and the suns visible disc are rare astronomical events the first such transit to be predicted and observed was the transit of venus 1639 seen and recorded by english astronomers jeremiah horrocks and william crabtree the observation by mikhail lomonosov of the transit of 1761 provided the first evidence that venus had an atmosphere and the 19th-century observations of parallax during venus transits allowed the distance between the earth and sun to be accurately calculated for the first time transits can only occur either in early june or early december these being the points at which venus crosses the ecliptic the orbital plane of the earth and occur in pairs at eight-year intervals with each such pair more than a century apart the most recent pair of transits of venus occurred in 2004 and 2012 while the prior pair occurred in 1874 and 1882
+in the 19th century many observers stated that venus had a period of rotation of roughly 24 hours italian astronomer giovanni schiaparelli was the first to predict a significantly slower rotation proposing that venus was tidally locked with the sun as he had also proposed for mercury while not actually true for either body this was still a reasonably accurate estimate the near-resonance between its rotation and its closest approach to earth helped to create this impression as venus always seemed to be facing the same direction when it was in the best location for observations to be made the rotation rate of venus was first measured during the 1961 conjunction observed by radar from a 26 m antenna at goldstone california the jodrell bank radio observatory in the uk and the soviet deep space facility in yevpatoria crimea accuracy was refined at each subsequent conjunction primarily from measurements made from goldstone and eupatoria the fact that rotation was retrograde was not confirmed until 1964
+before radio observations in the 1960s many believed that venus contained a lush earth-like environment this was due to the planets size and orbital radius which suggested a fairly earth-like situation as well as to the thick layer of clouds which prevented the surface from being seen among the speculations on venus were that it had a jungle-like environment or that it had oceans of either petroleum or carbonated water however microwave observations by c mayer et al indicated a high-temperature source 600 k strangely millimetre-band observations made by a d kuzmin indicated much lower temperatures two competing theories explained the unusual radio spectrum one suggesting the high temperatures originated in the ionosphere and another suggesting a hot planetary surface
+
+
+ terrestrial radar mapping 
+after the moon venus was the second object in the solar system to be explored by radar from the earth  the first studies were carried out in 1961 at nasas goldstone observatory part of the deep space network at successive inferior conjunctions venus was observed both by goldstone and the national astronomy and ionosphere center in arecibo the studies carried out were similar to the earlier measurement of transits of the meridian which had revealed in 1963 that the rotation of venus was retrograde it rotates in the opposite direction to that in which it orbits the sun the radar observations also allowed astronomers to determine that the rotation period of venus was 243.1 days and that its axis of rotation was almost perpendicular to its orbital plane it was also established that the radius of the planet was 6,052 kilometres 3,761 mi some 70 kilometres 43 mi less than the best previous figure obtained with terrestrial telescopes
+interest in the geological characteristics of venus was stimulated by the refinement of imaging techniques between 1970 and 1985 early radar observations suggested merely that the surface of venus was more compacted than the dusty surface of the moon the first radar images taken from the earth showed very bright radar-reflective highlands christened alpha regio beta regio and maxwell montes improvements in radar techniques later achieved an image resolution of 1–2 kilometres
+
+
+ observation by spacecraft 
+
+there have been numerous unmanned missions to venus ten soviet probes have achieved a soft landing on the surface with up to 110 minutes of communication from the surface all without return launch windows occur every 19 months
+
+
+ early flybys 
+on february 12 1961 the soviet spacecraft venera 1 was the first probe launched to another planet an overheated orientation sensor caused it to malfunction losing contact with earth before its closest approach to venus of 100,000 km however the probe was first to combine all the necessary features of an interplanetary spacecraft solar panels parabolic telemetry antenna 3-axis stabilization course-correction engine and the first launch from parking orbit
+
+the first successful venus probe was the american mariner 2 spacecraft which flew past venus in 1962 coming within 35,000 km a modified ranger moon probe it established that venus has practically no intrinsic magnetic field and measured the planets temperature range as 490 to 590 k
+the soviet union launched the zond 1 probe to venus in 1964 but it malfunctioned sometime after its may 16 telemetry session
+during another american flyby in 1967 mariner 5 measured the strength of venuss magnetic field in 1974 mariner 10 swung by venus on its way to mercury and took ultraviolet photographs of the clouds revealing the extraordinarily high wind speeds in the venusian atmosphere
+
+
+ early landings 
+
+on march 1 1966 the venera 3 soviet space probe crash-landed on venus becoming the first spacecraft to reach the surface of another planet its sister craft venera 2 had failed due to overheating shortly before completing its flyby mission
+the descent capsule of venera 4 entered the atmosphere of venus on october 18 1967 making it the first probe to return direct measurements from another planets atmosphere the capsule measured temperature pressure density and performed 11 automatic chemical experiments to analyze the atmosphere it discovered that the atmosphere of venus was 95% carbon dioxide co2 and in combination with radio occultation data from the mariner 5 probe showed that surface pressures were far greater than expected 75 to 100 atmospheres
+these results were verified and refined by the venera 5 and venera 6 in may 1969 but thus far none of these missions had reached the surface while still transmitting venera 4s battery ran out while still slowly floating through the massive atmosphere and venera 5 and 6 were crushed by high pressure 18 km 60,000 ft above the surface
+the first successful landing on venus was by venera 7 on december 15 1970 it remained in contact with earth for 23 minutes relaying surface temperatures of 455 °c to 475 °c 855 °f to 885 °f venera 8 landed on july 22 1972 in addition to pressure and temperature profiles a photometer showed that the clouds of venus formed a layer ending over 35 kilometres 22 mi above the surface a gamma ray spectrometer analyzed the chemical composition of the crust
+
+
+ landerorbiter pairs 
+
+
+ venera 9 and 10 
+the soviet probe venera 9 entered orbit on october 22 1975 becoming the first artificial satellite of venus a battery of cameras and spectrometers returned information about the planets clouds ionosphere and magnetosphere as well as performing bi-static radar measurements of the surface the  660 kg 1,455 lb descent vehicle separated from venera 9 and landed taking the first pictures of the surface and analyzing the crust with a gamma ray spectrometer and a densitometer during descent pressure temperature and photometric measurements were made as well as backscattering and multi-angle scattering nephelometer measurements of cloud density it was discovered that the clouds of venus are formed in three distinct layers on october 25 venera 10 arrived and carried out a similar program of study
+
+
+ pioneer venus 
+in 1978 nasa sent two pioneer spacecraft to venus the pioneer mission consisted of two components launched separately an orbiter and a multiprobe the pioneer venus multiprobe carried one large and three small atmospheric probes the large probe was released on november 16 1978 and the three small probes on november 20 all four probes entered the venusian atmosphere on december 9 followed by the delivery vehicle although not expected to survive the descent through the atmosphere one probe continued to operate for 45 minutes after reaching the surface the pioneer venus orbiter was inserted into an elliptical orbit around venus on december 4 1978 it carried 17 experiments and operated until the fuel used to maintain its orbit was exhausted and atmospheric entry destroyed the spacecraft in august 1992
+
+
+ further soviet missions 
+also in 1978 venera 11 and venera 12 flew past venus dropping descent vehicles on december 21 and december 25 respectively the landers carried colour cameras and a soil drill and analyzer which unfortunately malfunctioned each lander made measurements with a nephelometer mass spectrometer gas chromatograph and a cloud-droplet chemical analyzer using x-ray fluorescence that unexpectedly discovered a large proportion of chlorine in the clouds in addition to sulfur strong lightning activity was also detected
+in 1981 the soviet venera 13 sent the first colour image of venuss surface and analysed the x-ray fluorescence of an excavated soil sample the probe operated for a record 127 minutes on the planets hostile surface also in 1981 the venera 14 lander detected possible seismic activity in the planets crust
+in december 1984 during the apparition of halleys comet the soviet union launched the two vega probes to venus
+vega 1 and vega 2 encountered venus in june 1985 each deploying a lander and an instrumented helium balloon the balloon-borne aerostat probes floated at about 53 km altitude for 46 and 60 hours respectively traveling about 1/3 of the way around the planet and allowing scientists to study the dynamics of the most active part of venuss atmosphere these measured wind speed temperature pressure and cloud density more turbulence and convection activity than expected was discovered including occasional plunges of 1 to 3 km in downdrafts
+the landing vehicles carried experiments focusing on cloud aerosol composition and structure each carried an ultraviolet absorption spectrometer aerosol particle-size analyzers and devices for collecting aerosol material and analyzing it with a mass spectrometer a gas chromatograph and an x-ray fluorescence spectrometer the upper two layers of the clouds were found to be sulfuric acid droplets but the lower layer is probably composed of phosphoric acid solution the crust of venus was analyzed with the soil drill experiment and a gamma ray spectrometer as the landers carried no cameras on board no images were returned from the surface they would be the last probes to land on venus for decades the vega spacecraft continued to rendezvous with halleys comet nine months later bringing an additional 14 instruments and cameras for that mission
+the multiaimed soviet vesta mission developed in cooperation with european countries for realisation in 1991–1994 but canceled due to the soviet union disbanding included the delivering the balloons and small lander to venus according to first plan
+
+
+ orbiters 
+
+
+ venera 15 and 16 
+in october 1983 venera 15 and venera 16 entered polar orbits around venus the images had a 1–2 kilometre 0.6–1.2 mile resolution comparable to those obtained by the best earth radars venera 15 analyzed and mapped the upper atmosphere with an infrared fourier spectrometer from november 11 1983 to july 10 1984 both satellites mapped the northern third of the planet with synthetic aperture radar these results provided the first detailed understanding of the surface geology of venus including the discovery of unusual massive shield volcanoes such as coronae and arachnoids venus had no evidence of plate tectonics unless the northern third of the planet happened to be a single plate the altimetry data obtained by the venera missions had a resolution four times better than pioneers
+
+
+ magellan 
+on august 10 1990 the american magellan probe named after the explorer ferdinand magellan arrived at its orbit around the planet and started a mission of detailed radar mapping at a frequency of 2.38 ghz whereas previous probes had created low-resolution radar maps of continent-sized formations magellan mapped 98% of the surface with a resolution of approximately 100 m the resulting maps were comparable to visible-light photographs of other planets and are still the most detailed in existence magellan greatly improved scientific understanding of the geology of venus the probe found no signs of plate tectonics but the scarcity of impact craters suggested the surface was relatively young and there were lava channels thousands of kilometers long after a four-year mission magellan as planned plunged into the atmosphere on october 11 1994 and partly vaporized some sections are thought to have hit the planets surface
+
+
+ venus express 
+venus express was a mission by the european space agency to study the atmosphere and surface characteristics of venus from orbit the design was based on esas mars express and rosetta missions the probes main objective was the long-term observation of the venusian atmosphere which it is hoped will also contribute to an understanding of earths atmosphere and climate it also made global maps of venerean surface temperatures and attempted to observe signs of life on earth from a distance
+venus express successfully assumed a polar orbit on april 11 2006 the mission was originally planned to last for two venusian years about 500 earth days but was extended to the end of 2014 until its propellant was exhausted some of the first results emerging from venus express include evidence of past oceans the discovery of a huge double atmospheric vortex at the south pole and the detection of hydroxyl in the atmosphere
+
+
+ akatsuki 
+akatsuki was launched on may 20 2010 by jaxa and was planned to enter venusian orbit in december 2010 however the orbital insertion maneuver failed and the spacecraft was left in heliocentric orbit it was placed on an alternative elliptical venerian orbit on 7 december 2015 by firing its attitude control thrusters for 1233-seconds the probe will image the surface in ultraviolet infrared microwaves and radio and look for evidence of lightning and volcanism on the planet astronomers working on the mission reported detecting a possible gravity wave that occurred on the planet venus in december 2015
+
+
+ recent flybys 
+
+several space probes en route to other destinations have used flybys of venus to increase their speed via the gravitational slingshot method these include the galileo mission to jupiter and the cassini–huygens mission to saturn two flybys rather curiously during cassinis examination of the radio frequency emissions of venus with its radio and plasma wave science instrument during both the 1998 and 1999 flybys it reported no high-frequency radio waves 0.125 to 16 mhz which are commonly associated with lightning this was in direct opposition to the findings of the soviet venera missions 20 years earlier it was postulated that perhaps if venus did have lightning it might be some type of low-frequency electrical activity because radio signals cannot penetrate the ionosphere at frequencies below about 1 megahertz at the university of iowa donald gurnetts examination of venuss radio emissions by the galileo spacecraft during its flyby in 1990 were interpreted at the time to be indicative of lightning however the galileo probe was over 60 times further from venus than cassini was during its flyby making its observations substantially less significant the mystery as to whether or not venus does in fact have lightning in its atmosphere was not solved until 2007 when the scientific journal nature published a series of papers giving the initial findings of venus express it confirmed the presence of lightning on venus and that it is more common on venus than it is on earthmessenger passed by venus twice on its way to mercury the first time it flew by on october 24 2006 passing 3000 km from venus as earth was on the other side of the sun no data was recorded the second flyby was on july 6 2007 where the spacecraft passed only 325 km from the cloudtops
+
+
+ future missions 
+
+the venera-d spacecraft was proposed to roscosmos in 2003 and the concept has been matured since then it would be launched in the late 2020s and its prime purpose is to map venuss surface using a powerful radar the mission would also include a lander capable to function for a long duration on the surface as of late-2018 nasa is working with russia on the mission concept but the collaboration has not been formalizedindias isro is developing the shukrayaan-1 orbiter concept which as of 2018 is in the configuration phase it is proposed to be launched in 2023 buts its funding has not yet been requested
+
+
+ timeline of venus exploration 
+
+objectives are listed in order of increasing difficulty fly-by impactor orbiter lander soft rover sample return sources
+development unofficial names are listed in italics
+
+
+ past missions 
+
+
+ current missions 
+
+
+ missions under study 
+
+
+ proposals 
+ 
+to overcome the high pressure and temperature at the surface a team led by geoffrey landis of nasas glenn research center produced a concept in 2007 of a solar-powered aircraft that would to control a resistant surface rover on the ground the aircraft would carry the missions sensitive electronics in the relatively mild temperatures of venus upper atmosphere another concept from 2007 suggests to equip a rover with a stirling cooler powered by a nuclear power source to keep an electronics package at an operational temperature of about 200 °c 392 °fsome examples of mission concepts and proposals include
+
+
+ see also 
+aspects of venus
+manned venus flyby
+
+
+ notes 
+
+jerome translated septuagint heosphoros and hebrew helel as lucifer in isaiah 1412 212 pm
+
+
+ references 
+
+
+ external links 
+double vortex at venus south pole unveiled
+planetary missions at national space science data center nasa
+soviet venus-rover хм-вд2
+exploring venus by solar airplane - g landis

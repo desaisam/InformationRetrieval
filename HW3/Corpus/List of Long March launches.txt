@@ -1,0 +1,40 @@
+this is a list of all orbital launches made by the long march series of carrier rockets launch attempts aborted or scrubbed before liftoff including ones such as the attempt to launch a long march 2e with optus b1 on 22 march 1992 where the engines were ignited but shut down on the pad are not included launches made with the related feng bao 1 carrier rocket are not included
+
+
+ launch statistics 
+rockets from the long march family have accumulated 300 launches as of  9 march 2019 of these 285 were successful 8 were failures and 7 were partial failures the cumulative success rate is 95
+
+
+ anomalies and failures 
+a success is a launch that deploys all payloads into the correct orbit without damage  the launch vehicle may experience an anomaly that does not affect the mission  the payload may experience an anomaly that was not caused by the launch
+
+on 29 november 1994 the long march 3a successfully deployed chinasat-5 into geosynchronous transfer orbit however the satellite failed to reach geostationary orbit due to a propellant leak
+on 3 november 2016 the long march 5 experienced an anomaly in the second stage failing to deploy the stack into the correct geosynchronous transfer orbit however the third stage was able to compensate for the performance shortfall with a longer burna partial failure is a launch that reaches orbit but at least one payload was not deployed into the correct orbit without damage after a partial failure a satellite may operate at reduced functionality or with a reduced lifetime a common type of partial failure occurs when a satellite is deployed into a lower than intended orbit the satellite can maneuver with its own propulsion system to reach the correct orbit but this reduces the fuel available for station-keeping and shortens its operational life
+on 29 january 1984 the maiden launch of the long march 3 failed to reach geosynchronous transfer orbit
+on 28 december 1991 the long march 3 failed to deploy the payload into geosynchronous transfer orbit
+on 28 november 1995 the long march 2e damaged asiasat 2 by subjecting it to excessive forces during the launch the satellite was unable to broadcast to its full coverage area
+on 18 august 1996 the long march 3 failed to deploy the payload into geosynchronous transfer orbit
+on 31 august 2009 the long march 3b failed to deploy the payload into geosynchronous transfer orbit  the satellite reached the intended orbit with its own propulsion system
+on 28 december 2016 the long march 2d failed to deploy the payloads into sun synchronous orbit  the primary payloads reached the correct orbit with their own propulsion systems but the secondary payload had no propulsion system and reentered two months later
+on 18 june 2017 the long march 3b failed to deploy chinasat 9a into geosynchronous transfer orbit  the satellite maneuvered 10 times over a one-month period to reach the correct orbita failure is a launch that destroys the satellite or does not deploy it into earth orbit
+
+on 5 november 1974 the long march 2 lost control during its maiden launch
+on 21 december 1992 the long march 2e experienced a structural failure of the payload fairing destroying the optus b2 communications satellite
+on 25 january 1995 the long march 2e experienced another structural failure in the payload fairing destroying the apstar 2 communications satellite
+on 14 february 1996 the long march 3b lost its guidance platform and veered off course hitting a nearby village and killing at least 6 people
+on 18 august 2011 the long march 2c lost attitude control
+on 9 december 2013 the long march 4b experienced an early shutdown of its third stage and failed to reach orbit
+on 31 august 2016 the long march 4c failed to reach orbit
+on 2 july 2017 the long march 5 experienced an anomaly in its first stage and failed to reach orbit
+
+
+ launch history 
+
+
+ references 
+
+
+ sources 
+
+
+ citations 

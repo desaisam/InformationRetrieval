@@ -1,0 +1,85 @@
+a geocentric orbit or earth orbit involves any object orbiting planet earth such as the moon or artificial satellites in 1997 nasa estimated there were approximately 2,465 artificial satellite payloads orbiting the earth and 6,216 pieces of space debris as tracked by the goddard space flight center over 16,291 previously launched objects have decayed into the earths atmospherea spacecraft enters orbit when its centripetal acceleration due to gravity is less than or equal to the centrifugal acceleration due to the horizontal component of its velocity for a low earth orbit this velocity is about 7,800 ms 28,100 kmh 17,400 mph by contrast the fastest manned airplane speed ever achieved excluding speeds achieved by deorbiting spacecraft was 2,200 ms 7,900 kmh 4,900 mph in 1967 by the north american x-15 the energy required to reach earth orbital velocity at an altitude of 600 km 370 mi is about 36 mjkg which is six times the energy needed merely to climb to the corresponding altitudespacecraft with a perigee below about 2,000 km 1,200 mi are subject to drag from the earths atmosphere which decreases the orbital altitude the rate of orbital decay depends on the satellites cross-sectional area and mass as well as variations in the air density of the upper atmosphere below about 300 km 190 mi decay becomes more rapid with lifetimes measured in days once a satellite descends to 180 km 110 mi it has only hours before it vaporizes in the atmosphere the escape velocity required to pull free of earths gravitational field altogether and move into interplanetary space is about 11,200 ms 40,300 kmh 25,100 mph
+
+
+ list of terms and concepts 
+
+altitude
+as used here the height of an object above the average surface of the earths oceansanalemma
+a term in astronomy used to describe the plot of the positions of the sun on the celestial sphere throughout one year closely resembles a figure-eightapogee
+is the farthest point that a satellite or celestial body can go from earth at which the  orbital velocity will be at its minimumeccentricity
+a measure of how much an orbit deviates from a perfect circle eccentricity is strictly defined for all circular and elliptical orbits and parabolic and hyperbolic trajectoriesequatorial plane
+as used here an imaginary plane extending from the equator on the earth to the celestial sphereescape velocity
+as used here the minimum velocity an object without propulsion needs to have to move away indefinitely from the earth an object at this velocity will enter a parabolic trajectory above this velocity it will enter a hyperbolic trajectoryimpulse
+the integral of a force over the time during which it acts measured in n·sec or lb  secinclination
+the angle between a reference plane and another plane or axis in the sense discussed here the reference plane is the earths equatorial planeorbital characteristics
+the six parameters of the keplerian elements needed to specify that orbit uniquelyorbital period
+as defined here time it takes a satellite to make one full orbit around the earthperigee
+is the nearest approach point of a satellite or celestial body from earth at which the orbital velocity will be at its maximumsidereal day
+the time it takes for a celestial object to rotate 360° for the earth this is 23 hours 56 minutes 4.091 secondssolar time
+as used here the local time as measured by a sundialvelocity
+an objects speed in a particular direction since velocity is defined as a vector both speed and direction are required to define it
+
+
+ geocentric orbit types 
+the following is a list of different geocentric orbit classifications
+
+
+ altitude classifications 
+
+low earth orbit leo - geocentric orbits ranging in altitude from 160 kilometers 100 statute miles to 2,000 kilometres 1,200 mi above mean sea level at 160 km one revolution takes approximately 90 minutes and the circular orbital speed is 8,000 metres per second 26,000 ftsmedium earth orbit meo - geocentric orbits with altitudes at apogee ranging between 2,000 kilometres 1,200 mi and that of the geosynchronous orbit at 35,786 kilometres 22,236 migeosynchronous orbit geo - geocentric circular orbit with an altitude of 35,786 kilometres 22,236 mi  the period of the orbit equals one sidereal day coinciding with the rotation period of the earth the speed is approximately 3,000 metres per second 9,800 ftshigh earth orbit heo - geocentric orbits with altitudes at apogee higher than that of the geosynchronous orbit a special case of high earth orbit is the highly elliptical orbit where altitude at perigee is less than 2,000 kilometres 1,200 mi
+
+
+ inclination classifications 
+inclined orbit - an orbit whose inclination in reference to the equatorial plane is not 0polar orbit - a satellite that passes above or nearly above both poles of the planet on each revolution therefore it has an inclination of or very close to 90 degreespolar sun synchronous orbit - a nearly polar orbit that passes the equator at the same local time on every pass useful for image-taking satellites because shadows will be the same on every pass
+
+
+ eccentricity classifications 
+circular orbit - an orbit that has an eccentricity of 0 and whose path traces a circleelliptic orbit - an orbit with an eccentricity greater than 0 and less than 1 whose orbit traces the path of an ellipsehohmann transfer orbit - an orbital maneuver that moves a spacecraft from one circular orbit to another using two engine impulses this maneuver was named after walter hohmanngeosynchronous transfer orbit gto - a geocentric-elliptic orbit where the perigee is at the altitude of a low earth orbit leo and the apogee at the altitude of a geosynchronous orbithighly elliptical orbit heo - geocentric orbit with apogee above 35,786 km and low perigee about 1,000 km that result in long dwell times near apogeemolniya orbit - a highly elliptical orbit with inclination of 63.4° and orbital period of ½ of a sidereal day roughly 12 hours such a satellite spends most of its time over a designated area of the earthtundra orbit - a highly elliptical orbit with inclination of 63.4° and orbital period of one sidereal day roughly 24 hours such a satellite spends most of its time over a designated area of the earthhyperbolic trajectory - an orbit with eccentricity greater than 1 the objects velocity reaches some value in excess of the escape velocity therefore it will escape the gravitational pull of the earth and continue to travel infinitely with a velocity relative to earth decelerating to some finite value known as the hyperbolic excess velocity
+escape trajectory - this trajectory must be used to launch an interplanetary probe away from earth because the excess over escape velocity is what changes its heliocentric orbit from that of earth
+capture trajectory - this is the mirror image of the escape trajectory an object traveling with sufficient speed not aimed directly at earth will move toward it and accelerate in the absence of a decelerating engine impulse to put it into orbit it will follow the escape trajectory after periapsisparabolic trajectory - an orbit with eccentricity exactly equal to 1 the objects velocity equals the escape velocity therefore it will escape the gravitational pull of the earth and continue to travel with a velocity relative to earth decelerating to 0 a spacecraft launched from earth with this velocity would travel some distance away from it but follow it around the sun in the same heliocentric orbit it is possible but not likely that an object approaching earth could follow a parabolic capture trajectory but speed and direction would have to be precise
+
+
+ directional classifications 
+prograde orbit - an orbit in which the projection of the object onto the equatorial plane revolves about the earth in the same direction as the rotation of the earth
+retrograde orbit - an orbit in which the projection of the object onto the equatorial plane revolves about the earth in the direction opposite that of the rotation of the earth
+
+
+ geosynchronous classifications 
+semi-synchronous orbit sso - an orbit with an altitude of approximately 20,200 km 12,600 mi and an orbital period of approximately 12 hoursgeosynchronous orbit geo - orbits with an altitude of approximately 35,786 km 22,236 mi such a satellite would trace an analemma figure 8 in the skygeostationary orbit gso a geosynchronous orbit with an inclination of zero to an observer on the ground this satellite would appear as a fixed point in the skyclarke orbit - another name for a geostationary orbit named after the writer arthur c clarkeearth orbital libration points the libration points for objects orbiting earth are at 105 degrees west and 75 degrees east more than 160 satellites are gathered at these two pointssupersynchronous orbit - a disposal  storage orbit above gsogeo satellites will drift westsubsynchronous orbit - a drift orbit close to but below gsogeo satellites will drift eastgraveyard orbit - an orbit a few hundred kilometers above geosynchronous that satellites are moved into at the end of their operationdisposal orbit - a synonym for graveyard orbitjunk orbit - a synonym for graveyard orbit
+
+
+ special classifications 
+sun-synchronous orbit - an orbit which combines altitude and inclination in such a way that the satellite passes over any given point of the planets surface at the same local solar time such an orbit can place a satellite in constant sunlight and is useful for imaging spy and weather satellitesmoon orbit - the orbital characteristics of earths moon average altitude of 384,403 kilometres 238,857 mi elliptical–inclined orbit
+
+
+ non-geocentric classifications 
+horseshoe orbit - an orbit that appears to a ground observer to be orbiting a planet but is actually in co-orbit with it see asteroids 3753 cruithne and 2002 aa29 sub-orbital flight - a launch where a spacecraft approaches the height of orbit but lacks the velocity to sustain it
+
+
+ tangential velocities at altitude 
+
+
+ see also 
+
+earths orbit
+list of orbits
+astrodynamics
+celestial sphere
+heliocentric orbit
+areosynchronous satellite
+areostationary satellite
+escape velocity
+satellite
+space station
+
+
+ references 
+
+
+ external links 
+httpwwwfreemarsorgjeffspeedindexhtm
+httpwwwtech-faqcommedium-earth-orbitshtml
+httpwwwhqnasagovofficepaohistoryconghandtrajecthtm
+httpswebarchiveorgweb20100221072300httpwwwspacecomscienceastronomysolarsystemsecondmoon991029html
+httpwwwastrouwocawiegert3753/3753html
+httpwwwastrouwocawiegertaa29aa29html

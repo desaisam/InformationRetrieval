@@ -1,0 +1,25 @@
+this is a list of kosmos satellites 
+due to its size the list has been split into groups of 250 satellites
+
+list of kosmos satellites 1–250
+list of kosmos satellites 251–500
+list of kosmos satellites 501–750
+list of kosmos satellites 751–1000
+list of kosmos satellites 1001–1250
+list of kosmos satellites 1251–1500
+list of kosmos satellites 1501–1750
+list of kosmos satellites 1751–2000
+list of kosmos satellites 2001–2250
+list of kosmos satellites 2251–2500
+list of kosmos satellites 2501–2750
+
+
+ references 
+
+
+ external links 
+nssdc master catalog spacecraft query form
+gunters space page chronology of space launches
+jonathans space report
+tbs satellite
+astronautixcom

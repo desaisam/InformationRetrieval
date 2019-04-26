@@ -1,0 +1,101 @@
+an electrically-powered spacecraft propulsion system uses electrical energy to change the velocity of a spacecraft most of these kinds of spacecraft propulsion systems work by electrically expelling propellant reaction mass at high speed but electrodynamic tethers work by interacting with a planets magnetic fieldelectric thrusters typically use much less propellant than chemical rockets because they have a higher exhaust speed operate at a higher specific impulse than chemical rockets due to limited electric power the thrust is much weaker compared to chemical rockets but electric propulsion can provide a small thrust for a long time electric propulsion can achieve high speeds over long periods and thus can work better than chemical rockets for some deep space missionselectric propulsion is now a mature and widely used technology on spacecraft russian satellites have used electric propulsion for decades and it is predicted that by 2020 half of all new satellites will carry full electric propulsion as of  2013 over 200 spacecraft operated throughout the solar system use electric propulsion for station keeping orbit raising or primary propulsion in the future the most advanced electric thrusters may be able to impart a delta-v of 100 kms which is enough to take a spacecraft to the outer planets of the solar system with nuclear power but is insufficient for interstellar travel an electric rocket with an external power source transmissible through laser on the photovoltaic panels has a theoretical possibility for interstellar flight however electric propulsion is not a method suitable for launches from the earths surface as the thrust for such systems is too weak
+
+
+ history 
+the idea of electric propulsion for spacecraft dates back to 1911 introduced in a publication by konstantin tsiolkovsky earlier robert goddard had noted such a possibility in his personal notebookelectrically-powered propulsion with a nuclear reactor was considered by dr tony martin for interstellar project daedalus in 1973 but the novel approach was rejected because of very low thrust the heavy equipment needed to convert nuclear energy into electricity and as a result a small acceleration which would take a century to achieve the desired speedthe demonstration of electric propulsion was an ion engine carried on board the sert-1 space electric rocket test spacecraft launched on 20 july 1964 and it operated for 31 minutes  a follow-up mission launched on 3 february 1970 sert-2 carried two ion thrusters one operated for more than five months and the other for almost three monthsby the early 2010s many satellite manufacturers were offering electric propulsion options on their satellites—mostly for on-orbit attitude control—while some commercial communication satellite operators were beginning to use them for geosynchronous orbit insertion in place of traditional chemical rocket engines
+
+
+ types 
+
+
+ ion and plasma drives 
+this type of rocket-like reaction engine uses electric energy to obtain thrust from propellant carried with the vehicle unlike rocket engines these kinds of engines do not necessarily have rocket nozzles and thus many types are not considered true rockets
+electric propulsion thrusters for spacecraft may be grouped into three families based on the type of force used to accelerate the ions of the plasma
+
+
+ electrostatic 
+
+if the acceleration is caused mainly by the coulomb force ie application of a static electric field in the direction of the acceleration the device is considered electrostatic
+
+gridded ion thruster
+nasa solar technology application readiness nstar
+hipep
+radiofrequency ion thruster
+hall effect thruster
+spt – stationary plasma thruster
+tal – thruster with anode layer
+colloid ion thruster
+field emission electric propulsion
+nano-particle field extraction thruster
+
+
+ electrothermal 
+the electrothermal category groups the devices where electromagnetic fields are used to generate a plasma to increase the temperature of the bulk propellant the thermal energy imparted to the propellant gas is then converted into kinetic energy by a nozzle of either solid material or magnetic fields low molecular weight gases eg hydrogen helium ammonia are preferred propellants for this kind of system
+an electrothermal engine uses a nozzle to convert the heat of a gas into linear motion in its molecules so it is a true rocket even though the energy producing the heat comes from an external source
+performance of electrothermal systems in terms of specific impulse isp is somewhat modest 500 to 1000 seconds but exceeds that of cold gas thrusters monopropellant rockets and even most bipropellant rockets in the ussr electrothermal engines were used since 1971 the soviet meteor-3 meteor-priroda resurs-o satellite series and the russian elektro satellite are equipped with them electrothermal systems by aerojet mr-510 are currently used on lockheed martin a2100 satellites using hydrazine as a propellant
+
+arcjet
+microwave arcjet
+resistojet
+variable specific impulse magnetoplasma rocket vasimr
+
+
+ electromagnetic 
+
+if ions are accelerated either by the lorentz force or by the effect of electromagnetic fields where the electric field is not in the direction of the acceleration the device is considered electromagnetic
+
+electrodeless plasma thruster
+mpd thruster
+pulsed inductive thruster
+pulsed plasma thruster
+helicon double layer thruster
+
+
+ non-ion drives 
+
+
+ photonic 
+photonic drive does not expel matter for reaction thrust only photons see laser propulsion photonic laser thruster photon rocket
+
+
+ electrodynamic tether 
+
+electrodynamic tethers are long conducting wires such as one deployed from a tether satellite which can operate on electromagnetic principles as generators by converting their kinetic energy to electric energy or as motors converting electric energy to kinetic energy electric potential is generated across a conductive tether by its motion through the earths magnetic field the choice of the metal conductor to be used in an electrodynamic tether is determined by a variety of factors primary factors usually include high electrical conductivity and low density secondary factors depending on the application include cost strength and melting point
+
+
+ controversial 
+it is disputed whether these devices work at all or even whether they can work work according to the currently-understood laws of physics
+quantum vacuum plasma thruster
+em drive or cannae drive
+
+
+ steady vs unsteady 
+electric propulsion systems can also be characterized as either steady continuous firing for a prescribed duration or unsteady pulsed firings accumulating to a desired impulse however these classifications are not unique to electric propulsion systems and can be applied to all types of propulsion engines
+
+
+ dynamic properties 
+
+electrically-powered rocket engines provide lower thrust compared to chemical rockets by several orders of magnitude because of the limited electrical power possible to provide in a spacecraft a chemical rocket imparts energy to the combustion products directly whereas an electrical system requires several steps however the high velocity and lower reaction mass expended for the same thrust allows electric rockets to run for a long time this differs from the typical chemical-powered spacecraft where the engines run only in short intervals of time while the spacecraft mostly follows an inertial trajectory when near a planet low-thrust propulsion may not offset the gravitational attraction of the planet an electric rocket engine cannot provide enough thrust to lift the vehicle from a planets surface but a low thrust applied for a long interval can allow a spacecraft to maneuver near a planet
+
+
+ see also 
+magnetic sail a proposed system powered by solar wind from the sun or any star
+list of spacecraft with electric propulsion a list of past and proposed spacecraft which used electric propulsion
+
+
+ references 
+
+aerospace america aiaa publication december 2005 propulsion and energy section pp 54–55 written by mitchell walker
+
+
+ external links 
+nasa jet propulsion laboratory
+electric ion propulsion university center for atmospheric research university of colorado at boulder 2000
+distributed power architecture for electric propulsion
+choueiri edgar y 2009 new dawn of electric rocket
+robert g jahn and edgar y choueiri electric propulsion
+colorado state university electric propulsion and plasma engineering ceppe laboratory
+stationary plasma thrusters（pdf
+httpswebarchiveorgweb20090530080218httpwwwdaviddarlinginfoencyclopediaeelectricprophtml
+1
+a critical history of electric propulsion：the first fifty years1906-1956 - aiaa-2004-3334

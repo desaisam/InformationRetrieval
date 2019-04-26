@@ -1,0 +1,164 @@
+the following is a collection of lists of exceptional asteroids in the solar system for the purposes of this article asteroid means minor planet up to the orbit of jupiter which includes the dwarf planet ceres for a complete list of minor planets in numerical order see list of minor planets 
+asteroids are given minor planet numbers but not all minor planets are asteroids minor planet numbers are also given to objects of the kuiper belt which is similar to the asteroid belt but farther out around 30–60 au whereas asteroids are mostly between 2–3 au from the sun also comets are not typically included under minor planet numbers and have their own naming methodology
+asteroids are given a unique sequential identifying number once their orbit is precisely determined prior to this they are known only by their systematic name or provisional designation such as 1950 da
+
+
+ physical characteristics 
+
+
+ largest by diameter 
+estimating the sizes of asteroids from observations is difficult due to their irregular shapes varying albedo and small angular diameter for example pure c-type asteroids are much darker than most asteroids with only one or two axes measured may have a falsely inflated geometric mean diameter if the unknown second or third axis is significantly smaller than the primary axis asteroid 16 psyche has an iras diameter of 253 km yet has a more recent and accurate geometric mean of only 186 km
+the number of bodies grows rapidly as the size decreases based on iras data there are about 140 main-belt asteroids with a diameter greater than 120 km  for a more complete list see list of solar system objects by size
+the inner asteroid belt defined as the region interior to the 31 kirkwood gap at 2.50 au has few large asteroids of those in the above list only 4 vesta 19 fortuna 6 hebe 7 iris and 9 metis  orbit there
+
+
+ most massive 
+below are the nineteen most massive measured asteroids the masses of asteroids are calculated from perturbations they induce on the orbits of other asteroids except for asteroids that have been visited by spacecraft or have an observable moon where a direct mass determination is possible different sets of astrometric observations lead to different mass determinations the biggest problem is accounting for the aggregate perturbations caused by all of the smaller asteroids
+
+all the data above are from baer et al 2011 apart from 48 doris and 532 herculina which are kochetova 2004 the proportions assume that the total mass is 3.0×1021 kg or 15.0±1.0×10−10 m☉ 
+significant uncertainties remain for example the uncertainty in the estimate of 31 euphrosyne is enough for its low end to overlap with both 704 interamnia and 511 davida which overlap each other and also with 532 herculina which overlaps with 15 eunomia and 3 juno juno barely overlaps 52 europa which in turn overlaps with 16 psyche that is outside the top four the order of all the asteroids is uncertain however none of the lesser asteroids of which the most massive are thought to be 88 thisbe at 17–19×1018 kg 7 iris 29 amphitrite and 48 doris all in the range of ≈15×1018 kg overlap with europa or psyche so the first 12 asteroids in the chart above are likely to be the top dozen unless a hitherto unmeasured asteroid proves to be unexpectedly massive
+the largest asteroids with an accurately measured mass due to the fact that they have been and are being studied by the probe dawn are 1 ceres with a mass of 939.3 ± 0.5×1018 kg and 4 vesta at 259.076 ± 0.001×1018 kg the third-largest asteroid with an accurately measured mass due to the fact that it has moons is 87 sylvia at 14.78 ± 0.06×1018 kg
+for a more complete list see list of solar system objects by size other large asteroids such as 423 diotima currently only have estimated masses
+
+
+ brightest from earth 
+only vesta regularly attains a brightness sufficient to be visible to the naked eye the following asteroids can all reach an apparent magnitude brighter than or equal to the 8.3 attained by saturns moon titan at its brightest which was discovered 145 years before the first asteroid was found owing to its closeness to the easily observed saturn
+none of the asteroids in the outer part of the asteroid belt can ever attain this brightness even hygiea and interamnia rarely reach magnitudes of above 10.0 this is due to the different distribution of spectral types within different sections of the asteroid belt being such that the highest-albedo asteroids are all concentrated closer to mars and much lower albedo c and d types being common in the outer belt
+those asteroids with very high eccentricities will only reach their maximum magnitude on unusual occasions when their perihelion is very close to a heliocentric conjunction with earth or in the case of 99942 apophis when the asteroid passes very close to earth
+
+ apophis will only achieve that brightness on april 13 2029  it typically has an apparent magnitude of 20–22
+
+
+ slowest rotators 
+
+this list contains the slowest-rotating known minor planets with a period of at least 1000 hours or 41​2⁄3 days while most bodies have rotation periods between 2 and 20 hours also see potentially slow rotators for minor planets with an insufficiently accurate period u  2
+
+back to top 
+
+
+ fastest rotators 
+
+this list contains the fastest-rotating minor planets with a period of less than 100 seconds or 0.027 hours bodies with a highly uncertain period having a quality of less than 2 are highlighted in dark-grey the fastest rotating bodies are all unnumbered near-earth objects neos with a diameter of less than 100 meters see table
+among the numbered minor planets with an unambiguous period solution are 459872 2014 ek24 a 60-meter sized stony neo with a period of 352 seconds as well as 335433 2005 uw163 and 60716 2000 gd65 two main-belt asteroids with a diameter of 0.86 and 2.25 kilometers and a period of 1.29 and 1.95 hours respectively see full list
+
+back to top 
+
+
+ orbital characteristics 
+
+
+ retrograde 
+minor planets with orbital inclinations greater than 90° the greatest possible is 180° orbit in a retrograde direction as of  september 2016 of the more than 700,000 minor planets known there are only 95 known retrograde minor planets in comparison there are over 1,920 comets with retrograde orbits this makes retrograde minor planets the rarest group of all high-inclination asteroids are either mars-crossers possibly in the process of being ejected from the solar system or damocloids some of these are temporarily captured in retrograde resonance with the gas giants
+  the value given when the number of observations is multiplied by the observation arc larger values are generally better than smaller values depending on residuals
+
+
+ highly inclined 
+
+
+ trojans 
+earth trojans 2010 tk7
+mars trojans 121514 1999 uj7 5261 eureka 101429 1998 vf31 311999 2007 ns2 385250 2001 dh47 2011 sc191 2011 un63 and the candidate 2011 sl25
+jupiter trojans the first one was discovered in 1906 588 achilles and the current total is over 6,000
+
+
+ record-setting close approaches to earth 
+
+
+ timeline 
+
+
+ landmark asteroids 
+
+
+ spacecraft targets 
+
+
+ numbered minor planets that are also comets 
+the above table lists only numbered asteroids that are also comets note there are several cases where a non-numbered minor planets turned out to be a comet eg c2001 og108 loneos which was provisionally designated 2001 og108
+
+
+ minor planets that were misnamed and renamed 
+in earlier times before the modern numbering and naming rules were in effect asteroids were sometimes given numbers and names before their orbits were precisely known and in a few cases duplicate names were given to the same object with modern use of computers to calculate and compare orbits with old recorded positions this type of error no longer occurs this led to a few cases where asteroids had to be renamed
+
+
+ landmark numbers 
+many landmark numbers had specially chosen names for asteroids and there was some debate if pluto should have received number ten thousand for example this includes some non-asteroids
+powers of 10x1
+
+1e0 1 ceres
+1e1 10 hygiea
+1e2 100 hekate
+1e3 1000 piazzia
+1e4 10000 myriostos
+1e5 100000 astronautica
+1e6 there are not yet 1 million asteroids assigned numberspowers of 10x2
+
+2 pallas
+20 massalia
+200 dynamene
+2000 herschel
+20000 varuna kuiper belt object
+200000 2007 jt40powers of 10x3
+
+3 juno
+30 urania
+300 geraldina
+3000 leonardo
+30000 camenzind
+300000 2006 uw30powers of 10x4
+
+4 vesta
+40 harmonia
+400 ducrosa
+4000 hipparchus
+40000 1998 hz87
+400000 2006 dk190powers of 10x5
+
+5 astraea
+50 virginia
+500 selinur
+5000 iau
+50000 quaoar kuiper belt object
+500000 	2011 pm6powers of 10x6
+
+6 hebe
+60 echo
+600 musa
+6000 united nations
+60000 miminkopowers of 10x7
+
+7 iris
+70 panopaea
+700 auravictrix
+7000 curie
+70000 1998 xx6powers of 10x8
+
+8 flora
+80 sappho
+800 kressmannia
+8000 isaac newton
+80000 1999 fr33powers 10x9
+
+9 metis
+90 antiope
+900 rosalinde
+9000 hal
+90000 2002 tk102
+
+
+ see also 
+
+
+ books 
+dictionary of minor planet names 5th ed prepared on behalf of commission 20 under the auspices of the international astronomical union lutz d schmadel isbn 3-540-00238-3
+
+
+ references 
+
+
+ external links 
+lists and plots minor planets
+pds asteroid data archive
+sbn small bodies data archive
+nasa near earth object program
+major news about minor objects

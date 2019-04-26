@@ -1,0 +1,28 @@
+this is a list of satellites in geosynchronous orbit these satellites are commonly used for communication purposes such as radio and television networks back-haul and direct broadcast  traditional global navigation systems do not use geosynchronous satellites but some sbas navigation satellites do  a number of weather satellites are also present in geosynchronous orbits not included in the list below are several more classified military geosynchronous satellites such as pan
+listings are from west to east decreasing longitude in the western hemisphere and increasing longitude in the eastern hemisphere by orbital position starting and ending with the international date line
+a special case of geosynchronous orbit is the geostationary orbit which is a circular geosynchronous orbit at zero inclination that is directly above the equator a satellite in a geostationary orbit appears stationary always at the same point in the sky to ground observers popularly or loosely the term geosynchronous may be used to mean geostationary specifically geosynchronous earth orbit geo may be a synonym for geosynchronous equatorial orbit or geostationary earth orbit communications satellites are often given geostationary orbits or close to geostationary so that the satellite antennas that communicate with them do not have to move but can be pointed permanently at the fixed location in the sky where the satellite appears
+some of these satellites are separated from each other by as little as one tenth of a degree longitude this corresponds to an inter-satellite spacing of approximately 73 km  the major consideration for spacing of geostationary satellites is the beamwidth at-orbit of uplink transmitters which is primarily a factor of the size and stability of the uplink dish as well as what frequencies the satellites transponders receive satellites with discontiguous frequency allocations can be much closer together
+as of april 2018 the website ucs satellite database lists 1,886 known satellites this includes all orbits and everything down to the little cubesats not just satellites in geo of these 548 are listed in the database as being at geo the website provides a spreadsheet containing details of all the satellites which can be downloaded
+satellites in inclined geosynchronous orbit are so indicated by a note in the remarks columns data below is from 2015 and is out of date
+
+
+ western hemisphere 
+
+
+ eastern hemisphere 
+
+
+ in transit 
+
+
+ historical 
+
+
+ references 
+
+
+ external links 
+satcodx a useful 3rd party resource
+lyngsat a useful 3rd party resource
+satbeams - satellite footprints
+trackingsat - list of satellites in geostationary orbit

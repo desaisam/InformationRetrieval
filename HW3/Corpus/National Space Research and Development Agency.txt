@@ -1,0 +1,74 @@
+the national space research and development agency nasrda is the national space agency of nigeria  it is a part of the federal ministry of science and technology and it is overseen by the national council on space science technology the agency based in the nigerian capital abuja has a ground receiving station nigeria has cooperation in space technology with the united kingdom china ukraine and russia
+
+
+ history 
+nasrda was established on 1 august 2001 after preparation period since in 1998 by nigerian president olusegun obasanjo and the nigerian government with a primary objective of establishing a fundamental policy for the development of space science and technology with an initial budget of 93 million
+in may 2006 the new extended national space program was adopted
+
+
+ scope 
+the initial scope of the nigerian space programme nsp to be implemented by the national space research and development agency nasrda should include
+the study of basic space science in order to lay the foundation for deriving maximum benefits from the nation’s participation in the space enterprise 
+for the attainment of space capabilities nigeria’s efforts should focus on research and rigorous education engineering development design and manufacture particularly in the areas of instrumentation rocketry and small satellites as well as in satellite data acquisition processing analysis and management of related software 
+the establishment of a national earth observation station for remote sensing and satellite meteorology data acquisition such an infrastructure will enhance the indigenous ability to adopt modify and create new techniques for national resources inventories monitoring evaluation and management 
+the provision of efficient reliable and adequate telecommunications services in nigeria in order to enhance the growth of the industrial commercial and administrative sectors of the economy
+the focus areas of the national space programme nsp include
+basic space science and technology to provide the understanding of how the universe works and what its impact is on the world this will enable us to lay the foundation for deriving maximum benefits from the nation’s participation in the space enterprise
+remote sensing to help nigerians understand and manage our environment and natural resources using space-acquired information this technology will enable us to better understand our land air and water resources and their associated problems
+satellite meteorology to study atmospheric and weather sciences using satellite data to facilitate the effective management of our environment
+communication and information technology to provide efficient and reliable telecommunications services for nigeria in order to enhance the growth of the industrial commercial and administrative sectors of the economy
+defence and security the federal government shall develop a necessary space science technology sst programme that will address the national needs of nigeria for this purpose the government shall establish a defence space command in the ministry of defence the command shall comprise representatives of the defence intelligence security and law enforcement services and report through the ministry of defence to the national space council
+
+
+ satellites 
+five satellites have been launched by the nigerian government into outer space early plans to launch a national satellite in 1976 were not executed the nigeriasat-1 was the first nigerian satellite and built by a united kingdom-based satellite technology company surrey space technology limited sstl ltd under the nigerian government sponsorship for 30 million the satellite was launched by kosmos-3m rocket from russian plesetsk spaceport on 27 september 2003 nigeriasat-1 was part of the worldwide disaster monitoring constellation system the primary objectives of the nigeriasat-1 were to give early warning signals of environmental disaster to help detect and control desertification in the northern part of nigeria to assist in demographic planning to establish the relationship between vectors and the environment that breeds malaria and to give early warning signals on future outbreaks of meningitis using remote sensing technology to provide the technology needed to bring education to all parts of the country through distant learning and to aid in conflict resolution and border disputes by mapping out state and international borders
+nigeriasat-2 and nigeriasat-x nigerias third and fourth satellites were built as a high-resolution earth satellite by sstl for dmc system also it has 2.5-metre resolution panchromatic very high resolution 5-metre multispectral high resolution nir red green and red bands and 32-metre multispectral medium resolution nir red green and red bands antennas the nigeriasat-2x spacecraft was built at a cost of over £35 million
+this satellite was launched into orbit by ukrainian dnepr rocket from a yasny military base in russia on 17 august 2011nigcomsat-1 a nigerian satellite ordered and built in china in 2004 was nigerias second satellite and africas first communication satellite it was launched on 13 may 2007 aboard a chinese long march 3b carrier rocket from the xichang satellite launch centre in china the spacecraft was operated by nigcomsat and the nigerian space agency nasrda on 11 november 2008 nigcomsat-1 failed in orbit after running out of power due to an anomaly in its solar array it was based on the chinese dfh-4 satellite bus and carries a variety of transponders 4 c band 14 ku band 8 ka band and 2 l band it was designed to provide coverage to many parts of africa and the ka band transponders would also cover italy
+on 10 november 2008 0900 gmt the satellite was reportedly switched off for analysis and to avoid a possible collision with other satellites according to nigerian communications satellite limited it was put into emergency mode operation in order to effect mitigation and repairs the satellite eventually failed after losing power on 11 november 2008
+on 24 march 2009 the nigerian federal ministry of science and technology nigcomsat ltd and cgwic signed a further contract for the in-orbit delivery of the nigcomsat-1r satellite nigcomsat-1r was also a dfh-4 satellite and is expected to be delivered in the fourth quarter of 2011 as a replacement for the failed nigcomsat-1on 19 december 2011 a new nigerian communications satellite was launched into orbit by china in xichangthe satellite according to nigerian president goodluck jonathan which was paid for by the insurance policy on nigcomsat-1 which de-orbited in 2009 would have a positive impact on national development in various sectors such as communications internet services health agriculture environmental protection and national security
+nigeriasat-1 is a satellite of the standard disaster monitoring constellation dmc design it has 100 kg mass and carries an optical imaging payload developed by sstl to provide 32 m ground resolution with an exceptionally wide swath width of over 640 km the payload uses green red and near infrared bands equivalent to landsat tm bands 2 3 and 4 images are stored in a 1-gigabyte solid-state data recorder and returned via an 8-mbits s-band downlink nigeriasat-1 can image scenes as large as 640 x 560 km providing unparalleled wide-area medium-resolution data the data will be used within nigeria to monitor pollution land use and other medium-scale phenomena launched on 27 september 2003
+nigeriasat-2 and nigeriasat-x with 300 kg mass each - to replace nigeriasat-1 commenced november 6 2006 launched 17 august 2011
+nigcomsat-1 communications satellite providing rural internet access - launched on 13 may 2007 aboard a chinese long march 3b carrier rocket from the xichang satellite launch centre in china the satellite was the second nigerian satellite to be placed into orbit on 10 november 2008 0900 gmt the satellite was reportedly switched off because it lost both of its solar arrays the satellite is a total loss the satellite was owned and operated by nigerian communication satellite limited an spv incorporated as a state owned enterprise fully funded and owned by federal government of nigeria nigcomsat limited is currently being supervised by the newly created ministry of communications technology and regulated by ncc and nbc
+nigcomsat-1r - to replace the lost nigcomsat-1 launched by china on 19 december 2011 with no cost to nigeria
+
+
+ future projects 
+
+
+ satellites 
+nigcomsat-2 and nigcomsat-3 - more communications satellites to extend nigerian communication satellite ltd capacity planning to launch in 2012 and 2013
+nigeriasat-1 - dual-aimed militarycivil earth monitoring satellite with synthetic aperture radar planning to launch in 2015
+
+
+ satellite build technology 
+robert ajayi boroffice announced at a public lecture on space technology development that nigeria will be able to build indigenous satellites in  the country without foreign assistance by 2018
+
+
+ satellite launch vehicle and spaceport 
+robert ajayi boroffice disclosed also that nigeria will take advantage of its geographic location to launch into near-equatorial orbit by indigenous developed space launcher from a national spaceport to be built near 2025-2028 with possible help from ukraine
+
+
+ planetary researches 
+a moon planetary probe is planned for launch in 2030
+
+
+ astronauts 
+the first nigerian astronaut is scheduled to launch abroad a foreign spacecraft sometime between 2015 and 2020 negotiations with russia were held in the 2000s for astronaut transportation moreover after nigerian space partner china launched the shenzhou rocket in 2011 china has been planning to take on foreign astronauts china is seen as a more likely country of choice for flying a nigerian astronaut to space than russia given current relations
+
+
+ see also 
+list of government space agencies
+nigeria edusat-1 launched in 2017
+
+
+ references 
+
+globalsecurityorg article
+nigeriasat-1 information at the wayback machine archived 2006-10-20
+nigeriasat-2 information at the wayback machine archived 2007-09-20
+nigeriasat-2 signing press release at the wayback machine archived 2006-11-27
+nigeria aggressively pursues space program — voice of america 23 may 2006 at the library of congress web archives archived 2006-06-30
+
+
+ external links 
+nasrda homepage

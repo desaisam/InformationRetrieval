@@ -1,0 +1,211 @@
+the planet jupiter has a system of rings known as the rings of jupiter or the jovian ring system it was the third ring system to be discovered in the solar system after those of saturn and uranus it was first observed in 1979 by the voyager 1 space probe and thoroughly investigated in the 1990s by the galileo orbiter it has also been observed by the hubble space telescope and from earth for several years ground-based observation of the rings requires the largest available telescopesthe jovian ring system is faint and consists mainly of dust it has four main components a thick inner torus of particles known as the halo ring a relatively bright exceptionally thin main ring and two wide thick and faint outer gossamer rings named for the moons of whose material they are composed amalthea and thebethe main and halo rings consist of dust ejected from the moons metis adrastea and other unobserved parent bodies as the result of high-velocity impacts high-resolution images obtained in february and march 2007 by the new horizons spacecraft revealed a rich fine structure in the main ringin visible and near-infrared light the rings have a reddish color except the halo ring which is neutral or blue in color the size of the dust in the rings varies but the cross-sectional area is greatest for nonspherical particles of radius about 15 μm in all rings except the halo the halo ring is probably dominated by submicrometre dust the total mass of the ring system including unresolved parent bodies is poorly known but is probably in the range of 1011 to 1016 kg the age of the ring system is not known but it may have existed since the formation of jupitera ring could possibly exist in himalias orbit one possible explanation is that a small moon had crashed into himalia and the force of the impact caused material to blast off himalia
+
+
+ discovery and structure 
+jupiters ring system was the third to be discovered in the solar system after those of saturn and uranus it was first observed in 1979 by the voyager 1 space probe it is composed of four main components a thick inner torus of particles known as the halo ring a relatively bright exceptionally thin main ring and two wide thick and faint outer gossamer rings named after the moons of whose material they are composed amalthea and thebe the principal attributes of the known jovian rings are listed in the table
+
+
+ main ring 
+
+
+ appearance and structure 
+
+the narrow and relatively thin main ring is the brightest part of jupiters ring system its outer edge is located at a radius of about 129000 km 1.806 rjrj  equatorial radius of jupiter or 71398 km and coincides with the orbit of jupiters smallest inner satellite adrastea its inner edge is not marked by any satellite and is located at about 122500 km 1.72 rjthus the width of the main ring is around 6500 km the appearance of the main ring depends on the viewing geometry in forward-scattered light the brightness of the main ring begins to decrease steeply at 128600 km just inward of the adrastean orbit and reaches the background level at 129300 km—just outward of the adrastean orbit therefore adrastea at 129000 km clearly shepherds the ring the brightness continues to increase in the direction of jupiter and has a maximum near the ring’s center at 126000 km although there is a pronounced gap notch near the metidian orbit at 128000 km the inner boundary of the main ring in contrast appears to fade off slowly from 124000 to 120000 km merging into the halo ring in forward-scattered light all jovian rings are especially bright
+
+in back-scattered light the situation is different the outer boundary of the main ring located at 129100 km or slightly beyond the orbit of adrastea is very steep the orbit of the moon is marked by a gap in the ring so there is a thin ringlet just outside its orbit there is another ringlet just inside adrastean orbit followed by a gap of unknown origin located at about 128500 km the third ringlet is found inward of the central gap outside the orbit of metis the ring’s brightness drops sharply just outward of the metidian orbit forming the metis notch inward of the orbit of metis the brightness of the ring rises much less than in forward-scattered light so in the back-scattered geometry the main ring appears to consist of two different parts a narrow outer part extending from 128000 to 129000 km which itself includes three narrow ringlets separated by notches and a fainter inner part from 122500 to 128000 km which lacks any visible structure like in the forward-scattering geometry the metis notch serves as their boundary the fine structure of the main ring was discovered in data from the galileo orbiter and is clearly visible in back-scattered images obtained from new horizons in february–march 2007 the early observations by hubble space telescope hst keck and the cassini spacecraft failed to detect it probably due to insufficient spatial resolution however the fine structure was observed by the keck telescope using adaptive optics in 2002–2003observed in back-scattered light the main ring appears to be razor thin extending in the vertical direction no more than 30 km in the side scatter geometry the ring thickness is 80–160 km increasing somewhat in the direction of jupiter the ring appears to be much thicker in the forward-scattered light—about 300 km one of the discoveries of the galileo orbiter was the bloom of the main ring—a faint relatively thick about 600 km cloud of material which surrounds its inner part the bloom grows in thickness towards the inner boundary of the main ring where it transitions into the halodetailed analysis of the galileo images revealed longitudinal variations of the main ring’s brightness unconnected with the viewing geometry the galileo images also showed some patchiness in the ring on the scales 500–1000 kmin february–march 2007 new horizons spacecraft conducted a deep search for new small moons inside the main ring while no satellites larger than 0.5 km were found the cameras of the spacecraft detected seven small clumps of ring particles they orbit just inside the orbit of adrastea inside a dense ringlet the conclusion that they are clumps and not small moons is based on their azimuthally extended appearance they subtend 0.1–0.3° along the ring which correspond to 1000–3000 km the clumps are divided into two groups of five and two members respectively the nature of the clumps is not clear but their orbits are close to 115116 and 114115 resonances with metis they may be wavelike structures excited by this interaction
+
+
+ spectra and particle size distribution 
+
+spectra of the main ring obtained by the hst keck galileo and cassini have shown that particles forming it are red ie their albedo is higher at longer wavelengths the existing spectra span the range 0.5–2.5 μm no spectral features have been found so far which can be attributed to particular chemical compounds although the cassini observations yielded evidence for absorption bands near 0.8 μm and 2.2 μm the spectra of the main ring are very similar to adrastea and amaltheathe properties of the main ring can be explained by the hypothesis that it contains significant amounts of dust with 0.1–10 μm particle sizes this explains the stronger forward-scattering of light as compared to back-scattering however larger bodies are required to explain the strong back-scattering and fine structure in the bright outer part of the main ringanalysis of available phase and spectral data leads to a conclusion that the size distribution of small particles in the main ring obeys a power law
+
+  
+    
+      
+        n
+        
+        r
+        
+        
+        a
+        ×
+        
+          r
+          
+            −
+            q
+          
+        
+      
+    
+    displaystyle nratimes r-q
+  where nr dr is a number of particles with radii between r and r  dr and 
+  
+    
+      
+        a
+      
+    
+    displaystyle a
+   is a normalizing parameter chosen to match the known total light flux from the ring the parameter q is 2.0 ± 0.2 for particles with r  15 ± 0.3 μm and q  5 ± 1 for those with r  15 ± 0.3 μm the distribution of large bodies in the mm–km size range is undetermined presently the light scattering in this model is dominated by particles with r around 15 μmthe power law mentioned above allows estimation of the optical depth 
+  
+    
+      
+        
+          τ
+        
+      
+    
+    displaystyle scriptstyle tau 
+   of the main ring 
+  
+    
+      
+        
+          
+            τ
+            
+              l
+            
+          
+          
+          
+          
+          4.7
+          ×
+          
+            10
+            
+              −
+              6
+            
+          
+        
+      
+    
+    displaystyle scriptstyle tau l4.7times 10-6
+   for the large bodies and 
+  
+    
+      
+        
+          
+            τ
+            
+              s
+            
+          
+          
+          1.3
+          ×
+          
+            10
+            
+              −
+              6
+            
+          
+        
+      
+    
+    displaystyle scriptstyle tau s1.3times 10-6
+   for the dust this optical depth means that the total cross section of all particles inside the ring is about 5000 km² the particles in the main ring are expected to have aspherical shapes the total mass of the dust is estimated to be 107−109 kg the mass of large bodies excluding metis and adrastea is 1011−1016 kg it depends on their maximum size— the upper value corresponds to about 1 km maximum diameter these masses can be compared with masses of adrastea which is about 2 × 1015 kg amalthea about 2 × 1018 kg and earths moon 7.4 × 1022 kg
+the presence of two populations of particles in the main ring explains why its appearance depends on the viewing geometry the dust scatters light preferably in the forward direction and forms a relatively thick homogenous ring bounded by the orbit of adrastea in contrast large particles which scatter in the back direction are confined in a number of ringlets between the metidian and adrastean orbits
+
+
+ origin and age 
+
+the dust is constantly being removed from the main ring by a combination of poynting–robertson drag and electromagnetic forces from the jovian magnetosphere volatile materials for example ices evaporate quickly the lifetime of dust particles in the ring is from 100 to 1000 years so the dust must be continuously replenished in the collisions between large bodies with sizes from 1 cm to 0.5 km and between the same large bodies and high velocity particles coming from outside the jovian system this parent body population is confined to the narrow—about 1000 km—and bright outer part of the main ring and includes metis and adrastea the largest parent bodies must be less than 0.5 km in size the upper limit on their size was obtained by new horizons spacecraft the previous upper limit obtained from hst and cassini observations was near 4 km the dust produced in collisions retains approximately the same orbital elements as the parent bodies and slowly spirals in the direction of jupiter forming the faint in back-scattered light innermost part of the main ring and halo ring the age of the main ring is currently unknown but it may be the last remnant of a past population of small bodies near jupiter
+
+
+ vertical corrugations 
+images from the galileo and new horizons space probes show the presence of two sets of spiraling vertical corrugations in the main ring these waves became more tightly wound over time at the rate expected for differential nodal regression in jupiters gravity field extrapolating backwards the more prominent of the two sets of waves appears to have been excited in 1995 around the time of the impact of comet shoemaker-levy 9 with jupiter while the smaller set appears to date to the first half of 1990 galileos november 1996 observations are consistent with wavelengths of 1920 ± 150 and 630 ± 20 km and vertical amplitudes of 2.4 ± 0.7 and 0.6 ± 0.2 km for the larger and smaller sets of waves respectively the formation of the larger set of waves can be explained if the ring was impacted by a cloud of particles released by the comet with a total mass on the order of 2–5 × 1012 kg which would have tilted the ring out of the equatorial plane by 2 km a similar spiraling wave pattern that tightens over time has been observed by cassini in saturnss c and d rings
+
+
+ halo ring 
+
+
+ appearance and structure 
+
+the halo ring is the innermost and the vertically thickest jovian ring its outer edge coincides with the inner boundary of the main ring approximately at the radius 122500 km 1.72 rj from this radius the ring becomes rapidly thicker towards jupiter the true vertical extent of the halo is not known but the presence of its material was detected as high as 10000 km over the ring plane the inner boundary of the halo is relatively sharp and located at the radius 100000 km 1.4 rj but some material is present further inward to approximately 92000 km thus the width of the halo ring is about 30000 km its shape resembles a thick torus without clear internal structure in contrast to the main ring the halos appearance depends only slightly on the viewing geometry
+the halo ring appears brightest in forward-scattered light in which it was extensively imaged by galileo while its surface brightness is much less than that of the main ring its vertically perpendicular to the ring plane integrated photon flux is comparable due to its much larger thickness despite a claimed vertical extent of more than 20000 km the halo’s brightness is strongly concentrated towards the ring plane and follows a power law of the form z−0.6 to z−1.5 where z is altitude over the ring plane the halo’s appearance in the back-scattered light as observed by keck and hst is the same however its total photon flux is several times lower than that of the main ring and is more strongly concentrated near the ring plane than in the forward-scattered lightthe spectral properties of the halo ring are different from the main ring the flux distribution in the range 0.5–2.5 μm is flatter than in the main ring the halo is not red and may even be blue
+
+
+ origin of the halo ring 
+the optical properties of the halo ring can be explained by the hypothesis that it comprises only dust with particle sizes less than 15 μm parts of the halo located far from the ring plane may consist of submicrometre dust this dusty composition explains the much stronger forward-scattering bluer colors and lack of visible structure in the halo the dust probably originates in the main ring a claim supported by the fact that the halo’s optical depth 
+  
+    
+      
+        
+          
+            τ
+            
+              s
+            
+          
+          
+          ∼
+          
+          
+            10
+            
+              −
+              6
+            
+          
+        
+      
+    
+    displaystyle scriptstyle tau ssim 10-6
+   is comparable with that of the dust in the main ring the large thickness of the halo can be attributed to the excitation of orbital inclinations and eccentricities of dust particles by the electromagnetic forces in the jovian magnetosphere the outer boundary of the halo ring coincides with location of a strong 32 lorentz resonance as poynting–robertson drag causes particles to slowly drift towards jupiter their orbital inclinations are excited while passing through it the bloom of the main ring may be a beginning of the halo the halo ring’s inner boundary is not far from the strongest 21 lorentz resonance in this resonance the excitation is probably very significant forcing particles to plunge into the jovian atmosphere thus defining a sharp inner boundary being derived from the main ring the halo has the same age
+
+
+ gossamer rings 
+
+
+ amalthea gossamer ring 
+
+the amalthea gossamer ring is a very faint structure with a rectangular cross section stretching from the orbit of amalthea at 182000 km 2.54 rj to about 129000 km 1.80 rj its inner boundary is not clearly defined because of the presence of the much brighter main ring and halo the thickness of the ring is approximately 2300 km near the orbit of amalthea and slightly decreases in the direction of jupiter the amalthea gossamer ring is actually the brightest near its top and bottom edges and becomes gradually brighter towards jupiter one of the edges is often brighter than another the outer boundary of the ring is relatively steep the rings brightness drops abruptly just inward of the orbit of amalthea although it may have a small extension beyond the orbit of the satellite ending near 43 resonance with thebe in forward-scattered light the ring appears to be about 30 times fainter than the main ring in back-scattered light it has been detected only by the keck telescope and the acs advanced camera for surveys on hst back-scattering images show additional structure in the ring a peak in the brightness just inside the amalthean orbit and confined to the top or bottom edge of the ringin 2002–2003 galileo spacecraft had two passes through the gossamer rings during them its dust counter detected dust particles in the size range 0.2–5 μm in addition the galileo spacecrafts star scanner detected small discrete bodies  1 km near amalthea these may represent collisional debris generated from impacts with this satellite
+the detection of the amalthea gossamer ring from the ground in galileo images and the direct dust measurements have allowed the determination of the particle size distribution which appears to follow the same power law as the dust in the main ring with q2 ± 0.5 the optical depth of this ring is about 10−7 which is an order of magnitude lower than that of the main ring but the total mass of the dust 107–109 kg is comparable
+
+
+ thebe gossamer ring 
+the thebe gossamer ring is the faintest jovian ring it appears as a very faint structure with a rectangular cross section stretching from the thebean orbit at 226000 km 3.11 rj to about 129000 km 1.80 rj its inner boundary is not clearly defined because of the presence of the much brighter main ring and halo the thickness of the ring is approximately 8400 km near the orbit of thebe and slightly decreases in the direction of the planet the thebe gossamer ring is brightest near its top and bottom edges and gradually becomes brighter towards jupiter—much like the amalthea ring the outer boundary of the ring is not especially steep stretching over 15000 km there is a barely visible continuation of the ring beyond the orbit of thebe extending up to 280000 km 3.75 rj and called the thebe extension in forward-scattered light the ring appears to be about 3 times fainter than the amalthea gossamer ring in back-scattered light it has been detected only by the keck telescope back-scattering images show a peak of brightness just inside the orbit of thebe in 2002–2003 the dust counter of the galileo spacecraft detected dust particles in the size range 0.2–5 μm—similar to those in the amalthea ring—and confirmed the results obtained from imagingthe optical depth of the thebe gossamer ring is about 3 × 10−8 which is three times lower than the amalthea gossamer ring but the total mass of the dust is the same—about 107–109 kg however the particle size distribution of the dust is somewhat shallower than in the amalthea ring it follows a power law with q  2 in the thebe extension the parameter q may be even smaller
+
+
+ origin of the gossamer rings 
+the dust in the gossamer rings originates in essentially the same way as that in the main ring and halo its sources are the inner jovian moons amalthea and thebe respectively high velocity impacts by projectiles coming from outside the jovian system eject dust particles from their surfaces these particles initially retain the same orbits as their moons but then gradually spiral inward by poynting–robertson drag the thickness of the gossamer rings is determined by vertical excursions of the moons due to their nonzero orbital inclinations this hypothesis naturally explains almost all observable properties of the rings rectangular cross-section decrease of thickness in the direction of jupiter and brightening of the top and bottom edges of the ringshowever some properties have so far gone unexplained like the thebe extension which may be due to unseen bodies outside thebes orbit and structures visible in the back-scattered light one possible explanation of the thebe extension is influence of the electromagnetic forces from the jovian magnetosphere when the dust enters the shadow behind jupiter it loses its electrical charge fairly quickly since the small dust particles partially corotate with the planet they will move outward during the shadow pass creating an outward extension of the thebe gossamer ring the same forces can explain a dip in the particle distribution and rings brightness which occurs between the orbits of amalthea and thebethe peak in the brightness just inside of the amaltheas orbit and therefore the vertical asymmetry the amalthea gossamer ring may be due to the dust particles trapped at the leading l4 and trailing l5 lagrange points of this moon the particles may also follow horseshoe orbits between the lagrangian points the dust may be present at the leading and trailing lagrange points of thebe as well this discovery implies that there are two particle populations in the gossamer rings one slowly drifts in the direction of jupiter as described above while another remains near a source moon trapped in 11 resonance with it
+
+
+ himalia ring 
+
+the small moon dia 4 kilometres in diameter had gone missing since its discovery in 2000 one theory was that it had crashed into the much larger moon himalia 170 kilometres in diameter creating a faint ring this possible ring appears as a faint streak near himalia in images from nasas new horizons mission to pluto this suggests that jupiter sometimes gains and loses small moons through collisions however the rediscovery of dia in 2010 and 2011 disproves the link between dia and the himalia ring although it is still possible that a different moon may have been involved
+
+
+ exploration 
+the existence of the jovian rings was inferred from observations of the planetary radiation belts by pioneer 11 spacecraft in 1975 in 1979 the voyager 1 spacecraft obtained a single overexposed image of the ring system more extensive imaging was conducted by voyager 2 in the same year which allowed rough determination of the ring’s structure the superior quality of the images obtained by the galileo orbiter between 1995 and 2003 greatly extended the existing knowledge about the jovian rings ground-based observation of the rings by the keck telescope in 1997 and 2002 and the hst in 1999 revealed the rich structure visible in back-scattered light images transmitted by the new horizons spacecraft in february–march 2007 allowed observation of the fine structure in the main ring for the first time in 2000 the cassini spacecraft en route to saturn conducted extensive observations of the jovian ring system future missions to the jovian system will provide additional information about the rings
+
+
+ gallery 
+
+
+ see also 
+moons of jupiter
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+jupiter rings fact sheet
+jupiters rings by nasas solar system exploration
+nasa pioneer project page
+nasa voyager project page
+nasa galileo project page
+nasa cassini project space
+new horizons project page
+planetary ring node jupiters ring system
+rings of jupiter nomenclature from the usgs planetary nomenclature page

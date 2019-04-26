@@ -1,0 +1,44 @@
+the indian human spaceflight programme hsp was created by the indian space research organisation isro to develop the technology needed to launch crewed orbital spacecraft into low earth orbit the first crewed flight is planned with a spacecraft called gaganyaan for december 2021 on a home-grown gslv-iii rocketbefore gaganyaan mission announcement in august 2018 human spaceflight was not the priority for isro though most of the required capability for it had been realised isro has already developed most of the technologies for crewed flight and it performed a crew module atmospheric re-entry experiment and a pad abort test for the mission the project will cost less than rs 10,000 crore in december 2018 the government approved further ₹ 100 billion us1.5 billion for a 7-days crewed flight of 3 astronauts to take place in december 2021if completed on schedule india will become  worlds fourth nation to conduct independent human spaceflight after the soviet unionrussia united states and peoples republic of china after conducting crewed spaceflights the agency also intends to continue with efforts with a space station program and possibly a crewed lunar landing
+
+
+ history 
+
+on 9 august 2007 the then chairman of the isro g madhavan nair indicated the agency is seriously considering the creation of the human spaceflight programme he further indicated that within a year isro would report on its development of new space capsule technologies  development of a fully autonomous orbital vehicle to carry a two-member crew into a low-earth orbit leo began a few months after that when the government allocated ₹95 crore us13.2 million for pre-project initiatives for 2007 through 2008 a crewed mission into space would require about ₹12,400 crore us1.7 billion and a period of seven years for development the planning commission estimated that a budget of ₹5,000 crore us695.7 million was required for initial work on the crewed mission during 2007–2012 in february 2009 the government of india gave the green light for the human space flight programme but fell short of fully funding it or creating the programme
+the trials for crewed space missions began in 2007 with the 600 kg space capsule recovery experiment sre launched using the polar satellite launch vehicle pslv rocket and safely returned to earth 12 days later this followed with the crew module atmospheric re-entry experiment and the pad abort test in 2018 this enables india to develop heat-resistant materials technology and procedures necessary for human space travel
+defence food research laboratory dfrl has worked on the space food for crewed spaceflight and has been conducting trials on g-suit for astronauts as well a prototype  advanced crew escape suit weighing 13 kg was built by sure safety india private limited based on isros requirements has been tested and performance verifiedhaving shown success in all preliminary tests the decisive push for the creation of the human spaceflight programme took place in 2017 and it was accepted and formally announced by the prime minister on 15 august 2018on december 28 2018 the indian union cabinet approved the funding for indian space research organisations isros human spaceflight programme under which a three-member crew will be sent to space for seven days and  is expected to cost rs 9,023 crore the testing phase is expected to begin from december 2020 and the mission will be undertaken by 2022
+
+
+ spacecraft development 
+
+the first phase of this programme is to develop and fly the 3.7-ton spaceship called gaganyaan that will carry a 3-member crew to low earth orbit and safely return to earth after a mission duration of a few orbits to two days the launch is planned for december 2021
+the extendable version of the spaceship will allow flights up to seven days rendezvous and docking capability
+enhancements in spacecraft will lead to development of a space habitat allowing spaceflight duration of 30–40 days at once in next phase further advances from experience will subsequently lead to development of a space stationon october 7 2016 vikram sarabhai space centre director k sivan stated that isro was gearing up to conduct a critical crew bailout test called isro pad abort test to see how fast and effectively the crew module could be released safely in the event of an emergency the tests were conducted successfully on 5 july 2018 at satish dhawan space centre sriharikota this is the first test in a series of tests to qualify a crew escape system technology india will not use any animals for life support systems testing but robots resembling humans will be used isro is targeting more than 99.8% reliability for its crew escape systemas of august 2018 isro plans to launch its crewed orbiter gaganyaan atop a geosynchronous satellite launch vehicle mk iii gslv mk iii about 16 minutes after lift-off the rocket will inject the orbital vehicle into an orbit 300 to 400 km above earth the capsule would return for a splashdown in the arabian sea near the gujarat coastline
+
+
+ infrastructure development 
+
+
+ human-rating of gslv 
+human-rating rates the system is capable of safely transporting humans isro will be building and launching 2 missions to validate the human rating of the gslv-mk iii existing launch facilities will be upgraded to enable them to carry out launches under indian human spaceflight campaign
+
+
+ escape system 
+the escape system will boast of a recently included geometry work on parachute enlargement and new architecture are also going on
+
+
+ astronaut training 
+isro chairman k sivan announced in january 2019 the creation of indias human space flight centre in bangalore for training astronauts also called vyomanauts vyoma means space or sky in sanskrit the ₹1,000 crore us139.1 million centre will train the selected astronauts in rescue and recovery operations operate in zero gravity environment and monitoring of the radiation environment
+an astronaut training facility will be established on proposed site of 140 acres 0.57 km2 nearby kempegowda international airport in devanahalli karnatakain spring 2009 a full-scale mock-up of the crew capsule was built and delivered to satish dhawan space centre for training of astronauts india will be short listing 200 indian air force pilots for this purpose the selection process would begin by the candidates having to complete an isro questionnaire after which they would be subjected to physical and psychological analyses only 4 of the 200 applicants will be selected for the first space mission training while two will fly two shall act as reserveisro signed a memorandum of understanding in 2009 with the indian air forces institute of aerospace medicine iam to conduct preliminary research on psychological and physiological needs of crew and development of training facilities isro is also discussing an agreement with russia regarding some aspects of astronaut training
+
+
+ experiments and objectives 
+on 7 november 2018 isro released an announcement of opportunity seeking proposals from the indian science community for microgravity experiments that could be carried out during the first two robotic flights of gaganyaan the scope of the experiments is not restricted and other relevant ideas will be entertained the proposed orbit for microgravity platform is expected to be in an earth-bound orbit at approximately 400 km altitude all the proposed internal and external experimental payloads will undergo thermal vacuum and radiation tests under required temperature and pressure conditions to carry out microgravity experiments for long duration a satellite may be placed in orbit
+
+
+ references 
+
+
+ external links 
+ 
+president kalams vision india will land on the moon in august 2025
+hindustan aeronautics ltd hal hands over the first ‘crew module structural assembly’ to isro february 13 2014

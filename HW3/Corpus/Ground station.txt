@@ -1,0 +1,32 @@
+for stations controlling unmanned aerial vehicles uavs see ground control stationa ground station earth station or earth terminal is a terrestrial radio station designed for extraplanetary telecommunication with spacecraft constituting part of the ground segment of the spacecraft system or reception of radio waves from astronomical radio sources ground stations may be located either on the surface of the earth or in its atmosphere earth stations communicate with spacecraft by transmitting and receiving radio waves in the super high frequency or extremely high frequency bands eg microwaves when a ground station successfully transmits radio waves to a spacecraft or vice versa it establishes a telecommunications link a principal telecommunications device of the ground station is the parabolic antenna
+ground stations may have either a fixed or itinerant position article 1 § iii of the itu radio regulations describes various types of stationary and mobile ground stations and their interrelationshipsspecialized satellite earth stations are used to telecommunicate with satellites—chiefly communications satellites other ground stations communicate with manned space stations or unmanned space probes a ground station that primarily receives telemetry data or that follows a satellite not in geostationary orbit is called a tracking station
+when a satellite is within a ground stations line of sight the station is said to have a view of the satellite see pass it is possible for a satellite to communicate with more than one ground station at a time a pair of ground stations are said to have a satellite in mutual view when the stations share simultaneous unobstructed line-of-sight contact with the satellite
+
+
+ telecommunications port 
+a telecommunications port—or more commonly teleport—is a satellite ground station that functions as a hub connecting a satellite or geocentric orbital network with a terrestrial telecommunications network such as the internet
+teleports may provide various broadcasting services among other telecommunications functions such as uploading computer programs or issuing commands over an uplink to a satellitein may 1984 the dallasfort worth teleport became the first american teleport to commence operation
+
+
+ earth terminal complexes 
+
+in federal standard 1037c the united states general services administration defined an earth terminal complex as the assemblage of equipment and facilities necessary to integrate an earth terminal ground station into a telecommunications network fs-1037c has since been subsumed by the atis telecom glossary which is maintained by the alliance for telecommunications industry solutions an international business-oriented non-governmental organization the telecommunications industry association also acknowledges this definition
+
+
+ satellite communications standards 
+the itu radiocommunication sector itu-r a division of the international telecommunication union codifies international standards agreed-upon through multinational discourse from 1927 to 1932 standards and regulations now governed by the itu-r were administered by the international consultative committee for radio
+in addition to the body of standards defined by the itu-r each major satellite operator provides technical requirements and standards that ground stations must meet in order to communicate with the operators satellites for example intelsat publishes the intelsat earth station standards iess which among other things classifies ground stations by the capabilities of their parabolic antennas and pre-approves certain antenna models eutelsat publishes similar standards and requirements such as the eutelsat earth station standards eessthe teleport originally called a telecommunications satellite park innovation was conceived and developed by joseph milano in 1976 as part of a national research council study entitled telecommunications for metropolitan areas near-term needs and opportunities
+
+
+ major earth stations and earth terminal complexes 
+
+
+ see also 
+
+
+ references 
+
+
+ external links 
+uplinkstationcom a corporate directory of commercial teleports satellite television operators et al accessed on 22 april 2009
+world teleport association accessed on 22 april 2009

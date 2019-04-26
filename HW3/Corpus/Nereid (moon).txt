@@ -1,0 +1,32 @@
+nereid is the third-largest moon of neptune it has a highly eccentric orbit it was the second moon of neptune to be discovered by gerard kuiper in 1949
+
+
+ discovery and naming 
+nereid was discovered on 1 may 1949 by gerard p kuiper on photographic plates taken with the 82-inch telescope at the mcdonald observatory he proposed the name in the report of his discovery it is named after the nereids sea-nymphs of greek mythology and attendants of the god neptune it was the second and last moon of neptune to be discovered before the arrival of voyager 2 not counting a single observation of an occultation by larissa in 1981
+
+
+ orbit and rotation 
+nereid orbits neptune in the prograde direction at an average distance of 5,513,400 km 3,425,900 mi but its high eccentricity of 0.7507 takes it as close as 1,372,000 km 853,000 mi and as far as 9,655,000 km 5,999,000 mithe unusual orbit suggests that it may be either a captured asteroid or kuiper belt object or that it was an inner moon in the past and was perturbed during the capture of neptunes largest moon tritonin 1991 a rotation period of nereid of about 13.6 hours was determined by an analysis of its light curve in 2003 another rotation period of about 11.52 ± 0.14 hours was measured however this determination was later disputed and other researchers for a time failed to detect any periodic modulation in nereids light curve from ground-based observations in 2016 a clear rotation period of 11.594 ± 0.017 hours was determined based on observations with the kepler space telescope
+
+
+ physical characteristics 
+nereid is third-largest of neptunes satellites and has an average radius of about 170 kilometres 110 mi it is rather large for an irregular satellite the shape of nereid is unknownsince 1987 some photometric observations of nereid have detected large by 1 of magnitude variations of its brightness which can happen over years and months but sometimes even over a few days they persist even after a correction for distance and phase effects on the other hand not all astronomers who have observed nereid have noticed such variations this means that they may be quite chaotic to date there is no credible explanation of the variations but if they exist they are likely related to the rotation of nereid nereids rotation could be either in the state of forced precession or even chaotic rotation like hyperion due to its highly elliptical orbit
+in 2016 extended observations with the kepler space telescope showed only low-amplitude variations 0.033 magnitudes thermal modeling based on infrared observations from the spitzer and herschel space telescopes suggest that nereid is only moderately elongated which disfavors forced precession of the rotation the thermal model also indicates that the surface roughness of nereid is very high likely similar to the saturnian moon hyperionspectrally nereid appears neutral in colour and water ice has been detected on its surface its spectrum appears to be intermediate between uranuss moons titania and umbriel which suggests that nereids surface is composed of a mixture of water ice and some spectrally neutral material the spectrum is markedly different from minor planets of the outer solar system centaurs pholus chiron and chariklo suggesting that nereid formed around neptune rather than being a captured bodyhalimede which displays a similar gray neutral colour may be a fragment of nereid that was broken off during a collision
+
+
+ exploration 
+the only spacecraft to visit nereid was voyager 2 which passed it at a distance of 4,700,000 km 2,900,000 mi between 20 april and 19 august 1989 voyager 2 obtained 83 images with observation accuracies of 70 km 43 mi to 800 km 500 mi prior to voyager 2s arrival observations of nereid had been limited to ground-based observations that could only establish its intrinsic brightness and orbital elements although the images obtained by voyager 2 do not have a high enough resolution to allow surface features to be distinguished voyager 2 was able to measure the size of nereid and found that it was grey in colour and had a higher albedo than neptunes other small satellites
+
+
+ in fiction 
+in the larry niven book ringworld nereid is described as having been leased by the outsiders half a millennium ago the protagonist louis wu speculates that the outsiders evolved on a gas giant moon similar to nereid
+
+
+ see also 
+moons of neptune
+
+
+ notes 
+
+
+ references 

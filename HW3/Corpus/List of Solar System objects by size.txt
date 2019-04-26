@@ -1,0 +1,224 @@
+this is a partial list of solar system objects by size arranged in descending order of mean volumetric radius and subdivided into several size classes these lists can also be sorted according to an objects mass and for the largest objects volume density and surface gravity insofar as these values are available this list contains the sun the planets dwarf planets many of the larger small solar system bodies which includes the asteroids all named natural satellites and a number of smaller objects of historical or scientific interest such as comets and near-earth objects
+the ordering may be different depending on whether one chooses radius or mass because some objects are denser than others for instance uranus is larger than neptune but less massive and although ganymede and titan are larger than mercury they have less than half mercurys mass this means some objects in the lower tables despite their smaller radii may be more massive than objects in the upper tables because they have a higher density
+many trans-neptunian objects tnos have been discovered and their approximate locations in this list are shown even though there can be a large uncertainty in their measurement
+solar system objects more massive than 1021 kilograms one yottagram yg are known or expected to be approximately spherical astronomical bodies relax into rounded shapes ellipsoids achieving hydrostatic equilibrium when the gravity of their mass is sufficient to overcome the structural strength of their material objects made of ice become round more easily than those made of rock and many icy objects are spheroidal at far lower sizes the cutoff boundary for roundness is somewhere between 100 km and 200 km in radiusthe larger objects in the mass range between 1018 kg to 1021 kg 1 to 1000 zettagrams zg such as tethys ceres and mimas have relaxed to an oblate-spheroid equilibrium due to their gravity whereas the less massive rubble piles eg amalthea and janus are roughly rounded but not spherical dubbed irregular
+spheroidal bodies typically have some polar flattening due to the centrifugal force from their rotation and can sometimes even have quite different equatorial diameters scalene ellipsoids such as haumea unlike bodies such as haumea the irregular bodies deviate significantly from the shape of an ellipsoid
+there can be difficulty in determining the diameter within a factor of about 2 for typical objects beyond saturn see 2060 chiron as an example for tnos there is some confidence in the diameters but for non-binary tnos there is no real confidence in the massesdensities many tnos are often just assumed to have plutos density of 2.0 gcm3 but it is just as likely that they have a comet-like density of only 0.5 gcm3 for example if a tno is poorly assumed to have a mass of 3.59×1020 kg based on a radius of 350 km with a density of 2 gcm3 and is later discovered to only have a radius of 175 km with a density of 1 gcm3 the mass estimate would be only 2.24×1019 kg
+the sizes and masses of many of the moons of jupiter and saturn are fairly well known due to numerous observations and interactions of the galileo and cassini orbiters but many of the moons with a radius less than 100 km such as jupiters himalia still have unknown masses again as we get further from the sun than saturn things get less clear there has not yet been an orbiter around uranus or neptune for long-term study of their moons for the small outer irregular moons of uranus such as sycorax which were not discovered by the voyager 2 flyby even different nasa web pages such as the national space science data center and jpl solar system dynamics have somewhat contradictory size and albedo estimates depending on which research paper is being cited
+data for objects has varying reliability including uncertainties in the figures for mass and radius and irregularities in the shape and density with accuracy often depending on how close it is to earth or whether it has been visited by a probe
+
+
+ graphical overview 
+
+		
+		
+		
+
+
+ list of objects by radius 
+
+
+ larger than 400 km 
+it was once expected that any icy body larger than approximately 200 km in radius was likely to be in hydrostatic equilibrium he however rhea is the smallest body where detailed measurements have been made and are consistent with hydrostatic equilibrium whereas iapetus is the largest determined not to be in hydrostatic equilibrium bracketing a radius of 750 km
+for simplicity and comparative purposes the values are manually calculated assuming a sphericity of 1 the size of solid bodies does not include an objects atmosphere for example titan looks bigger than ganymede but its solid body is smaller for the giant planets the radius is the point at which the atmosphere reaches 1 bar of atmospheric pressure the radius of saturns main rings is 136,775 km
+
+
+ from 200 to 399 km 
+all imaged icy moons except proteus with radii greater than 200 km are round although those under 400 km that have had their shapes carefully measured are not in hydrostatic equilibrium most asteroids are rockier and less likely to be round for example 10 hygiea is not while 2 pallas and 4 vesta are borderline
+
+
+ from 100 to 199 km 
+this list contains a selection of objects estimated to be between 100 and 199 km in radius 200 and 399 km in diameter the largest of these may lie above the boundary for hydrostatic equilibrium but most are irregular most of the trans-neptunian objects tnos listed with a radius smaller than 200 km have assumed sizes based on a generic albedo of 0.09 since they are too far away to directly measure their sizes with existing instruments mass switches from 1021 kg to 1018 kg zg main-belt asteroids have orbital elements constrained by 2.0 au  a  3.2 au q  1.666 au according to jpl solar system dynamics jplssd this list is not complete missing many poorly known tnos
+
+
+ from 50 to 99 km 
+this list contains a selection of objects 50 and 99 km in radius 100 km to 199 km in average diameter the listed objects currently include most objects in the asteroid belt and moons of the giant planets in this size range but many newly discovered objects in the outer solar system are missing such as those included in the following reference asteroid spectral types are mostly tholen but some might be smass
+
+
+ from 20 to 49 km 
+this list contains a few examples because there are about 589 asteroids in the asteroid belt with a measured radius between 20 and 49 km many thousands of objects of this size range have yet to be discovered in the trans-neptunian region the number of digits is not an endorsement of significant figures the table switches from ×1018 kg to ×1015 kg eg and many of these mass values are assumed
+
+
+ from 1 to 19 km 
+this list contains some examples of solar system objects between 1 and 19 km in radius this is a common size for asteroids comets and moons
+
+
+ below 1 km 
+this list contains examples of objects below 1 km in radius that means that irregular bodies can have a longer chord in some directions hence the mean radius averages out
+in the asteroid belt alone there are estimated to be between 1.1 and 1.9 million objects with a radius above 0.5 km many of which are in the range 0.5–1.0 km countless more have a radius below 0.5 km
+very few objects in this size range have been explored or even imaged the exceptions are objects that have been visited by a probe or have passed close enough to earth to be imaged radius is by mean geometric radius number of digits not an endorsement of significant figures mass scale shifts from × 1015 to 1012 kg which is 1015 grams petagram – pg
+currently most of the objects of mass between 109 kg to 1012 kg less than 1000 teragrams tg listed here are near-earth asteroids neas 1994 wr12 has less mass than the great pyramid of giza 5.9 × 109 kg
+for more about very small objects in the solar system see meteoroid micrometeoroid and interplanetary dust cloud see also visitedimaged bodies
+
+
+ surface gravity 
+the surface gravity at the equator of a body can in most cases be accurately calculated using newtons law of universal gravitation and centrifugal force
+the gravitational acceleration at the equator is given by newtons law of universal gravitation the formula that follows from this law is
+
+  
+    
+      
+        
+          a
+          
+            g
+          
+        
+        
+        g
+        
+          
+            m
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle aggfrac mr2
+  where
+
+ag is the magnitude of the gravitational acceleration
+g is the gravitational constant
+m is the mass of the celestial body
+r is the equatorial radius of the celestial body if this varies significantly the mean equatorial radius is usedthe magnitude of the outward acceleration due to centrifugal force is given by
+
+  
+    
+      
+        
+          a
+          
+            c
+          
+        
+        
+        4
+        
+          π
+          
+            2
+          
+        
+        
+          
+            r
+            
+              t
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle ac4pi 2frac rt2
+  where
+
+t is the rotation period of the celestial bodythe surface gravity at the equator is then given by
+
+  
+    
+      
+        g
+        
+        
+          a
+          
+            g
+          
+        
+        −
+        
+          a
+          
+            c
+          
+        
+        
+        
+          
+            
+              g
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            
+              4
+              
+                π
+                
+                  2
+                
+              
+              r
+            
+            
+              t
+              
+                2
+              
+            
+          
+        
+      
+    
+    displaystyle gag-acfrac gmr2-frac 4pi 2rt2
+  
+
+
+ see also 
+list of dwarf planets
+list of minor planets
+list of moons
+list of neas by distance from sun
+list of solar system objects most distant from the sun in 2015
+list of space telescopes
+lists of astronomical objects
+
+
+ notes 
+† using equatorial radius and assuming body is spherical
+‡ using three radii and assuming body is spheroid
+ radius is known only very approximately
+r radius has been determined by various methods such as optical hubble thermal spitzer or direct imaging via spacecraft
+9 unknown radius generic assumed albedo of 0.09
+ well studied asteroid or moon whose dimensions and mass are very well known asteroid sizes and masses taken from james baers bio personal website
+m mass has been determined by perturbation for asteroids see james baers personal website
+note for many of the well-determined moons radii were taken from the jpl solar system dynamics page
+o radius has been determined by an occultation
+
+
+ references 
+
+
+ further reading 
+nasa planetary data system pds
+asteroids with satellites
+minor planet discovery circumstances
+supplemental iras minor planet survey simps and iras minor planet survey imps
+simps  imps v6 additional from here
+asteroid data archive dead link archive planetary science institute
+
+
+ external links 
+planetary fact sheets
+asteroid fact sheet
+all known bodies in the solar system larger than 200 miles in diameter – in an image put side-by-side
+size comparison of asteroids and comets visited by space probe parent article of image at the planetary society
+scaled solar system montage at tps blog

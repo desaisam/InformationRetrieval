@@ -1,0 +1,32 @@
+an earth-crosser is a near-earth asteroid whose orbit crosses that of earth as observed from the ecliptic pole of earths orbit the known numbered earth-crossers are listed here those earth-crossers whose semi-major axes are smaller than earths are aten asteroids the remaining ones are apollo asteroids see also the amor asteroids
+an asteroid with an earth-crossing orbit is not necessarily in danger of colliding with earth the orbit of an earth-crossing asteroid may not even intersect with that of earth this apparent contradiction arises because many asteroids have highly inclined orbits so although they may have a perihelion less than that of earth their paths can never cross an asteroid for which there is some possibility of a collision with earth at a future date and which is above a certain size is classified as a potentially hazardous asteroid pha specifically an asteroid is a pha if its earth minimum orbital intersection distance moid is 0.05 au and its absolute magnitude is 22 or brighter the concept of pha is intended to replace the now abandoned strict definition of eca earth-crossing asteroid which existed for a few years determining if an asteroid was an eca required calculation of its orbits millennia into the future including planetary gravitational perturbations to assess whether a collision with earth was possible and this has proved to be impracticalhaving a small moid is not a guarantee of a collision on the other hand small gravitational perturbations of the asteroid around its orbit from planets that it passes can significantly alter its path for instance 99942 apophis will approach earth so closely in 2029 that it will get under the orbit of the earths geostationary satellitesof the earth-crossing asteroids 3753 cruithne is notable for having an orbit that has the same period as earths
+
+
+ list 
+
+notes † outer-grazer
+
+
+ see also 
+earth-grazing fireball
+list of asteroid close approaches to earth
+asteroid deflection strategies
+list of mercury-crossing minor planets
+list of venus-crossing minor planets
+list of mars-crossing minor planets
+list of jupiter-crossing minor planets
+list of saturn-crossing minor planets
+list of uranus-crossing minor planets
+list of neptune-crossing minor planets
+
+
+ references 
+
+
+ external links 
+very close approaches 0.01 au of phas to earth 1900–2200
+upcoming close approaches 0.10 au of near-earth objects to earth
+table of next close approaches to the earth
+small asteroids encounter list
+minor body priority list
+iau-mpc close approaches to the earth within 0.2 au

@@ -1,0 +1,358 @@
+the indian space research organisation isro  is the space agency of the government of india headquartered in the city of bengaluru its vision is to harness space technology for national development while pursuing space science research and planetary explorationformed in 1969 isro superseded the erstwhile indian national committee for space research incospar established in 1962 by the efforts of independent indias first prime minister jawaharlal nehru and his close aide and scientist vikram sarabhai the establishment of isro thus institutionalised space activities in india it is managed by the department of space which reports to the prime minister of india
+isro built indias first satellite aryabhata which was launched by the soviet union on 19 april 1975 it was named after the mathematician aryabhata in 1980 rohini became the first satellite to be placed in orbit by an indian-made launch vehicle slv-3 isro subsequently developed two other rockets the polar satellite launch vehicle pslv for launching satellites into polar orbits and the geosynchronous satellite launch vehicle gslv for placing satellites into geostationary orbits these rockets have launched numerous communications satellites and earth observation satellites satellite navigation systems like gagan and irnss have been deployed in january 2014 isro used an indigenous cryogenic engine in a gslv-d5 launch of the gsat-14isro sent a lunar orbiter chandrayaan-1 on 22 october 2008 and a mars orbiter mars orbiter mission on 5 november 2013 which entered mars orbit on 24 september 2014 making india the first nation to succeed on its first attempt to mars and isro the fourth space agency in the world as well as the first space agency in asia to reach mars orbit on 18 june 2016 isro set a record with a launch of twenty satellites in a single payload one being a satellite from google on 15 february 2017 isro launched one hundred and four satellites in a single rocket pslv-c37 and created a world record isro launched its heaviest rocket geosynchronous satellite launch vehicle-mark iii gslv-mk iii on 5 june 2017 and placed a communications satellite gsat-19 in orbit with this launch isro became capable of launching 4-ton heavy satellites into gto
+future plans include the development of unified launch vehicle small satellite launch vehicle development of a reusable launch vehicle human spaceflight controlled soft lunar landing interplanetary probes and a solar spacecraft mission
+
+
+ formative years 
+
+modern space research in india is most visibly traced to the 1920s when the scientist s k mitra conducted a series of experiments leading to the sounding of the ionosphere by application of ground-based radio methods in calcutta later indian scientists like cv raman and meghnad saha contributed to scientific principles applicable in space sciences however it was the period after 1945 that saw important developments being made in coordinated space research in india organised space research in india was spearheaded by two scientists vikram sarabhai—founder of the physical research laboratory at ahmedabad—and homi bhabha who established the tata institute of fundamental research in 1945 initial experiments in space sciences included the study of cosmic radiation high altitude and airborne testing deep underground experimentation at the kolar mines—one of the deepest mining sites in the world—and studies of the upper atmosphere studies were carried out at research laboratories universities and independent locationsin 1950 the department of atomic energy was founded with bhabha as its secretary the department provided funding for space research throughout india during this time tests continued on aspects of meteorology and the earths magnetic field a topic that was being studied in india since the establishment of the observatory at colaba in 1823 in 1954 the uttar pradesh state observatory was established at the foothills of the himalayas the rangpur observatory was set up in 1957 at osmania university hyderabad space research was further encouraged by the technically inclined prime minister of india jawaharlal nehru in 1957 the soviet union  launched sputnik 1 and opened up possibilities for the rest of the world to conduct a space launchthe indian national committee for space research incospar was set up in 1962 by jawaharlal nehru first prime minister of india
+
+
+ goals and objectives 
+the prime objective of isro is to use space technology and its application to various national tasks the indian space programme was driven by the vision of vikram sarabhai considered the father of the indian space programme as he said in 1969
+
+there are some who question the relevance of space activities in a developing nation to us there is no ambiguity of purpose we do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets or manned space-flight but we are convinced that if we are to play a meaningful role nationally and in the community of nations we must be second to none in the application of advanced technologies to the real problems of man and society
+
+former president of india a p j abdul kalam said
+
+many individuals with myopic vision questioned the relevance of space activities in a newly independent nation which was finding it difficult to feed its population their vision was clear if indians were to play meaningful role in the community of nations they must be second to none in the application of advanced technologies to their real-life problems they had no intention of using it as a means of displaying our might
+
+indias economic progress has made its space program more visible and active as the country aims for greater self-reliance in space technology in 2008 india launched as many as eleven satellites including nine from other countries and went on to become the first nation to launch ten satellites on one rocket isro has put into operation two major satellite systems indian national satellites insat for communication services and indian remote sensing irs satellites for management of natural resources
+in july 2012 abdul kalam said that research was being done by isro and drdo for developing cost reduction technologies for access to space
+
+
+ organisation structure and facilities 
+
+isro is managed by the department of space dos of the government of india dos itself falls under the authority of the space commission and manages the following agencies and institutes
+indian space research organisation
+vikram sarabhai space centre vssc thiruvananthapuram
+liquid propulsion systems centre lpsc thiruvananthapuram
+satish dhawan space centre sdsc-shar sriharikota
+isro propulsion complex iprc mahendragiri
+isro satellite centre isac bangalore
+space applications centre sac ahmedabad
+national remote sensing centre nrsc hyderabad
+isro inertial systems unit iisu thiruvananthapuram
+development and educational communication unit decu ahmedabad
+master control facility mcf hassan karnataka
+isro telemetry tracking and command network istrac bangalore
+laboratory for electro-optics systems leos bangalore
+indian institute of remote sensing iirs dehradun
+antrix corporation – the marketing arm of isro bangalore
+physical research laboratory prl ahmedabad
+national atmospheric research laboratory narl gadanki andhra pradesh
+north-eastern space applications centre ne-sac umiam
+semi-conductor laboratory scl mohali
+indian institute of space science and technology iist thiruvananthapuram – indias space university
+
+
+ research facilities 
+
+
+ test facilities 
+
+
+ construction and launch facilities 
+
+
+ tracking and control facilities 
+
+
+ human resource development 
+
+
+ commercial wing antrix corporation 
+
+set up as the marketing arm of isro antrixs job is to promote products services and technology developed by isro
+
+
+ other facilities 
+aerospace command of india aci
+balasore rocket launching station brls – odisha
+development and educational communication unit decu
+indian regional navigational satellite system irnss
+indian national committee for space research incospar
+indian space science data centre issdc
+integrated space cell
+inter university centre for astronomy and astrophysics iucaa
+isro inertial systems unit iisu – thiruvananthapuram
+national deep space observation centre ndspo
+regional remote sensing service centres rrssc
+spacecraft control centre scc
+
+
+ launch vehicle fleet 
+
+during the 1960s and 1970s india initiated its own launch vehicle program owing to geopolitical and economic considerations in the 1960s–1970s the country developed a sounding rockets programme and by the 1980s research had yielded the satellite launch vehicle-3 and the more advanced augmented satellite launch vehicle aslv complete with operational supporting infrastructure isro further applied its energies to the advancement of launch vehicle technology resulting in the creation of pslv and gslv technologies
+
+
+ satellite launch vehicle slv 
+
+status decommissionedthe satellite launch vehicle usually known by its abbreviation slv or slv-3 was a 4-stage solid-propellant light launcher it was intended to reach a height of 500 kilometres 310 miles and carry a payload of 40 kilograms 88 pounds its first launch took place in 1979 with two more in each subsequent year and the final launch in 1983 only two of its four test flights were successful
+
+
+ augmented satellite launch vehicle aslv 
+
+status decommissionedthe augmented satellite launch vehicle usually known by its abbreviation aslv was a five-stage solid propellant rocket with the capability of placing a 150-kilogram 330-pound satellite into low earth orbit this project was started by the isro during the early 1980s to develop technologies needed for a payload to be placed into a geostationary orbit its design was based on satellite launch vehicle the first launch test was held in 1987 and after that three others followed in 1988 1992 and 1994 out of which only two were successful before it was decommissioned
+
+
+ polar satellite launch vehicle pslv 
+
+status activethe polar satellite launch vehicle commonly known by its abbreviation pslv is an expendable launch system developed by isro to allow india to launch its indian remote sensing irs satellites into sun synchronous orbits pslv can also launch small satellites into geostationary transfer orbit gto the reliability and versatility of the pslv is proven by the fact that it has launched as of 2014 seventy-one satellitesspacecraft thirty-one indian and forty foreign into a variety of orbits the maximum number of satellites launched by the pslv in a single launch is 104 in the pslv-c37 launch on 15 february 2017decade-wise summary of pslv launches 
+
+
+ geosynchronous satellite launch vehicle gslv 
+
+status activethe geosynchronous satellite launch vehicle usually known by its abbreviation gslv is an expendable launch system developed to enable india to launch its insat-type satellites into geostationary orbit and to make india less dependent on foreign rockets at present it is isros second-heaviest satellite launch vehicle and is capable of putting a total payload of up to 5 tons to low earth orbit the vehicle is built by india originally with a cryogenic engine purchased from russia while the isro developed its own cryogenic engine
+the first version of the gslv gslv mki using the russian cryogenic stage became operational in 2004 after an unsuccessful first launch in 2001 and a second successful development launch in 2003
+the first attempt to launch the gslv mkii with an indian built cryogenic engine gslv-f06 carrying gsat-5p failed on 25 december 2010 the initial evaluation implies that loss of control for the strap-on boosters caused the rocket to veer from its intended flight path forcing a programmed detonation sixty-four seconds into the first stage of flight the rocket began to break up due to the acute angle of attack the body housing the 3rd stage the cryogenic stage incurred structural damage forcing the range safety team to initiate a programmed detonation of the rocketon 5 january 2014 gslv-d5 launched gsat-14 into intended orbit this marked first successful flight using indigenous cryogenic engine ce-7.5 making india the sixth country in the world to have this technologyagain on 27 august 2015 gslv-d6 launched gsat-6 into the transfer orbit isro used the indigenously developed cryogenic upper stage cus third time on board in this gslv flighton 8 september 2016 gslv-f05 launched insat-3dr a weather satellite weighing 2,211 kg 4,874 lb into a geostationary transfer orbit gto gslv is designed to inject 2–5 tonnes 2.2–5.5 tons -class of satellites into gto the launch took place from the second launch pad at satish dhawan space centre shar sdsc shar sriharikota the gslv-f05 flight was the first operational flight of gslv carrying the cryogenic upper stage cus the indigenously developed cus was carried on board for the fourth time during a gslv-f05 flight gslv-f05 vehicle is configured with all its three stages including the cus similar to the ones flown during the previous gslv-d5 and d6 missions in january 2014 and august 2015decade-wise summary of gslv launches
+
+
+ geosynchronous satellite launch vehicle mark-iii gslv iii 
+
+status activegslv-mk iii is a launch vehicle it is capable to launch four tonne satellites into geosynchronous transfer orbit gslv-mk iii is a three-stage vehicle with a 110-tonne 120-ton c-ore liquid propellant stage l-110 flanked by two 200-tonne 220-ton solid propellant strap-on booster motors s-200 the upper stage is cryogenic with a propellant loading of 25 tonne c-25 the vehicle has a lift-off mass of about 640 tonnes and be 43.43 metres tall according to isro the payload fairing has a diameter of 5 metres and a payload volume of 100 cubic metres it will allow india to become less dependent on foreign rockets for heavy liftingon 18 december 2014 isro conducted an experimental test-flight of gslv mk iii carrying a crew module to be used in future human space missions this suborbital test flight demonstrated the performance of gslv mk iii in the atmospheregslv mk iii-d1 carrying communication satellite gsat-19 lifted off from the second launch pad at satish dhawan space centre in sriharikota on 5 june 2017 and placed the  communication satellite into the geosynchronous transfer orbit sixteen minutes after takeoff gsat-19 satellite with a lift-off mass of 3,136 kg 6,914 lb is the communication satellite of india configured around the isros standard i-3k busdecade wise summary of gslv iii launches 
+
+
+ satellite programmes 
+
+indias first satellite the aryabhata was launched by the soviet union on 19 april 1975 from kapustin yar using a cosmos-3m launch vehicle this was followed by the rohini series of experimental satellites which were built and launched indigenously at present isro operates a large number of earth observation satellites
+
+
+ the insat series 
+
+insat indian national satellite system is a series of multipurpose geostationary satellites launched by isro to satisfy the telecommunications broadcasting meteorology and search-and-rescue needs of india commissioned in 1983 insat is the largest domestic communication system in the asia-pacific region it is a joint venture of the department of space department of telecommunications india meteorological department all india radio and doordarshan the overall coordination and management of insat system rests with the secretary-level insat coordination committee
+
+
+ the irs series 
+
+indian remote sensing satellites irs are a series of earth observation satellites built launched and maintained by isro the irs series provides remote sensing services to the country the indian remote sensing satellite system is the largest collection of remote sensing satellites for civilian use in operation today in the world all the satellites are placed in polar sun-synchronous orbit and provide data in a variety of spatial spectral and temporal resolutions to enable several programmes to be undertaken relevant to national development the initial versions are composed of the 1 a b c d nomenclature the later versions are named based on their area of application including oceansat cartosat resourcesat
+
+
+ radar imaging satellites 
+isro currently operates two radar imaging satellites risat risat-1 was launched from sriharikota spaceport on 26 april 2012 on board a pslv risat-1 carries a c band ieeec band synthetic-aperture radar sar payload operating in a multi-polarisation and multi-resolution mode and can provide images with coarse fine and high spatial resolutions india also operates risat-2 which was launched in 2009 and acquired from israel at a cost 110 million
+
+
+ other satellites 
+isro has also launched a set of experimental geostationary satellites known as the gsat series kalpana-1 isros first dedicated meteorological satellite was launched by the polar satellite launch vehicle on 12 september 2002 the satellite was originally known as metsat-1 in february 2003 it was renamed to kalpana-1 by the indian prime minister atal bihari vajpayee in memory of kalpana chawla – a nasa astronaut of indian origin who perished in the space shuttle columbia disaster
+isro has also launched the indo-french satellite saral on 25 february 2013 1231 utc saral or satellite with argos and altika is a cooperative altimetry technology mission it is being used for monitoring the oceans surface and sea-levels altika will measure ocean surface topography with an accuracy of 8 mm against 2.5 cm on average using current-generation altimeters and with a spatial resolution of 2 kmin june 2014 isro launched french earth observation satellite spot-7 mass 714 kg along with singapores first nano satellite velox-i canadas satellite can-x5 germanys satellite aisat via the pslv-c23 launch vehicle it was isros 4th commercial launch
+
+
+ south asia satellite 
+
+the south asia satellite gsat-9 is a geosynchronous communications satellite by the indian space research organisation isro for the south asian association for regional cooperation saarc region the satellite was launched on 5 may 2017 during the 18th saarc summit held in nepal in 2014 indian prime minister narendra modi mooted the idea of a satellite serving the needs of saarc member nations part of his neighbourhood first policy
+one month after sworn in as prime minister of india in june 2014 modi asked isro to develop a saarc satellite which can be dedicated as a ‘gift’ to the neighbors
+it is a satellite for the saarc region with 12 ku-band transponders 36 mhz each and launch using the indian geosynchronous satellite launch vehicle gslv mk-ii the total cost of launching the satellite is estimated to be about ₹2,350,000,000 ₹235 crore the cost associated with the launch was met by the government of india the satellite enables full range of applications and services in the areas of telecommunication and broadcasting applications viz television tv direct-to-home dth very small aperture terminals vsats tele-education telemedicine and disaster management support
+
+
+ gagan satellite navigation system 
+
+the ministry of civil aviation has decided to implement an indigenous satellite-based regional gps augmentation system also known as space-based augmentation system sbas as part of the satellite-based communications navigation and surveillance cnsair traffic management atm plan for civil aviation the indian sbas system has been given an acronym gagan – gps aided geo augmented navigation a national plan for satellite navigation including implementation of technology demonstration system tds over the indian air space as a proof of concept has been prepared jointly by airports authority of india aai and isro tds was completed during 2007 by installing eight indian reference stations inress at eight indian airports and linked to the master control centre mcc located near bangalore
+the first gagan navigation payload has been fabricated and it was proposed to be flown on gsat-4 during apr 2010 however gsat-4 was not placed in orbit as gslv-d3 could not complete the mission two more gagan payloads will be subsequently flown one each on two geostationary satellites gsat-8 and gsat-10 on 12 may 2012 isro announced the successful testing of its indigenous cryogenic engine for 200 seconds for its forthcoming gslv-d5 flight
+
+
+ irnss satellite navigation system 
+
+irnss is an independent regional navigation satellite system being developed by india it is designed to provide accurate position information service to users in india as well as the region extending up to 1500 km from its boundary which is its primary service area irnss will provide two types of services namely standard positioning service sps and restricted service rs and is expected to provide a position accuracy of better than 20 m in the primary service area it is an autonomous regional satellite navigation system being developed by indian space research organisation which is under total control of indian government the requirement of such a navigation system is driven by the fact that access to global navigation satellite systems like gps is not guaranteed in hostile situations isro initially planned to launch the constellation of satellites between 2012 and 2014 but the project got delayed by nearly two years
+isro on 1 july 2013 at 2341 ist launched from sriharikota the first indian navigation satellite the irnss-1a the irnss-1a was launched aboard pslv-c22 the constellation would comprise seven satellites of i-1k bus each weighing around 1450 kilogrammes with three satellites in the geostationary earth orbit geo and four in geosynchronous earth orbitgso the constellation would be completed around april 2016on 4 april 2014 at 1714 ist isro has launched irnss-1b from sriharikota its second of seven irnss series 19 minutes after launch pslv-c24 was injected into its orbitirnss-1c was launched on 16 october 2014 and irnss-1d on 28 march 2015on 20 january 2016 931 hrs ist irnss-1e was launched aboard pslv-c31 from satish dhawan space centre sdsc shar sriharikota on 10 march 2016 431 hrs ist irnss-1f was launched aboard pslv-c32 from satish dhawan space centre sdsc shar sriharikota on 28 april 2016 1250 hrs ist irnss-1g was launched aboard pslv-xl-c33 from satish dhawan space centre sdsc shar sriharikota this satellite is the seven and the last in the irnss system and completes indias own navigation system
+as of january 2016 isro was in the process of developing 4 back-up satellites to the constellation of existing irnss satelliteson 31 august 2017 indias isro failed in its attempt to launch its eighth regional navigation satellite irnss-1h from sriharikota at 7pm the satellite got stuck in the fourth stage of the polar satellite launch vehicle–pslv-c39 a replacement satellite irnss-1i was successfully placed into orbit on 12 april 2018
+
+
+ human spaceflight programme 
+
+in 2009 the indian space research organisation proposed a budget of ₹12,400 crore us1.7 billion for its human spaceflight programme according to the space commission which recommended the budget an uncrewed flight will be launched after seven years from the final approval and a crewed mission will be launched after 7 years of funding if realised in the stated time-frame india will become the fourth nation after the ussr usa and china to successfully carry out crewed missions indigenously
+prime minister of india sri narendra modi announced in his independence day address of august 15 2018 that india will send astronauts into space by 2022 through the gaganyaan mission after the announcement isro chairman sivan  said isro has developed most of the technologies needed such as crew module and crew escape system and that the project would cost less than rs 10,000 crore and would include sending at least 3 indians to space 300–400 km above in a spacecraft for at least 7 days using a gslv mk-iii launch vehiclethe chance of a female being a member of the first crew is very highaccording to the scientific secretary to the indian chairman r umamaheswaran
+
+
+ technology demonstrations 
+the space capsule recovery experiment scre or more commonly sre or sre-1 is an experimental indian spacecraft that was launched on january 10 2007 using the pslv c7 rocket along with three other satellites it remained in orbit for 12 days before re-entering the earths atmosphere and splashing down into the bay of bengalthe sre-1 was designed to demonstrate the capability to recover an orbiting space capsule and the technology for performing experiments in the microgravity conditions of an orbiting platform it was also intended to test thermal protection navigation guidance control deceleration and flotation systems as well as study hypersonic aerothermodynamics management of communication blackouts and recovery operations a follow-up project named sre-2 was cancelled mid-way after years of delayon 18 december 2014 isro launched the crew module atmospheric re-entry experiment aboard the gslv mk3 for a sub-orbital flight the crew module separated from the rocket at an altitude of 126 km and underwent free fall the module heat shield experienced temperature in excess of 1600 °c parachutes were deployed at an altitude of 15 km to slow down the module which performed a splashdown in the bay of bengal this flight was used to test orbital injection separation and re-entry procedures and systems of the crew capsule also tested were the capsule separation heat shields and aerobraking systems deployment of parachute retro-firing splashdown flotation systems and procedures to recover the crew capsule from the bay of bengalon 5 july 2018 isro conducted a pad abort test of their launch abort system las at satish dhawan space centre sriharikota this is the first in a series of tests to qualify the critical crew escape system technology for future crewed missions the las is designed to quickly pull out the crew to safety in case of emergency
+
+
+ astronaut training and other facilities 
+newly established human space flight centre hspc will coordinate the ihsf campagn isro will set up an astronaut training centre in bangalore to prepare personnel for flights on board the crewed vehicle the centre will use simulation facilities to train the selected astronauts in rescue and recovery operations and survival in zero gravity and will undertake studies of the radiation environment of space isro will build centrifuges to prepare astronauts for the acceleration phase of the mission existing launch facilities in satish dhawan space centre will be upgraded for the indian human spaceflight campaign
+
+
+ crewed spacecraft 
+
+isro is working towards an orbital crewed spacecraft that can operate for seven days in a low earth orbit the spacecraft called gaganyaan  will be the basis of the indian human spaceflight programme the capsule is being developed to carry up to three people and a planned upgraded version will be equipped with a rendezvous and docking capability in its maiden crewed mission isros largely autonomous 3-ton capsule will orbit the earth at 400 km in altitude for up to seven days with a two-person crew on board the crewed vehicle is planned to be launched on isros gslv mk iii in 2022
+
+
+ planetary sciences and astronomy 
+indias space era dawned when the first two-stage sounding rocket was launched from thumba in 1963there is a national balloon launching facility at hyderabad jointly supported by tifr and isro this facility has been extensively used for carrying out research in high energy ie x- and gamma-ray astronomy ir astronomy middle atmospheric trace constituents including cfcs  aerosols ionization electric conductivity and electric fieldsthe flux of secondary particles and x-ray and gamma-rays of atmospheric origin produced by the interaction of the cosmic rays is very low this low background in the presence of which one has to detect the feeble signal from cosmic sources is a major advantage in conducting hard x-ray observations from india the second advantage is that many bright sources like cyg x-1 crab nebula scorpius x-1 and galactic centre sources are observable from hyderabad due to their favourable declination with these considerations an x-ray astronomy group was formed at tifr in 1967 and development of an instrument with an orientable x-ray telescope for hard x-ray observations was undertaken the first balloon flight with the new instrument was made on 28 april 1968 in which observations of scorpius x-1 were successfully carried out in a succession of balloon flights made with this instrument between 1968 and 1974 a number of binary x-ray sources including cyg x-1 and her x-1 and the diffuse cosmic x-ray background were studied many new and astrophysically important results were obtained from these observationsone of most important achievements of isro in this field was the discovery of three species of bacteria in the upper stratosphere at an altitude of between 20–40 km the bacteria highly resistant to ultra-violet radiation are not found elsewhere on earth leading to speculation on whether they are extraterrestrial in origin these three bacteria can be considered to be extremophiles until then the upper stratosphere was believed to be inhospitable because of the high doses of ultra-violet radiation the bacteria were named as bacillus isronensis in recognition of isros contribution in the balloon experiments which led to its discovery bacillus aryabhata after indias celebrated ancient astronomer aryabhata and janibacter hoylei after the distinguished astrophysicist fred hoyle
+
+
+ astrosat 
+the astrosat is indias first multi wavelength space observatory and full-fledged astronomy satellite its observation study includes active galactic nuclei hot white dwarfs pulsations of pulsars binary star systems supermassive black holes located at the centre of the galaxies etc
+
+
+ extraterrestrial exploration 
+
+
+ lunar chandrayaan-1 
+
+chandrayaan-1 was indias first mission to the moon the unmanned lunar exploration mission included a lunar orbiter and an impactor called the moon impact probe isro launched the spacecraft using a modified version of the pslv on 22 october 2008 from satish dhawan space centre sriharikota the vehicle was inserted into lunar orbit on 8 november 2008 it carried high-resolution remote sensing equipment for visible near infrared and soft and hard x-ray frequencies during its 312 days operational period 2 years planned it surveyed the lunar surface to produce a complete map of its chemical characteristics and 3-dimensional topography the polar regions were of special interest as they possibly had ice deposits the spacecraft carried 11 instruments 5 indian and 6 from foreign institutes and space agencies including nasa esa bulgarian academy of sciences brown university and other european and north american institutescompanies which were carried free of cost chandrayaan-1 became the first lunar mission to discover existence of water on the moon the chandrayaan-166 team was awarded the american institute of aeronautics and astronautics space 2009 award the international lunar exploration working groups international co-operation award in 2008 and the national space societys 2009 space pioneer award in the science and engineering category
+
+
+ mars orbiter mission mangalayaan 
+
+the mars orbiter mission mom informally known as mangalayaan was launched into earth orbit on 5 november 2013 by the indian space research organisation isro and has entered mars orbit on 24 september 2014 india thus became the first country to enter mars orbit on its first attempt it was completed at a record low cost of 74 millionmom was placed into mars orbit on 24 september 2014 at 823 am ist
+the spacecraft had a launch mass of 1,337 kg 2,948 lb with 15 kg 33 lb of five scientific instruments as payload
+the national space society awarded the mars orbiter mission team the 2015 space pioneer award in the science and engineering category
+
+
+ future projects 
+isro plans to launch a number of earth observation satellites in the near future it will also undertake the development of new launch vehicle crewed spacecraft  and probes to mars and near-earth objects
+
+
+ forthcoming satellites 
+
+
+ future extraterrestrial exploration 
+isros missions beyond earths orbit include chandrayaan-1 to the moon and mars orbiter mission to mars isro plans to follow up with chandrayaan-2 mars orbiter mission 2 and is assessing missions to venus the sun and near-earth objects such as asteroids and comets
+
+
+ chandrayaan 2 
+
+chandrayaan-2 sanskrit चंद्रयान-२ will be indias second mission to the moon which will include an orbiter and lander-rover module chandrayaan-2 will be launched on indias geosynchronous satellite launch vehicle mark iii gslv-mkiii in 2019  the science goals of the mission are to further improve the understanding of the origin and evolution of the moon
+
+
+ mars orbiter mission 2 
+
+the next mars mission mars orbiter mission 2 also called mangalyaan 2 sanskrit मंगलयान-१ will likely be launched in 2022 or 2023 it will have a less elliptical orbit around mars and could weigh seven times more than the first mission this orbiter mission will facilitate scientific community to address the open science problems the science payload of the proposed satellite is likely to be 100 kg
+
+
+ aditya-l1 
+
+isro plans to carry out a mission to the sun by the year 2021 the probe is named aditya-1 sanskrit आदित्य l१ and will have a mass of about 400 kg 880 lb it is the first indian space-based solar coronagraph to study the corona in visible and near-ir bands launch of the aditya mission was planned during the heightened solar activity period in 2012 but was postponed to 2019–2020 due to the extensive work involved in the fabrication and other technical aspects the main objective of the mission is to study coronal mass ejections cmes their properties the structure and evolution of their magnetic fields for example and consequently constrain parameters that affect space weather
+
+
+ venus and jupiter 
+isro is in the process of conducting conceptual studies to send a spacecraft to jupiter or venus
+
+jupiterthe ideal launch window to send a spacecraft to jupiter occurs every 33 months
+if the mission to jupiter is launched a flyby of venus would be required
+venusisro is assessing an orbiter mission to venus called shukrayaan-1 that could launch as early as 2023 to study its atmosphere some budget has been allocated to perform preliminary studies as part of 2017–18 indian budget under space sciences and solicitations for potential instruments were requested in 2017 and in 2018
+
+
+ lunar missions 
+besides the chandrayaan-2 lunar mission isro is studying the potential for a joint lunar mission with japans aerospace exploration agency jaxa to explore the polar regions of the moon for water and will be producing a proposal by march 2019
+
+
+ space transportation 
+
+
+ small satellite launch vehicle 
+
+small satellite launch vehicle or sslv is in development for commercially launching small satellites with a payload of 500 kg to low earth orbit sslv would be four staged vehicle with three solid propellant based stages and a velocity trimming module the maiden flight is expected mid 2019 from satish dhawan space centre
+
+
+ reusable launch vehicle-technology demonstrator rlv-td 
+
+as a first step towards realizing a two-stage-to-orbit tsto fully re-usable launch vehicle a series of technology demonstration missions have been conceived for this purpose the winged reusable launch vehicle technology demonstrator rlv-td has been configured the rlv-td is acting as a flying test bed to evaluate various technologies such as hypersonic flight autonomous landing powered cruise flight and hypersonic flight using air-breathing propulsion
+first in the series of demonstration trials was the hypersonic flight experiment hex isro launched the prototypes test flight from the sriharikota spaceport in february 2016  the prototype- the rlv-td weighs around 1.5 tonnes and flew up to a height of 70 km the test flight known as hex was completed on 23 may 2016 the scaled up version of could serve as fly-back booster stage for winged tsto concept
+
+
+ unified launch vehicle 
+
+the ulv or unified launch vehicle is a launch vehicle in development by the indian space research organisation isro the projects core objective is to design a modular architecture that will enable the replacement of the pslv gslv mk ii and gslv mk iii with a single family of launchers the sce-200 engine can even be clustered for heavy launch configuration the ulv will be able to launch 6000 kg to 10,000 kg of payload into gto this will mark the renunciation of the liquid stage with vikas engine which uses toxic udmh and n2o4
+
+
+ applications 
+
+
+ telecommunication 
+india uses its satellites communication network – one of the largest in the world – for applications such as land management water resources management natural disaster forecasting radio networking weather forecasting meteorological imaging and computer communication business administrative services and schemes such as the national informatics centre nic are direct beneficiaries of applied satellite technology dinshaw mistry on the subject of practical applications of the indian space program writes
+
+the insat-2 satellites also provide telephone links to remote areas data transmission for organisations such as the national stock exchange mobile satellite service communications for private operators railways and road transport and broadcast satellite services used by indias state-owned television agency as well as commercial television channels indias edusat educational satellite launched aboard the gslv in 2004 was intended for adult literacy and distance learning applications in rural areas it augmented and would eventually replace such capabilities already provided by insat-3b
+
+
+ resource management 
+the irs satellites have found applications with the indian natural resource management program with regional remote sensing service centres in five indian cities and with remote sensing application centres in twenty indian states that use irs images for economic development applications these include environmental monitoring analysing soil erosion and the impact of soil conservation measures forestry management determining land cover for wildlife sanctuaries delineating groundwater potential zones flood inundation mapping drought monitoring estimating crop acreage and deriving agricultural production estimates fisheries monitoring mining and geological applications such as surveying metal and mineral deposits and urban planning
+
+
+ military 
+integrated space cell under the integrated defense services headquarters of the indian ministry of defense has been set up to utilize more effectively the countrys space-based assets for military purposes and to look into threats to these assets this command will leverage space technology including satellites unlike an aerospace command where the air force controls most of its activities the integrated space cell envisages cooperation and coordination between the three services as well as civilian agencies dealing with space with 14 satellites including gsat-7a for the exclusive military use and the rest as dual use satellites india has the fourth largest number of satellites active in the sky which includes satellites for the exclusive use of indian air force and indian navy respectively gsat-7a an advanced military communications satellite exclusively for the indian air force is similar to indian navys gsat-7 and gsat-7a will enhance network-centric warfare capabilities of the indian air force by interlinking different ground radar stations ground airbase and airborne early warning and control awacs aircraft such as beriev a-50 phalcon and drdo aewcs gsat-7a will also be used by indian armys aviation corps for its helicopters and uavs operations in 2013 isro had launched gsat-7 for the exclusive use of the indian navy to monitor the indian ocean region ior with the satellites 2,000 nautical mile ‘footprint’ and real-time input capabilities to indian warships submarines and maritime aircraft to boost its network-centric operations the iaf is also likely to get another satellite gsat-7c within a few yearsindias satellites and satellite launch vehicles have had military spin-offs while indias 93–124-mile 150–200-kilometre range prithvi missile is not derived from the indian space programme the intermediate range agni missile is drawn from the indian space programmes slv-3 in its early years when headed by vikram sarabhai and satish dhawan isro opposed military applications for its dual-use projects such as the slv-3 eventually however the defence research and development organisation drdo based missile programme borrowed human resources and technology from isro missile scientist apj abdul kalam elected president of india in 2002 who had headed the slv-3 project at isro moved to drdo to direct indias missile programme about a dozen scientists accompanied kalam from isro to drdo where he designed the agni missile using the slv-3s solid fuel first stage and a liquid-fuel prithvi-missile-derived second stage the irs and insat satellites were primarily intended and used for civilian-economic applications but they also offered military spin-offs in 1996 new delhis ministry of defence temporarily blocked the use of irs-1c by indias environmental and agricultural ministries to monitor ballistic missiles near indias borders in 1997 the indian air forces airpower doctrine aspired to use space assets for surveillance and battle management
+
+
+ academic 
+institutions like the indira gandhi national open university and the indian institutes of technology use satellites for scholarly applications between 1975 and 1976 india conducted its largest sociological programme using space technology reaching 2400 villages through video programming in local languages aimed at educational development via ats-6 technology developed by nasa this experiment—named satellite instructional television experiment site—conducted large scale video broadcasts resulting in significant improvement in rural education education could reach far remote rural places with the help of above programs
+
+
+ telemedicine 
+isro has applied its technology for telemedicine directly connecting patients in rural areas to medical professionals in urban locations via satellites since high-quality healthcare is not universally available in some of the remote areas of india the patients in remote areas are diagnosed and analysed by doctors in urban centers in real time via video conferencing the patient is then advised medicine and treatment the patient is then treated by the staff at one of the super-specialty hospitals under instructions from the doctor mobile telemedicine vans are also deployed to visit locations in far-flung areas and provide diagnosis and support to patients
+
+
+ biodiversity information system 
+isro has also helped implement indias biodiversity information system completed in october 2002 nirupa sen details the program based on intensive field sampling and mapping using satellite remote sensing and geospatial modeling tools maps have been made of vegetation cover on a 1 250,000 scale this has been put together in a web-enabled database that links gene-level information of plant species with spatial information in a biospec database of the ecological hot spot regions namely northeastern india western ghats western himalayas and andaman and nicobar islands this has been made possible with collaboration between the department of biotechnology and isro
+
+
+ cartography 
+the indian irs-p5 cartosat-1 was equipped with high-resolution panchromatic equipment to enable it for cartographic purposes irs-p5 cartosat-1 was followed by a more advanced model named irs-p6 developed also for agricultural applications the cartosat-2 project equipped with single panchromatic camera that supported scene-specific on-spot images succeeded the cartosat-1 project
+
+
+ international co-operation 
+isro has had international co-operation since inception some instances are listed below
+
+establishment of terls conduct of site  step launches of aryabhata bhaskara apple irs-ia and irs-ib satellites manned space mission etc involved international co-operation
+isro operates lutmcc under the international cospassarsat programme for search and rescue
+india has established a centre for space science and technology education in asia and the pacific csste-ap that is sponsored by the united nations
+india hosted the second un-escap ministerial conference on space applications for sustainable development in asia and the pacific in november 1999
+india is a member of the united nations committee on the peaceful uses of outer space cospas-sarsat international astronautical federation committee on space research cospar inter-agency space debris coordination committee iadc international space university and the committee on earth observation satellite ceos
+chandrayaan-1 carried scientific payloads from nasa esa bulgarian space agency and other institutionscompanies in north america and europe
+the united states government on 24 january 2011 removed several indian government agencies including isro from the so-called entity list in an effort to drive hi-tech trade and forge closer strategic ties with india
+isro carries out joint operations with foreign space agencies such as the indo-french megha-tropiques mission
+at the international astronautical congress 2014 at toronto isro chairman k radhakrishnan and nasa administrator charles bolden signed two documents one was regarding the 2020 launch of a nasa-isro synthetic aperture radar nisar satellite mission to make global measurements of the causes and consequences of land surface changes the other was to establish a pathway for future joint missions to explore marsantrix corporation the commercial and marketing arm of isro handles both domestic and foreign dealsformal co-operative arrangements in the form of memoranda of understanding or framework agreements have been signed with the following countries
+
+the following foreign organisations also have signed various framework agreements with isro-
+
+in the 39th scientific assembly of committee on space research held in mysore the isro chairman k radhakrishnan called upon international synergy in space missions in view of their prohibitive cost he also mentioned that isro is gearing up to meet the growing demand of service providers and security agencies in a cost effective manner
+
+
+ isro satellites launched by foreign agencies 
+several isro satellites have been launched by foreign space agencies of europe ussr  russia and united states the details as of december 2016 are given in the tables below
+
+those isro satellites that had a launch mass of 3000 kg or more and were launched by foreign agencies are listed in the table below
+
+
+ statistics 
+last updated 23 february 2019
+total number of foreign satellites launched by isro  269 32 countries
+spacecraft missions 110
+launch missions 72
+student satellites 10
+re-entry missions 2
+
+
+ see also 
+
+avatar reusable launch vehicle an undeveloped concept
+chairman of the indian space research organisation
+comparison of asian national space programs
+department of space administers the indian space program
+indian institute of space science and technology
+list of foreign satellites launched by india
+list of government space agencies
+list of indian satellites
+list of isro missions
+swami vivekananda planetarium
+telecommunications in india
+timeline of solar system exploration
+
+
+ citations 
+
+
+ references 
+
+
+ further reading 
+the economics of indias space programme by u sankar oxford university press new delhi 2007 isbn 978-0-19-568345-5
+the indian space programme by gurbir singh astrotalkuk publications isbn 978-0956933737
+reach for the stars the evolution of indias rocket programme by gopal raj isbn 978-0670899500
+from fishing hamlet to red planet indias space journey by isro isbn 978-9351776895
+brief history of rocketry in isro by p v manoranjan rao and p radhakrishnan isbn 978-8173717642
+india’s rise as a space power by u r rao isbn 978-9382993483
+
+
+ external links 
+isro official website
+official website of the department of space of the government of india dosgovin

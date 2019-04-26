@@ -1,0 +1,29 @@
+tiros i or tiros-1 was the first successful low-earth orbital weather satellite and the first of a series of television infrared observation satellites
+
+
+ launch 
+
+the tiros-1 spacecraft was launched by nasa and partners at 640 am est on april 1 1960 from cape canaveral florida in the united states mission partners were nasa the us army signal research and development laboratory rca the us weather bureau and the us naval photographic interpretation center
+
+
+ program 
+
+the tiros program was nasas first experimental step to determine if satellites could be useful in the study of the earth at that time the effectiveness of satellite observations was still unproven since satellites were a new technology the tiros program also tested various design issues for spacecraft instruments data and operational parameters the goal was to improve satellite applications for earth-bound decisions such as should we evacuate the coast because of the hurricanethe tiros programs first priority was the development of a meteorological satellite information system weather forecasting was deemed the most promising application of space-based observationstiros proved extremely successful providing the first accurate weather forecasts based on data gathered from space tiros began continuous coverage of the earths weather in 1962 and was used by meteorologists worldwide the programs success with many instrument types and orbital configurations led to the development of more sophisticated meteorological observation satellites
+
+
+ instruments 
+the two cameras for tiros-1 were for the visible spectrum the cameras were slow-scan taking a half-second to record an image but had a 1.5 millisecond shutter one camera had a wide-angle lens 104 degrees750 miles with the other having a narrow-angle 12.67 degrees65 miles with corresponding image resolutions of 1.5 miles and 1000 feet also included were a horizon sensor and a sun sensor both used for indicating the orientation of the satellite for the images
+
+
+ references 
+
+
+ external links 
+tiros – nasa science
+final report on the tiros i meteorological satellite system
+the smithsonian national air  space museum exhibition list
+tiros 1  2 ground control canter at camp evans - preserved by infoage science history center
+published story of how the first tiros photo was flown by helicopter then a jet from the camp evans ground control center to nasa
+tiros i is launched - noaasis
+tiros-1 50th anniversary  resources on satellite meteorology
+nasas youtube video of tiros-1

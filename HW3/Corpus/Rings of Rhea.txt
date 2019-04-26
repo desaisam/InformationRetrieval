@@ -1,0 +1,36 @@
+the saturnian moon rhea may have a tenuous ring system consisting of three narrow relatively dense bands within a particulate disk this would be the first discovery of rings around a moon the potential discovery was announced in the journal science on march 6 2008in november 2005 the cassini orbiter found that saturns magnetosphere is depleted of energetic electrons near rhea according to the discovery team the pattern of depletion is best explained by assuming the electrons are absorbed by solid material in the form of an equatorial disk of particles perhaps several decimeters to approximately a meter in diameter and that contains several denser rings or arcs subsequent targeted optical searches of the putative ring plane from several angles by cassinis narrow-angle camera failed to find any evidence of the expected ring material and in august 2010 it was announced that rhea was unlikely to have rings and that the reason for the depletion pattern which is unique to rhea is unknown however an equatorial chain of bluish marks on the rhean surface suggests past impacts of deorbiting ring material and leaves the question unresolved
+
+
+ detection 
+
+voyager 1 observed a broad depletion of energetic electrons trapped in saturns magnetic field downstream from rhea in 1980 these measurements which were never explained were made at a greater distance than the cassini data
+on november 26 2005 cassini made the one targeted rhea flyby of its primary mission it passed within 500 km of rheas surface downstream of saturns magnetic field and observed the resulting plasma wake as it had with other moons such as dione and tethys in those cases there was an abrupt cutoff of energetic electrons as cassini crossed into the moons plasma shadows the regions where the moons themselves blocked the magnetospheric plasma from reaching cassini however in the case of rhea the electron plasma started to drop off slightly at eight times that distance and decreased gradually until the expected sharp drop off as cassini entered rheas plasma shadow the extended distance corresponds to rheas hill sphere the distance of 7.7 times rheas radius inside of which orbits are dominated by rheas rather than saturns gravity when cassini emerged from rheas plasma shadow the reverse pattern occurred a sharp surge in energetic electrons then a gradual increase out to rheas hill-sphere radius
+these readings are similar to those of enceladus where water venting from its south pole absorbs the electron plasma however in the case of rhea the absorption pattern is symmetrical in addition the magnetospheric imaging instrument mimi observed that this gentle gradient was punctuated by three sharp drops in plasma flow on each side of the moon a pattern that was also nearly symmetricalin august 2007 cassini passed through rheas plasma shadow again but further downstream its readings were similar to those of voyager 1 two years later in october 2009 it was announced that a set of small ultraviolet-bright spots distributed in a line that extends three quarters of the way around rheas circumference within 2 degrees of the equator may represent further evidence for a ring the spots presumably represent the impact points of deorbiting ring material
+
+there are no images or direct observations of the material thought to be absorbing the plasma but the likely candidates would be difficult to detect directly further observations during cassinis targeted flyby on march 2 2010 found no evidence of orbiting ring material
+
+
+ interpretation 
+ 
+cassinis flyby trajectory makes interpretation of the magnetic readings difficult
+the obvious candidates for magnetospheric plasma-absorbing matter are neutral gas and dust but the quantities required to explain the observed depletion are far greater than cassinis measurements allow therefore the discoverers led by geraint jones of the cassini mimi team argue that the depletions must be caused by solid particles orbiting rhea
+
+an analysis of the electron data indicates that this obstacle is most likely in the form of a low optical depth disk of material near rhea’s equatorial plane and that the disk contains solid bodies up to 1 m in size
+the simplest explanation for the symmetrical punctuations in plasma flow are extended arcs or rings of material orbiting rhea in its equatorial plane these symmetric dips bear some similarity to the method by which the rings of uranus were discovered in 1977 the slight deviations from absolute symmetry may be due to a modest tilt to the local magnetic field or common plasma flow deviations rather than to asymmetry of the rings themselves which may be circular
+not all scientists are convinced that the observed signatures are caused by a ring system no rings have been seen in images which puts a very low limit on dust-sized particles furthermore a ring of boulders would be expected to generate dust that would likely have been seen in the images
+
+
+ physics 
+
+simulations suggest that solid bodies can stably orbit rhea near its equatorial plane over astronomical timescales they may not be stable around dione and tethys because those moons are so much closer to saturn and therefore have much smaller hill spheres or around titan because of drag from its dense atmosphereseveral suggestions have been made for the possible origin of rings an impact could have ejected material into orbit this could have happened as recently as 70 million years ago a small body could have been disrupted when caught in orbit about rhea in either case the debris would eventually have settled into circular equatorial orbits given the possibility of long-term orbital stability however it is possible that they survive from the formation of rhea itselffor discrete rings to persist something must confine them suggestions include moonlets or clumps of material within the disk similar to those observed within saturns a ring
+
+
+ see also 
+subsatellite
+
+
+ references 
+
+
+ external links 
+nasa podcast

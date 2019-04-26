@@ -1,0 +1,51 @@
+
+Stop Words : of the ,in the, to the,and the,from the,on the,by the,with the,the first,as the,of a,at the,is the,to be,as a,such as,that the,in a,it is,is a,can be,during the,with a,
+	     it was,the sun,have been.	
+The cut off is chosen as 28th most frequent bigram from the bigram_tf document.
+
+Reason : I calculated the relative frequency, by calculating the difference between the consective  terms.
+The difference drops drastically at two places.
+1) After the term "from the"
+2) After the term  "have been"
+
+I chose the point at the second drop as the ccutoff because from the inspection none of the terms .
+
+Contents ofstop words ?
+We can oberseve the bigrams untill the cut off contains the most frequently used words in English.
+
+of the : 51765
+in the : 29323   	22442
+to the : 17122   	12201
+and the : 12477	  	4645
+from the : 9880	  	2597
+on the : 9800		80
+by the : 8902	   	898	
+with the : 7048	   	1854
+the first : 6360	688
+for the : 6302	     	58
+as the : 6252		50
+of a : 6136		116
+at the : 5880		256
+is the : 5757		123
+to be : 5576		181
+as a : 5377		199
+such as : 5295		 82
+that the : 4963     	332
+in a : 4281	        682
+it is : 4231		 50
+is a : 3964		267
+can be : 3240		724
+during the : 3195	 45
+with a : 3086		109
+it was : 3063		 23
+the sun : 2888	    	175
+have been : 2781	107
+=======================CUTOFF==================================
+one of : 2760		 21
+the united : 2711    	 49
+due to : 2662		 49 
+to a : 2622		  0	
+the same : 2565		 57
+was the : 2438		 27
+united states : 2437  	  1	
+part of : 2434        	  3

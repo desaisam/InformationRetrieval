@@ -1,0 +1,8 @@
+below is a list of satellites which have provided data on the earths magnetosphere
+
+
+ notes 
+1γ  10−5 oersted  dynamic range of instrumentation
+
+
+ references 

@@ -1,0 +1,103 @@
+the italian space agency italian agenzia spaziale italiana asi is a government agency established in 1988 to fund regulate and coordinate space exploration activities in italy the agency cooperates with numerous national and international entities who are active in aerospace research and technologynationally asi is responsible for both drafting the national aerospace plan and ensuring it is carried out to do this the agency operates as the ownercoordinator of a number of italian space research agencies and assets such as cira as well as organising the calls and opportunities process for italian industrial contractors on spaceflight projects internationally the asi provides italys delegation to the council of the european space agency and to its subordinate bodies as well as representing the countrys interests in foreign collaborations
+asis main headquarters are located in rome italy and the agency also has direct control over three operational centres the centre for space geodesy cgs located in matera  in italy as well as these asi has access to its own spaceport the broglio space centre formerly the san marco equatorial range on the coastal sublittoral of kenya currently used only as a communications ground station in 2016 asis annual  revenues budget was approximately €1.6 billion  and directly employed around 200 workersfollowing a decision by the council of ministers enrico saggese became president of the agency on july 3 2009 to quit on february 2014 amid a corruption scandal and be replaced by aldo sandulli  fabrizio tuzi presently is the organisations general manager
+
+
+ history 
+
+
+ early italian aerospace 
+
+activities started officially in 1988 but the agency drew extensively on the work of earlier national organisations as well as the consolidated experience of the many italian scientists that had been investigating space and astronautics since the end of the 19th century some of the most outstanding names in italian space exploration since its inception were the following
+
+giulio costanzi 1875–1965 his 1914 writing of space navigation and nuclear propulsion are considered the first italian contribution to astronautics
+luigi gussalli 1885–1950 astronautics pioneer since the ‘20s corresponded with international space scientists such as oberth and goddard he invented a double-reaction jet engine developed multi-stage rockets suggested a moon mission and solar radiation powered spaceships
+gaetano arturo crocco 1877-1968 aeronautics and astronautics pioneer invented the first all-italian liquid-fuelled combustion chamber and aided in the development of the gravity assist technique for use on planetary fly-by’s by space probes
+luigi crocco 1909-1986 son of gaetano arturo an internationally renowned scientist in aerodynamics theory and jet propulsion
+aurelio robotti expert on rocket liquid fuels father of the first italian liquid-fuelled rocket ar3
+luigi broglio 1911-2001 the unanimously recognized father of italian astronautics sometimes referred to as the “italian von braun” under his guide italy built and operated a satellite in orbit around the earth and became the first country to deploy an equatorial launching pad the san marco and to experiment successful launching from it
+carlo buongiorno broglios pupil and the first director general of asi
+
+
+ san marco programme 
+
+early italian space efforts during the space race era were built around cooperation between the italian space commission a branch of the national research council and nasa supported primarily by the centro ricerche aerospaziali the aerospace research group of the university of rome la sapienza this plan conceived by luigi broglio led to the san marco programme of italian-built satellites beginning with the launch of italys first satellite san marco 1 from wallops islandthe san marco project since 1967 was focused on the launching of scientific satellites by scout rockets from a mobile rigid platform located close to the equator this station composed of 3 oil platforms and two logistical support boats was installed off the kenya coast close to the town of malindi
+italy would later launch further satellites in the series san marco 2 in 1967 san marco 3 in 1971 san marco 4 in 1974 and san marco dl in 1988  using the american scout rockets like the original but from its own spaceport
+
+
+ co-operation and consolidation 
+as one of the earliest countries to be engaged in space exploration italy became a founder and key partner in the european launcher development organisation eldo and the european space research organisation esro established on march 29 and june 14 1962 respectively both of these would later merge to form the european space agency on april 30 1975further work would continue under the direction of the national research council including the launch of an indigenous telecomsresearch satellite called sirio-1 in 1977 a planned follow-up mission sirio-2 was destroyed in the ariane 1 l-05 launch failure during the 1980s it became clear of the need to rationalise and strengthen italys position in space research and so the decision was made to create the italian space agency to further coordinate the nations space activities
+
+
+ programmes 
+
+
+ robotic exploration 
+
+asis first large scientific satellite mission was bepposax developed in collaboration with the netherlands and launched in 1996 named after giuseppe “beppo” occhialini an important figure in italian high-energy physics the satellite was a mission to study the universe in the x-ray part of the spectrum
+following on from this asi developed another high-energy astronomical satellite agile for gamma ray astronomy launched by the indian space research organisation isro in 2007 a particular innovation was the use of a single instrument to measure both gamma rays and hard x-rays
+asi also has collaborated on many major international space exploration missions including
+
+cassini-huygens a joint nasaesaasi mission to the saturn system launched in 1997 the mission has made many new discoveries and increased understanding of the gas giants environment particularly saturns varied moons asi supplied cassinis large high-gain antenna and radar package as well as involvement in other instruments
+integral esas advanced gamma ray observatory launched in 2002
+mars express the first western european mission to mars launched in 2003 through asi italy provided two important instruments for the mission marsis a radar altimeter and the planetary fourier spectrometer which discovered concentrations of methane in the martian atmosphere
+rosetta an ambitious esa mission to orbit and for the first time in history land a probe on a comet 67pchuryumov-gerasimenko to study it in detail as it enters the inner solar system this long duration mission was launched in 2004 and arrived at its destination in 2014 rosetta carries the italian-built virtis instrument while the philae landers samplingdrilling system sd2 is another major italian contribution
+swift gamma-ray burst mission a nasa-led international mission to provide rapid detection of short-lived gamma-ray bursts asi provides the use of the ground station facility as the san marco spaceport
+mars reconnaissance orbiter a nasa mission to mars launched in 2005 the sharad radar was supplied by italy using experience from marsis
+venus express the sister-probe to mars express built using the same spacecraft bus and the first western european mission to venus launched in 2005 asi contributed a version of virtis spectrometer
+dawn a 2007 nasa mission that will study the largest of the asteroid belts objects the asteroid vesta and the dwarf planet ceres italy has provided vir-ms another evolution of the virtis instrument
+juno contributed the jovian infrared auroral mapper on this mission to planet jupiteritalys space industry has also been involved in many other scientific missions such as soho cluster ii iso xmm-newton and planck
+the technology experiments tss-1 and tss-1r were also conducted in partnership with nasa
+
+
+ launcher development 
+currently asi is a partner in the ariane 5 launcher programme and more recently is the major 65 backer of the esa vega small launcher capable of putting a payload of 1500 kg to low earth orbit
+
+
+ earth observation 
+asi is a participant in many of esas programmes in the field of earth observation such as ers-1 ers-2 envisat the meteosat series and the galileo satellite navigation system the agency has also collaborated with other european and international partners such as the shuttle radar topography mission with nasa
+in october 1992 nasa launched lageos-2 following lageos-1 launched in 1976 in cooperation with asi a passive satellite it is a sphere of aluminium covered with retroreflectors to reflect laser ranging beams emitted from ground stations on earth the primary mission goals were to determine accurately earths geoid and to measure tectonic plate movement in 2010 asis own satellite lares will be launched using the vega rocket the mission is designed to carry out similar studies to that of lageos 2 but with much greater precision
+the italian space agency under direction of both the muir and the ministry of defence developed the cosmo-skymed constellation of satellites for both military and civilian use in a broad range of areas
+
+
+ human spaceflight 
+
+through asi the italian space industry is an active player in human spaceflight activities
+the three shuttle mplm cargo containers leonardo raffaello and donatello were built  in turin italy by alcatel alenia space now thales alenia space they provide a key function in storing equipment and parts for transfer to the international space station
+a number of iss modules have also been built in italy as part of esas contribution to the costs of the international space station alcatel alenia space built tranquility harmony as well as the cupola observation deck for nasa
+esas columbus module western europes primary scientific lab on board the iss was again built in turin based on italys previous experience in space station module construction
+
+
+ italian astronauts 
+
+as an esa member heavily involved in human spaceflight asi sponsors a select few italian citizens to train at esas european astronaut corps eac to represent the country on missions italians to have flown in space are
+
+franco malerba italys first astronaut and the only one not to fly as a member of the eac he flew on sts-46 july 31 to august 7 1992 as payload specialist on the first tethered satellite system mission
+umberto guidoni flew on sts-75 february 22 to march 9 1996 as payload specialist on the second tethered satellite system mission - tss-1r he became the first italian and european on the international space station during sts-100 april 19 to may 1 2001
+maurizio cheli flew with umberto guidoni as a mission specialist on sts-75
+roberto vittori has flown on multiple missions to the iss soyuz tm-33 soyuz tm-34 soyuz tma-5 soyuz tma-6 and sts-134
+paolo a nespoli flew on sts-120 october 23 to november 7 2007 he then returned two more times on the iss one for the long duration magisstra mission expedition 26/27 from december 15 2010 to may 23 2011 aboard the soyuz tma-20 and the other for the vita mission expedition 52/53
+luca parmitano selected in february 2009 flew aboard soyuz tma-09m on  28 may 2013 arriving at the international space station the following day he returned to earth on 11 november 2013 he is scheduled to return to the iss onboard the soyuz ms-13 mission in july of 2019 he will serve as flight engineer on expedition 60 and commander on expedition 61
+samantha cristoforetti also selected in 2009 flew to the international space station aboard soyuz tma-15m on november 23 2014 her original return date was delayed by one month after the failure of two russian rockets extended her stay in space past the european astronaut and female astronaut endurance records her return to earth on june 11 2015 concluded her 199d 16h 42m in space
+
+
+ see also 
+
+list of government space agencies
+list of space agencies
+
+
+ references 
+
+
+ bibliography 
+filippo graziani la scuola di scuola ingegneria aerospaziale nell’ottantesimo anniversario della sua fondazione
+gaetano arturo crocco giro esplorativo di un anno terra-marte-venere-terra rendiconti del vii congresso internazionale astronauticao roma settembre 1956 pagg 201-225english translation one-year exploration-trip earth-mars-venus-earth  gaetano a crocco paper presented at the seventh congress of the international astronautical federation rome italy rendiconti pp 227-252giorgio di bernardo nella nebbia in attesa del sole di renzo editore
+aa vv le attività spaziali italiane dal dopoguerra all’istituzione dell’agenzia spaziale italiana agenzia spaziale europea
+aurelio robotti 1941–1961 venti anni di storia missilistica in italia missili edizioni italiane 1962
+giovanni caprara l’italia nello spazio valerio levi editore 1992
+
+
+ external links 
+official website
+official website - documents including the national aerospace plan
+asiinterviewss channel on youtube in italian

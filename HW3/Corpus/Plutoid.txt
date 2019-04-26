@@ -1,0 +1,42 @@
+a plutoid or ice dwarf is a trans-neptunian dwarf planet ie a body orbiting beyond neptune that is massive enough to be rounded in shape the term plutoid was adopted by the international astronomical union iau working group committee on small bodies nomenclature but was rejected by the iau working group planetary system nomenclature the term plutoid is not widely used by astronomers though ice dwarf is not uncommon
+there are thought to be thousands of plutoids in the solar system although only four have been formally designated as such by the iau
+the iau developed this category of astronomical objects as a consequence of its 2006 resolution defining the word planet the iaus formal definition of plutoid announced 11 june 2008 is
+
+plutoids are celestial bodies in orbit around the sun at a semi-major axis greater than that of neptune that have sufficient mass for their self-gravity to overcome rigid body forces so that they assume a hydrostatic equilibrium near-spherical shape and that have not cleared the neighbourhood around their orbit satellites of plutoids are not plutoids themselvesin light of the difficulty of remotely ascertaining hydrostasis the iau only formally confers dwarf planet and by extension plutoid status to those bodies whose minimum estimated size is substantially greater than what is generally thought necessary to guarantee hydrostatic equilibrium as of  2009 pluto eris haumea and makemake are the only objects officially recognized as plutoids while upwards of seventy more bodies that currently lack formal recognition are thought likely to meet the definition and can expect formal recognition at some time in the futurealan stern of the southwest research institute believes the outer planets show signs of collisions with plutoids 1,000 to 2,000 kilometers in diameter uranus could have been tipped off its axis by a plutoid and triton the largest moon of neptune is probably a captured plutoid from the kuiper belt
+
+
+ history of the term 
+
+on 24 august 2006 the iau decided to reclassify pluto as a dwarf planet requiring that a planet must clear the neighbourhood around its orbit
+the general assembly of the iau further resolved
+
+pluto is … recognized as the prototype of a new category of trans-neptunian objects
+this new category had been proposed under the name pluton or a plutonian object earlier in the general assembly the former was rejected in part because pluton is a geological term and many geological experts sent in complaints pointing this out pluton was dropped midway through the assembly and was abandoned in the final draft resolution 6b plutonian object failed to win majority approval on a 183–186 vote in the iau general assembly on august 24 2006the definition of the category also fluctuated during its early stages  when first proposed the category then named pluton defined members as planets whose orbital period around the sun was more than 200 julian years and whose orbit was more highly inclined and more elliptical than a traditional planetary orbit once it had been counter-proposed to strip pluto of planet status this category of pluto-like objects was then applied to dwarf planets that met the conditions of being trans-neptunian and like pluto in terms of period inclination and eccentricity  ultimately the final resolution left the formal definition like the name to be established at a later datefollowing the iau general assembly the name plutoid was proposed by the members of the iau committee on small body nomenclature csbn accepted by the board of division iii and approved by the iau executive committee at its meeting in oslo norway on 11 june 2008  the term was announced after the executive committee meeting along with a greatly simplified definition all trans-neptunian dwarf planets are plutoids however due to a communication error the iau working group for planetary system nomenclature wg-psn was not consulted and they subsequently rejected the termas of 2009 the term had not been widely accepted by the scientific community with the term ice dwarf planet sometimes used instead
+
+
+ analogous terminology 
+prior to the emergence of the term plutoid as an iau-sanctioned categorization there had been some attempts at applying a title for this class of object
+the term ice dwarf saw some adoption as a near-synonym to the eventual term plutoid ice dwarf however also saw some use as an umbrella term for all so-called distant minor planets trans-neptunian objects plus centaurs or other broad applications one attempted definition was that an ice dwarf is larger than the nucleus of a normal comet and icier than a typical asteroid there are large numbers of such objects in the oort cloud and the kuiper belt however it is not clear whether all so-categorized ice dwarfs are actually icier than icy asteroids such as ceres now considered a dwarf planet nonetheless ceres is sometimes called a terrestrial dwarf to distinguish it from pluto and eris
+ice dwarf as a term for an icy planetary body that generally orbits beyond neptune was coined as part of a conception of a threefold division of the solar system into inner terrestrial planets central gas giants and outer ice dwarfs of which pluto was the principal member this conception foreshadowed the reclassification of pluto to dwarf planet and plutoid after the discovery of eris
+
+
+ naming process for plutoids 
+with the creation of the term dwarf planet some ambiguity was created as to which of two iau bodies would be responsible for naming dwarf planets eris had been named through the iau committee on small body nomenclature and the iau working group for planetary system nomenclature working in cooperation with one another along with announcing the name plutoid the iau decision of 11 june 2008 institutionalized this cooperative process involving the two bodies in the naming of new plutoids in keeping with minor planet naming guidelines priority will be given to names proposed by the discovery teams and plutoids may not share a name with a small solar system body
+
+
+ complications related to dwarf planet definition 
+when the definition of dwarf planet was instated at the iau general assembly of 2006 ceres pluto and eris were identified by name as the initial members of the dwarf planet class however precise regulations as to how hydrostatic equilibrium would be measured were left undefined for the time being without an official procedure for calculating the lower bound of size to be a dwarf planet no further bodies could be formally recognized as either dwarf planets or plutoids
+it was noted that the naming process would remain stalled without such rules and that even with them few of these bodies can be imaged with sufficient resolution to determine their shapes therefore the iau announced in 2008 that for naming purposes a trans-neptunian object will be assumed to be a plutoid if it has an absolute magnitude brighter than h  1 magnitudemathematically the smallest possible object that could possess an absolute magnitude of 1 a perfectly reflective one with an albedo of 1 would be 838 km in diameter it is highly unlikely that any body of this size or larger regardless of composition would not also surpass whatever threshold is ultimately adopted as proof of hydrostatic equilibrium however if it turns out upon further investigation that an object named as if it were a plutoid has not achieved hydrostatic equilibrium the iau has stated it will be reclassified but keep its namethis decision allowed for the naming of makemake and haumea and their formal recognition as plutoids and dwarf planets bringing the number of iau-accepted plutoids to four however the codiscoverer of eris makemake and haumea mike brown estimates that between 100 and 400 known bodies are plutoids and that there are many more that have yet to be discovered see list of possible dwarf planets
+
+
+ references 
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+ media related to plutoids at wikimedia commons

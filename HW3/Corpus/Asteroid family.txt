@@ -1,0 +1,96 @@
+an asteroid family is a population of asteroids that share similar proper orbital elements such as semimajor axis eccentricity and orbital inclination the members of the families are thought to be fragments of past asteroid collisions  an asteroid family is a more specific term than asteroid group whose members while sharing some broad orbital characteristics may be otherwise unrelated to each other
+
+
+ general properties 
+
+large prominent families contain several hundred recognized asteroids and many more smaller objects which may be either not-yet-analyzed or not-yet-discovered small compact families may have only about ten identified members about 33% to 35% of asteroids in the main belt are family members
+there are about 20 to 30 reliably recognized families with several tens of less certain groupings most asteroid families are found in the main asteroid belt although several family-like groups such as the pallas family hungaria family and the phocaea family lie at smaller semi-major axis or larger inclination than the main belt
+one family has been identified associated with the dwarf planet haumea some studies have tried to find evidence of collisional families among the trojan asteroids but at present the evidence is inconclusive
+
+
+ origin and evolution 
+the families are thought to form as a result of collisions between asteroids in many or most cases the parent body was shattered but there are also several families which resulted from a large cratering event which did not disrupt the parent body eg the vesta pallas hygiea and massalia families such cratering families typically consist of a single large body and a swarm of asteroids that are much smaller some families eg the flora family have complex internal structures which are not satisfactorily explained at the moment but may be due to several collisions in the same region at different times
+due to the method of origin all the members have closely matching compositions for most families notable exceptions are those families such as the vesta family which formed from a large differentiated parent body
+asteroid families are thought to have lifetimes of the order of a billion years depending on various factors eg smaller asteroids are lost faster this is significantly shorter than the solar systems age so few if any are relics of the early solar system decay of families occurs both because of slow dissipation of the orbits due to perturbations from jupiter or other large bodies and because of collisions between asteroids which grind them down to small bodies such small asteroids then become subject to perturbations such as the yarkovsky effect that can push them towards orbital resonances with jupiter over time once there they are relatively rapidly ejected from the asteroid belt tentative age estimates have been obtained for some families ranging from hundreds of millions of years to less than several million years as for the compact karin family old families are thought to contain few small members and this is the basis of the age determinations
+it is supposed that many very old families have lost all the smaller and medium-sized members leaving only a few of the largest intact a suggested example of such old family remains are the 9 metis and 113 amalthea pair further evidence for a large number of past families now dispersed comes from analysis of chemical ratios in iron meteorites these show that there must have once been at least 50 to 100 parent bodies large enough to be differentiated that have since been shattered to expose their cores and produce the actual meteorites kelley  gaffey 2000
+
+
+ identification of members interlopers and background asteroids 
+
+when the orbital elements of main belt asteroids are plotted typically inclination vs eccentricity or vs semi-major axis a number of distinct concentrations are seen against the rather uniform distribution of non-family background asteroids these concentrations are the asteroid families interlopers are asteroids classified as family members based on their so-called proper orbital elements but having spectroscopic properties distinct from the bulk of the family suggesting that they contrary to the true family members did not originate from the same parent body that once fragmented upon a collisional impact
+
+
+ description 
+
+strictly speaking families and their membership are identified by analysing the proper orbital elements rather than the current osculating orbital elements which regularly fluctuate on timescales of tens of thousands of years the proper elements are related constants of motion that remain almost constant for times of at least tens of millions of years and perhaps longer
+the japanese astronomer kiyotsugu hirayama 1874–1943 pioneered the estimation of proper elements for asteroids and first identified several of the most prominent families in 1918 in his honor asteroid families are sometimes called hirayama families this particularly applies to the five prominent groupings discovered by him
+
+
+ hierarchical clustering method 
+
+present day computer-assisted searches have identified more than a hundred asteroid families the most prominent algorithms have been the hierarchical clustering method hcm which looks for groupings with small nearest-neighbour distances in orbital element space and wavelet analysis which builds a density-of-asteroids map in orbital element space and looks for density peaks
+the boundaries of the families are somewhat vague because at the edges they blend into the background density of asteroids in the main belt for this reason the number of members even among discovered asteroids is usually only known approximately and membership is uncertain for asteroids near the edges
+additionally some interlopers from the heterogeneous background asteroid population are expected even in the central regions of a family since the true family members caused by the collision are expected to have similar compositions most such interlopers can in principle be recognised by spectral properties which do not match those of the bulk of family members a prominent example is 1 ceres the largest asteroid which is an interloper in the family once named after it the ceres family now the gefion family
+spectral characteristics can also be used to determine the membership or otherwise of asteroids in the outer regions of a family as has been used eg for the vesta family whose members have an unusual composition
+
+
+ family types 
+as previously mentioned families caused by an impact that did not disrupt the parent body but only ejected fragments are called cratering families other terminology has been used to distinguish various types of groups which are less distinct or less statistically certain from the most prominent nominal families or clusters 
+
+
+ clusters clumps clans and tribes 
+the term cluster is also used to describe a small asteroid family such as the karin cluster clumps are groupings which have relatively few members but are clearly distinct from the background eg the juno clump clans are groupings which merge very gradually into the background density andor have a complex internal structure making it difficult to decide whether they are one complex group or several unrelated overlapping groups eg the flora family has been called a clan tribes are groups that are less certain to be statistically significant against the background either because of small density or large uncertainty in the orbital parameters of the members
+
+
+ list 
+
+
+ prominent families 
+
+among the many asteroid family the eos eunomia flora hungaria hygiea koronis nysa themis and vesta family are the most prominent ones in the asteroid belt for a complete list see § all families
+
+eos family
+the eos family adj eoan 9,789 members named after 221 eos
+eunomia family
+the eunomia family adj eunomian 5,670 known members named after 15 eunomia is a family of s-type asteroids it is the most prominent family in the intermediate asteroid belt and the 6th-largest family with approximately 1.4% of all main belt asteroids
+flora family
+the flora family adj florian 13,786 members named after 8 flora is the 3rd-largest family broad in extent it has no clear boundary and gradually fades into the surrounding background population several distinct groupings within the family possibly created by later secondary collisions it has also been described as an asteroid clan
+hungaria family
+the hungaria family adj hungarian 2,965 members named after 434 hungaria
+hygiea family
+the hygiea family adj hygiean 4,854 members named after 10 hygiea
+koronis family
+the koronis family adj koronian 5,949 members named after 158 koronis
+nysa family
+the nysa family adjnysian 19,073 members named after 44 nysa alternatively named  hertha family after 135 hertha
+themis family
+the themis family adj themistian 4,782 members named after 24 themis
+vesta family
+the vesta family adj vestian 15,252 members named after 4 vesta
+
+
+ all families 
+
+in 2015 a study identified 122 notable families with a total of approximately 100,000 member asteroids based on the entire catalog of numbered minor planets which consisted of almost 400,000 numbered bodies at the time see catalog index for a current listing of numbered minor planets the data has been made available at the small bodies data ferret the first column of this table contains the family identification number or family identifier number fin which is an attempt for a numerical labeling of identified families independent of their currently used name as a familys name may change with refined observations leading to multiple names used in literature and to subsequent confusion
+
+
+ other families or dynamical groups 
+other asteroid families from miscellaneous sources not listed in the above table as well as non-asteroid families include
+
+
+ see also 
+proper orbital elements
+categoryasteroid groups and families
+
+
+ references 
+
+
+ further reading 
+
+
+ external links 
+planetary data system - asteroid families dataset as per the zappalà 1995 analysis
+latest calculations of proper elements for numbered minor planets at astdys
+asteroid and comet groups by petr scheirich with excellent plots
+asteroid families portal

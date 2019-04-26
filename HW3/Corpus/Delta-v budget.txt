@@ -1,0 +1,156 @@
+in astrodynamics and aerospace a delta-v budget is an estimate of the total delta-v required for a space mission it is calculated as the sum of the delta-v required for the propulsive maneuvers during the mission and as input to the tsiolkovsky rocket equation determines how much propellant is required for a vehicle of given mass and propulsion system
+delta-v is a scalar quantity dependent only on the desired trajectory and not on the mass of the space vehicle for example although more fuel is needed to transfer a heavier communication satellite from low earth orbit to geosynchronous orbit than for a lighter one the delta-v required is the same also delta-v is additive as contrasted to rocket burn time the latter having greater effect later in the mission when more fuel has been used up
+tables of the delta-v required to move between different space venues are useful in the conceptual planning of space missions in the absence of an atmosphere the delta-v is typically the same for changes in orbit in either direction in particular gaining and losing speed cost an equal effort an atmosphere can be used to slow a spacecraft by aerobraking
+a typical delta-v budget might enumerate various classes of maneuvers delta-v per maneuver and number of each maneuver required over the life of the mission and simply sum the total delta-v much like a typical financial budget because the delta-v needed to achieve the mission usually varies with the relative position of the gravitating bodies launch windows are often calculated from porkchop plots that show delta-v plotted against the launch time
+
+
+ general principles 
+the tsiolkovsky rocket equation shows that the delta-v of a rocket stage is proportional to the logarithm of the fuelled-to-empty mass ratio of the vehicle and to the specific impulse of the rocket engine a key goal in designing space-mission trajectories is to minimize the required delta-v to reduce the size and expense of the rocket that would be needed to successfully deliver any particular payload to its destination
+the simplest delta-v budget can be calculated with hohmann transfer which moves from one circular orbit to another coplanar circular orbit via an elliptical transfer orbit in some cases a bi-elliptic transfer can give a lower delta-v
+a more complex transfer occurs when the orbits are not coplanar in that case there is an additional delta-v necessary to change the plane of the orbit the velocity of the vehicle needs substantial burns at the intersection of the two orbital planes and the delta-v is usually extremely high however these plane changes can be almost free in some cases if the gravity and mass of a planetary body is used to perform the deflection in other cases boosting up to a relatively high altitude apoapsis gives low speed before performing the plane change and this can give lower total delta-v
+the slingshot effect can be used to give a boost of speedenergy if a vehicle goes past a planetary or lunar body it is possible to pick up or lose some of that bodys orbital speed relative to the sun or another planet
+another effect is the oberth effect—this can be used to greatly decrease the delta-v needed because using propellant at low potential energyhigh speed multiplies the effect of a burn thus for example the delta-v for a hohmann transfer from earths orbital radius to marss orbital radius to overcome the suns gravity is many kilometres per second but the incremental burn from leo over and above the burn to overcome earths gravity is far less if the burn is done close to earth than if the burn to reach a mars transfer orbit is performed at earths orbit but far away from earth
+a less used effect is low energy transfers these are highly nonlinear effects that work by orbital resonances and by choosing trajectories close to lagrange points they can be very slow but use very little delta-v
+because delta-v depends on the position and motion of celestial bodies particularly when using the slingshot effect and oberth effect the delta-v budget changes with launch time these can be plotted on a porkchop plot
+course corrections usually also require some propellant budget propulsion systems never provide precisely the right propulsion in precisely the right direction at all times and navigation also introduces some uncertainty some propellant needs to be reserved to correct variations from the optimum trajectory
+
+
+ budget 
+
+
+ launchlanding 
+the delta-v requirements for sub-orbital spaceflight are much lower than for orbital spaceflight for the ansari x prize altitude of 100 km space ship one required a delta-v of roughly 1.4 kms to reach the initial low earth orbit of the international space station of 300 km now 400 km the delta-v is over six times higher about 9.4 kms because of the exponential nature of the rocket equation the orbital rocket needs to be considerably bigger
+
+launch to leo—this not only requires an increase of velocity from 0 to 7.8 kms but also typically 1.5–2 kms for atmospheric drag and gravity drag
+re-entry from leo—the delta-v required is the orbital maneuvering burn to lower perigee into the atmosphere atmospheric drag takes care of the rest
+
+
+ stationkeeping 
+
+
+ earth–moon space—high thrust 
+delta-v needed to move inside the earth–moon system speeds lower than escape velocity are given in kms this table assumes that the oberth effect is being used—this is possible with high thrust chemical propulsion but not with current as of 2018 electrical propulsion
+the return to leo figures assume that a heat shield and aerobrakingaerocapture is used to reduce the speed by up to 3.2 kms the heat shield increases the mass possibly by 15 where a heat shield is not used the higher from leo delta-v figure applies the extra propellant needed to replace the aerobraking is likely to be heavier than a heat shield leo-ken refers to a low earth orbit with an inclination to the equator of 28 degrees corresponding to a launch from kennedy space center leo-eq is an equatorial orbit
+the reference for most of the data no longer works and some things are not clear such as why there is such a big difference between going from eml2 to leo versus going from eml1 to leo the figure for leo to eml2 comes from a paper by robert w farquhar one could probably use a similar tactic to get to eml1 for about the same delta-v note that getting to one of the lagrange points means not just getting to the right place but also adjusting the final velocity in order to stay there another source gives values from leo to geo eml1 and lunar surface
+
+
+ earth–moon space—low thrust 
+current electric ion thrusters produce a very low thrust milli-newtons yielding a small fraction of a g so the oberth effect cannot normally be used this results in the journey requiring a higher delta-v and frequently a large increase in time compared to a high thrust chemical rocket nonetheless the high specific impulse of electrical thrusters may significantly reduce the cost of the flight for missions in the earth–moon system an increase in journey time from days to months could be unacceptable for human space flight but differences in flight time for interplanetary flights are less significant and could be favorable
+the table below presents delta-vs in kms normally accurate to 2 significant figures and will be the same in both directions unless aerobraking is used as described in the high thrust section above
+
+
+ interplanetary 
+the spacecraft is assumed to be using chemical propulsion and the oberth effect
+
+according to marsden and ross the energy levels of the sun–earth l1 and l2 points differ from those of the earth–moon system by only 50 ms as measured by maneuver velocitywe may apply the formula
+
+  
+    
+      
+        δ
+        v
+        
+        
+          
+            
+              μ
+              
+                r
+                
+                  1
+                
+              
+            
+          
+        
+        
+          
+          
+            
+              
+                
+                  
+                    2
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                  
+                    
+                      r
+                      
+                        1
+                      
+                    
+                    
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+            −
+            1
+          
+          
+        
+      
+    
+    displaystyle delta vsqrt frac mu r1leftsqrt frac 2r2r1r2-1right
+  where μ  gm is the standard gravitational parameter of the sun see hohmann transfer orbit to calculate the δv in kms needed to arrive at various destinations from earth assuming circular orbits for the planets and using perihelion distance for pluto in this table the column labeled δv to enter hohmann orbit from earths orbit gives the change from earths velocity to the velocity needed to get on a hohmann ellipse whose other end will be at the desired distance from the sun the column labeled v exiting leo gives the velocity needed in a non-rotating frame of reference centred on earth when 300 km above earths surface this is obtained by adding to the specific kinetic energy the square of the speed 7.73 kms of this low earth orbit that is the depth of earths gravity well at this leo the column δv from leo is simply the previous speed minus 7.73 kms
+note that the values in the table only give the δv needed to get to the orbital distance of the planet the speed relative to the planet will still be considerable and in order to go into orbit around the planet either aerocapture is needed using the planets atmosphere or more δv is needed
+
+the new horizons space probe to pluto achieved a near-earth speed of over 16 kms which was enough to escape from the sun it also got a boost from a fly-by of jupiter
+to get to the sun it is actually not necessary to use a δv of 24 kms one can use 8.8 kms to go very far away from the sun then use a negligible δv to bring the angular momentum to zero and then fall into the sun this can be considered a sequence of two hohmann transfers one up and one down also the table does not give the values that would apply when using the moon for a gravity assist there are also possibilities of using one planet like venus which is the easiest to get to to assist getting to other planets or the sun the galileo spacecraft used venus once and earth twice in order to reach jupiter the ulysses solar probe used jupiter to attain polar orbit around the sun
+
+
+ delta-vs between earth moon and mars 
+
+delta-v needed for various orbital manoeuvers using conventional rockets
+abbreviations key
+escape orbits with low pericentre – c3  0
+geostationary orbit – geo
+geostationary transfer orbit – gto
+earth–moon l5 lagrangian point – l5
+low earth orbit – leo
+lunar orbit means low lunar orbit
+red arrows show where optional aerobrakingaerocapture can be performed in that particular direction black numbers give delta-v in kms that apply in either direction lower-delta-v transfers than shown can often be achieved but involve rare transfer windows or take significantly longer see fuzzy orbital transfers
+electric propulsion vehicles going from mars c3  0 to earth c3  0 without using the oberth effect need a larger delta-v of between 2.6 kms and 3.15 kms not all possible links are shown
+the delta-v for c3  0 to mars transfer must be applied at pericentre ie immediately after accelerating to the escape trajectory and do not agree with the formula above which gives 0.4 from earth escape and 0.65 from mars escape
+the figures for leo to gto gto to geo and leo to geo are inconsistent the figure of 30 for leo to the sun is also too high
+
+
+ near-earth objects 
+near-earth objects are asteroids whose orbits can bring them within about 0.3 astronomical units of the earth  there are thousands of such objects that are easier to reach than the moon or mars  their one-way delta-v budgets from leo range upwards from 3.8 kms 12,000 fts which is less than 2/3 of the delta-v needed to reach the moons surface but neos with low delta-v budgets have long synodic periods and the intervals between times of closest approach to the earth and thus most efficient missions can be decades longthe delta-v required to return from near-earth objects is usually quite small sometimes as low as 60 ms 200 fts with aerocapture using earths atmosphere however heat shields are required for this which add mass and constrain spacecraft geometry the orbital phasing can be problematic once rendezvous has been achieved low delta-v return windows can be fairly far apart more than a year often many years depending on the body
+in general bodies that are much further away or closer to the sun than earth have more frequent windows for travel but usually require larger delta-vs
+
+
+ see also 
+
+bi-elliptic transfer
+gravity assist
+hohmann transfer
+oberth effect
+orbital speed
+tsiolkovsky rocket equation
+pork-chop plot
+synodic period
+
+
+ notes 
+
+
+ references 
+
+
+ external links 
+javascript delta v calculator
+decorative delta-v map
+atomic rockets - whats the mission long webpage on delta-v not a source - it quotes this article

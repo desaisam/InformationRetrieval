@@ -1,0 +1,154 @@
+sts-122 was a nasa space shuttle mission to the international space station iss flown by the space shuttle atlantis sts-122 marked the 24th shuttle mission to the iss and the 121st space shuttle flight overallthe mission was also referred to as iss-1e  by the iss program the primary objective of sts-122 was to deliver the european columbus science laboratory built by the european space agency esa to the station it also returned expedition 16 flight engineer daniel m tani to earth tani was replaced on expedition 16 by léopold eyharts a french flight engineer representing esa after atlantis landing the orbiter was prepared for sts-125 the final servicing mission for the hubble space telescope
+the original target launch date for sts-122 was 6 december 2007 but due to engine cutoff sensor eco reading errors the launch was postponed to 9 december 2007 during the second launch attempt the sensors failed again and the launch was halted a tanking test on 18 december 2007 revealed the probable cause to lie with a connector between the external tank and the shuttle the connector was replaced and the shuttle launched during the third attempt on 7 february 2008
+
+
+ crew 
+
+
+ mission payloads 
+
+sts-122 was the iss assembly flight 1e which delivered the european columbus laboratory module to the station along with the biolab fluid science laboratory fsl european drawer rack edr and european physiology modules epm payloadssts-122 also carried the solar monitoring observatory solar the european technology exposure facility eutef and a new nitrogen tank assembly mounted in the cargo bay of an icc-lite payload rack as well as a spare drive lock assembly dla sent to orbit in support of possible repairs to the starboard solar alpha rotary joint sarj which is malfunctioningseveral items were returned with atlantis a malfunctioning control moment gyroscope cmg that was swapped out with a new one during sts-118 and the empty nitrogen tank assembly will be placed in the orbiters payload bay along with a trundle bearing from the starboard sarj that was removed during an eva performed by expedition 16
+
+
+ outreach 
+stowed within the official flight kit ofk atlantis carried three green starting flags provided by nascar in recognition of the 50th running of the daytona 500 on 17 february 2008 and the 50th anniversary of nasa on 1 october 2008 once returned to earth one of the flown flags will be placed on public display at the daytona international speedway in florida one will be presented to ryan newman the winner of the 2008 daytona 500 and the third will be used by nasa as part of its anniversary activities
+
+
+ mission background 
+the mission marks
+152nd nasa manned spaceflight
+121st space shuttle flight since sts-1
+29th flight of atlantis
+96th post-challenger mission
+8th post-columbia mission
+8th visit to the international space station for atlantis
+300th us astronaut in space
+
+
+ shuttle processing 
+
+
+ launch preparations 
+the external tank et-125 arrived at the kennedy space center on 14 september 2007 after traveling by barge from the michoud assembly facility in louisiana the external tank was then transferred to the vehicle assembly building vab to be inspected and have the liquid oxygen feedline bracket modified before being mated to the solid rocket boosters on 17 october 2007
+the external tank was attached to the solid rocket boosters on 18 october 2007 and atlantis moved to the vab on 3 november 2007 with the entire stack placed upon the mobile launcher platform atlantis moved to launch pad 39a on 10 november 2007 and the columbus module was loaded into the orbiters payload bay on 12 november the terminal countdown demonstration test was completed on 20 november 2007following the final flight readiness review on 30 november 2007 nasa managers announced that atlantis was ready to fly and the launch date of 6 december 2007 was confirmed the crew arrived at kennedy space center on 3 december 2007 to prepare for the first launch attempt on 6 december 2007
+
+
+ 6 december launch attempt 1 
+on thursday 6 december 2007 16 minutes into the loading of the liquid hydrogen and liquid oxygen into the external tank two of the four liquid hydrogen engine cutoff eco sensors failed to respond correctly resulting in launch director doug lyons deciding to postpone the launch the fuel cutoff sensor system is one of a series of redundant systems that protect the shuttles main engines by triggering engine shutdown if fuel runs unexpectedly low the launch commit criteria lcc require that three of the four sensor systems function properly prior to liftoff the scheduled launch time was tentatively postponed 48 hours to 8 december 2007 at 1543 est 2043 utcon 7 december 2007 managers evaluated the options to fly under the flight rationale guidelines the issue was thought to be in the wiring inside the external tank that results in the eco sensors reporting incorrectly during loading testing of the eco sensors is done to ensure they function properly but when the dry tank command was sent the third and fourth sensors continued to report wet conditions the concern was that if the tank were about to run dry the sensors that control the shutdown of the shuttles main engines might not send the shutdown command resulting in running the engines without fuel a dangerous situation managers evaluated if the launch commit criteria could be removed allowing atlantis to fly with two of four sensors and augment the lco system with on-ground monitoring of propellant use by the flight control staff the other option would involve repair or replacement of the sensors which would most likely require the orbiter be moved back into the vehicle assembly building and would rule out a december launchfollowing the mission management team meeting on 7 december 2007 shuttle program director wayne hale explained during the press briefing that the team had discussed the issues at length and had tentatively decided to attempt a sunday launch the launch commit criteria would be changed and flight controller procedures would be finalized to allow for additional monitoring of the eco system during ascent one of the changes to the lcc will be the requirement that during tanking all four sensors must be operational in the past when this system has failed during the initial launch attempt all four sensors performed normally during the next attempt if this were the case for sundays launch attempt it would be consistent with what has been seen in the past if the sensors fail during re-tanking on 9 december 2007 this would indicate that the issue is not consistent with the evidence seen in the past managers would hold an mmt meeting on 8 december 2007 to further discuss this rationale and the flight controller procedures before making a final decisionon 8 december 2007 the mission management team met to finalize plans for the sunday launch and discuss possible launch options there was a unanimous decision to attempt a sunday launch using the modified launch commit criteria the modified criteria require all four eco sensors to function normally during tanking include the implementation of a flight controller procedure to continue monitoring the eco sensors after liftoff during ascent and shorten the launch window from five minutes to one minute to conserve fuel those changes would be done only for the launch of sts-122 and are not permanent changes should any of the sensors give errors during tanking the launch attempt would be scrubbed following sts-122 space shuttle program director wayne hale and mission management team chairman leroy cain explained that there would be a variety of activities and procedures put into effect to address the eco issues a multi-center troubleshooting team would be convened and changes to the main engines would be performed to improve the way the engines use and control the liquid hydrogen reserves including upgrades to the flow meters inside the engines
+
+
+ 9 december launch attempt 2 
+
+fueling of atlantis began at 0555 est 1055 utc during fueling at 0652 est the third eco sensor failed wet violating the modified launch commit criteria that required all four sensors to function properly the launch was officially scrubbed at 0725 est 1225 utc troubleshooting the problem would rule out a december launch nasa finally gave a new launch date of 10 january 2008during the post-scrub news conference launch director doug lyons said that a rollback to the vehicle assembly building was not a situation managers were considering currently and explained that the pad offers extensive access to the systems for troubleshooting and investigation we can do extensive troubleshooting out there before we would entertain rolling back theres not many things we cant do out at the launch pad that we could do in the vab managers have convened a short-term troubleshooting team to design a plan to identify and hopefully predict or prevent the eco anomaly
+
+
+ eco sensor troubleshooting and recovery 
+after the second failed launch attempt nasa initiated a search for the root cause of the eco sensor problem in order to gather more data they scheduled a tanking test for 18 december 2007 engineers installed test wiring that was leading from the tail mast of the orbiter into the interior of the mobile launcher platform mlp where time-domain reflectometry tdr test equipment was installed to test the eco sensor system engineer peter johnson and dr carlos t mata operated two tdrs to gather data about the characteristics of the behaviour of the sensor circuitry before during and after tanking nasa was able to pinpoint the problem to the lh2 external tank feed-through connector
+
+
+ radiator retract hose 
+during launch preparations at kennedy technicians noticed a small section of the aft radiator retract hose that was bent in a shape similar to the greek letter omega the hose is part of the shuttles cooling system that carries freon and is designed to flex when the payload bay doors are opened and closed making sure they were not overlooking potential problems nasa engineers designed a tool to guide the hose back into the storage box and performed the procedure on 3 february 2008 engineers would monitor the hose during sts-122 and in the unlikely event that it were to begin leaking freon the shuttles computers would turn off the redundant radiator system before any freon had a chance to leak out
+
+
+ mission timeline 
+
+
+ 7 february flight day 1 launch 
+
+fueling began at 0526 est ahead of a planned 1445 est launch the fuel sensors all performed as expected and at 1435 est launch director doug lyons gave atlantis crewmembers the go to launch with no constraints atlantis launched on schedule at 1445 est 1945 utc main engine cutoff meco occurred at 1954 utc after meco and et separation the orbiter executed an oms-2 engine firing to circularize the orbit and put it on track to the international space station the crew opened the payload bay doors deployed the ku antenna checked out and activated the shuttles robotic arm and downlinked the video footage taken during external tank separation to nasa managers
+
+
+ 8 february flight day 2 
+the crew of atlantis spent the day performing a variety of tasks designed to prepare the shuttle for docking on saturday including the installation of the centerline camera and the extension of the orbiter docking system ring a majority of the days activities was devoted to inspecting the shuttles thermal protection system using the orbiter boom sensor system obss early in the morning the crew performed a burn of the orbital maneuvering system oms engines to adjust the orbit in preparation for docking with the international space station during interviews with cbs and nbc in the morning expedition 16 commander peggy whitson told reporters that since her birthday was saturday my present is a new module that were going to install on the station im really looking forward to itduring the afternoon mission status briefing at johnson space center lead shuttle flight director mike sarafin said that there were no technical issues and the mission was on schedule for docking on saturday at 1725 utc he reported that the orbiter had sufficient consumables for a mission extension but the decision on whether to extend the mission would be made no earlier than flight day five to allow the team to evaluate the inspection data if the mission were extended sarafin said the extra day would be inserted into day nine following the third eva chairman of the mission management team mmt john shannon reported that his team gave the official go for docking during their first on-orbit meeting shannon noted that the initial imagery given to the engineering team showed absolutely nothing of concern with only one foam piece appearing to possibly impact the vehicle 440 seconds into ascent shannon said any item that late into ascent would not have enough energy to do any significant damage if it did strike the orbiter and the managers did not consider it an issue shannon said the team would evaluate the data obtained during saturdays rendezvous pitch maneuver performed prior to docking as well as the imagery from the obss survey and during flight day 3s mmt meeting a decision would be made whether a focused inspection of the orbiters thermal protection system would be needed shannon noted that the improvements to the external tank have proven to be phenomenal and was pleased with the initial data
+
+
+ 9 february flight day 3 
+
+the shuttle crew worked through the rendezvous timeline in the morning including several adjustment burns of the orbiters engines to refine the path towards the station between 1624 and 1631 utc atlantis performed the rendezvous pitch maneuver to allow the station crew to use high resolution cameras and document the thermal protection system extra images were taken of the starboard oms pod as it was an area of interest due to the appearance of a raised blanket atlantis docked with station at 1717 utc 1217 pm est atlantis is the first orbiter to dock to the new position of the pressurized mating adapter at the forward end of the harmony module
+after working through a variety of leak check procedures the hatches were opened between the shuttle and station at 1840 utc and the two crews exchanged greetings and conducted a mandatory safety briefing after the briefing they began the rest of the days tasks including moving the stations robotic arm to grapple the obss and then hand it off to the shuttles robotic arm in preparation for future activities the official exchange of expedition 16 crewmembers daniel tani and eyharts was completed in the evening when they exchanged their soyuz custom made seat liners and tani became a member of the sts-122 crew while eyharts began his position as flight engineer for expedition 16during the mission status briefing flight director mike sarafin stated that one of the three general purpose computers gpc failed to start up correctly before the rendezvous but it did not impact the rendezvous sarafin also confirmed that they were investigating a slight tear in the thermal protection blanket on the starboard right side oms podat 2014 utc the ground team radioed the crew to alert them that the managers had decided to make a 24-hour delay to eva-1 originally scheduled for flight day 4 and that stanley love would replace hans schlegel for eva-1 on monday during the post-mmt briefing mission management chairman john shannon explained there was a crew medical issue but it would not impact the mission objectives for reasons of medical privacy shannon said nasa can not disclose which crewmember is affected and no details would be given as to the nature of the issue but shannon said it was not something to be concerned about unconfirmed news reports claim that schlegel had lost his voice and since communication is a critical function of an eva the decision to swap crewmembers was made shannon also noted that atlantis has enough consumables to extend almost two days the mission operations team was looking at procedures to assist with power conservation and the team hopes to add another day extension to the mission
+
+
+ 10 february flight day 4 
+the two crews spent their first joint mission day working through a focused inspection of the oms pod blanket reviewing the upcoming eva procedures and beginning the transfer of items from the shuttle to the station earlier in the day esa confirmed the crewmember with the medical condition was schlegel but stated it was nothing serious and does not impact the health of any of the other crewmembers tani and eyharts spent several hours working through a variety of station familiarization procedures designed to assist eyharts in learning where items are on the station love walheim and schlegel were given several hours in their daily timeline to go over the eva walheim and love will spend the night in the quest airlock in preparation for mondays evaduring the mission status briefing mmt chairman john shannon stated that the rest of the mission will follow the plan with no changes expected commenting on the ongoing thermal protection system review shannon said the thermal protection system inspections that we do are going extremely well its the fastest ive ever seen them done on a flight we have completely cleared the bottom of the orbiter there are no issues we are working on the bottom and all of the reinforced carbon-carbon on the wings and the nose are completely cleared were gathering additional information on the right oms pod atlantis is extremely clean the blanket would be evaluated more on monday and a decision regarding that area is expected to be made at the mmt meeting monday evening there were a few areas of interest around the windows that were also being evaluated
+
+
+ 11 february flight day 5 
+
+after awakening both crews began preparing for the missions first spacewalk love and walheim suited up and the eva began slightly ahead of schedule at 1413 utc 0913 est assisting the spacewalkers inside the station and shuttle were pilot alan poindexter and mission specialist hans schlegelat 1953 utc 1453 est walheim and love completed the preparations for the unberthing of columbus from the payload bay and with melvin inside the space station working the robotic arm the module was successfully lifted out of the payload bay the first contact of columbus with the station was at 2129 and at 2144 eyharts and melvin announced that columbus was officially installed on its new home in orbit houston and munich the european columbus laboratory module is now part of the iss eyharts radioed to the ground walheim and love began the re-pressurization of the quest airlock at 2211 utc 1711 est which marked the official end of their 7-hour 58 minute eva
+
+
+ 12 february flight day 6 
+
+the two crews spent the day working to activate and outfit the newest addition to the station the columbus module after the ground conducted a variety of leak checks during the crews sleep period the night before the crew was given the go ahead to put the module into what is called berth survival mode which is a functional mode a minimal healthy configuration that can be maintained for extended time periods if required this involved powering up basic computers power distribution units and heaters the crew completed the berth survival mode activation quickly and moved on to final activation representing the european partners schlegel and eyharts were the first crewmembers to enter the module performing a partial ingress at 1408 utc 0908 est eyharts told the team on the ground we have a special thought at this moment for all the people in europe and the us who have contributed to the make up of columbus especially to the space agencies of course the industry but also all the citizens who are supporting space flight this is a great moment and hans and i are very proud to be here and to ingress for the first time the columbus moduleby the afternoon after allowing the circulation fans to work for several hours to clean out any residual particulates in the air crewmembers were going in and out working on hooking up water thermal controls and command and monitoring units during the afternoons mission status briefing iss orbit one flight director bob dempsey noted that the two crews were far ahead of the timeline for activation and excited about the stations new additionin the early evening the ground team radioed the crew to let commander frick know that the mission management team had officially cleared the right oms pod blanket for return as-is and there were no safety concerns the crew of atlantis also took some time out to talk to reporters on the ground one session in the morning and another in the afternoon with cbs news and pittsburgh television stations frick a native of pittsburgh schlegel and poindexter participated in the afternoon interviews asked how he was feeling schlegel said he was proud to be a part of the mission to deliver columbus that the big mission was what mattered and he was feeling fine and ready to perform the missions second eva walheim and schlegel spent the night in the stations airlock in preparation for wednesdays eva
+
+
+ 13 february flight day 7 
+
+after awakening the station and shuttle crews began working on preparing for the second eva station commander whitson and shuttle commander frick assisted walheim and schlegel in suiting up and working through the pre-eva procedures eyharts and the rest of the crew aboard the station continued their work on outfitting and activating the new columbus module as well as working on transferring items between the shuttle and the station the second eva began officially at 1427 utc 0927 est and ended at 2112 utc 1612 est walheim and schlegel replaced a near empty nitrogen tank assembly of the p1 truss with a new full tank that was brought in orbit by sts-122during the mission status briefing lead iss flight director sally davis announced that the managers had officially approved an additional docked day extension and the team had also cleared the orbiters entire thermal protection system for re-entry pending late inspection results the right oms pod blanket was determined to be of no issue for re-entry the day before and the areas around the orbiters windows that appeared damaged were fully cleared a tile that fell off during launch from the left reaction control system engine called a loms stinger tile was deemed to be from a non-critical area and was also cleared
+
+
+ 14 february flight day 8 
+the two crews had a light day scheduled designed to give the crew some rest after a busy week of activities several media interviews were conducted including interviews with nbc news and a number of radio stations as well as a special esa event a vip call with german chancellor angela merkel who called to congratulate eyharts and schlegel as representatives of the european space agency on the successful delivery and installation of the columbus module to the station the joint crews also did some maintenance tasks including a waste water dump from the shuttle transfer activities and continued work on outfitting and activating the columbus module both crews participated in an eva review in the late afternoon and walheim and love spent the night in the stations airlock in preparation for the missions final spacewalk
+
+
+ 15 february flight day 9 
+after awakening at 0845 utc walheim and love spent the morning preparing for the missions final spacewalk assisted by whitson and frick while the rest of the crew worked on columbus outfitting transfers and preparation for robotics support during the eva the third eva officially began at 1307 utc 0807 est and ended at 2032 utc 1532 est
+
+
+ 16 february flight day 10 
+while the ongoing task of outfitting the columbus module continued today atlantis propulsion system was fired for 36 minutes to reboost the stations altitude by 1.4 miles 2.2 kilometers in preparation for the arrival of space shuttle endeavour during sts-123 also all members of the shuttle and station crews participated in news conferences with american and european media
+
+
+ 17 february flight day 11 
+hatches between atlantis and the iss were closed at 1803 gmt
+
+
+ 18 february flight day 12 
+atlantis undocked from the iss at 924 utc 424 am est
+
+
+ 19 february flight day 13 
+
+the crew performed final inspections and preparations prior to landing
+
+
+ 20 february flight day 14 landing 
+the crew were cleared to close atlantis payload bay doors at 1014 utc and this was completed by 1028 utc at 1232 utc nasa cleared atlantis to land on its first opportunity at ksc a two-minute-43-second de-orbit burn was conducted beginning at 1300 utc this was followed by entry interface at 1335 utc atlantis touched down on runway 15 of the shuttle landing facility at 907 am est 140710 utc approximately 12 days 18 hours 21 minutes and 40 seconds into the mission wheel stop occurred at 0908 est 140808 utc
+
+
+ extra-vehicular activity 
+
+three spacewalks were scheduled and completed during sts-122 the cumulative time in extra-vehicular activity during the mission was 22 hours 8 minutes
+
+
+ wake-up calls 
+nasa began a tradition of playing music to astronauts during the gemini program which was first used to wake up a flight crew during apollo 15
+each track is specially chosen often by their families and usually has a special meaning to an individual member of the crew or is applicable to their daily activities
+
+
+ media 
+
+
+ see also 
+2008 in spaceflight
+list of human spaceflights
+list of international space station spacewalks
+list of space shuttle missions
+lists of spacewalks and moonwalks
+space shuttle program
+
+
+ references 
+ this article incorporates public domain material from websites or documents of the national aeronautics and space administration
+
+
+ external links 
+nasas main shuttle page
+nasa meet the sts-122 launch team
+nasa sts-122 mission summary
+sts-122 mission animations
+sts-122 national space science data center
+cbs news space place – full coverage of sts-122
+esa sts-122 lift off info
+up to the minute sts-122 shuttle report
+sts-122 official flight kit manifest

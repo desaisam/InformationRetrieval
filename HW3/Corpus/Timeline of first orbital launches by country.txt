@@ -1,0 +1,88 @@
+this is a timeline of first orbital launches by country while a number of countries have built satellites as of 2018 eleven countries have had the capability to send objects into orbit using their own launch vehicles russia and ukraine inherited the space launchers and satellites capability from the soviet union following its dissolution in 1991 russia launches its rockets from its own and foreign kazakh spaceports ukraine launched only from foreign russian and kazakh launch facilities until 2015 after which political differences with russia effectively halted ukraines ability to produce orbital rockets  france became a space power independently launching a payload into orbit from algeria before joining space launcher facilities in the multi-national ariane project the united kingdom became a space power independently following a single payload insertion into orbit from australia before discontinuing official participation in space launch capability including the ariane project in the 1970s
+thus as of  2018 nine countries and one inter-governmental organisation esa currently have a proven orbital launch capability and two countries france uk formerly had such an independent capability in all cases where a country has conducted independent human spaceflights as of 2017 three - russia usa  and china these launches were preceded by independent unmanned launch capability
+the race to launch the first satellite was closely contested by the soviet union and the united states and was the beginning of the space race the launching of satellites while still contributing to national prestige is a significant economic activity as well with public and private rocket systems competing for launches using cost and reliability as selling points 
+
+
+ list of first orbital launches by country 
+
+
+ notes 
+
+
+ other launches and projects 
+the above list includes confirmed satellite launches with rockets produced by the launching country lists with differing criteria might include the following launches
+
+
+ failed launches 
+ brazil has yet to launch a satellite into orbit independently and its space program suffered three satellite launch failures the latest being the explosion of a vls-1 rocket on 22 august 2003 at the alcântara launch centre which resulted in 21 deaths
+
+
+ launches of non-indigenous launch vehicles 
+some countries have no self-developed rocket systems but have provided their spaceports for launches of their own and foreign satellites on foreign launchers
+
+ algeria with the first successful launch from hammaguir of the french satellite astérix on 26 november 1965 by french diamant a the last orbital launch from hammaguir was on 15 february 1967 by french diamant a and there are no further launches scheduled the first algerian satellite is alsat-1 launched by russian kosmos-3m from plesetsk russia on 28 november 2002
+ italy with the first successful launch from the san marco platform of its satellite san marco 2 on 26 april 1967 by us scout b the first italian satellite is san marco 1 launched by another scout from wallops usa on 15 december 1964 the last orbital launch from san marco was on 25 march 1988 by us scout g-1 and there are no further launches scheduled
+ australia with the first successful launch from woomera test range of its first satellite wresat on 29 november 1967 by us sparta the second and final successful orbital launch from woomera was performed on 28 october 1971 by the uk black arrow and there are no further launches scheduled
+ kazakhstan with the first launch after its independence from the baikonur cosmodrome on 21 january 1992 of the russian soyuz-u2 and progress m-11 the first kazakh satellite is kazsat launched by russian proton-k from baikonur on 17 june 2006 currently the spaceport continues to be utilized for launches of various russian and ukrainian rockets
+ spain a single pegasus-xl was launched from orbital sciences stargazer aircraft flying from gran canaria airport in april 1997
+ marshall islands with a successful launch of a pegasus-h rocket from orbital sciences stargazer aircraft flying from kwajalein atoll in october 2000 five ground-based launches were made by spacex using falcon 1 rockets between 2006 and 2009 with the first success on 28 september 2008 three further pegasus launches occurred between 2008 and 2012 using the pegasus-xl configuration currently there are no plans announced for a marshall islands satellite
+ south korea with the first successful launch from the goheung of its satellite stsat-2c on 30 january 2013 by kslv-1 kslv-1 consists of a modified russian first-stage developed and manufactured by russia and south korean developed second-stage and fairing launch was directed by south korean and russian engineers the rocket was assembled in south korea
+
+
+ privately developed launch vehicles 
+ united states orbital sciences corporation usa became the first company to launch a privately developed rocket into orbit the pegasus on 5 april 1990 orbital joined spacex as one of only two private entities to supply the international space station with its launch of the cygnus orb-d1 mission on board the antares rocket on 18 september 2013
+ united states spacex usa became the second company to launch a rocket into orbit using a rocket developed with private—not government—funds its first successful launch was performed on 28 september 2008 by falcon 1 from the omelek island marshall islands and its first launch from us spaceport was falcon 9 flight 1 on 4 june 2010 from cape canaveral its dragon spacecraft docked with the international space station on october 11 2012 to deliver supplies
+ japan camui and sns inc japan are private organizations that develop launch capable rockets  they both use the hastic launch site at hokkaido
+ united states american private company rocket lab successfully launched its electron rocket from mahia launch center in new zealand on january 21 2018 carrying three cubesats into low earth orbit this was the first time that a rocket entered orbit after launching from a privately owned and operated spaceport
+
+
+ abandoned projects 
+ germany was developing larger designs in the aggregat series as early as 1940 a combination of a9 to a12 components could have produced orbital capability as early as 1947 if work had continued further preliminary development of numerous rocket space launchers and re-usable launch systems sänger ii etc took place after wwii although these were never realized as national or european projects also in the late 1970s and early 1980s the private german company otrag tried to develop low-cost commercial space launchers only sub-orbital tests of the first prototypes of these rockets were carried out
+ united kingdom did not proceed with a 1946 proposal to develop german v-2 technology into the megaroc system to be launched in 1949
+ canada had developed the gun-based space launchers martlet and glo as the joint canadian-american project harp in the 1960s these rockets were never tested
+ south africa developed the space launcher rsa-3 in the 1980s this rocket was tested 3 times without a satellite payload in 1989 and 1990 the program was postponed and canceled in 1994
+ iraq claimed to have developed and tested al-abid a three-stage space launch vehicle without a payload or its upper two stages on 5 december 1989 the rockets design had a clustered first stage composed of five modified scud rockets strapped together and a single scud rocket as the second stage in addition to a sa-2 liquid-fueled rocket engine as the third stage the video tape of a partial launch attempt which was retrieved by un weapons inspectors later surfaced showing that the rocket prematurely exploded 45 seconds after its launch
+ argentina previous attempts at developing space launcher based on their condor missile were scrapped in 1993
+ brazil the vls-1 was cancelled after decades of development and high expenditures with poor results and a failed association with ukraine that slowed the program for years
+ egypt tried to develop space launcher as part of its various ballistic missile programs in the second half of the 20th century in different periods they worked independently or in cooperation with argentina iraq and north korea
+ spain developed the space launcher capricornio capricorn in the 1990s this rocket was related to argentinas condor missile and its test scheduled for 1999/2000 was not conducted
+  switzerland swiss space systems company planned to develop the micro satellite launcher-spaceplane soar to 2018 but went bankrupt
+
+
+ future projects 
+ brazil announced that it will launch its vlm rocket from the alcântara launch center in 2019
+ south korea will continue its space program with the completely indigenous kslv-2 for launch in 2018
+ romania is planning to launch military and security satellites the first phase will begin in 2022
+ algeria is planning to launch military and security satellites the first phase will begin in 2024
+
+
+ satellite operators 
+many other countries have launched their own satellites on one of the foreign launchers listed above the first being the british owned and operated although american-built satellite ariel 1 was launched by a us rocket in april 1962 in september 1962 the canadian satellite alouette-1 was launched by a us rocket but unlike ariel 1 it was constructed by canada
+
+
+ see also 
+list of orbital launch systems
+list of missiles by country
+orbital spaceflight
+satellite
+spaceport including timeline of first orbital launches by spaceport
+timeline of first satellites by country
+timeline of solar system exploration
+
+
+ references 
+
+
+ external links 
+first satellites launched by spacefaring nations anthony r curtis phd space today online accessed 17 february 2006
+national briefings iraq ranger associates accessed 17 february 2006
+the 31 august 1998 north korean satellite launch factsheet kevin orfall and gaurav kampani with michael dutra center for nonproliferation studies monterey institute of international studies accessed 17 february 2006
+news release 25-98 united states space command 8 september 1998 accessed 17 february 2006
+daily press briefing james p rubin united states department of state 14 september 1998 accessed 17 february 2006
+bbc world brazil launches rocket into space
+spacecom brazil completes successful rocket launch
+herald tribune brazil launches rocket for gravity research
+afp iran rocket test unfortunate white house
+space-travelcom iran opens its first space centre riling the us
+new york times iran launches rocket to commemorate new space center
+msnbc iran unveils space center launches rocket

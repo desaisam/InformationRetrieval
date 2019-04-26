@@ -1,0 +1,73 @@
+the blue marble is an image of planet earth taken on december 7 1972 by the crew of the apollo 17 spacecraft at a distance of about 29,000 kilometers 18,000 miles from the surface it is one of the most reproduced images in historythe image has the official nasa designation as17-148-22727 and shows the earth from the point of view of the apollo crew travelling towards the moon the translunar coast photograph extends from the mediterranean sea to antarctica this was the first time the apollo trajectory made it possible to photograph the south polar ice cap despite the southern hemisphere being heavily covered in clouds in addition to the arabian peninsula and madagascar almost the entire coastline of africa is clearly visible the asian mainland is on the horizon
+the name has also been applied by nasa to a 2012 series of image data sets covering the entire globe at relatively high resolution created by carefully sifting through satellite-captured sequences taken over time to eliminate as much cloud cover as possible from the collated set of images
+
+
+ the photograph 
+the photograph taken on december 7 1972 at 0539 am est 1039 utc is one of the most widely distributed photographic images in existence the image is one of the few to show an almost fully illuminated earth as the astronauts had the sun behind them when they took the image to the astronauts the slightly gibbous earth had the appearance and size of a glass marble hence the name it has been mostly shown with antarctica at the bottom although the actual view the astronauts had was with antarctica on top
+
+
+ history 
+
+the photograph was taken about 5 hours and 6 minutes after launch of the apollo 17 mission and about 1 hour 54 minutes after the spacecraft left its parking orbit around earth to begin its trajectory to the moon the time of apollo 17s launch 1233 am est meant that africa was in daylight during the early hours of the spacecrafts flight with the december solstice approaching antarctica was also illuminated
+the 1972 tamil nadu cyclone can be seen in the top right of the image this storm had brought flooding and high winds to the indian state of tamil nadu on december 5 two days before the photograph was takenthe photographs official nasa designation is as17-148-22727 nasa photograph as17-148-22726 taken just before and nearly identical to 22727 is also used as a full-earth imagethe photographer used a 70-millimeter hasselblad camera with an 80-millimeter zeiss lens nasa credits the image to the entire apollo 17 crew—eugene cernan ronald evans and jack schmitt—all of whom took photographs during the mission with the on-board hasselblad although evidence examined after the mission suggests that jack schmitt was the photographerall apollo flights were heavily scheduled down to the minute at the time this photo was taken none of the astronauts was scheduled to do so thus this photo was taken quickly in a stolen moment the astronaut who took the picture was weightless and the continents were hard to see and he took the photo quickly which explains why he held the camera upside down compared to the north up orientation of all maps if every photo on this roll of film is printed and all of the photos on the roll of film are oriented the same way then when viewed in sequence to put feet down and heads up this photo will have the south pole up breaking the map conventionapollo 17 was the last manned lunar mission no human since has been far enough from earth to photograph a whole-earth image such as the blue marble but whole-earth images have been taken by many unmanned spacecraft missionsthe blue marble was not the first clear image taken of an illuminated face of earth since similar shots from the ats-3 satellite had already been made as early as 1967 the apollo 17 image however released during a surge in environmental activism during the 1970s became a symbol of the environmental movement as a depiction of earths frailty vulnerability and isolation amid the vast expanse of space nasa archivist mike gentry has speculated that the blue marble is among the most widely distributed images in history
+
+
+ subsequent blue marble images 
+subsequent similar images of earth including composites at much higher resolution have also been termed blue marble images and the phrase blue marble as well as the picture itself is frequently used as in the earth flag by environmental activist organizations or companies attempting to promote an environmentally conscious image there has also been a childrens television program called big blue marble poet-diplomat abhay k has penned an earth anthem inspired by the blue marble which contains all the peoples and the nations of the world one for all all for one united we unfurl the blue marble flag
+
+
+ imaging series 2001–2004 
+
+in 2002 nasa released an extensive set of satellite-captured imagery including prepared images suitable for direct human viewing as well as complete sets suitable for use in preparing further works at the time 1 kmpixel was the most detailed imagery available for free and permitted for reuse without a need for extensive preparatory work to eliminate cloud cover and conceal missing data or to parse specialized data formats the data also included a similarly manually assembled cloud-cover and night-lights image sets at lower resolutions
+a subsequent release was made in 2005 named blue marble next generation this series of photo mosaics was produced with the aid of automated image-sifting upon images from nasas earth observatory which enabled the inclusion of a complete cloud-free globe for each month from january to december 2004 at even higher resolution 500 mpixel the original release of a single-image set covering the entire globe could not reflect the extent of seasonal snow-and-vegetative cover across both hemispheres but this newer release closely modeled the changes of the seasons
+a number of interactive viewers for these data have also been released among them a music visualization for the ps3 that is based on the texture data
+
+
+ blue marble 2012 
+
+on january 25 2012 nasa released a composite image of the western hemisphere of earth entitled blue marble 2012 the picture logged over 3.1 million views on the flickr image hosting website within the first week of release on february 2 2012 nasa released a companion to this new blue marble showing a composite image of the eastern hemisphere from data obtained on january 23 2012the picture is composed of data obtained by the visibleinfrared imager radiometer suite viirs instrument on board the suomi npp satellite on january 4 2012 the data was obtained from six orbits of the earth by the suomi npp over an eight-hour period the image was created using a near-sided perspective projection with the viewing point placed 2100 km above 20° north by 100° west this projection results in a very wide-angle presentation such as one might get with a fish-eye lens and it does not include the whole hemisphere
+
+
+ black marble 2012 
+
+on december 5 2012 nasa released a nighttime view of earth called black marble during an annual meeting of earth scientists held by the american geophysical union in san francisco the images display all the human and natural matter that glows and can be detected from space the data was acquired by the suomi npp satellite in april and october 2012 and then mapped over existing blue marble imagery of earth to provide a realistic view of the planet the suomi npp satellite completed 312 orbits and gathered 2.5 terabytes of data to get a clear shot of every parcel of the earth’s land surface named for satellite meteorology pioneer verner suomi the satellite flies over any given point on earth’s surface twice each day and flies 512 miles 824 km above the surface in a polar orbitthe nighttime views were obtained with the new satellites day-night band of the visible infrared imaging radiometer suite viirs which detects light in a range of wavelengths from green to near-infrared and uses filtering techniques to observe dim signals such as city lights gas flares auroras wildfires and reflected moonlight auroras fires and other stray light have been removed in the case of the black marble images to emphasize the city lights the images have been used to study the spatial distribution of economic activity to select sites for astronomical observatories and to monitor human activities around protected areas
+
+
+ dscovr 
+
+on july 21 2015 nasa released a new blue marble photograph taken by a us deep space climate observatory dscovr a solar weather and earth observation satellite that was launched in february 2015 and will provide a near-continuous view of the entire sunlit-side of the earth the image was taken on july 6 2015 the photograph of the western hemisphere is centered over central america the western united states mexico and the caribbean are visible but much of south america is hidden beneath cloud cover greenland can be seen at the upper edge of the image
+the epic science team plans to upload 13 new color images per day on their website the color balance has been adjusted to approximate an image that could be seen with the average human eye in addition to images scientific information will be uploaded as it becomes available after in-flight calibration is complete the science information will be ozone and aerosol amounts cloud reflectivity cloud height and vegetation information  the epic instrument views the earth from sunrise in the west to sunset in the east 12 to 13 times per day as the earth rotates at 15 degrees of longitude per hour clearly visible are storms forming over the atlantic and pacific oceans major slowly moving cloud rivers dust aerosol plumes from africa the suns reflection in the oceans ship exhaust tracks in the clouds rivers and lakes and the variegated land surface patterns especially in the african deserts the spatial resolution of the color images is about 10 km and the resolution of the science products will be about 20 km once every three months lunar images are obtained that are the same as those viewed from earth during our full moon on occasion the other side of the moon will appear in the earth images as the moon crosses in front of the earth
+
+
+ see also 
+earth anthem an anthem by poet-diplomat abhay k featuring the sentence united we unfurl blue marble flag
+earthrise another widely reproduced picture of the earth which was taken in 1968 aboard apollo 8
+flag of the earth a proposal for which features the blue marble photo
+himawari 8 and 9 geostationary satellites that produce an image of the earths full face every 10 minutes in the daytime
+pale blue dot an image of the earth taken by voyager 1
+stewart brand author who in 1966 lobbied nasa to release a then-rumored satellite photograph of the entire earth
+the day the earth smiled
+whole earth catalog an eclectic catalog compiled by brand which was inspired in part by photographs of the earth as a globe
+
+
+ references 
+
+
+ external links 
+nasa history of blue marble image releases
+
+
+ 1972 photograph 
+a short list of places in which the image has been used
+apollo image atlas photos from magazine nn of the 70 mm hasselblad camera used on apollo 17 includes the blue marble photo and similar photographs
+apollo 17 in real-time - blue marble photo taken the moment the blue marble photo was taken in the context of the rest of the apollo 17 mission
+
+
+ 21st century nasa composite images 
+blue marble 2002
+blue marble mapserver web interface for viewing small sections of the above
+blue marble next generation 2005 one picture per month
+blue marble navigator web interface for viewing local sections of the above incl links to other such interfaces download sites etc
+blue marble next generation in nasa world wind
+wired new satellite takes spectacular high-res image of earth with link to 2012 composite in super high resolution
+earth at night 2012 it’s the end of the night as you know it you’ll see fine from michael carlowicz at december 5 2012 nasa earth observatory site with various links around the 2012 black marble images

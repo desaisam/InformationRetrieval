@@ -1,0 +1,177 @@
+this is a list of known objects which occupy have occupied or are planned to occupy any of the five lagrangian points of two-body systems in space
+
+
+ sun–earth lagrangian points 
+
+
+ l1 
+l1 is the lagrangian point located approximately 1.5 million km from earth towards the sun
+
+
+ past probes 
+international cometary explorer formerly the international sun–earth explorer 3 isee-3 diverted out of l1 in 1983 for a comet rendezvous mission  currently in heliocentric orbit
+nasas genesis probe collected solar wind samples at l1 from december 3 2001 to april 1 2004 when it returned the sample capsule to earth it returned briefly in late 2004 before being pushed into heliocentric orbit in early 2005
+lisa pathfinder
+
+
+ present probes 
+
+the solar and heliospheric observatory soho
+the advanced composition explorer ace
+wind spacecraft at l1 since 2004
+the deep space climate observatory dscovr designed to image the sunlit earth in 10 wavelengths epic and monitor total reflected radiation nistar
+
+
+ planned probes 
+aditya-l1
+kuafu
+
+
+ l2 
+l2 is the lagrangian point located approximately 1.5 million km from earth in the direction opposite the sun
+
+
+ past probes 
+
+nasas wilkinson microwave anisotropy probe wmap observed the cosmic microwave background from 2001 until 2010 it was moved to a heliocentric orbit to avoid posing a hazard to future missions
+nasas wind from november 2003 to april 2004 the spacecraft then went to earth orbit before heading to l1
+the esa herschel space observatory exhausted its supply of liquid helium and was moved from the lagrangian point in june 2013
+at the end of its mission esas planck spacecraft was put into a heliocentric orbit and passivated to prevent it from endangering any future missions
+cnsas change 2 from august 2011 to april 2012 change 2 was then placed onto a heliocentric orbit that took it past the near-earth asteroid 4179 toutatis
+
+
+ present probes 
+the esa gaia probe
+
+
+ planned probes 
+the joint russian-german high-energy astrophysics observatory spektr-rg
+the esa euclid mission to better understand dark energy and dark matter by accurately measuring the acceleration of the universe
+the joint nasa esa and csa james webb space telescope jwst formerly known as the next generation space telescope ngst
+the esa plato mission which will find and characterize rocky exoplanets
+the nasa wide field infrared survey telescope wfirst
+the esa ariel mission which will observe the atmospheres of exoplanets
+the esa advanced telescope for high energy astrophysics athena
+the nasa advanced technology large-aperture space telescope which would replace the hubble space telescope and possibly the jwst
+
+
+ cancelled probes 
+the esa eddington mission
+the nasa terrestrial planet finder mission may be placed in an earth-trailing orbit instead
+
+
+ l3 
+l3 is the sun–earth lagrangian point located on the side of the sun opposite earth slightly outside the earths orbit
+
+there are no known objects in this orbital location
+
+
+ l4 
+l4 is the sun–earth lagrangian point located close to the earths orbit 60° ahead of earth
+
+asteroid 2010 tk7 is the first discovered tadpole orbit companion to earth orbiting l4 with a mean distance of about one astronomical unit
+stereo a solar terrestrial relations observatory – ahead made its closest pass to l4 in september 2009 on its orbit around the sun slightly faster than earth
+osiris-rex passed near the l4 point and performed a survey for asteroids between 9 and 20 february 2017
+
+
+ l5 
+l5 is the sun–earth lagrangian point located close to the earths orbit 60° behind earth
+
+asteroid 419624 2010 so16 in a horseshoe companion orbit with earth is currently proximal to l5 but at a high inclination
+stereo b solar terrestrial relations observatory – behind made its closest pass to l5 in october 2009 on its orbit around the sun slightly slower than earth
+the spitzer space telescope is in an earth-trailing heliocentric orbit drifting away c 0.1 au per year in c 2013–15 it has passed l5 in its orbit
+hayabusa2 passed near l5 during the spring of 2017 and imaged the surrounding area to search for earth trojans in 18 april 2018
+
+
+ earth–moon lagrangian points 
+
+
+ l2 
+artemis
+change 5-t1
+queqiao relay satellite
+
+
+ l4 and l5 
+kordylewski clouds
+future location of tdrs-style communication satellites to support l2 satellite
+
+
+ past probes 
+hiten was the first spacecraft to demonstrate a low energy trajectory passing by l4 and l5 to achieve lunar orbit at a very low fuel expense compared to usual orbital techniques hiten did not find any conclusive increase in dust density at lagrange points
+
+
+ proposed objects 
+exploration gateway platform
+in his 1976 book the high frontier human colonies in space dr gerard oneill proposed the establishment of gigantic space islands in l5 the inhabitants of the l5 society should convert lunar material to huge solar power satellites many works of fiction most notably the gundam series involve colonies at these locations
+
+
+ sun–venus lagrangian points 
+
+
+ l4 
+2013 nd15
+
+
+ sun–mars lagrangian points 
+asteroids in the l4 and l5 sun–mars lagrangian points are sometimes called mars trojans with a lower-case t as trojan asteroid was originally defined as a term for lagrangian asteroids of jupiter they may also be called mars lagrangian asteroids
+
+
+ l4 
+121514 1999 uj7
+
+
+ l5 
+5261 eureka
+101429 1998 vf31
+311999 2007 ns2
+385250 2001 dh47 2001 fg24 2001 fr127 not confirmed as true lagrangian asteroidssource minor planet center 1
+
+
+ sun–jupiter lagrangian points 
+asteroids in the l4 and l5 sun–jupiter lagrangian points are known as jupiter trojan asteroids or simply trojan asteroids
+
+
+ l4 
+trojan asteroids greek camp
+
+
+ l5 
+trojan asteroids trojan camp
+
+
+ saturn–tethys lagrangian points 
+
+
+ l4 
+telesto
+
+
+ l5 
+calypso
+
+
+ saturn–dione lagrangian points 
+
+
+ l4 
+helene
+
+
+ l5 
+polydeuces follows a tadpole orbit around l5
+
+
+ sun–uranus lagrangian points 
+
+
+ l3 
+83982 crantor follows a horseshoe orbit around l3
+
+
+ l4 
+2011 qf99
+2014 yx49
+
+
+ sun–neptune lagrangian points 
