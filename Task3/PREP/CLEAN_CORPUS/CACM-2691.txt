@@ -1,0 +1,1 @@
+comments on the algorithms of verhelst for conversion limited entry decision tables to flowcharts cacm january 1974 king p j h johnson r g decision table flowcharting preprocessor optimal programs search 3 50 59 4 19 29 49 5 31 ca740108 jb 18 1978 1 45 pm 2598 2691 2726 3113 2263 1172 6 1354 1548 2220 2453 2856 

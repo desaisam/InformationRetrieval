@@ -1,0 +1,1 @@
+remark on romberg quadrature a modified form of quadrature is described which less sensitive to the accumulation rounding errors than customary one cacm april 1965 krasun m prager w ca650418 jb march 7 1978 3 27 pm 1273 5 1352 1982 2040 1 6 834 872 1040 1092 1241 1356 1883 324 429 570 621 786 

@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2523
+picture processing scene ***analysis*** edge detection 3 
+... a region coloring technique for scene ***analysis*** a method of converting a picture into a cartoon or map 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2829
+***texture*** and reflection in computer generated images in 1974 catmull developed a new algorithm for rendering images of 
+... this paper describes extensions of this algorithm in the areas of ***texture*** simulation and lighting models 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1002
+a rapid method for digital filtering since much of the computer time spent in time series ***analysis*** is 
+... the filters are constructed from a succession of readily analyzable components in a manner that facilitates cascading 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2325
+numerical mathematics and computer science numerical mathematics is viewed as the ***analysis*** of continuous algorithms 
+... numerical mathematics computer science mathematics of computation algorithms continuous algorithms 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0533
+digital ***synthesis*** of correlated stationary noise in this note we propose a method of generating stationary noise with 
+... the technique is quite simple and produces strict sense stationary noise which agrees approximately with rt the prescribed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1653
+system performance evaluation survey and appraisal the state of the art of system performance evaluation is reviewed and 
+... the central role of measurement in performance evaluation and in the development of evaluation methods is explored 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0525
+ca620803 jb march 17 1978 732 pm 
+... a computer technique for handling ***analysis*** of variance cacm august 1962 howell j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1679
+a fast fourier transform algorithm for real valued series a new procedure is presented for calculating the complex 
+... this algorithm preserves the order and symmetry of the cooley turkey fast fourier transform algorithm while effecting the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2751
+illumination for computer generated pictures the quality of computer generated images of three dimensional scenes depends on the 
+... computer graphics graphic display hidden surface removal 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0461
+coding of medical case history data for computer ***analysis*** cacm october 1962 lipkin m 
+... ca621019 jb march 17 1978 659 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1809
+the numerical ***analysis*** program in the computer science department should emphasize an awareness of the problems of computer 
+... program numerical ***analysis*** course separation education 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0974
+a technique is presented for the automatic ***analysis*** of long series heart cycles via a digital computer 
+... a technique for reading gapless tapes makes electrocardiograph ***analysis*** feasible on the ibm 7090 to study arrhythmias and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for ***analysis*** of variance a major problem in using the ***analysis*** of variance as the number 
+... even though the experimenter may not be interested in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1260
+least squares ***analysis*** of resonance spectra on small computers the problem of analyzing data from a mossbauer effect 
+... the ***analysis*** has been carried out on an ibm 1410 computer with a 40000 bcd core memory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2286
+error ***analysis*** interval arithmetic precision control 5 
+... automatic error ***analysis*** for determining precision the problem considered is that of evaluating a rational expression to within 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3149
+the cyclic order property of vertices as an aid in scene ***analysis*** a cyclic order property is defined 
+... scene ***analysis*** cyclic order artificial intelligence three dimensional reconstruction picture processing computer graphics pattern recognition 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0931
+systematic mistake ***analysis*** of digital computer programs cacm february 1963 miller j 
+... c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2447
+sard kernels for certain bivariate cubatures an error ***analysis*** for some bivariate cubatures is given 
+... cubatures sard kernels numerical integration remainder formulas 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2735
+discrimination in the employment of women in the computer industry cacm july 1975 weber r 
+... discrimination against women salaries employment programmers systems ***analysis*** keypunch operators machine operators 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2825
+the bmd and bmdp series of statistical computer programs cacm october 1976 frane j 
+... ***analysis*** of variance cluster ***analysis*** contingency tables data ***analysis*** discriminant ***analysis*** factor ***analysis*** graphics outliers regression time series 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2494
+a computer generated aid for cluster ***analysis*** a computer generated graphic method which can be used in conjunction 
+... computer graphics cluster ***analysis*** numerical taxonomy hierarchical clustering factor ***analysis*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2771
+the ***synthesis*** of solids bounded by many faces a technique is presented which allows a class of solid 
+... solids may also be added together or subtracted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1709
+a modification of efroymsons technique for stepwise regression ***analysis*** the computational technique conventionally used for stepwise multiple linear 
+... the near symmetry of the matrices involved permits a modification requiring only half the storage and computations of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1916
+***analysis*** of boolean program models for time shared paged environments directed graphs or their associated matrices are frequently 
+... ***analysis*** of these models prior to execution yields information valuable in determining segmentation of instructions and data for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2310
+this paper argues that the computers major role as to language ***analysis*** in the humanities will be the 
+... language ***analysis*** humanities science of the humanities pattern recognition pattern generation interdisciplinary cooperation 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2871
+logical ***analysis*** invariants program verification correctness incorrectness termination automatic debugging 3 
+... as a unified solution to these problems this paper suggests conducting a logical ***analysis*** of programs by using 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1732
+factorial ***analysis*** of variance algorithm 330 g1 cacm june 1968 oliveri 
+... factorial variance ***analysis*** variance statistical ***analysis*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1823
+factorial ***analysis*** of variance algorithm g1 cacm november 1969 howell j 
+... factorial variance ***analysis*** variance statistical ***analysis*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1435
+design of computer simulation experiments for industrial systems the aim of this paper is to provide background information 
+... the four experimental design problems are 1 the problem of stochastic convergence 2 the problem of factor selection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2560
+a queuing model of a multiprogrammed computer with a two level storage system the results are presented of 
+... multiprogrammed computer system storage system hierarchical index sets 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2999
+array processing table processing statistical ***analysis*** data retrieval data processing syntax for data structures computing techniques time series 
+... this is followed by a summary of some recent developments in array processing capabilities at the world bank 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2478
+education computer science curriculum imprecise ***synthesis*** fuzzy educational structure 1 
+... computer science seminars for undergraduates cacm july 1973 kandel a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1003
+a computer ***analysis*** method for thermal diffusion in biochemical systems in the thermal detection of rapid biochemical reactions 
+... a computer ***analysis*** method is here regarded as one in which the physical laws of a process are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+computer aided ***analysis*** and design of information systems this paper describes the use of computer aided ***analysis*** for 
+... computer aided ***analysis*** consists of a set of procedures and computer programs specifically designed to aid in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0726
+a general program for the ***analysis*** of square and rectangular lattice designs this paper describes a general purpose 
+... flow diagrams are given so that the method of calculation may be programmed for any digital computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0825
+pip a photo interpretive program for the ***analysis*** of spark chamber data an operating computer program that processes 
+... the input to the program consists of spark chamber photographs on which tracks of high energy particles are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1482
+bugsys a programming system for picture processing not for debugging bugsys is a picture processing and measuring system 
+... in particular the authors have used the system for the ***analysis*** of linear graphs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1515
+a system called relational data file was developed for this purpose 
+... a computer system for inference execution and data retrieval this paper presents a rand project concerned with the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1526
+multiprogramming under a page on demand strategy a model of multiprogramming for a particular computer system using a 
+... a parameter readily calculated from the hardware characteristics and the program statistics is proposed for gauging the effect 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1658
+***analysis*** of algorithms for the zero one programming problem this paper is concerned with a review and examination 
+... the machine time and storage requirements of several of the algorithms are compared over several test problems of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2062
+the application of sequential sampling to simulation an example inventory model four different sequential sampling procedures are applied 
+... for each procedure the cost of computer time required to achieve given levels of statistical precision is calculated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2221
+comment on the conversion of decision tables to computer programs cacm january 1971 pollack s 
+... decision tables diagnostic aids system ***analysis*** business applications 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2387
+maximum computing power and cost factors in the centralization problem a simple ***analysis*** of some computer economic factors 
+... centralization decentralization economics of computers computer management economies of scale 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient algorithms for graph manipulation h algorithm a447 efficient algorithms are presented for partitioning a graph into connected 
+... graphsanalysis of algorithms graph manipulation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2643
+the minimization of spatially multiplexed character sets the paper describes a technique for compacting character sets in a 
+... it considers the problem of minimizing the storage needed to contain such tables 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2977
+the stage hypothesis and the s curve some contradictory evidence this paper presents the results of a study 
+... budgets stage theories stage hypothesis 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1325
+remote on line real time computer diagnosis of the clinical electrocardiogram presented in this paper is a brief 
+... it seems likely that efforts of this sort will lead to a satisfactory solution to the problem of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1927
+course curriculum graduate courses university coursescomputer science curriculum information science information organization information retrieval data retrieval language ***analysis*** 
+... information science in a ph 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2823
+the status of women and minorities in academic computer science the results of a survey concerning women and 
+... discrimination against women discrimination against minorities graduate students undergraduate students academic employment faculty computer science degree programs affirmative 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3022
+computer science faculties the current status of minorities and women the results of a survey conducted in the 
+... discrimination against women discrimination against minorities faculty computer science degree programs affirmative action teaching loads salaries publications 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3078
+computer aided algebra symbol manipulation markov process reliability redundant structures on line computer system 
+... ***analysis*** of the availability of computer systems using computer aided algebra analytical results related to the availability of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1686
+computer ***synthesis*** of holograms for 3 d display optical and digital holography are reviewed 
+... computer holograms have been made of three dimensional objects which give faithful reconstructions even in white light 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1045
+programming ***analysis*** of variance by sequences of operators and isomorphic mappings a special operator calculus developed by hartley 
+... the operator calculus and the mapping scheme are described in detail 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1780
+harmonic ***analysis*** cosine series sine series function approximation curve fitting trigonometric series 5 
+... harmonic ***analysis*** for symmetrically distributed data algorithm 320 c6 cacm february 1968 hunter d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1782
+a numerical integration formula useful in fourier ***analysis*** a numerical integration formula is presented which uses unequal sampling 
+... numerical integration fourier ***analysis*** integration 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1801
+***analysis*** of variance for balanced experiments algorithm 367 g2 cacm december 1969 claringbold p 
+... ***analysis*** of variance ***analysis*** of covariance regression ***analysis*** experimental design balanced experiment missing data interblock estimate intra block 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0085
+ca590501 jb march 22 1978 643 pm 
+... error ***analysis*** in floating point arithmetic cacm may 1959 carr iii j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0167
+combining algol statement ***analysis*** with validity checking cacm july 1960 mcisaac p 
+... ca600706 jb march 20 1978 915 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0464
+syntactic ***analysis*** by digital computer this paper provides an account of the shadow language that is used to 
+... the output consists of a trace table that expresses the results of the syntactic ***analysis*** in a tabular 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1160
+the input to the system is a fap program deck which has been specially prepared for translation by 
+... the output consists of the translated compass language program together with a comprehensive diagnostic listing which the user 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1237
+conversion of decision tables to computer programs several translation procedures for the conversion of decision tables to programs 
+... it is presumed that the reader is familiar with the nature of decision tables and conventional definitions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1272
+this paper discusses the economy of editing as a function of the amount of condensation of text in 
+... expanding the editing function in language data processing in automatic abstracting citation indexing mechanical translation and other such 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2144
+on accurate floating point summation the accumulation of floating point sums is considered on a computer which performs 
+... an algorithm is given for accurately summing n t digit floating point numbers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2186
+numerical properties of the ritz trefftz algorithm for optimal control in this paper the ritz trefftz algorithm is 
+... splines regulator problem control theory numerical ***analysis*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2276
+computer methods for sampling from the exponential and normal distributions various methods are known for transforming uniformly distributed 
+... random numbers pseudorandom normal distribution exponential distribution exponential distribution simulation numerical ***analysis*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2308
+computers and urban society this brief survey of the use of computers in urban society covers the broad 
+... urban systems urban applications data acquisition data management engineering ***analysis*** information systems 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2516
+hierarchical storage in information retrieval a probabilistic ***analysis*** is employed to determine the effect of hierarchical storage organizations 
+... information retrieval hierarchical storage 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2517
+decision tables systems ***analysis*** programming 3 
+... some comments on the use of ambiguous decision tables and their conversion to computer programs this paper comments 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2522
+the design implementation and evaluation of a working set dispatcher the behavior of a computer system is largely 
+... working set dispatcher scheduler time sharing systems resource allocation software evaluation operating systems supervisory systems 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2555
+variable precision exponentiation a previous paper presented an efficient algorithm called the recomputation algorithm for evaluating a rational 
+... the recomputation algorithm can be applied to expressions involving any variable precision operations having o10 p sumei error 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2634
+an evaluation of statistical software in the social sciences several hundred college and university computer installations now offer 
+... statistical computation statistical software descriptive statistics bivariate tables pearson correlation regression factor ***analysis*** one way ***analysis*** of variance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+routing algorithms adaptive routing quadratic routing alternate routing store and forward network distributed network computer network message switching 
+... on quadratic adaptive routing algorithms two analytic models of a store and forward communications network are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2918
+multiprocessor memory organization and memory interference the structure of shared memory in a multiprocessor computer system is examined 
+... alternative memory organizations are compared and it is shown that a home memory organization in which each processor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2988
+memory management and response time this paper presents a computationally tractable methodology for including accurately the effects of 
+... relations between workload variables such as memory requirement distribution and job swap time and performance measures such as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+reverse path forwarding broadcast packets routing computer networks store and forward packet switching broadcast protocols 3 
+... reverse path forwarding of broadcast packets a broadcast packet is for delivery to all nodes of a network 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3176
+storing a sparse table the problem of storing and searching large sparse tables is ubiquitous in computer science 
+... gaussian elimination parsing searching sparse matrix table compression table lookup 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2820
+the design and implementation of a table driven interactive diagnostic programming system caps is a highly interactive diagnostic 
+... complete syntax checking and most semantic ***analysis*** is performed as the program is entered and as it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1083
+an experiment in a user oriented computer system a version of a software hardware system for the purpose 
+... a modified flexowriter is used to generate computer acceptable input when equations or computable requests are typed in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1517
+methods for analyzing data from computer simulation experiments this paper addresses itself to the problem of analyzing data 
+... the paper adopts the position that the particular technique of ***analysis*** possibly not any one of the above 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1885
+a computer system for transformational grammar a comprehensive system for transformational grammar has been designed and implemented on 
+... the system deals with the transformational model of syntax along the lines of chomskys aspects of the theory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2739
+the restriction language for computer grammars of natural language over the past few years a number of systems 
+... this paper presents a programming language designed specifically for the compact and perspicuous statement of restrictions of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2924
+an interactive computer graphics approach to surface representation an in teractive computer graphics method has been developed for 
+... the method is a ***synthesis*** of spline theory and algorithms an in teractive means for man machine communication 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2125
+a note on minimal length polygonal approximation to a digitized contour a method for extracting a smooth polygonal 
+... digitized image connection tree minimal polygon optimal approximation nonlinear programming 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0238
+simulation and ***analysis*** of biochemical systems cacm december 1961 garfinkel d 
+... rutledge j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0633
+simulation and ***analysis*** of biochemical systems iii 
+... ***analysis*** and pattern recognition cacm february 1962 garfinkel d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0643
+simulation and ***analysis*** of biochemcial systems ii 
+... solution of differential equations cacm january 1962 larson r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0826
+remarks on fortran subroutines for time series ***analysis*** cacm june 1963 bennett c 
+... ca630623 jb march 14 1978 1000 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0912
+addressing an array yi in k dimensions by fortran for ***analysis*** of variance cacm march 1963 garber m 
+... ca630309 jb march 14 1978 144 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1104
+ca640404 jb march 10 1978 151 am 
+... an undergraduate curriculum in numerical ***analysis*** cacm april 1964 forsythe g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1250
+graphic symbols for problem definition and ***analysis*** a standards working paper cacm june 1965 ca650605 jb march 7 
+... ****** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2671
+a note on a combinatorial problem of burnett and coffman cacm march 1974 stone h 
+... memories interleaving derangements rencontres combinatorial ***analysis*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2831
+***analysis*** of the pff replacement algorithm via a semi markov model corrigendum cacm september 1976 chu w 
+... ca760908 dmm february 1 1978 954 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2687
+furthermore the time constraints of a raster display are shown to be satisfied for a typical design for 
+... graphics raster display line drawing discrete image dot generation matrix displays 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0675
+coding clinical laboratory data for automatic storage and retrieval a series of clinical laboratory codes have been developed 
+... flexible computer produced composite laboratory reports are also discussed along with reproduction of such a report 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1235
+a stochastic approach to the grammatical coding of english a computer program is described which will assign each 
+... the conditional probabilities used as a basis for this coding were empirically derived from a separate hand coded 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1307
+a lightpen controlled program for on line data ***analysis*** this paper describes a technique designed to ease the 
+... the program restricts the user severely in the particular language he can use but the method for communicating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1308
+a mathematical model for mechanical part description the flexibility of a mathematical model takes advantage of the common 
+... one approach to the mathematical model consists of a group of surface defining quadric equations which are created 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1365
+eliminating monotonous mathematics with formac the formac formula manipulation compiler programming system provides a powerful tool for performing 
+... it is an extension of fortran iv which permits the use of the computer to perform the tedious 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1388
+automast automatic mathematical ***analysis*** and symbolic translation a procedure for numerically solving systems of ordinary differential equation is 
+... the procedure is based on a finite taylor series expansion that includes an estimate of the error in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1605
+an experimental comparison of time sharing and batch processing the effectiveness for program development of the mit compatible 
+... programmer time computer time elapsed time etc 

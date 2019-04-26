@@ -1,0 +1,1 @@
+complex matrix inversion versus real a comparison of complex matrix with real inversion is made it shown that the can be up to twice as fast further rounding error bound for about one eighth gaussian elimination using extended inner product accumulation half system cacm september 1970 ehrlich l w errors bounds 5 14 11 10 ca700907 jb february 1978 19 am 1998 

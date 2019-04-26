@@ -1,0 +1,1 @@
+from formulas to computer oriented language a technique is shown for enabling a computer translate simple algebraic formulas into three address code cacm march 1959 wegstein j h ca590303 jb 22 1978 8 03 pm 405 5 93 54 224 6 55 77 

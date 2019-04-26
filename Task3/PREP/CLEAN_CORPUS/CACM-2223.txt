@@ -1,0 +1,1 @@
+minit algorithm for linear programming 222 h cacm january 1971 kolm a dahlstrand t linear programming dual simplex method primal problem 5 41 ca710111 jb february 8 1978 10 22 am 2223 

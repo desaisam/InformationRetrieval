@@ -1,0 +1,1 @@
+code extension procedures for information interchange proposed usa standard cacm december 1968 standard code information interchange characters shift out in escape data link control functions procedures extension table bit pattern 1 0 2 43 3 20 24 50 51 52 53 54 55 56 57 70 71 72 73 74 75 80 81 82 83 5 6 21 22 ca681211 jb february 1978 12 16 pm 1655 

@@ -1,0 +1,1 @@
+algorithms reveal properties floating point arithmetic algorithms presented form fortran subroutines subroutine computes radix number digits floating point numbers rounding chopping machine run methods shown work reasonable computer cacm november 1972 malcolm arithmetic high level languages philosophy language design 4 9 5 19 ca721102 jb january 27 1978 2 39 pm 2267 2647 2792 6  

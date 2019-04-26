@@ -1,0 +1,1 @@
+entcaf and entcre evaluation of normalized taylor coefficients an analytic function c5 algorithm 413 cacm october 1971 lyness j n coefficients series cauchy integral numerical integration differentiation interpolation complex variable arithmetic fast fourier transform 5 12 13 16 ca711007 jb february 2 1978 11 53 am 2119 4 2149 2129 

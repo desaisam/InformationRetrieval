@@ -1,0 +1,1 @@
+nonrecursive adaptive integration algorithm 182 cacm june 1963 mckeeman tesler ca630615 jb march 14 1978 10 1352 5 834 2048 2074 2093 6 872 1040 1092 1241 1273 1298 1573 324 429 570 621 786  

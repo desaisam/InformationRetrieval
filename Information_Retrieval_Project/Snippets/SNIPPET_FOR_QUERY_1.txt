@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1410
+interarrival statistics for ***time*** ***sharing*** systems the optimization of ***time*** shared ***system*** performance requires the description of the 
+... the data do not appear to justify except as a very rough approximation the usual assumption off an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2151
+user program measurement in a ***time*** shared environment a general discussion of the measurement of software systems is 
+... ***operating*** systems multiprogramming systems ***time*** ***sharing*** systems software measurement user program measurement measurement technology tx 2 computer virtual 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2629
+***time*** ***sharing*** ***operating*** ***system*** file ***system*** command language pdp 11 4 
+... the unix ***time*** ***sharing*** ***system*** unix is a general purpose multi user interactive ***operating*** ***system*** for the digital 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1657
+an improved version of the sharer ***time*** ***sharing*** ***system*** using this feature is described 
+... ***operating*** ***system*** memory protection ***time*** ***sharing*** multiprogramming monitor submonitor suboperating ***system*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2319
+***operating*** ***system*** performance an overview of the current and future positions with respect to ***operating*** ***system*** performance is 
+... because of the severe interactions between the various subsystems of an ***operating*** ***system*** an overall model of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2054
+on the feasibility of voice input to an on line computer processing ***system*** an on line digital computer 
+... speech recognition word recognition pattern matching pattern recognition ***time*** ***sharing*** remote access voice input speech input telephone inputoutput 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2219
+a policy driven scheduler for a ***time*** ***sharing*** ***system*** the service received by a process from a ***time*** 
+... scheduler ***time*** ***sharing*** ***operating*** ***system*** resource allocation and swapping 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1506
+the laconiq monitor ***time*** ***sharing*** for online dialogues the laconiq laboratory computer online inquiry monitor was developed primarily 
+... the monitor was designed so that it could work with a small computer an ***ibm*** ***system*** 36030 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1391
+computer experiments in finite algebra a medium scale programming ***system*** is written in mad and fap on the 
+... designed to operate in a ***time*** ***sharing*** environment the ***system*** can serve as a teachers aid to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1519
+the ***system*** is not oriented towards either mode and can be either a batch processing ***system*** such as 
+... george 3 a general purpose ***time*** ***sharing*** and ***operating*** ***system*** an ***operating*** ***system*** is described which will run 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3174
+password security a case history this paper describes the history of the design of the password security scheme 
+... the result is a compromise between extreme security and ease of use 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1752
+resource management for a medium scale ***time*** ***sharing*** ***operating*** ***system*** task scheduling and resource balancing for a medium 
+... ***time*** ***sharing*** ***operating*** systems resource management task scheduling paging ***system*** simulation memory management virtual memories 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1827
+performance monitoring in a ***time*** ***sharing*** ***system*** a software measurement facility which is part of a general purpose 
+... the date collection facility dcf has been implemented in the michigan terminal ***system*** mts for the system360 model 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1408
+the question of the efficacy of the drum scheme is then raised 
+... again whereas the analysis of the drum scheme has a specific use the methods underlying it have more 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2535
+the effects of multiplexing on a computer communications ***system*** a study is made of the way in which 
+... it is concluded that while for certain values of ***system*** parameters there is noticeable improvement in the performance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1805
+productivity prediction multiprogramming simulation equipment evaluation hardware evaluation monitor ***operating*** ***system*** ***system*** software supervisors performance ***time*** ***sharing*** ***time*** 
+... productivity of multiprogrammed ***computers*** progress in developing an analytic prediction method multiprogramming as it is discussed here is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1161
+one of the conversion aids available on the model 30 is the 1401 compatibility feature 
+... 1401 compatibility feature on the ***ibm*** system360 model 30 the second generation of stored program ***computers*** of which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2378
+an ***operating*** ***system*** based on the concept of a supervisory computer an ***operating*** ***system*** which is organized as 
+... a process is able to specify a request for a complicated action on the part of the supervisor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2424
+the dynamic verification of ***operating*** ***system*** decisions is used on the prime ***system*** being designed and constructed at 
+... dynamic verification of ***operating*** ***system*** decisions dynamic verification of a decision implies that every ***time*** the decision is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1605
+an experimental comparison of ***time*** ***sharing*** and batch processing the effectiveness for program development of the mit compatible 
+... programmer ***time*** computer ***time*** elapsed ***time*** etc 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1685
+gan a ***system*** for generating and analyzing activity networks gan a ***system*** for generating activity networks is designed 
+... also a general idea of a language for performing calculations on activity networks scheduling activity networks is given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2357
+***time*** ***sharing*** remote computing on line access on line computing remote file manager real ***time*** multiplexer implementation effort 
+... mux a simple approach to on line computing an on line ***system*** ***operating*** as part of a normal 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2522
+the design implementation and evaluation of a working set dispatcher the behavior of a computer ***system*** is largely 
+... working set dispatcher scheduler ***time*** ***sharing*** systems resource allocation software evaluation ***operating*** systems supervisory systems 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2920
+game interpretation of the deadlock avoidance problem the deadlock avoidance problem may be defined informally as the determination 
+... ***operating*** ***system*** multiprogramming ***time*** ***sharing*** resource allocation deadlock in terlock deadly embrace deadlock avoidance flowchart 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2950
+scheduling algorithms scheduling models priority ***operating*** systemsprocessor ***sharing*** implementation efficiency 4 
+... various classes of scheduling algorithms are defined and related to existing algorithms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3025
+the evolution of the dec ***system*** 10 the dec ***system*** 10 also known as the pdp 10 evolved 
+... the origin and evolution of the hardware ***operating*** ***system*** and languages are described in terms of technological change 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1168
+across machine lines in cobol the production of a large file maintenance and retrieval program ***system*** written in 
+... the cobol language was used specifically to enable the ***system*** to operate on three ***ibm*** ***computers*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0585
+the material that follows is a description of the evolution of the programming and hardware ***system*** which has 
+... initial experience with an ***operating*** multiprogramming ***system*** the lewis research center has been using various forms and degrees 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2947
+sitar an interactive text processing ***system*** for small ***computers*** sitar a low cost in teractive text handling and 
+... information retrieval text editing minicomputers crtstime ***sharing*** bibliographic search and retrieval literary analysis linguistic analysis command languages 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1315
+automation of the radioisotope accountability ***system*** the radioisotope service of the veterans administration hospital omaha nebraska used a 
+... the program for purchased radioisotopes is written in format fortran for the ***ibm*** 1620 computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1572
+the simulation of ***time*** ***sharing*** systems the development of new large scale ***time*** ***sharing*** systems has raised a 
+... the use of the simulation is demonstrated by a study of the ***ibm*** 36067 ***time*** ***sharing*** ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1938
+***time*** ***sharing*** performance criteria ***time*** ***sharing*** ***system*** operation ***time*** ***sharing*** performance analysis 2 
+... six criteria are described which have been successfully used to perform first level quantitative ***time*** ***sharing*** ***system*** performance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1844
+a modular computer ***sharing*** ***system*** an alternative approach to the design and organization of a general purpose interactive 
+... the ***system*** organization described is a conceptually simple arrangement of a bank of interchangeable ***computers*** each of which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2371
+a ***system*** for interprocess communication in a resource ***sharing*** computer network a ***system*** of communication between processes in 
+... interprocess communication ***time*** ***sharing*** computer networks resource ***sharing*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2500
+detection andor prevention of deadlocks can require massive amounts of additional overhead if efficient usage of resources is 
+... a practical approach to managing resources and avoiding deadlocks resource scheduling and allocation can be expensive with regard 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2218
+an analysis of some ***time*** ***sharing*** techniques the effectiveness of certain ***time*** ***sharing*** techniques such as program relocation 
+... inasmuch as the b6500 ***system*** is based upon the use of variable sized segments and a dynamic overlay 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0971
+***time*** ***sharing*** in a traffic control program the toronto traffic signal control ***system*** consists of a variety of 
+... in this paper the more interesting aspects of the ***time*** ***sharing*** program are outlined 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1071
+computer usage accounting for generalized ***time*** ***sharing*** systems the current development of general ***time*** ***sharing*** systems requires a 
+... the various cost factors which should be considered for computer usage accounting in generalized ***time*** ***sharing*** systems are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2439
+multiple terminals under user program control in a ***time*** ***sharing*** environment user written programs on the dartmouth ***time*** 
+... dtss multiple terminals remote terminals remote consoles ***time*** ***sharing*** on line interaction on line games 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1854
+multiprogramming parallelism interrupt input output computer organization file handling pl360 4 
+... on multiprogramming machine coding and computer organization the author feels that the interrupt feature which is available in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1753
+virtual memory processes and ***sharing*** in multics some basic concepts involved in the design of the multics ***operating*** 
+... virtual memory information ***sharing*** shared procedures data ***sharing*** dynamic linking segmentation paging multiprogramming storage management storage hierarchies file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1749
+***operating*** ***system*** multiprogramming ***system*** ***system*** hierarchy ***system*** structure real ***time*** debugging program verification synchronizing primitives cooperating sequential processes 
+... the structure of the the multiprogramming ***system*** a multiprogramming ***system*** is described in which all activities are divided 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1877
+the algorithms have been successfully used in the the ***system*** 
+... proofs given in the appendixes show that the conditions imposed by the algorithms are both necessary and sufficient 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1462
+multilevel ***operating*** systems the basic software for all newer ***computers*** is built on the well established need for 
+... large applications require supervisory monitors which handle problems similar to those of the ***operating*** systems but at a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3127
+thoth a portable real ***time*** ***operating*** ***system*** thoth isa real ***time*** ***operating*** ***system*** which is designed to be 
+... portability real ***time*** ***operating*** systems minicomputer 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1236
+the smart automatic document retrieval ***system*** an illustration a fully automatic document retrieval ***system*** ***operating*** on the ***ibm*** 
+... the ***system*** is used not only to simulate an actual ***operating*** environment but also to test the effectiveness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0698
+data dial two way communication with ***computers*** from ordinary dial telephones an ***operating*** ***system*** is described which allows 
+... no special hardware or connections are required at the users telephones 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2379
+the design of the venus ***operating*** ***system*** the venus ***operating*** ***system*** is an experimental multiprogramming ***system*** which supports 
+... in this paper the development of the ***system*** is described with particular emphasis on the principles which guided 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial ***system*** adept a display expedited processing and tutorial ***system*** is described 
+... this ***system*** was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1487
+eliza a computer program for the study ofnatural language communication between man and machine eliza is a program 
+... input sentences are analyzed on the basis of decomposition rules which are triggered by key words appearing in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1892
+degree of multiprogramming in page on demand systems a simple stochastic model is described which offers a base 
+... page on demand demand paging ***time*** ***sharing*** multiprogramming markovian computer models scheduling strategies ***operating*** systems memory management 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2948
+terminal ***system*** error correction multiplexing local echoing communication ***system*** network 3 
+... a terminal oriented communication ***system*** this paper describes a ***system*** for full duplex communication between a ***time*** shared 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1523
+sharer a ***time*** ***sharing*** ***system*** for the cdc 6600 a ***time*** ***sharing*** ***system*** embedded within the standard batch 
+... the ***system*** is general purpose and file based providing facilities for file input manipulation editing compilation and conversational 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of performance of ***time*** ***sharing*** systems by simulation a simulation model of a ***time*** ***sharing*** 
+... the effects of these variations on a measure of ***system*** performance is used to ascertain which of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1747
+three criteria for designing computing systems to facilitate debugging the designer of a computing ***system*** should adopt explicit 
+... three possible criteria of this kind are input recordability input specifiability and asynchronous reproducibility of output 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2946
+an alternative to event queues for synchronization in monitors in the monitor concept as proposed by brinch hansen 
+... this paper describes another synchronizing primitive which is nearly as expressive as the conditional wait but can be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2624
+formal requirements for virtualizable third generation architectures virtual machine systems have been implemented on a limited number of 
+... g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3048
+performance evaluation of highly concurrent ***computers*** by deterministic simulation simulation is presented as a practical technique for performance 
+... performance evaluation deterministic simulation control stream concurrent ***computers*** 6 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2317
+programming systems and languages 1965 1975 in spite of impressive gains by pli fortran and cobol remain the 
+... languages ***operating*** systems programming systems multiprogramming history 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1341
+levels of computer systems in building current computer systems we tend to break them down into levels of 
+... the continued use of such a structure raises questions about its effects on the usefulness of future systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1526
+multiprogramming under a page on demand strategy a model of multiprogramming for a particular computer ***system*** using a 
+... a parameter readily calculated from the hardware characteristics and the program statistics is proposed for gauging the effect 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2399
+a crt editing ***system*** a test editing and manipulation program is described 
+... editing text cathode ray tube entry display ***time*** ***sharing*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2730
+as a demonstration weizenbaums eliza program has been provided with a script that turns it into a natural 
+... interactive consulting via natural language interactive programming systems often contain help commands to give the programmer on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1544
+audio output is provided directly to the telephone terminals but the ***system*** will normally be used in conjunction 
+... the ***system*** is a compatible extension of an existing batch processing ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2228
+comments on prevention of ***system*** deadlocks habermanns method of deadlock prevention is discussed where deadlock is defined as 
+... a method of preventing permanent blocking is given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1033
+experimental personalized array translator ***system*** a ***system*** designed for intimate man machine interaction in a general purpose problem 
+... present implementation of the ***system*** is with an interpretive translator on an ***ibm*** 1620 computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1591
+a model for a multifunctional teaching ***system*** a teaching ***system*** model that was incorporated into an ***operating*** ***system*** 
+... the model transferred control to the ***operating*** ***system*** to execute functions other than teaching and then recovered control 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1960
+process management and resource ***sharing*** in the multiaccess ***system*** esope the main design principles of the multiaccess ***system*** 
+... ***time*** ***sharing*** multiprogramming process scheduling resource allocation 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2867
+modularization and hierarchy in a family of ***operating*** systems this paper describes the design philosophy used in the 
+... it is shown that the concepts of module and level do not coincide in a hierarchy of functions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1755
+proceedings of the acm symposium on ***operating*** ***system*** principles cacm may 1968 acm special interest committee ca680501 jb 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1750
+multiple computer systems extended core storage multiprogrammed ***operating*** systems multiprocessor ***operating*** systems control data corporation 6600 ***operating*** ***system*** 
+... the general design of the hardware arrangement and the software components and functions of such a ***system*** are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2003
+an interactive software ***system*** for ***computers*** aided design an application to circuit project the characteristics of an interactive 
+... the first one is imol an interactive monitor language which is designed to perform the overall and control 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1908
+***time*** ***sharing*** and batch processing an experimental comparison of their values in a problem solving situation an experimental 
+... ***time*** ***sharing*** vs batch processing user performance manmachine communications cost effectiveness on line vs off line performance decision 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1264
+blnsys a 1401 ***operating*** ***system*** with braille capabilities blnsys is an ***operating*** ***system*** designed for a 4k 1401 
+... input ouput subroutines are also included in the ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2632
+hydra the kernel of a multiprocessor ***operating*** ***system*** this paper describes the design philosophy of hydra the kernel 
+... mmp the carnegie mellon multi mini processor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1647
+the compiler also provides extensive error diagnostics during both the compilation and the execution phases of a program 
+... the principal advantage of the watfor compiler is that it translates fortran iv programs at speeds of up 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1862
+university education computing science academic programs university computing centers surveys of computing centers university computing capabilities university student 
+... computing capabilities at argentine and chilean universities the author reports on a trip to universities in argentina and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1901
+dynamic space ***sharing*** in computer systems a formalization of relationships between space shading program behavior and processor efficiency 
+... space ***sharing*** storage allocation memory allocation storage management memory management program behavior multiprogramming computer ***system*** design allocation strategies 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2626
+protection and the control of information ***sharing*** in multics the design of mechanisms to control the ***sharing*** of 
+... the key mechanisms described include access control lists hierarchical control of access specifications identification and authentication of users 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0098
+the arithmetic translator compiler of the ***ibm*** fortran automatic coding ***system*** cacm february 1959 sheridan p 
+... ca590203 jb march 22 1978 821 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+a compiler building ***system*** developed by brooker and morris in a number of ***articles*** published during the past 
+... rohl in their most recent paper have presented a very interesting programming ***system*** that they have developed for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2380
+tenex a paged ***time*** ***sharing*** ***system*** for the pdp 10 tenex is a new ***time*** ***sharing*** ***system*** implemented 
+... this report specifies a set of goals which are important for any ***time*** ***sharing*** ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0414
+***ibm*** 1440 data processing ***system*** features five new units the ***ibm*** 1440 data processing ***system*** announced recently by 
+... ca621225 jb march 171978 430 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0637
+the systems were described in the neliac language and generated by an existing neliac compiler 
+... a neliac generated 7090 1401 compiler neliac systems for several different machines have been generated using the original 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1113
+computer made perspective movies as a scientific and communication tool it is easy to program the basic transformation 
+... this fact plus the advent of high speed microfilm printers such as the general dynamics electronics s c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1225
+in addition a new technique is described for repetitive path elimination for a predictive analyzer which can now 
+... the predictive analyzer and a path elimination technique some of the characteristic features of a predictive analyzer a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1590
+pitch period determination of speech sounds a computer procedure which determines pitch periods by the recognition of the 
+... speech sounds were sampled by a microphone and an analog to digital converter attached to an interconnected ***ibm*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0615
+addressing multidimensional arrays a useful method of representing a function of n variables is to consider the function 
+... although this picture is of value to the analyst the elements of an n dimensional array must ***exist*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2501
+wylbur an interactive text editing and remote job entry ***system*** wylbur is a comprehensive ***system*** for manipulating all 
+... it has facilities for remote job entry and retrieval as well as facilities for text alignment and justification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1698
+a statistical model for console behavior in multiuser ***computers*** the ability of a computer ***system*** to communicate with 
+... no claim is made that a virtual console behaves like any actual console but the entire collection of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3069
+a practical interprocedural data flow analysis algorithm a new interprocedural data flow analysis algorithm is presented and analyzed 
+... data flow analysis global flow analysis optimization side effects relations reference parameters incarnations 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2796
+monitors an ***operating*** ***system*** structuring concept corrigendum cacm february 1975 hoare c 
+... ca750203 jb january 12 1978 845 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2917
+sitar an interactive text processing ***system*** for small ***computers*** corrigendum cacm october 1977 schneider b 
+... r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0322
+operational compatibility of systems conventions the general standards committee of the share organization has devoted considerable effort to 
+... the following set of conventions is being considered to minimize computer set up ***time*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2372
+on the implementation of security measures in information systems the security of an information ***system*** may be represented 
+... a set of four functions is used to access this matrix at translation and execution ***time*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+response ***time*** monitor computer networks ***time*** ***sharing*** systems comparative response ***time*** arpa network anlytic modeling simulation benchmark jobs 
+... dynamic response ***time*** prediction for computer networks if the ultimate aim of a computing network is resource ***sharing*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+a card format for reference files in information processing this paper proposes a card format suitable for a 
+... it is suitable as a standard for card reference files in information processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2069
+comments on a paper by wallace and mason cacm april 1970 heess jr 
+... w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2621
+***operating*** systems ***time*** ***sharing*** systems security cryptography 4 
+... a high security log in procedure the protection of ***time*** ***sharing*** systems from unauthorized users is often achieved 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0103
+cope console operator proficiency examination each year electronic ***computers*** become more sophisticated and the programs they must process 
+... to meet the need for a quick accurate uniform operator test and training aid the authors have developed 

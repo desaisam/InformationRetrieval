@@ -1,0 +1,11 @@
+Space_exploration Exploration Outer_space Unmanned_robotic_space_probes Human_spaceflight Astronomy 
+Discovery_(observation) Space_exploration 
+Exploration Space_exploration Discovery_(observation) 
+Sky Space_exploration 
+Outer_space Space_exploration Sky Outer_space Human_spaceflight Astronomy 
+Space_technology Space_exploration Outer_space Unmanned_robotic_space_probes Human_spaceflight 
+Astronomer Space_exploration Outer_space Telescope Astronomy 
+Telescope Space_exploration Astronomer 
+Unmanned_robotic_space_probes Space_exploration 
+Human_spaceflight Space_exploration Outer_space Unmanned_robotic_space_probes Astronomy 
+Astronomy Space_exploration Sky Outer_space Astronomer Telescope Unmanned_robotic_space_probes Human_spaceflight Astronomy 

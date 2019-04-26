@@ -1,0 +1,1 @@
+optimal real time algorithm planar convex hulls algorithm construction real time convex hull set points plane data structure constructs successive updates taking log achieving total processing cacm july 1979 preparata computational geometry planar algorithms line 4 49 5 25 32 ca790702 dh august 22 2 07 pm 3151 2997  

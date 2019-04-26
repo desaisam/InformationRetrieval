@@ -1,0 +1,1 @@
+a note on storage of strings method for storing strings is described which uses blocks indefinite size and therefore completely dynamic its relation to similar schemes discussed cacm august 1965 berztiss t ca650813 jb march 6 1978 8 02 pm 1211 4 1549 1906 2902 1051 5 1062 1184 1552 1879 2435 2596 2734 2747 2768 

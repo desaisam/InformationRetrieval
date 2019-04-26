@@ -1,0 +1,1 @@
+algorithm generating ising configurations 355 cacm october 1969 simoes problem sequences 5 39 ca691004 jb february 15 1978 3 27 pm 1842 2066 1833 6  

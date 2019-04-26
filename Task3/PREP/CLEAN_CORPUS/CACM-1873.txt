@@ -1,0 +1,1 @@
+accelerating lp algorithms it is shown how a novel method for computing related inner products can accelerate the pricing phase of algorithms other applications are indicated cacm july 1969 fox b l linear programming revised simplex multiple product 5 19 41 ca690707 jb february 17 19789 08 am 1873 

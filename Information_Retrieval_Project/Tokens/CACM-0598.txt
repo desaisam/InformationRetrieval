@@ -1,0 +1,1 @@
+the cobol librarian a key to object program efficiency many answers the question how may a compiler be forced into generation of an efficient object program purpose this article is present one possible answer creation and full utilization well constructed library cacm may 1962 hicks w ca620507 jb march 20 1978 1 50 pm 598 5 

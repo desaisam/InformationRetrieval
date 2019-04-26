@@ -1,0 +1,1 @@
+matrix scaling by integer programming algorithm 348 f1 cacm april 1969 klimpel r integer programming linear algebra mathematical matrix condition scaling 5 14 41 ca690403 jb february 17 1978 4 38 pm 1914 

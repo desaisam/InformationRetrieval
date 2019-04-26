@@ -1,0 +1,1 @@
+sqank algorithm 379 d1 cacm april 1970 lyness numerical integration rule adaptive automatic simpson quadrature round error control 5 16 ca700410 jb february 13 1978 2 46 pm 1352 4 2074 2048 2093 2550 2415 429 786 834 872 1040 6 1573 1982  

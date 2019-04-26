@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2082
+documentation syntax analysis pl 360 enforced documentation indexed documentation automatic interrogation phase structured grammar syntax directed documentation syntax 
+... syntax directed documentation for pl 360 the language pl 360 together with its ***phrase*** structure grammar is used 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2941
+early experience with mesa the experiences of mesas first users primarily its implementers are discussed and some implications 
+... the specific topics addressed are ***module*** structure and its use in defining abstractions ***data*** structuring facilities in mesa 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2867
+modularization and hierarchy in a family of operating systems this paper describes the design philosophy used in the 
+... it is shown that the concepts of ***module*** and level do not coincide in a hierarchy of functions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2705
+programming languages natural languages and mathematics some social aspects of programming are illuminated through analogies with similar aspects 
+... the development of natural languages toward flexion less word order based language ***types*** speaks for programming language design 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2582
+improving locality by critical working sets a new approach to program locality improvement via restructuring is described 
+... it is based on the concept of critical working set a working set which does not contain the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2958
+***abstract*** ***data*** ***types*** and the development of ***data*** structures ***abstract*** ***data*** ***types*** can play a significant role in 
+... this paper presents and discusses the application of an algebraic technique for the specification of ***abstract*** ***data*** ***types*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3031
+***abstract*** ***data*** ***type*** correctness proof ***data*** ***type*** ***data*** structure specification  4 
+... ***abstract*** ***data*** ***types*** and software validation a ***data*** abstraction can be naturally specified using algebraic axioms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3103
+general issues in ***data*** structure selection are also reviewed 
+... automatic ***data*** structure selection an example and overview the use of several levels of abstraction has proved to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0670
+some legal implications of the use of computers in the banking business the introduction of computers in to 
+... the legal aspects of computerization in the banking business are especially diverse 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1359
+***data*** filtering applied to information storage and retrieval applications manipulation of ***data*** strings is the most complex processing 
+... the processing mechanics associated with ***data*** string manipulation is developed in accordance with a generalized ***data*** filtering concept 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3105
+the extension permits expression of access constraints on shared ***data*** 
+... programming languages access control ***data*** ***types*** ***abstract*** ***data*** ***types*** ***type*** checking capabilities 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic and programming languages logic has been long in terested in whether answers to certain ***questions*** are computable 
+... more recently precise comparisons in the efficiency of decision methods have become available through the developments in complexity 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2233
+signature simulation and certain cryptographic codes three cyphers allegedly authored by thomas jefferson beale in 1822 have been 
+... generations of cryptanalysts have expended untold man years thus far without success attempting tode code them vast armies 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1768
+a global parser for context free ***phrase*** structure grammars an algorithm for analyzing any context free ***phrase*** structure 
+... parser syntax directed compiler context free grammars syntactic analysis translators 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2184
+on the meaning of names in programming systems it is assumed that there is a similarity of function 
+... file operating system programming language functions names context file directory file dictionary lambda calculus theory of programming 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1907
+a note on reliable full duplex transmission over half duplex links a simple procedure for achieving reliable full 
+... ***data*** transmission error correction full duplex half duplex transmission control communications 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3087
+an english language question answering system for a large relational database by typing requests in english casual users 
+... question answering relational database natural language database front end artificial intelligence dialogue query generation information retrieval natural language 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2956
+***data*** ***types*** generic procedures programming languages 4 
+... some ideas on ***data*** ***types*** in high level languages a number of issues are explored concerning the notion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1625
+on the automatic simplification of source language programs methods of simplification that can be applied automatically to programs 
+... ***sure*** is described some of the problems encountered in automatic improvement at the source language level are discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3148
+high level programming for distributed computing programming for distributed and other loosely coupled systems is a problem of 
+... this paper describes an approach to distributed computing at the level of general purpose programming languages 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0616
+an information algebra phase i report language structure group of the codasyl development committee this report represents the 
+... ***questions*** and comments will be welcomed and can be addressed to any of the members of the language 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2084
+a note on the complement of inherently ambiguous context free languages cacm march 1970 maurer h 
+... ambiguity inherent ambiguity complement context free language chomsky language ***phrase*** structure language production system ***type*** 2 language bounded 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1033
+experimental personalized array translator system a system designed for intimate man machine interaction in a general purpose problem 
+... present implementation of the system is with an interpretive translator on an ibm 1620 computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2940
+abstraction and verification in alphard defining and specifying iteration and generators the alphard form provides the programmer with 
+... specification and verification techniques that allow the properties of the generators for such iterations to be expressed in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2937
+detailed analysis of the errors made by the subjects in programming solutions to reasonably small problems shows that 
+... ***data*** ***types*** experimentation language design redundancy reliable software 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2651
+the resulting treatment of ***data*** ***types*** includes provision for programmer defined ***data*** ***types*** ***data*** ***types*** and generic routines 
+... the treatment of ***data*** ***types*** in el1 in constructing a general purpose programming language a key issue is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2247
+the effectiveness of a modularization is dependent upon the criteria used in dividing the system into modules 
+... the criteria used in arriving at the decompositions are discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1614
+a proposal for definitions in algol an extension to algol is proposed for adding new ***data*** ***types*** and 
+... definitions may occur in any block heading and terminate with the block 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+analysis of a file addressing method this paper presents a new file addressing method based on the calculation 
+... for large recirculating ***type*** files it seems to be more advantageous than customary ones 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1806
+on the downhill method the downhill method is a numerical method for solving complex equations fz 0 on 
+... downhill method complex relaxation method complex iteration complex equation transcendental complex equation algebraic complex equation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2002
+amesplot a higher level ***data*** plotting software system amesplot is an extensible software system designed to make the 
+... the system described is hardware independent and has been implemented on a variety of installations of different manufacturers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2356
+software specification modules software engineering software design 4 
+... a technique for software ***module*** specification with examples this paper presents an approach to writing specifications for parts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2470
+fen an axiomatic basis for program semantics a formal system is presented which abstracts the notions of ***data*** 
+... it is argued that the system is more suitable than set theory or its derivatives for the concise 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2939
+abstraction mechanisms in clu clu is a new programming language designed to support the use of abstractions in 
+... work in programming methodology has led to the realization that three kinds of abstractions procedural control and especially 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2957
+database abstractions aggregation aggregation is in troduced as an abstraction which is important in conceptualizing the real world 
+... aggregation transforms a relationship between objects into a higher level object 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3142
+consumer difficulties with computerized transactions an empirical investigation the prevalence with which errors may be encountered by the 
+... how many and what ***type*** of errors occur how easily are they corrected what is the reaction of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2109
+the use of quadratic residue research a quadratic residue search method has previously been suggested to ***avoid*** the 
+... quadratic residue search method hash addressing address clustering scatter storage file searching file addressing hash coding quadratic search 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1456
+an important conclusion is that although lisp and other list processing languages are ideally suited for producing complex 
+... storage and retrieval of aspects of meaning in directed graph structures an experimental system that uses lisp to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2141
+algorithmic selection of the best method for compressing map ***data*** strings the best of a dozen different methods 
+... ***data*** compression map storage information retrieval inputoutput run coding ***data*** reduction 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0618
+computers the key to total systems control an industrial viewpoint man man machine processes are characterized in five 
+... ca620314 jb march 20 1978 253 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0252
+programming a duplex computer system this paper describes a method of duplex computer programming that has been used 
+... the duplex operation gives the system greater reliability 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2341
+blocks a new ***data*** ***type*** for snobol4 a new ***data*** ***type*** called a block has been implemented for 
+... some blocks adapt in size and shape to their environment 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1698
+a statistical model for console behavior in multiuser computers the ability of a computer system to communicate with 
+... no claim is made that a virtual console behaves like any actual console but the ***entire*** collection of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0483
+on the nonexistence of a ***phrase*** structure grammar for algol 60 algol 60 is defined partly by formal 
+... it is shown that no formal mechanisms of the ***type*** used are sufficient to define algol 60 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2832
+faster retrieval from context trees corrigendum context trees provide a convenient way of storing ***data*** which is to 
+... this note presents an algorithm which improves on previous context tree retrieval algorithms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0435
+a method employing a decision matrix is presented for the handling of a standard systems programming problemthat of 
+... a decision matrix as the basis for a simple ***data*** input routine currently a great deal of time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1426
+a simulation of hospital admission policy a study is described which simulates different admission policies of a large 
+... the objective is to determine better policies for stabilization of admission and census rates while maintaining a reasonably 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1435
+design of computer simulation experiments for industrial systems the aim of this paper is to provide background information 
+... the four experimental design problems are 1 the problem of stochastic convergence 2 the problem of factor selection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2424
+the dynamic verification of operating system decisions is used on the prime system being designed and constructed at 
+... dynamic verification of operating system decisions dynamic verification of a decision implies that every time the decision is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2897
+a case study of a new code generation technique for compilers recent developments in optimizing techniques have allowed 
+... such a compiler translates the parsed source code into lower level code by a sequence of steps 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1398
+robot ***data*** screening a solution to multivariate ***type*** problems in the biological and social sciences a new approach 
+... this approach uses a logical rather than a statistical criterion by which variables are grouped into a deterministic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2265
+a model for ***type*** checking most current programming languages treat computation over different classes of objects e 
+... g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0024
+ca580504 jb march 22 1978 913 pm 
+... an improved decimal redundancy ***check*** cacm may 1958 sisson r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3133
+logic and semantic networks an extended form of semantic network is defined which can be regarded as a 
+... logic semantic networks theorem proving indexing resolution deduction logic programming 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0867
+least squares fitting of planes to surfaces using dynamic programming dynamic programming has recently been used by stone 
+... in the present paper successive models are developed to extend the method to the fitting of broken plane 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2527
+implementation of high level language machine computing machines which directly execute the statements of a high level language 
+... this report describes the actual implementation of such a machine it is a computer whose machine language is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2558
+protection in programming languages linguistic mechanisms which can be used to protect one subprogram from anothers malfunctioning are 
+... protection ***types*** environmentstrademarks seals access keys access control authentication secrecy 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1143
+analysis of decay ***type*** ***data*** a comparative study has been made of a variety of numerical techniques for 
+... these methods have been applied to artificially generated sets of ***data*** as well as to the results of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2310
+this paper argues that the computers major role as to language analysis in the humanities will be the 
+... language analysis humanities science of the humanities pattern recognition pattern generation interdisciplinary cooperation 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2450
+empirical working set behavior the working set model for program behavior has been proposed in recent years as 
+... although the words working set are now commonly encountered in the ***literature*** dealing with resource allocation there is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3166
+computing standard deviations accuracy four algorithms for the numerical computation of the standard deviation of unweighted sampled ***data*** 
+... mean standard deviation least squares updating estimates rounding error analysis condition number 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2113
+the multistore parser for hierarchical syntactic structures a syntactic parser is described for hierarchical concatenation patterns that are 
+... the method could be implemented with any interpretive grammar provided it can be expressed by the functional classification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1527
+a grammar base question answering procedure the subject of this paper is a procedure for the automatic retrieval 
+... since the recognition function succeeds just in case the posed question is drawn from the set of sentences 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1108
+digital ***data*** processor for tracking the partially illuminated moon a study of lunar tracking techniques and fabrication of 
+... the system basically consists of an optical sensor digital computer and tracker drive mechanism 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1569
+implementing ***phrase*** structure productions in pli a method is described for implementing the productions of a context free 
+... ca670704 jb february 28 1978 901 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1181
+a simple ***data*** transmission system using the office telephone a method has evolved for transmitting ***data*** of a 
+... the method requires almost no specialized equipment and uses any ordinary telephone on a callup basis 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1470
+the structure of programming languages the following are identified as major components of every programming language 1 the 
+... several alternative forms of each of these components are described compared and evaluated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1769
+the expanding world of computers the onward sweep of automatic processing of information is impeded by nine principal 
+... the main incentive for breaching these barriers is the universal need for processing information ever more urgent as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2701
+a fast and usually linear algorithm for global flow analysis ***abstract*** only complete paper jacm 231 january 1976 
+... the algorithm is shown to treat a very general class of function spaces 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+algebraic simplification a guide for the perplexed algebraic simplification is examined first from the point of view of 
+... first we describe various techniques akin to substitution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3006
+two paging algorithms are examined in terms of their anomaly potential and reference string examples of various anomalies 
+... anomalies with variable partition paging algorithms five ***types*** of anomalous behavior which may occur in paged virtual memory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3106
+a fast algorithm for copying list structures an algorithm is presented for copying an arbitrarily linked list structure 
+... list copying lisp space complexity constant workspace 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1385
+computer technology in communist china 1956 1965 based on information from translations of communist chinese news items and 
+... communist china is adjudged to have a marginal computer capability with most of its machines probably being of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1324
+the systems range from a conversation machine to programs which make sentences about pictures and systems which translate 
+... answering english ***questions*** by computer a survey fifteen experimental english language question answering systems which are programmed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1835
+the iitran programming language the iitran language developed to be used by students and its important important features 
+... languages programming languages student programming systems language design high school programs college courses 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2815
+separate compilation binding linking strong typing 4 
+... high level binding with low level linkers an easy to implement scheme is described by which a compiler 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1012
+every program for automatic syntactic analysis determines a formal parsing system 
+... formal parsing systems automatic syntactic analysis has recently become important for both natural language ***data*** processing and syntax 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0251
+ballistic cam design this paper presents a digital computer program for the rapid calculation of manufacturing ***data*** essential 
+... the cam profile generated introduces the superelevation angle required by tank main armament for a particular ***type*** ammunition 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0605
+computer simulation of city traffic in simulating traffic flow on city streets the national bureau of standards has 
+... each vehicle is assigned a digital identification giving points of entry and exit ***type*** of vehicle desired speed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0897
+note on the proof of the non existence of a ***phrase*** structure grammar for algol 60 cacm march 
+... ca630323 jb march 14 1978 100 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1737
+a global parser for context free ***phrase*** structure grammars cacm june 1968 unger s 
+... ca680608 jb february 22 1978 408 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0242
+notes on geometric weighted ***check*** digit verification this note describes a method for utilizing geometric weight modulus 11 
+... in addition some attempt has been made to show some limitations of this system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1182
+contextual correlates of synonymy experimental corroboration was obtained for the hypothesis that the proportion of words common to 
+... the shapes of the functions however indicate that similarity of context is reliable as criterion only for detecting 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2252
+a method for incrementally compiling languages with nested statement structure a method of incremental compilation is presented which 
+... the essential points of the method are 1 the syntax of the language is restricted insof ar as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2421
+a scan conversion algorithm with reduced storage requirements most graphics systems using a raster scan output device crt 
+... scan converters hardware or software must be provided to translate the picture description from the xy format to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2851
+formal verification of parallel programs two formal models for parallel computation are presented an ***abstract*** conceptual model and 
+... the former model does not distinguish between control and ***data*** states 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3067
+generalized working sets for segment reference strings the working set concept is extended for programs that reference segments 
+... the generalized working set policy gws keeps as its resident set those segments whose retention costs do not 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1247
+an operating environment for dynamic recursive computer programming systems presented in this paper is a brief nontechnical introduction 
+... the available services include dynamic allocation of storage for contiguous blocks of arbitrary size input and output for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1861
+the mad definition facility one of the first definition facilities for higher level languages is described 
+... users of the language can define new operators andor ***data*** ***types*** into the mad language so that their 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2032
+***data*** structures tree structures file structures scatter tables hashing functions information retrieval 3 
+... file structures using hashing functions a general method of file structuring is proposed which uses a hashing function 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2254
+dynamic partitioning for array languages the classical process of partitioning an array into subarrays is extended to a 
+... various modes of partitioning are defined for different ***types*** of arrays so that subarrays may vary over the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2634
+an evaluation of statistical software in the social sciences several hundred college and university computer installations now offer 
+... statistical computation statistical software descriptive statistics bivariate tables pearson correlation regression factor analysis one way analysis of variance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3002
+one of the subrecords is designated as the primary record when a request for a record is made 
+... file system file design file partitioning record partitioning 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3066
+software reliability program verification debugging testing code walkthroughs code inspections personnel selection 4 
+... a controlled experiment in program testing and code walkthroughsinspections this paper describes an experiment in program testing employing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+cellular arrays for the solution of graph problems a cellular array is a two dimensional checkerboard ***type*** interconnection 
+... the chief computational advantage offered by cellular arrays is the improvement in speed achieved by virtue of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2632
+hydra the kernel of a multiprocessor operating system this paper describes the design philosophy of hydra the kernel 
+... mmp the carnegie mellon multi mini processor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0253
+on a program for ray chaudhuris algorithm for a minimum cover of an ***abstract*** complex cacm november 1961 
+... ca611115 jb march 15 1978 1041 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2667
+execution characteristics of programs in a page on demand system ***data*** are presented which show the execution characteristics 
+... a software monitoring facility built into the supervisor was used for ***data*** collection during normal system operation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2342
+interference between communicating parallel processes various kinds of interference between communicating parallel processes have been examined by dijkstra 
+... solutions have been given for the mutual exclusion problem and associated subproblems in the form of parallel programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2083
+***data*** base fortran common common equivalencing subroutine communication ***data*** communication 3 
+... the definition for the common is contained in an easy to modify form thus allowing the control of 

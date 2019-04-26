@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2721
+the digital ***simulation*** of river plankton population dynamics this paper deals with the development of a mathematical model 
+... as an investigation of the accuracy of the ***simulation*** methods a ***simulation*** of the actual population dynamics of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3051
+a comparison of heaps and the tl structure for the ***simulation*** event set none cacm october 1978 franta 
+... simulationevent set heaps tl structure 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0757
+ca630841 jb march 13 1978 755 pm 
+... ***simulation*** of a traffic network cacm august 1963 katz j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0238
+***simulation*** and analysis of biochemical systems cacm december 1961 garfinkel d 
+... rutledge j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0633
+***simulation*** and analysis of biochemical systems iii 
+... analysis and pattern recognition cacm february 1962 garfinkel d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0643
+***simulation*** and analysis of biochemcial systems ii 
+... solution of differential equations cacm january 1962 larson r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1207
+ca650817 jb march 6 1978 752 pm 
+... remarks on ***simulation*** of boolean functions cacm august 1965 dodd g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1208
+ca650816 jb march 6 1978 753 pm 
+... ***simulation*** of computer logic by fortran arithmetic cacm august 1965 weingarten f 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1812
+random number generation monte carlo ***simulation*** 5 
+... more on fortran random number generators cacm november 1969 grosenbaugh l 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2725
+a comparison of ***simulation*** event list algorithms corrigendum cacm august 1975 vaucher j 
+... ca750810 jb january 6 1978 343 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0678
+optimizing bit time computer ***simulation*** a major component of a bit time computer ***simulation*** program is the boolean 
+... techniques are discussed for increasing the sophistication of the boolean compiler so as to optimize bit time computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1030
+techniques for the ***simulation*** of computer logic the ***simulation*** of a digital computer is an integral part of 
+... the evaluation of the boolean functions which characterize the computer being simulated constitutes one major portion of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1435
+design of computer ***simulation*** experiments for industrial systems the aim of this paper is to provide background information 
+... the four experimental design problems are 1 the problem of stochastic convergence 2 the problem of factor selection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1637
+problems in the statistical analysis of ***simulation*** experiments the comparison of means and the length of sample records 
+... the results expand the possibilities of statistical spectral analysis as applied to ***simulation*** experiments 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1870
+random numbers ***simulation*** boolean algebra bit manipulation 5 
+... some techniques for using pseudorandom numbers in computer ***simulation*** an algorithm is described by which uniform pseudorandom integers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1912
+***simulation*** of outpatient appointment systems an experimental computer program is described which simulates appointment systems employed by outpatient 
+... both major kinds of appointment systems individual and block can be simulated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2062
+the application of sequential sampling to ***simulation*** an example inventory model four different sequential sampling procedures are applied 
+... for each procedure the cost of computer time required to achieve given levels of statistical precision is calculated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2749
+***simulation*** organization event ***simulation*** clock pulse ***simulation*** significant event ***simulation*** 
+... it is concluded that the significant event method can be of value in the ***simulation*** of some systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2914
+use of the lru stack depth distribution for ***simulation*** of paging behavior two families of probability distributions were 
+... all members of both families can be derived from the lru stack depth distribution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0557
+***simulation*** of computer timing device cacm july 1962 ca620704 jb march 17 1978 857 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1329
+ca650108 jb march 8 1978 238 pm 
+... ***simulation*** of boolean functions in a decimal computer cacm january 1965 mano m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2057
+random number random vector random number generator probability distribution frequency distribution ***simulation*** monte carlo 5 
+... random vectors uniform in solid angle algorithm 381 g5 cacm may 1970 knop r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2549
+random number probability density probability distribution dipole distribution cauchy distribution ***simulation*** monte carlo 3 
+... random deviates from the dipole distribution g5 algorithm a441 cacm january 1973 knop r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3061
+searching list processing sequential searching dynamic reordering ***simulation***  3 
+... simulations of dynamic sequential search algorithms none cacm september 1978 tenenbaum a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0104
+digital ***simulation*** of discrete flow systems the discrete flow systems discussed are characterized by the movement of randomly 
+... programing a digital computer to simulate such systems utilizes some techniques not common in other approaches to physical 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1261
+modeling and ***simulation*** of digital networks the ***simulation*** of digital networks on a digital computer provides the engineer 
+... the simplicity of utilizing the fortran iv programming system as a digital network simulator is discussed an illustrated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1427
+***simulation*** of radioisotope scans by computer in radioisotope scanning a field which is assuming increasing importance in medical 
+... to study the output of scanners with various characteristics a program which simulates radioisotope scans has been written 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1890
+***simulation*** of traffic flows in a network a computer ***simulation*** program which deals with traffic flows in the 
+... traffic ***simulation*** traffic flow traffic network traffic control traffic density intersection signal setting vehicle road network list structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2742
+discrete event ***simulation*** ***simulation*** event scanning mechanisms 4 
+... improved event scanning mechanisms for discrete event ***simulation*** ***simulation*** models of large complex real world applications have occasionally 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the ***simulation*** event set recently algorithms have been presented for the realization of 
+... ***simulation*** time flow mechanisms event scanning mechanisms multilinked lists 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2970
+achieving specific accuracy in ***simulation*** output analysis this paper extends the use of the regenerative property of queueing 
+... in particular it describes a sequential estimation method which when used with the regenerative property allows results to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid ***simulation*** models of computer systems this paper describes the structure and operation of a hybrid ***simulation*** model 
+... performance evaluation ***simulation*** queueing network models central server model 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1572
+the ***simulation*** of time sharing systems the development of new large scale time sharing systems has raised a 
+... the use of the ***simulation*** is demonstrated by a study of the ibm 36067 time sharing system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1752
+resource management for a medium scale time sharing operating system task scheduling and resource balancing for a medium 
+... time sharing operating systems resource management task scheduling paging system ***simulation*** memory management virtual memories 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1928
+exclusive ***simulation*** of activity in digital networks a technique for simulating the detailed logic networks of large and 
+... ***simulation*** logical ***simulation*** digital ***simulation*** large systems ***simulation*** network structures scheduling queuing simultaneous activities parallel events 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of performance of time sharing systems by ***simulation*** a ***simulation*** model of a time sharing 
+... the effects of these variations on a measure of system performance is used to ascertain which of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+***simulation*** time flow mechanisms event list algorithm ***simulation*** time flow mechanisms event list algorithm ***simulation*** executive event scheduling 
+... a comparison of ***simulation*** event list algorithms four algorithms are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2902
+algorithm performancedynamic memory allocation dynamic memory management dynamic storage allocation garbage collection list processing memory allocation memory management 
+... dynamic memory allocation in computer ***simulation*** this paper investigates the performance of 35 dynamic memory allocation algorithms when 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3048
+performance evaluation of highly concurrent computers by deterministic ***simulation*** ***simulation*** is presented as a practical technique for performance 
+... performance evaluation deterministic ***simulation*** control stream concurrent computers 6 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3064
+event manipulation for discrete simulations requiring large numbers of events the event manipulation system presented here consists of 
+... ***simulation*** discrete systems ***simulation*** discrete event ***simulation*** time flow mechanisms 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0605
+computer ***simulation*** of city traffic in simulating traffic flow on city streets the national bureau of standards has 
+... each vehicle is assigned a digital identification giving points of entry and exit type of vehicle desired speed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1165
+the spectra 7045 emulator for the rca 301 the rca 301 emulator system is supplied with the spectra 
+... it allows an rca 301 object program to be run on the spectra 7045 without necessitating changes in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1199
+experiments performed with this model the results of the experiments and the application of the results are discussed 
+... a computer center ***simulation*** project todays computation centers are based on rapidly changing technologies of hardware and software 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1253
+quikscript a simscript like language for the g 20 quikscript is a ***simulation*** language based on simscript and 
+... the quikscript language its internal implementation and major differences between quikscript and simscript are presented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1288
+clp the cornell list processor presented in this paper are the highlights of clp a teaching language which 
+... the various advantages of clp are discussed and examples are given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1426
+a ***simulation*** of hospital admission policy a study is described which simulates different admission policies of a large 
+... the objective is to determine better policies for stabilization of admission and census rates while maintaining a reasonably 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1541
+a language for modeling and simulating dynamic systems the general objective of this language is to facilitate both 
+... the ability to represent systems containing highly interactive processes is an essential feature 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1716
+normal random deviates algorithm 334 g5 cacm july 1968 bell j 
+... normal deviates normal distribution random number random number generator ***simulation*** probability distribution frequency distribution random 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1894
+normal deviates normal distribution random number random number generator ***simulation*** probability distribution frequency distribution random 5 
+... normal random deviates algorithm 334 g5 cacm may 1969 knop r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1933
+coding the lehmer pseudo random number generator an algorithm and coding technique is presented for quick evaluation of 
+... prime factorization for 261 2 and a primitive root for 261 1 the next largest prime mersenne number 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2077
+the cyclical majority problem the problem of the cyclical majority is presented and some new simulated results for 
+... arrows paradox cyclical majority ***simulation*** voters paradox voting paradox 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2261
+an approximate method for generating symmetric random variables a method for generating values of continuous symmetric random variables 
+... ***simulation*** monte carlo probability statistics approximations random variables random numbers moments distribution 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2262
+garbage collection virtual memory list processing paging segmentation page tables 4 
+... garbage collection for virtual memory computer systems in list processing there is typically a growing demand for space 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2272
+algorithms sorting by replacement selection expected string length 5 
+... sorting by natural selection a family of sorting algorithms is proposed the members of which make fuller use 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2318
+the role of computer system models in performance evaluation models constitute a useful means of investigating computer system 
+... modeling evaluation performance analytic models ***simulation*** models system models 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2349
+random number normal density normal distribution gaussian density gaussian distribution ***simulation*** monte carlo 5 
+... generation of random correlated normal variables g5 algorithm a425 cacm may 1972 hurst r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2686
+an approximate method for generating asymmetric random variables tukeys lambda distribution is generalized to provide an algorithm for 
+... ***simulation*** monte carlo probability statistics approximations random variables random numbers moments distribution 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2844
+heaps applied to event driven mechanisms cacm july 1976 gonnet g 
+... discrete event ***simulation*** event scanning mechanisms priority queues heaps 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2955
+buddy systems two algorithms are presented for implementing any of a class of buddy systems for dynamic storage 
+... dynamic storage allocation buddy system fragmentation fibonacci buddy system weighted buddy system 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3107
+generating beta variates with nonintegrel shape parameters a new rejection method is described for generating beta variates 
+... beta variates random numbers ***simulation*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1366
+computer ***simulation*** discussion of the technique and comparison of languages the purpose of this paper is to present 
+... the second part is devoted to computer ***simulation*** and ***simulation*** languages 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1380
+a system description also serves as a source language ***simulation*** program 
+... simula an algol based ***simulation*** language this paper is an introduction to simula a programming language designed to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1856
+the teachable language comprehender a ***simulation*** program and theory of language the teachable language comprehender tlc is a 
+... when text which the program has not seen before is input to it it comprehends that text by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1166
+a use of macros in translation of symbolic assembly language of one computer to another a set of 
+... this set inserted at the beginning of the 7090 symbolic deck treats incompatible instruction mnemonics as macro instructions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1518
+the paper describes an experimental model of system360 its hardware software and its environment 
+... an experimental model of system360 the problem of predicting the performance of modern computer systems is formidable 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1653
+system performance evaluation survey and appraisal the state of the art of system performance evaluation is reviewed and 
+... the central role of measurement in performance evaluation and in the development of evaluation methods is explored 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1674
+one line random number generators and their use in combinations some one line random number generators i 
+... random number generation monte carlo ***simulation*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2105
+an interactive computer system using graphical flowchart input an interactive computer system operational on a graphical computer terminal 
+... a graphical interactive system provides an environment to perform this iterative process efficiently and effectively 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2276
+computer methods for sampling from the exponential and normal distributions various methods are known for transforming uniformly distributed 
+... random numbers pseudorandom normal distribution exponential distribution exponential distribution ***simulation*** numerical analysis 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2435
+a class of dynamic memory allocation algorithms anew dynamic memory allocation algorithm the fibonacci system is introduced 
+... dynamic storage allocation buddy system ***simulation*** fibonacci fragmentation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2535
+the effects of multiplexing on a computer communications system a study is made of the way in which 
+... it is concluded that while for certain values of system parameters there is noticeable improvement in the performance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2569
+computer generation of gamma random variates with non integral shape parameters when the shape parameter a is integral 
+... there is no simple method for generating gamma random variates with non integral shape parameters 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2596
+a weighted buddy method for dynamic storage allocation an extension of the buddy method called the weighted buddy 
+... weighted buddy algorithm buddy systems memory allocation dynamic storage allocation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2682
+benchmarks calibration drive workload input to ***simulation*** probability distribution representative workload synthetic workload workload characteristics 5 
+... on the construction of a representative synthetic workload a general method of constructing a drive workload representative of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2798
+analysis of interleaved memory systems using blockage buffers a model of interleaved memory systems is presented and the 
+... the simulations investigate the performance of various system structures i 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2862
+analysis of the pff replacement algorithm via a semi markov model an analytical model is presented to estimate 
+... pff replacement algorithm semi markov model ***simulation*** of replacement algorithm 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+routing algorithms adaptive routing quadratic routing alternate routing store and forward network distributed network computer network message switching 
+... on quadratic adaptive routing algorithms two analytic models of a store and forward communications network are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2918
+multiprocessor memory organization and memory interference the structure of shared memory in a multiprocessor computer system is examined 
+... alternative memory organizations are compared and it is shown that a home memory organization in which each processor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3042
+binary search trees pk trees ipk trees search length node insertion subtree rotation 3 
+... power trees the new class of pk trees is presented where height balance is maintained for the nodes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0675
+coding clinical laboratory data for automatic storage and retrieval a series of clinical laboratory codes have been developed 
+... flexible computer produced composite laboratory reports are also discussed along with reproduction of such a report 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1484
+a language for describing the functions of synchronous systems before the design of a system is started the 
+... the inadequacies of the standard programming languages for the description of systems are discussed and a dialect of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1517
+methods for analyzing data from computer ***simulation*** experiments this paper addresses itself to the problem of analyzing data 
+... the paper adopts the position that the particular technique of analysis possibly not any one of the above 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1591
+a model for a multifunctional teaching system a teaching system model that was incorporated into an operating system 
+... the model transferred control to the operating system to execute functions other than teaching and then recovered control 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial system adept a display expedited processing and tutorial system is described 
+... this system was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1695
+plexus an on line system for modeling neural networks a description is presented of plexus a system which 
+... the system operated entirely from a digital display unit interacts directly with the user and permits easy and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1711
+information is given on patents copyrights and trade secret protection for programs and the problem of using copyrighted 
+... law legal lawyer liability torts negligence contracts warrantees guarantees accounting regulations ***simulation*** income tax copyrights patents trade secrets 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+a case study in programming for parallel processors an affirmative partial answer is provided to the question of 
+... parallel processor systems are multiprocessor systems in which several of the processors can simultaneously execute separate tasks of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1845
+loader standardization for overlay programs the overlay capability is described for four of the third generation computer systems 
+... loader overlay partition region segmentation linkage linkage editor standardization memory utilization memory occupation tree structure cdc 6000 ge 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1846
+on simulating networks of parallel processes in which simultaneous events may occur some of the problems of simulating 
+... the systems are assumed to be described as a network of interconnected sequential processes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2091
+a convenient easy to learn and to use high level problem oriented language to solve and study partial 
+... pdel a language for partial differential equations conventional computer methods available to solve continuous system problems characterized by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2106
+computer education in a graduate school of management several years of experience have led to the belief that 
+... concepts such as paging and priority interrupt systems can best be explained at the machine language level 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2375
+a comparative analysis of disk scheduling policies five well known scheduling policies for movable head disks are compared 
+... access time analytical models auxiliary storage direct access storage disk analysis disk scheduling performance criteria peripheral memory devices 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2452
+evaluation and selection of file organization a model and system this work first discusses the factors that affect 
+... file organization file structures file management file organization performance file organization model file structure design secondary index organization 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2542
+a software design and evaluation system a critical failure of current software system design and implementation methodology is 
+... in this paper the reasons for this failure are explored and a new methodology which overcomes many of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2628
+drum scheduling disk scheduling shortest latency time first sltf minimal total processing time mtpt rotating storage units 4 
+... minimal total processing time drum and disk scheduling disciplines this article investigates the application of minimal total processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2652
+design of programming languages language contraction compiler design compilation cost algol 4 
+... the results suggest a function which describes the effect of changes in the power of a language on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2829
+texture and reflection in computer generated images in 1974 catmull developed a new algorithm for rendering images of 
+... this paper describes extensions of this algorithm in the areas of texture ***simulation*** and lighting models 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2859
+memory memory interference multiprocessing interleaved memory trace driven ***simulation*** 4 
+... interference in multiprocessor computer systems with interleaved memory this paper analyzes the memory interference caused by several processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2882
+a stochastic evaluation model for database organization in data retrieval systems experimental work in the valuation of large 
+... this paper discusses a ***simulation*** model of a data retrieval system which has the effect of significantly reducing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+response time monitor computer networks time sharing systems comparative response time arpa network anlytic modeling ***simulation*** benchmark jobs 
+... dynamic response time prediction for computer networks if the ultimate aim of a computing network is resource sharing 

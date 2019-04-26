@@ -1,0 +1,1 @@
+a method for finding hamilton paths and knight s tours the use of warnsdorff rule finding a knight tour is generalized applied to the problem path in graph theoretic justification method given cacm july 1967 pohl i ca670710 jb february 28 1978 8 am 1563 5 

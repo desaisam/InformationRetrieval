@@ -1,0 +1,1 @@
+calculation of fourier integrals algorithm r418 cacm june 1972 einarsson b quadrature filon integration coefficients integrals series spline approximation extrapolation richardson 5 16 ca720615 jb january 30 1978 3 53 pm 2330 

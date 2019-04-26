@@ -1,0 +1,1 @@
+comments on a paper by t c chen and i ho cacm august 1975 smith a j binary coded decimal digits data storage compression huffman codes variable length 6 32 34 ca750806 jb january 1978 4 37 pm 2729 2288 5 2801 

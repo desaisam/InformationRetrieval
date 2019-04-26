@@ -1,0 +1,1 @@
+note compiling algorithms compiling generators arithmetic expressions discussed presently experimental compiler improvement suggested speierman burroughs cacm march 1964 anderson ca640309 jb 10 1978 3 33 1122 5 1551 1945 823 6 914 915 917 984 989 990 1012 1084 1098 1138 1139 1141 1200 1223 1265 1336 1396 1455 1477 1487 1491 1496 483 584 669 680 763  

@@ -1,0 +1,1 @@
+automatic analysis of electronic digital circuits using list processing a mapping from black diagrams digital circuits to list structures is described together with a processing program written for the control data 3600 which uses this automatically carry out circuit analysis cacm may 1966 shalla l ca660513 jb march 3 1978 9 24 am 1424 5 1846 1380 6 1484 1572 576 

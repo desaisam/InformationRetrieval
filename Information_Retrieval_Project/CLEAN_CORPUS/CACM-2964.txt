@@ -1,0 +1,1 @@
+an approach to optimal design of storage parameters in databases cacm may 1977 milman y database organization storage parameter optimization resident overflow 3 73 74 ca770508 jb december 29 1 48 am 2964 5 

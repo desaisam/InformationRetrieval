@@ -1,0 +1,1 @@
+remark romberg quadrature modified form quadrature sensitive accumulation rounding errors customary cacm april 1965 krasun prager ca650418 jb march 7 1978 3 27 pm 1273 5 1352 1982 2040 1 6 834 872 1040 1092 1241 1356 1883 324 429 570 621 786  

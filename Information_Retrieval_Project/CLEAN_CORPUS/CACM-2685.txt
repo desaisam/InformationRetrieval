@@ -1,0 +1,1 @@
+the parallel execution of do loops methods are developed for the parallel execution different iterations a loop both asynchronous multiprocessor computers and array considered practical application to design compilers such is discussed cacm february 1974 lamport l computing vector loops 4 12 5 24 ca740204 jb january 18 1978 1 14 pm 2685 2785 2876 2433 6 2632 

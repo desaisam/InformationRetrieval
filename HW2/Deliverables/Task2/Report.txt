@@ -1,0 +1,4 @@
+a. The number of pages with no in-links (sources) = 6
+b. The number of pages with no out-links (sinks) = 19
+c. Maximum in-degree = 488
+d. Maximum Out-degree = 533

@@ -1,0 +1,1 @@
+algol based implementation snobol 4 patterns cacm july 1977 brownlee patterns pattern matching string processing implementation algorithms pascal 29 ca770710 jb december 28 8 15 2942 5  

@@ -1,0 +1,100 @@
+1 Q0 Satellite galaxies of the Milky Way 1 0.9378933 LUCENE
+1 Q0 Local Group 2 0.9326278 LUCENE
+1 Q0 Milky Way 3 0.6832869 LUCENE
+1 Q0 Galaxy 4 0.6817189 LUCENE
+1 Q0 GN-z11 5 0.6216773 LUCENE
+1 Q0 Orion Arm 6 0.50119597 LUCENE
+1 Q0 Laniakea Supercluster 7 0.48788786 LUCENE
+1 Q0 Virgo Supercluster 8 0.4631306 LUCENE
+1 Q0 Intergalactic travel 9 0.43285853 LUCENE
+1 Q0 Local Bubble 10 0.38018084 LUCENE
+1 Q0 Outline of space science 11 0.33230832 LUCENE
+1 Q0 Hubble Ultra Deep Field 12 0.2800512 LUCENE
+1 Q0 Astronomy 13 0.25723967 LUCENE
+1 Q0 Self-replicating spacecraft 14 0.2333532 LUCENE
+1 Q0 Observable universe 15 0.23169282 LUCENE
+1 Q0 Star 16 0.22947583 LUCENE
+1 Q0 Extraterrestrial life 17 0.22697222 LUCENE
+1 Q0 Gould Belt 18 0.18934065 LUCENE
+1 Q0 Interstellar medium 19 0.18817018 LUCENE
+1 Q0 Universe 20 0.18118832 LUCENE
+1 Q0 Heliopause (astronomy) 21 0.180636 LUCENE
+1 Q0 Outer space 22 0.17305963 LUCENE
+1 Q0 Solar System 23 0.16977341 LUCENE
+1 Q0 Sun 24 0.14971288 LUCENE
+1 Q0 History of astronomy 25 0.14302847 LUCENE
+1 Q0 Gravitational slingshot 26 0.14254756 LUCENE
+1 Q0 Gravity assist 27 0.14254756 LUCENE
+1 Q0 Local Sheet 28 0.13388406 LUCENE
+1 Q0 NGC 6357 29 0.13388406 LUCENE
+1 Q0 Pismis 24 30 0.13388406 LUCENE
+1 Q0 Voyager 1 31 0.12318961 LUCENE
+1 Q0 Colonization of Mercury 32 0.11933958 LUCENE
+1 Q0 Colonization of Phobos 33 0.11933958 LUCENE
+1 Q0 Space colonization 34 0.11933958 LUCENE
+1 Q0 Outline of the Solar System 35 0.118337914 LUCENE
+1 Q0 Local Interstellar Cloud 36 0.11714855 LUCENE
+1 Q0 Konstantin Tsiolkovsky 37 0.11246653 LUCENE
+1 Q0 NGC 1952 38 0.11246653 LUCENE
+1 Q0 Interplanetary spaceflight 39 0.101102605 LUCENE
+1 Q0 Astrobiology 40 0.10026835 LUCENE
+1 Q0 Interstellar spaceflight 41 0.09284201 LUCENE
+1 Q0 Interstellar travel 42 0.09284201 LUCENE
+1 Q0 Oort cloud 43 0.08119245 LUCENE
+1 Q0 Celestial body 44 0.0795334 LUCENE
+1 Q0 Neptune trojan 45 0.06694203 LUCENE
+1 Q0 Space research 46 0.06694203 LUCENE
+1 Q0 Terrestrial planet 47 0.06694203 LUCENE
+1 Q0 Terrestrial planets 48 0.06694203 LUCENE
+1 Q0 Human extinction 49 0.062116735 LUCENE
+1 Q0 Hills cloud 50 0.05937877 LUCENE
+1 Q0 Colonization 51 0.055506032 LUCENE
+1 Q0 Makemake 52 0.054816466 LUCENE
+1 Q0 S_2015 (136472) 1 53 0.054816466 LUCENE
+1 Q0 Gravity 54 0.054083116 LUCENE
+1 Q0 Hubble Space Telescope 55 0.053113155 LUCENE
+1 Q0 Nemesis (hypothetical star) 56 0.05089609 LUCENE
+1 Q0 Planet 57 0.050206523 LUCENE
+1 Q0 Planets 58 0.050206523 LUCENE
+1 Q0 Rings of Neptune 59 0.050206523 LUCENE
+1 Q0 Deep space exploration 60 0.0397667 LUCENE
+1 Q0 Origin of life 61 0.037973635 LUCENE
+1 Q0 Satellite communications 62 0.037004024 LUCENE
+1 Q0 Telecommunications satellite 63 0.037004024 LUCENE
+1 Q0 Anti-matter 64 0.03654431 LUCENE
+1 Q0 Alpha Centauri 65 0.033471014 LUCENE
+1 Q0 Astronomer 66 0.033138916 LUCENE
+1 Q0 Satellite 67 0.029689385 LUCENE
+1 Q0 Space weather 68 0.029689385 LUCENE
+1 Q0 Comet 69 0.029287137 LUCENE
+1 Q0 Space exploration 70 0.029287137 LUCENE
+1 Q0 Space missions 71 0.029287137 LUCENE
+1 Q0 Planet Nine 72 0.029176902 LUCENE
+1 Q0 Ghana 73 0.026938654 LUCENE
+1 Q0 Light-year 74 0.026511133 LUCENE
+1 Q0 Light-years 75 0.026511133 LUCENE
+1 Q0 Satellite television 76 0.026511133 LUCENE
+1 Q0 NASA 77 0.025448045 LUCENE
+1 Q0 National Aeronautics and Space Administration 78 0.025448045 LUCENE
+1 Q0 Earth 79 0.025103262 LUCENE
+1 Q0 List of NASA missions 80 0.023197241 LUCENE
+1 Q0 Soft landing (aeronautics) 81 0.022258779 LUCENE
+1 Q0 Mars to Stay 82 0.019276667 LUCENE
+1 Q0 Satellite Internet access 83 0.015902441 LUCENE
+1 Q0 Bernal sphere 84 0.014839185 LUCENE
+1 Q0 Luna 2 85 0.014839185 LUCENE
+1 Q0 Stephen Hawking 86 0.014059651 LUCENE
+1 Q0 Satellite phone 87 0.013630662 LUCENE
+1 Q0 Apollo 17 88 0.013255566 LUCENE
+1 Q0 Religion in space 89 0.013116112 LUCENE
+1 Q0 Colonization of trans-Neptunian objects 90 0.012984287 LUCENE
+1 Q0 Earth trojan 91 0.0111293895 LUCENE
+1 Q0 Kerim Kerimov 92 0.0111293895 LUCENE
+1 Q0 List of Jupiter-crossing minor planets 93 0.0111293895 LUCENE
+1 Q0 List of Mir spacewalks 94 0.0111293895 LUCENE
+1 Q0 Solar System model 95 0.0111293895 LUCENE
+1 Q0 Decolonisation of Asia 96 0.010492889 LUCENE
+1 Q0 Space launch 97 0.010492889 LUCENE
+1 Q0 Parker Solar Probe 98 0.009638334 LUCENE
+1 Q0 Robotic spacecraft 99 0.009638334 LUCENE
+1 Q0 Unmanned robotic space probes 100 0.009638334 LUCENE

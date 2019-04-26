@@ -1,0 +1,1 @@
+a comparison of the fortran language implementation for several computers feature by comparison is made five different implementations iv representing three manufacturers table constructed showing where possible use each in implementation only those items which are from or have been added to ii shown cacm february 1966 wright d l ca660204 jb march 3 1978 19 pm 1483 5 

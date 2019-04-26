@@ -1,0 +1,1 @@
+adaptive numerical integration simpson rule algorithm 145 cacm april 1963 mckeeman ca630419 jb march 14 1978 11 49 1352 5 872 2074 2093 834 6 1040 1092 1241 1273 1298 1573 324 429 570 621 786  

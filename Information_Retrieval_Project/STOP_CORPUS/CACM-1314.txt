@@ -1,0 +1,1 @@
+organization symbol tables efficient symbol table organization important feature design compiler construction virginia algol 60 burroughs b205 primary consideration recognition identifiers reserved words rapid general features technique cacm february 1965 batson ca650210 jb march 7 1978 11 01 pm 1314 5 2033 6 1785 1786  

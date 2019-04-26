@@ -1,0 +1,1 @@
+petri nets and speed independent design nets are investigated as one method of modeling speed independent asynchronous circuits a study circuit realizations leads to a demonstration their usefulness in operation this is emphasized by the processor from modules developed investigation net implementation cacm august 1973 misunas d 6 1 33 ca730805 jb january 23 1978 10 46 am 2469 5 

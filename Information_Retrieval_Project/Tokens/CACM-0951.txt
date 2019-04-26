@@ -1,0 +1,1 @@
+rational chebyshev approximations to the bessel function integrals kis x the second remes algorithm is used approximate integrals by rational functions related coefficients for approximations of ki1 ki2 ki3 are given different precisions cacm december 1964 gargantini i pomentale t ca641220 jb march 9 1978 3 12 pm 1015 4 951 1346 1440 1645 5 532 6 

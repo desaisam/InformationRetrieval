@@ -1,0 +1,1 @@
+construction of a set test matrices this paper develops the equations and properties set test matrices which are useful in determination accuracy routines for finding inverse determinant or eigenvalues matrix cacm august 1959 aegerter m j ca590803 jb march 22 1978 6 09 pm 70 5 

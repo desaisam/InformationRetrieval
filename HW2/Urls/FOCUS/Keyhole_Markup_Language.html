@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Keyhole Markup Language - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Keyhole_Markup_Language","wgTitle":"Keyhole Markup Language","wgCurRevisionId":882292644,"wgRevisionId":882292644,"wgArticleId":2139847,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with example code","Keyhole Markup Language","XML-based standards","Google","XML markup languages","GIS file formats","Open Geospatial Consortium","Open formats"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Keyhole_Markup_Language","wgRelevantArticleId":2139847,"wgRequestId":"XGksiQpAIDAAAJvJNmAAAAAH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q79587","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"enwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.17"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Keyhole_Markup_Language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Keyhole_Markup_Language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Keyhole_Markup_Language rootpage-Keyhole_Markup_Language skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Keyhole Markup Language</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"KML" redirects here. For other uses, see <a href="/wiki/KML_(disambiguation)" class="mw-disambig" title="KML (disambiguation)">KML (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><caption style="font-size:130%; padding-bottom:0.15em;">Keyhole Markup Language</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Keyhole_Markup_Language.png" class="image"><img alt="Keyhole Markup Language.png" src="//upload.wikimedia.org/wikipedia/en/b/b1/Keyhole_Markup_Language.png" decoding="async" width="66" height="66" data-file-width="66" data-file-height="66" /></a></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extensions</a></th><td style="line-height:1.35em;"><code>.kml</code>, <code>.kmz</code></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Media_type" title="Media type">Internet media&#160;type</a></th><td style="line-height:1.35em;"><div class="plainlist">
+<ul><li><code>application/vnd.google-earth.kml+xml</code></li>
+<li><code>application/vnd.google-earth.kmz</code></li></ul>
+</div></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;">Developed&#160;by</th><td style="line-height:1.35em;"><a href="/wiki/Keyhole,_Inc." class="mw-redirect" title="Keyhole, Inc.">Keyhole, Inc.</a>, <a href="/wiki/Google" title="Google">Google</a></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;">Type of format</th><td style="line-height:1.35em;"><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;">Extended&#160;from</th><td style="line-height:1.35em;"><a href="/wiki/XML" title="XML">XML</a></td></tr></tbody></table>
+<p><b>Keyhole Markup Language</b> (<b>KML</b>) is an <a href="/wiki/XML" title="XML">XML</a> notation for expressing geographic annotation and visualization within <a href="/wiki/Internet" title="Internet">Internet</a>-based, two-dimensional maps and three-dimensional <a href="/wiki/Earth" title="Earth">Earth</a> browsers. KML was developed for use with <a href="/wiki/Google_Earth" title="Google Earth">Google Earth</a>, which was originally named Keyhole Earth Viewer. It was created by <a href="/wiki/Keyhole,_Inc" class="mw-redirect" title="Keyhole, Inc">Keyhole, Inc</a>, which was acquired by <a href="/wiki/Google" title="Google">Google</a> in 2004. KML became an international standard of the <a href="/wiki/Open_Geospatial_Consortium" title="Open Geospatial Consortium">Open Geospatial Consortium</a> in 2008.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Google Earth was the first program able to view and graphically edit KML files. Other projects such as <a href="/wiki/Marble_(software)" title="Marble (software)">Marble</a> have also started to develop KML support.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geodetic_reference_systems_in_KML"><span class="tocnumber">2</span> <span class="toctext">Geodetic reference systems in KML</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#OGC_standard_process"><span class="tocnumber">3</span> <span class="toctext">OGC standard process</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The KML file specifies a set of features (place marks, images, polygons, 3D models, textual descriptions, etc.) that can be displayed on maps in <a href="/wiki/Geographic_information_system" title="Geographic information system">geospatial software</a> implementing the KML encoding. Each place always has a <a href="/wiki/Longitude" title="Longitude">longitude</a> and a <a href="/wiki/Latitude" title="Latitude">latitude</a>. Other data can make the view more specific, such as tilt, heading, altitude, which together define a "camera view" along with a timestamp or timespan. KML shares some of the same structural grammar as <a href="/wiki/Geography_Markup_Language" title="Geography Markup Language">GML</a>. Some KML information cannot be viewed in Google Maps or Mobile.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>KML files are very often distributed in <b>KMZ</b> files, which are <a href="/wiki/ZIP_(file_format)" class="mw-redirect" title="ZIP (file format)">zipped</a> KML files with a .kmz extension. These must be legacy (ZIP 2.0) compression compatible (i.e. stored or <a href="/wiki/DEFLATE" title="DEFLATE">deflate</a> method), otherwise the .kmz file might not uncompress in all geobrowsers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The contents of a KMZ file are a single root KML document (notionally "doc.kml") and optionally any overlays, images, icons, and <a href="/wiki/COLLADA" title="COLLADA">COLLADA</a> 3D models referenced in the KML including network-linked KML files. The root KML document by convention is a file named "doc.kml" at the root directory level, which is the file loaded upon opening. By convention the root KML document is at root level and referenced files are in subdirectories (e.g. images for overlay images).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>An example KML document is:
+</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span>
+<span class="nt">&lt;kml</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.opengis.net/kml/2.2&quot;</span><span class="nt">&gt;</span>
+<span class="nt">&lt;Document&gt;</span>
+<span class="nt">&lt;Placemark&gt;</span>
+  <span class="nt">&lt;name&gt;</span>New York City<span class="nt">&lt;/name&gt;</span>
+  <span class="nt">&lt;description&gt;</span>New York City<span class="nt">&lt;/description&gt;</span>
+  <span class="nt">&lt;Point&gt;</span>
+    <span class="nt">&lt;coordinates&gt;</span>-74.006393,40.714172,0<span class="nt">&lt;/coordinates&gt;</span>
+  <span class="nt">&lt;/Point&gt;</span>
+<span class="nt">&lt;/Placemark&gt;</span>
+<span class="nt">&lt;/Document&gt;</span>
+<span class="nt">&lt;/kml&gt;</span>
+</pre></div>
+<p>The <a href="/wiki/MIME_type" class="mw-redirect" title="MIME type">MIME type</a> associated with KML is <i>application/vnd.google-earth.kml+xml</i>; the MIME type associated with KMZ is <i>application/vnd.google-earth.kmz</i>.
+</p>
+<h2><span class="mw-headline" id="Geodetic_reference_systems_in_KML">Geodetic reference systems in KML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=2" title="Edit section: Geodetic reference systems in KML">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For its reference system, KML uses 3D geographic coordinates: longitude, latitude and altitude, in that order, with negative values for west, south and below mean sea level if the altitude data is available. The longitude, latitude components (decimal degrees) are as defined by the <a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System of 1984 (WGS84)</a>. The vertical component (altitude) is measured in meters from the <a href="/wiki/EGM96" title="EGM96">WGS84 EGM96 Geoid vertical datum</a>. If altitude is omitted from a coordinate string, e.g. (-77.03647, 38.89763) then the default value of 0 (approximately sea level) is assumed for the altitude component, i.e. (-77.03647, 38.89763, 0).
+</p><p>A formal definition of the coordinate reference system (encoded as <a href="/wiki/Geography_Markup_Language" title="Geography Markup Language">GML</a>) used by KML is contained in the OGC KML 2.2 Specification. This definition references well-known <a href="/wiki/European_Petroleum_Survey_Group" class="mw-redirect" title="European Petroleum Survey Group">EPSG</a> <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">CRS</a> components.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="OGC_standard_process">OGC standard process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=3" title="Edit section: OGC standard process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The KML 2.2 specification was submitted to the <a href="/wiki/Open_Geospatial_Consortium" title="Open Geospatial Consortium">Open Geospatial Consortium</a> to assure its status as an open standard for all <a href="/wiki/Virtual_globe" title="Virtual globe">geobrowsers</a>.  In November 2007 a new KML 2.2 Standards Working Group was established within OGC to formalize KML 2.2 as an OGC standard.  Comments were sought on the proposed standard until January 4, 2008,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and it became an official OGC standard on April 14, 2008.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>The OGC KML Standards Working Group finished working on change requests to KML 2.2 and incorporated accepted changes into the KML 2.3 standard.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+The official OGC KML 2.3 standard was published in August 4, 2015.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/CityGML" title="CityGML">CityGML</a></li>
+<li><a href="/wiki/COLLADA" title="COLLADA">COLLADA</a></li>
+<li><a href="/wiki/Geography_Markup_Language" title="Geography Markup Language">Geography Markup Language</a></li>
+<li><a href="/wiki/Geospatial_content_management_system" title="Geospatial content management system">Geospatial content management system</a></li>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Google Earth</a></li>
+<li><a href="/wiki/GPS_eXchange_Format" class="mw-redirect" title="GPS eXchange Format">GPS eXchange Format</a></li>
+<li><a href="/wiki/Point_of_interest" title="Point of interest">Point of interest</a></li>
+<li><a href="/wiki/Waypoint" title="Waypoint">Waypoint</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengeospatial.org/pressroom/pressreleases/857">"OGC® Approves KML as Open Standard &#124; OGC(R)"</a>. Opengeospatial.org. 2008-04-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OGC%C2%AE+Approves+KML+as+Open+Standard+%26%23124%3B+OGC%28R%29&amp;rft.pub=Opengeospatial.org&amp;rft.date=2008-04-14&amp;rft_id=http%3A%2F%2Fwww.opengeospatial.org%2Fpressroom%2Fpressreleases%2F857&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r879151008">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengeospatial.org/standards/kml">"Kml &#124; Ogc(R)"</a>. Opengeospatial.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kml+%26%23124%3B+Ogc%28R%29&amp;rft.pub=Opengeospatial.org&amp;rft_id=http%3A%2F%2Fwww.opengeospatial.org%2Fstandards%2Fkml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://marble.kde.org/kml-guide.php">"KML Support in Marble"</a>. Marble.kde.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=KML+Support+in+Marble&amp;rft.pub=Marble.kde.org&amp;rft_id=http%3A%2F%2Fmarble.kde.org%2Fkml-guide.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://maps.google.com/support/bin/answer.py?answer=41136&amp;topic=1475">"Can Google Maps read the KML files I've made for Google Earth?"</a>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Can+Google+Maps+read+the+KML+files+I%27ve+made+for+Google+Earth%3F&amp;rft.pub=Google&amp;rft_id=https%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fanswer%3D41136%26topic%3D1475&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://support.google.com/maps/bin/answer.py?hl=en&amp;answer=41136">"Viewing data from Google Earth"</a>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Viewing+data+from+Google+Earth&amp;rft.pub=Google&amp;rft_id=https%3A%2F%2Fsupport.google.com%2Fmaps%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D41136&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://code.google.com/apis/kml/documentation/kmzarchives.html">"KMZ Files"</a>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=KMZ+Files&amp;rft.pub=Google&amp;rft_id=https%3A%2F%2Fcode.google.com%2Fapis%2Fkml%2Fdocumentation%2Fkmzarchives.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Wilson, Tim, ed. (2008-04-14). <a rel="nofollow" class="external text" href="http://portal.opengeospatial.org/files/?artifact_id=27810"><i>OGC KML</i></a>. Open Geospatial Consortium, Inc. p.&#160;14<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=OGC+KML&amp;rft.pages=14&amp;rft.pub=Open+Geospatial+Consortium%2C+Inc.&amp;rft.date=2008-04-14&amp;rft_id=http%3A%2F%2Fportal.opengeospatial.org%2Ffiles%2F%3Fartifact_id%3D27810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.opengeospatial.org/pressroom/pressreleases/802">"The OGC Seeks Comment on OGC Candidate KML 2.2 Standard"</a> (Press release). Open Geospatial Consortium, Inc. 2007-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+OGC+Seeks+Comment+on+OGC+Candidate+KML+2.2+Standard&amp;rft.pub=Open+Geospatial+Consortium%2C+Inc&amp;rft.date=2007-12-04&amp;rft_id=http%3A%2F%2Fwww.opengeospatial.org%2Fpressroom%2Fpressreleases%2F802&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Shankland, Stephen (2008-04-14). <a rel="nofollow" class="external text" href="http://www.news.com/8301-10784_3-9917421-7.html">"Google mapping spec now an industry standard"</a>. <a href="/wiki/CNET" title="CNET">CNET</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+mapping+spec+now+an+industry+standard&amp;rft.pub=CNET&amp;rft.date=2008-04-14&amp;rft.au=Shankland%2C+Stephen&amp;rft_id=http%3A%2F%2Fwww.news.com%2F8301-10784_3-9917421-7.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengeospatial.org/projects/groups/kmlswg">"OGC KML 2.3 SWG"</a>. OGC<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OGC+KML+2.3+SWG&amp;rft.pub=OGC&amp;rft_id=http%3A%2F%2Fwww.opengeospatial.org%2Fprojects%2Fgroups%2Fkmlswg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://docs.opengeospatial.org/is/12-007r2/12-007r2.html">"OGC KML 2.3 Standard"</a>. OGC<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OGC+KML+2.3+Standard&amp;rft.pub=OGC&amp;rft_id=http%3A%2F%2Fdocs.opengeospatial.org%2Fis%2F12-007r2%2F12-007r2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKeyhole+Markup+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.opengeospatial.org/standards/kml/">OGC KML 2.2 Standard</a></li>
+<li><a rel="nofollow" class="external text" href="http://schemas.opengis.net/kml/2.2.0/">OGC Official KML 2.2 Schema</a></li>
+<li><a rel="nofollow" class="external text" href="https://developers.google.com/kml/documentation/?csw=1">Google's KML Documentation</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Standards_of_the_Open_Geospatial_Consortium_(OGC)" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Open_Geospatial_Consortium_standards" title="Template:Open Geospatial Consortium standards"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Open_Geospatial_Consortium_standards" title="Template talk:Open Geospatial Consortium standards"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Open_Geospatial_Consortium_standards&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Standards_of_the_Open_Geospatial_Consortium_(OGC)" style="font-size:114%;margin:0 4em">Standards of the <a href="/wiki/Open_Geospatial_Consortium" title="Open Geospatial Consortium">Open Geospatial Consortium</a> (OGC)</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catalog_Service_for_the_Web" title="Catalog Service for the Web">CSW</a></li>
+<li><a href="/wiki/GeoPackage" title="GeoPackage">GeoPackage</a></li>
+<li><a href="/wiki/GeoRSS" title="GeoRSS">GeoRSS</a></li>
+<li><a href="/wiki/GeoSPARQL" title="GeoSPARQL">GeoSPARQL</a></li>
+<li><a href="/wiki/Geography_Markup_Language" title="Geography Markup Language">GML</a></li>
+<li><a class="mw-selflink selflink">KML</a></li>
+<li><a href="/wiki/Observations_and_Measurements" title="Observations and Measurements">O&amp;M</a></li>
+<li><a href="/wiki/OGC_Reference_Model" title="OGC Reference Model">OGC Reference Model</a></li>
+<li><a href="/wiki/SensorML" title="SensorML">SensorML</a></li>
+<li><a href="/wiki/Sensor_Observation_Service" title="Sensor Observation Service">SOS</a></li>
+<li><a href="/wiki/Simple_feature_access" class="mw-redirect" title="Simple feature access">SFA</a></li>
+<li><a href="/wiki/Styled_Layer_Descriptor" title="Styled Layer Descriptor">SLD</a></li>
+<li><a href="/wiki/SRID" class="mw-redirect" title="SRID">SRID</a></li>
+<li><a href="/wiki/TransducerML" title="TransducerML">TransducerML</a></li>
+<li><a href="/wiki/Tile_Map_Service" title="Tile Map Service">TMS</a></li>
+<li><a href="/wiki/WaterML" title="WaterML">WaterML</a></li>
+<li><a href="/wiki/Web_Coverage_Service" title="Web Coverage Service">WCS</a></li>
+<li><a href="/wiki/Web_Feature_Service" title="Web Feature Service">WFS</a></li>
+<li><a href="/wiki/Web_Map_Service" title="Web Map Service">WMS</a></li>
+<li><a href="/wiki/Web_Map_Tile_Service" title="Web Map Tile Service">WMTS</a></li>
+<li><a href="/wiki/Web_Processing_Service" title="Web Processing Service">WPS</a></li>
+<li><a href="/wiki/Web_Registry_Service" title="Web Registry Service">WRS</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Google" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Google_LLC" title="Template:Google LLC"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Google_LLC" title="Template talk:Google LLC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Google_LLC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Google" style="font-size:114%;margin:0 4em"><a href="/wiki/Google" title="Google">Google</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Alphabet_Inc.&amp;#10;*_Android&amp;#10;**_Devices&amp;#10;**_Nexus&amp;#10;**_Pixel&amp;#10;*_Maps&amp;#10;*_YouTube">
+<ul><li><a href="/wiki/Template:Alphabet_Inc." title="Template:Alphabet Inc.">Alphabet Inc.</a></li>
+<li><a href="/wiki/Template:Android_(operating_system)" title="Template:Android (operating system)">Android</a>
+<ul><li><a href="/wiki/Template:Android_devices" title="Template:Android devices">Devices</a></li>
+<li><a href="/wiki/Template:Google_Nexus" title="Template:Google Nexus">Nexus</a></li>
+<li><a href="/wiki/Template:Google_Pixel" title="Template:Google Pixel">Pixel</a></li></ul></li>
+<li><a href="/wiki/Template:Google_Maps_navbox" title="Template:Google Maps navbox">Maps</a></li>
+<li><a href="/wiki/Template:YouTube_navbox" title="Template:YouTube navbox">YouTube</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_Google" title="Outline of Google">Overview</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alphabet_Inc." title="Alphabet Inc.">Alphabet Inc.</a></li>
+<li><a href="/wiki/History_of_Google" title="History of Google">History</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Alphabet" title="List of mergers and acquisitions by Alphabet">List of mergers and acquisitions by Alphabet</a></li>
+<li><a href="/wiki/List_of_Google_products" title="List of Google products">List of products</a></li>
+<li><a href="/wiki/Criticism_of_Google" title="Criticism of Google">Criticism</a>
+<ul><li><a href="/wiki/Privacy_concerns_regarding_Google" title="Privacy concerns regarding Google">Privacy concerns</a></li></ul></li>
+<li><a href="/wiki/Censorship_by_Google" title="Censorship by Google">Censorship</a></li>
+<li><a href="/wiki/Google_litigation" title="Google litigation">Litigation</a></li>
+<li><a href="/wiki/List_of_Google_Easter_eggs" title="List of Google Easter eggs">Easter eggs</a></li>
+<li><i><a href="/wiki/Don%27t_be_evil" title="Don&#39;t be evil">Don't be evil</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advertising</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AdMob" title="AdMob">AdMob</a></li>
+<li><a href="/wiki/Adscape" title="Adscape">Adscape</a></li>
+<li><a href="/wiki/Google_Ads" title="Google Ads">Ads</a></li>
+<li><a href="/wiki/Google_Ad_Manager" title="Google Ad Manager">Ad Manager</a></li>
+<li><a href="/wiki/AdSense" title="AdSense">AdSense</a></li>
+<li><a href="/wiki/Google_Analytics" title="Google Analytics">Analytics</a></li>
+<li><a href="/wiki/Google_Contributor" title="Google Contributor">Contributor</a></li>
+<li><a href="/wiki/Google_Partners" class="mw-redirect" title="Google Partners">Partners</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Communication</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Allo" title="Google Allo">Allo</a></li>
+<li><a href="/wiki/Google_Alerts" title="Google Alerts">Alerts</a></li>
+<li><a href="/wiki/Google_Apps_Script" title="Google Apps Script">Apps Script</a></li>
+<li><a href="/wiki/Google_Duo" title="Google Duo">Duo</a></li>
+<li><a href="/wiki/Google_Calendar" title="Google Calendar">Calendar</a></li>
+<li><a href="/wiki/Google_Contacts" title="Google Contacts">Contacts</a></li>
+<li><a href="/wiki/Gmail" title="Gmail">Gmail</a>
+<ul><li><a href="/wiki/History_of_Gmail" title="History of Gmail">history</a></li>
+<li><a href="/wiki/Gmail_interface" title="Gmail interface">interface</a></li></ul></li>
+<li><a href="/wiki/Google%2B" title="Google+">Google+</a></li>
+<li><a href="/wiki/Google_Groups" title="Google Groups">Groups</a></li>
+<li><a href="/wiki/Google_Hangouts" title="Google Hangouts">Hangouts</a></li>
+<li><a href="/wiki/Inbox_by_Gmail" title="Inbox by Gmail">Inbox</a></li>
+<li><a href="/wiki/Google_Sync" title="Google Sync">Sync</a></li>
+<li><a href="/wiki/Google_Text-to-Speech" title="Google Text-to-Speech">Text-to-Speech</a></li>
+<li><a href="/wiki/Google_Translate" title="Google Translate">Translate</a></li>
+<li><a href="/wiki/Google_transliteration" title="Google transliteration">Transliteration</a></li>
+<li><a href="/wiki/Google_Voice" title="Google Voice">Voice</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google_software" title="Category:Google software">Software</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Assistant" title="Google Assistant">Assistant</a>
+<ul><li><a href="/wiki/Google_Lens" title="Google Lens">Lens</a></li></ul></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a>
+<ul><li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">for Android</a></li>
+<li><a href="/wiki/Google_Chrome_for_iOS" class="mw-redirect" title="Google Chrome for iOS">for iOS</a></li>
+<li><a href="/wiki/Chrome_Web_Store" title="Chrome Web Store">Chrome Web Store</a></li>
+<li><a href="/wiki/Google_Chrome_App" title="Google Chrome App">Apps</a></li>
+<li><a href="/wiki/Google_Chrome_extension" class="mw-redirect" title="Google Chrome extension">Extensions</a></li></ul></li>
+<li><a href="/wiki/Google_Cloud_Print" title="Google Cloud Print">Cloud Print</a></li>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Earth</a>
+<ul><li><a href="/wiki/Google_Sky" class="mw-redirect" title="Google Sky">Sky</a></li>
+<li><a href="/wiki/Google_Moon" class="mw-redirect" title="Google Moon">Moon</a></li>
+<li><a href="/wiki/Google_Mars" class="mw-redirect" title="Google Mars">Mars</a></li></ul></li>
+<li><a href="/wiki/Google_Gadgets" title="Google Gadgets">Gadgets</a></li>
+<li><a href="/wiki/Gboard" title="Gboard">Gboard</a></li>
+<li><a href="/wiki/Google_IME" title="Google IME">IME</a>
+<ul><li><a href="/wiki/Google_Japanese_Input" title="Google Japanese Input">Japanese</a></li>
+<li><a href="/wiki/Google_Pinyin" title="Google Pinyin">Pinyin</a></li></ul></li>
+<li><a href="/wiki/Google_Pay" title="Google Pay">Pay</a>
+<ul><li><a href="/wiki/Google_Pay_Send" title="Google Pay Send">Pay Send</a></li></ul></li>
+<li><a href="/wiki/Google_Photos" title="Google Photos">Photos</a></li>
+<li><a href="/wiki/Google_Keep" title="Google Keep">Keep</a></li>
+<li><a href="/wiki/Google_News" title="Google News">News</a></li>
+<li><a href="/wiki/Google_Now" title="Google Now">Now</a></li>
+<li><a href="/wiki/OpenRefine" title="OpenRefine">OpenRefine</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Search</a></li>
+<li><a href="/wiki/Waze" title="Waze">Waze</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Operating_systems" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google_operating_systems" title="Category:Google operating systems">Operating systems</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>
+<ul><li><a href="/wiki/Android_version_history" title="Android version history">version history</a></li>
+<li><a href="/wiki/Android_software_development" title="Android software development">software development</a></li>
+<li><a href="/wiki/Android_Auto" title="Android Auto">Android Auto</a></li>
+<li><a href="/wiki/Android_TV" title="Android TV">Android TV</a></li></ul></li>
+<li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a>
+<ul><li><a href="/wiki/Chromebit" title="Chromebit">Chromebit</a></li>
+<li><a href="/wiki/Chromebook" title="Chromebook">Chromebook</a></li>
+<li><a href="/wiki/Chromebox" title="Chromebox">Chromebox</a></li>
+<li><a href="/wiki/Chrome_Zone" title="Chrome Zone">Chrome Zone</a></li></ul></li>
+<li><a href="/wiki/Google_Fuchsia" title="Google Fuchsia">Fuchsia</a></li>
+<li><a href="/wiki/Wear_OS" title="Wear OS">Wear OS</a> (<a href="/wiki/List_of_Wear_OS_devices" title="List of Wear OS devices">List of devices</a>)</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Google_data_centers" title="Google data centers">Platforms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Account" title="Google Account">Account</a></li>
+<li><a href="/wiki/Google_Authenticator" title="Google Authenticator">Authenticator</a></li>
+<li><a href="/wiki/ZygoteBody" title="ZygoteBody">Body</a></li>
+<li><a href="/wiki/Google_Books" title="Google Books">Books</a>
+<ul><li>Library Project</li></ul></li>
+<li><a href="/wiki/Caja_project" title="Caja project">Caja</a></li>
+<li><a href="/wiki/Google_Cast" title="Google Cast">Cast</a></li>
+<li><a href="/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Cloud Platform</a>
+<ul><li><a href="/wiki/Google_App_Engine" title="Google App Engine">App Engine</a></li>
+<li><a href="/wiki/BigQuery" title="BigQuery">BigQuery</a></li>
+<li><a href="/wiki/Bigtable" title="Bigtable">Bigtable</a></li>
+<li><a href="/wiki/Google_Compute_Engine" title="Google Compute Engine">Compute Engine</a></li>
+<li><a href="/wiki/Google_Storage" title="Google Storage">Storage</a></li></ul></li>
+<li><a href="/wiki/Google_Contact_Lens" title="Google Contact Lens">Contact Lens</a></li>
+<li><a href="/wiki/Google_Custom_Search" title="Google Custom Search">Custom Search</a></li>
+<li><a href="/wiki/Google_Earth_Engine" class="mw-redirect" title="Google Earth Engine">Earth Engine</a></li>
+<li><a href="/wiki/Google_Fit" title="Google Fit">Fit</a></li>
+<li><a href="/wiki/Google_File_System" title="Google File System">GFS</a></li>
+<li><a href="/wiki/Firebase" title="Firebase">Firebase</a></li>
+<li><a href="/wiki/G_Suite" title="G Suite">G Suite</a>
+<ul><li><a href="/wiki/Google_Classroom" title="Google Classroom">Classroom</a></li></ul></li>
+<li><a href="/wiki/G_Suite_Marketplace" title="G Suite Marketplace">Marketplace</a></li>
+<li><a href="/wiki/Google_Native_Client" title="Google Native Client">Native Client</a></li>
+<li><a href="/wiki/Google_Nexus" title="Google Nexus">Nexus</a></li>
+<li><a href="/wiki/Google_OnHub" title="Google OnHub">OnHub</a></li>
+<li><a href="/wiki/OpenSocial" title="OpenSocial">OpenSocial</a></li>
+<li><a href="/wiki/Google_Pay" title="Google Pay">Pay</a>
+<ul><li><a href="/wiki/Google_Pay_Send" title="Google Pay Send">Send</a></li></ul></li>
+<li><a href="/wiki/Google_Primer" title="Google Primer">Primer</a></li>
+<li><a href="/wiki/Google_Play" title="Google Play">Play</a>
+<ul><li><a href="/wiki/Google_Play_Books" title="Google Play Books">Books</a></li>
+<li><a href="/wiki/Google_Play_Games" title="Google Play Games">Games</a></li>
+<li><a href="/wiki/Google_Play_Movies_%26_TV" title="Google Play Movies &amp; TV">Movies &amp; TV</a></li>
+<li><a href="/wiki/Google_Play_Music" title="Google Play Music">Music</a></li></ul></li>
+<li><a href="/wiki/Google_Public_DNS" title="Google Public DNS">Public DNS</a></li>
+<li><a href="/wiki/Google_Safe_Browsing" title="Google Safe Browsing">Safe Browsing</a></li>
+<li><a href="/wiki/Tango_(platform)" title="Tango (platform)">Tango</a></li>
+<li><a href="/wiki/Google_URL_Shortener" title="Google URL Shortener">URL Shortener</a></li>
+<li><a href="/wiki/YouTube_TV" title="YouTube TV">YouTube TV</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google_hardware" title="Category:Google hardware">Hardware</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Cardboard" title="Google Cardboard">Cardboard</a></li>
+<li><a href="/wiki/Chromecast" title="Chromecast">Chromecast</a></li>
+<li><a href="/wiki/Google_Daydream" title="Google Daydream">Daydream</a></li>
+<li><a href="/wiki/Google_Glass" title="Google Glass">Glass Enterprise</a></li>
+<li><a href="/wiki/Google_Home" title="Google Home">Home</a></li>
+<li><a href="/wiki/Jamboard" title="Jamboard">Jamboard</a></li>
+<li><a href="/wiki/Nest_Labs" title="Nest Labs">Nest</a>
+<ul><li><a href="/wiki/Nest_Learning_Thermostat" title="Nest Learning Thermostat">Learning Thermostat</a></li></ul></li>
+<li><a href="/wiki/Google_Pixel" title="Google Pixel">Pixel</a></li>
+<li><a href="/wiki/Google_Wifi_(router)" title="Google Wifi (router)">Wifi</a></li>
+<li><a href="/wiki/Pixel_C" title="Pixel C">Pixel C</a></li>
+<li><a href="/wiki/Google_Pixelbook" title="Google Pixelbook">Pixelbook</a></li>
+<li><a href="/wiki/Google_Pixel_Slate" title="Google Pixel Slate">Pixel Slate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Development<br />tools</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angular_(application_platform)" class="mw-redirect" title="Angular (application platform)">Angular</a></li>
+<li><a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li>
+<li><a href="/wiki/Google_APIs" title="Google APIs">AJAX APIs</a></li>
+<li><a href="/wiki/App_Inventor_for_Android" title="App Inventor for Android">App Inventor</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure Tools</a></li>
+<li><a href="/wiki/Google_Developers" title="Google Developers">Developers</a></li>
+<li><a href="/wiki/Dialogflow" title="Dialogflow">Dialogflow</a></li>
+<li><a href="/wiki/Flutter_(software)" title="Flutter (software)">Flutter</a></li>
+<li><a href="/wiki/GData" title="GData">GData</a></li>
+<li><a href="/wiki/Googlebot" title="Googlebot">Googlebot</a></li>
+<li><a href="/wiki/Google_Guava" title="Google Guava">Guava</a></li>
+<li><a href="/wiki/Google_Guice" title="Google Guice">Guice</a></li>
+<li><a href="/wiki/Google_Data_Centers" class="mw-redirect" title="Google Data Centers">GWS</a></li>
+<li><a class="mw-selflink selflink">KML</a></li>
+<li><a href="/wiki/Google_Kythe" title="Google Kythe">Kythe</a></li>
+<li><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a></li>
+<li><a href="/wiki/Mediabot" title="Mediabot">Mediabot</a></li>
+<li><a href="/wiki/Sitemaps" title="Sitemaps">Sitemaps</a></li>
+<li><a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Web Toolkit</a></li>
+<li><a href="/wiki/Google_Search_Console" title="Google Search Console">Search Console</a></li>
+<li><a href="/wiki/Google_Website_Optimizer" title="Google Website Optimizer">Website Optimizer</a></li>
+<li><a href="/wiki/Google_Swiffy" title="Google Swiffy">Swiffy</a></li>
+<li>Programming languages
+<ul><li><a href="/wiki/Dart_(programming_language)" title="Dart (programming language)">Dart</a></li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+<li><a href="/wiki/Sawzall_(programming_language)" title="Sawzall (programming language)">Sawzall</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publishing</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accelerated_Mobile_Pages" title="Accelerated Mobile Pages">AMP</a></li>
+<li><a href="/wiki/Blogger_(service)" title="Blogger (service)">Blogger</a></li>
+<li><a href="/wiki/Google_Bookmarks" title="Google Bookmarks">Bookmarks</a></li>
+<li><a href="/wiki/Google_Domains" title="Google Domains">Domains</a></li>
+<li><a href="/wiki/Google_Drive" title="Google Drive">Drive</a>
+<ul><li><a href="/wiki/Google_Docs" title="Google Docs">Docs</a></li>
+<li><a href="/wiki/Google_Sheets" title="Google Sheets">Sheets</a></li>
+<li><a href="/wiki/Google_Slides" title="Google Slides">Slides</a></li>
+<li><a href="/wiki/Google_Drawings" title="Google Drawings">Drawings</a></li>
+<li><a href="/wiki/Google_Forms" title="Google Forms">Forms</a></li>
+<li><a href="/wiki/Google_Fusion_Tables" title="Google Fusion Tables">Fusion Tables</a></li></ul></li>
+<li><a href="/wiki/FeedBurner" title="FeedBurner">FeedBurner</a></li>
+<li><a href="/wiki/Google_Sites" title="Google Sites">Sites</a></li>
+<li><a href="/wiki/Google_My_Maps" title="Google My Maps">My Maps</a></li>
+<li><a href="/wiki/YouTube" title="YouTube">YouTube</a>
+<ul><li><a href="/wiki/YouTube_Instant" title="YouTube Instant">Instant</a></li>
+<li><a href="/wiki/YouTube_Premium" title="YouTube Premium">Premium</a></li></ul></li>
+<li><a href="/wiki/Vevo" title="Vevo">Vevo</a></li>
+<li><a href="/wiki/Zagat" title="Zagat">Zagat</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Google_Search" title="Google Search">Search</a><br />(<a href="/wiki/Timeline_of_Google_Search" title="Timeline of Google Search">timeline</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Blog_Search" title="Google Blog Search">Blog Search</a></li>
+<li><a href="/wiki/Google_Books" title="Google Books">Books</a>
+<ul><li><a href="/wiki/Google_Ngram_Viewer" title="Google Ngram Viewer">Ngram Viewer</a></li></ul></li>
+<li><a href="/wiki/Google_Custom_Search" title="Google Custom Search">Custom Search</a></li>
+<li><a href="/wiki/Google_Dataset_Search" title="Google Dataset Search">Dataset Search</a></li>
+<li><a href="/wiki/Google_Dictionary" title="Google Dictionary">Dictionary</a></li>
+<li><a href="/wiki/Google_Finance" title="Google Finance">Finance</a></li>
+<li><a href="/wiki/Google_Flights" title="Google Flights">Flights</a></li>
+<li><a href="/wiki/Google_Images" title="Google Images">Images</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Maps</a>
+<ul><li><a href="/wiki/Google_Mars" class="mw-redirect" title="Google Mars">Mars</a></li>
+<li><a href="/wiki/Google_Moon" class="mw-redirect" title="Google Moon">Moon</a></li>
+<li><a href="/wiki/Google_Sky" class="mw-redirect" title="Google Sky">Sky</a></li>
+<li><a href="/wiki/Google_Street_View" title="Google Street View">Street View</a>
+<ul><li><a href="/wiki/Coverage_of_Google_Street_View" title="Coverage of Google Street View">Coverage</a></li>
+<li><a href="/wiki/List_of_street_view_services" title="List of street view services">Competition</a></li>
+<li><a href="/wiki/Google_Street_View_privacy_concerns" title="Google Street View privacy concerns">Privacy concerns</a></li></ul></li></ul></li>
+<li><a href="/wiki/Google_News" title="Google News">News</a>
+<ul><li><a href="/wiki/Google_News_Archive" title="Google News Archive">Archive</a></li></ul></li>
+<li><a href="/wiki/Google_Patents" title="Google Patents">Patents</a></li>
+<li><a href="/wiki/Google_Public_Data_Explorer" title="Google Public Data Explorer">Public Data</a></li>
+<li><a href="/wiki/Google_Scholar" title="Google Scholar">Scholar</a></li>
+<li><a href="/wiki/Google_Shopping" title="Google Shopping">Shopping</a></li>
+<li><a href="/wiki/Tenor_(website)" title="Tenor (website)">Tenor</a></li>
+<li><a href="/wiki/Google_Groups" title="Google Groups">Usenet</a></li>
+<li><a href="/wiki/Google_Videos" title="Google Videos">Videos</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Algorithms</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PageRank" title="PageRank">PageRank</a></li>
+<li><a href="/wiki/Google_Panda" title="Google Panda">Panda</a></li>
+<li><a href="/wiki/Google_Penguin" title="Google Penguin">Penguin</a></li>
+<li><a href="/wiki/Google_Hummingbird" title="Google Hummingbird">Hummingbird</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Features</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Personalized_Search" title="Google Personalized Search">Personalized</a></li>
+<li><a href="/wiki/Google_Real-Time_Search" title="Google Real-Time Search">Real-Time</a></li>
+<li><a href="/wiki/Google_Search#Instant_Search" title="Google Search">Instant Search</a></li>
+<li><a href="/wiki/SafeSearch" title="SafeSearch">SafeSearch</a></li>
+<li><a href="/wiki/Google_Voice_Search" title="Google Voice Search">Voice Search</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Analysis</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Insights_for_Search" title="Google Insights for Search">Insights for Search</a></li>
+<li><a href="/wiki/Google_Trends" title="Google Trends">Trends</a></li>
+<li><a href="/wiki/Knowledge_Graph" title="Knowledge Graph">Knowledge Graph and Vault</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google_events" title="Category:Google events">Events</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Code-in" title="Google Code-in">Code-in</a></li>
+<li><a href="/wiki/Google_Code_Jam" title="Google Code Jam">Code Jam</a></li>
+<li><a href="/wiki/Google_Developer_Day" title="Google Developer Day">Developer Day</a></li>
+<li><a href="/wiki/Google_Highly_Open_Participation_Contest" title="Google Highly Open Participation Contest">Highly Open Participation Contest</a></li>
+<li><a href="/wiki/Google_I/O" title="Google I/O">I/O</a></li>
+<li><a href="/wiki/Google_Science_Fair" title="Google Science Fair">Science Fair</a></li>
+<li><a href="/wiki/Google_Summer_of_Code" title="Google Summer of Code">Summer of Code</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google_people" title="Category:Google people">People</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Larry_Page" title="Larry Page">Larry Page</a> (Founder)</li>
+<li><a href="/wiki/Sergey_Brin" title="Sergey Brin">Sergey Brin</a> (Founder)</li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Alan_Eustace" title="Alan Eustace">Alan Eustace</a></li>
+<li><a href="/wiki/Alan_Mulally" title="Alan Mulally">Alan Mulally</a></li>
+<li><a href="/wiki/Amit_Singhal" title="Amit Singhal">Amit Singhal</a></li>
+<li><a href="/wiki/Ann_Mather" title="Ann Mather">Ann Mather</a></li>
+<li><a href="/wiki/David_Drummond_(Google)" class="mw-redirect" title="David Drummond (Google)">David Drummond</a></li>
+<li><a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a></li>
+<li><a href="/wiki/Jeff_Dean_(computer_scientist)" title="Jeff Dean (computer scientist)">Jeff Dean</a></li>
+<li><a href="/wiki/John_Doerr" title="John Doerr">John Doerr</a></li>
+<li><a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a></li>
+<li><a href="/wiki/Krishna_Bharat" title="Krishna Bharat">Krishna Bharat</a></li>
+<li><a href="/wiki/Matt_Cutts" title="Matt Cutts">Matt Cutts</a></li>
+<li><a href="/wiki/Patrick_Pichette" title="Patrick Pichette">Patrick Pichette</a></li>
+<li><a href="/wiki/Paul_Otellini" title="Paul Otellini">Paul Otellini</a></li>
+<li><a href="/wiki/Omid_Kordestani" title="Omid Kordestani">Omid Kordestani</a></li>
+<li><a href="/wiki/Rachel_Whetstone" title="Rachel Whetstone">Rachel Whetstone</a></li>
+<li><a href="/wiki/Rajen_Sheth" title="Rajen Sheth">Rajen Sheth</a></li>
+<li><a href="/wiki/Ram_Shriram" title="Ram Shriram">Ram Shriram</a></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Ray Kurzweil</a></li>
+<li><a href="/wiki/Ruth_Porat" title="Ruth Porat">Ruth Porat</a></li>
+<li><a href="/wiki/Salar_Kamangar" title="Salar Kamangar">Salar Kamangar</a></li>
+<li><a href="/wiki/Sanjay_Ghemawat" title="Sanjay Ghemawat">Sanjay Ghemawat</a></li>
+<li><a href="/wiki/Shirley_M._Tilghman" title="Shirley M. Tilghman">Shirley M. Tilghman</a></li>
+<li><a href="/wiki/Sundar_Pichai" title="Sundar Pichai">Sundar Pichai</a></li>
+<li><a href="/wiki/Susan_Wojcicki" title="Susan Wojcicki">Susan Wojcicki</a></li>
+<li><a href="/wiki/Urs_H%C3%B6lzle" title="Urs Hölzle">Urs Hölzle</a></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Hal_Varian" title="Hal Varian">Hal Varian</a></li>
+<li><a href="/wiki/Gayglers" title="Gayglers">Gayglers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Google" title="Category:Google">Other</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/.google" title=".google">.google</a></li>
+<li><a href="/wiki/Google_Arts_%26_Culture" title="Google Arts &amp; Culture">Arts &amp; Culture</a></li>
+<li><a href="/wiki/Google_ATAP" title="Google ATAP">ATAP</a></li>
+<li><a href="/wiki/Calico_(company)" title="Calico (company)">Calico</a></li>
+<li><a href="/wiki/Dragonfly_(search_engine)" title="Dragonfly (search engine)">Dragonfly</a></li>
+<li><a href="/wiki/Google_Current" title="Google Current">Current</a></li>
+<li><a href="/wiki/Google_Chrome_Experiments" title="Google Chrome Experiments">Chrome Experiments</a></li>
+<li><a href="/wiki/Google_Business_Groups" title="Google Business Groups">Google Business Groups</a></li>
+<li><a href="/wiki/Made_with_Code" title="Made with Code">Made with Code</a></li>
+<li><a href="/wiki/Google_Data_Liberation_Front" title="Google Data Liberation Front">Data Liberation</a>
+<ul><li><a href="/wiki/Google_Takeout" title="Google Takeout">Takeout</a></li></ul></li>
+<li><a href="/wiki/Google_Developer_Expert" title="Google Developer Expert">Google Developer Expert</a></li>
+<li><a href="/wiki/Google_for_Work" title="Google for Work">Google for Work</a></li>
+<li><a href="/wiki/Waymo" title="Waymo">Waymo</a></li>
+<li><a href="/wiki/Google_Earth#Google_Earth_Outreach" title="Google Earth">Earth Outreach</a></li>
+<li><a href="/wiki/Google_Fiber" title="Google Fiber">Fiber</a></li>
+<li><a href="/wiki/GV_(company)" title="GV (company)">GV</a></li>
+<li><a href="/wiki/Google_(verb)" title="Google (verb)">Google (verb)</a></li>
+<li><a href="/wiki/Google_China" title="Google China">Google China</a></li>
+<li><a href="/wiki/Google_Express" title="Google Express">Google Express</a></li>
+<li><a href="/wiki/Googlization" title="Googlization">Googlization</a></li>
+<li><a href="/wiki/Google_Ad_Grants" title="Google Ad Grants">Grants</a></li>
+<li><a href="/wiki/Google.org" title="Google.org">Google.org</a></li>
+<li><a href="/wiki/Google_logo" title="Google logo">Logo</a> and related
+<ul><li><a href="/wiki/Doodle4Google" title="Doodle4Google">Doodle4Google</a></li>
+<li><a href="/wiki/Google_Doodle" title="Google Doodle">Google Doodles</a></li>
+<li><a href="/wiki/Product_Sans" title="Product Sans">Product Sans</a></li></ul></li>
+<li><a href="/wiki/Loon_(company)" title="Loon (company)">Project Loon</a></li>
+<li><a href="/wiki/Google_Lunar_X_Prize" title="Google Lunar X Prize">Lunar X Prize</a></li>
+<li><a href="/wiki/Google_Fi" title="Google Fi">Google Fi</a></li>
+<li><a href="/wiki/Google_Station" title="Google Station">Google Station</a></li>
+<li><a href="/wiki/Material_Design" title="Material Design">Material Design</a></li>
+<li><a href="/wiki/Motorola_Mobility" title="Motorola Mobility">Motorola Mobility</a></li>
+<li><a href="/wiki/ReCAPTCHA" title="ReCAPTCHA">reCAPTCHA</a></li>
+<li>Real estate
+<ul><li><a href="/wiki/111_Eighth_Avenue" title="111 Eighth Avenue">111 Eighth Avenue</a></li>
+<li><a href="/wiki/Chelsea_Market" title="Chelsea Market">Chelsea Market</a></li>
+<li><a href="/wiki/Googleplex" title="Googleplex">Googleplex</a></li></ul></li>
+<li><a href="/wiki/Project_Sunroof" title="Project Sunroof">Sunroof</a></li>
+<li><a href="/wiki/Google_WiFi" title="Google WiFi">WiFi</a></li>
+<li><a href="/wiki/Wing_(company)" title="Wing (company)">Wing</a></li>
+<li><a href="/wiki/X_(company)" title="X (company)">X</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AI_Challenge" title="AI Challenge">AI Challenge</a></li>
+<li><a href="/wiki/Google_bomb" title="Google bomb">Bomb</a></li>
+<li><a href="/wiki/GmailFS" title="GmailFS">GmailFS</a></li>
+<li><a href="/wiki/Google_Behind_the_Screen" title="Google Behind the Screen">"Google: Behind the Screen" (2006 documentary)</a></li>
+<li><a href="/wiki/Google_The_Thinking_Factory" title="Google The Thinking Factory"><i>Google: The Thinking Factory</i> (2008 documentary)</a></li>
+<li><a href="/wiki/Google_and_the_World_Brain" title="Google and the World Brain"><i>Google and the World Brain</i> (2013 documentary)</a></li>
+<li><a href="/wiki/Goojje" title="Goojje">Goojje</a></li>
+<li><a href="/wiki/Monopoly_video_games" title="Monopoly video games">Monopoly City Streets</a></li>
+<li><a href="/wiki/Unity_(cable_system)" title="Unity (cable system)">Unity</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Google" title="Category:Google">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Google" title="Portal:Google">Portal</a></li>
+<li><a href="/wiki/List_of_Google_products#Discontinued_products_and_services" title="List of Google products">Discontinued products and services</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20190217093735
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.312 seconds
+Real time usage: 0.404 seconds
+Preprocessor visited node count: 1009/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75753/2097152 bytes
+Template argument size: 894/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31767/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 3.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  284.461      1 -total
+ 49.56%  140.990      1 Template:Reflist
+ 39.94%  113.623      9 Template:Cite_web
+ 18.01%   51.243      1 Template:Infobox_file_format
+ 14.55%   41.394      1 Template:Redirect
+ 12.61%   35.867      1 Template:Infobox
+ 11.40%   32.420      4 Template:Navbox
+  9.70%   27.596      1 Template:Google_Inc.
+  5.02%   14.294      1 Template:OGC
+  3.85%   10.951      2 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2139847-0!canonical and timestamp 20190217093734 and revision id 882292644
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Keyhole_Markup_Language&amp;oldid=882292644">https://en.wikipedia.org/w/index.php?title=Keyhole_Markup_Language&amp;oldid=882292644</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Keyhole_Markup_Language" title="Category:Keyhole Markup Language">Keyhole Markup Language</a></li><li><a href="/wiki/Category:XML-based_standards" title="Category:XML-based standards">XML-based standards</a></li><li><a href="/wiki/Category:Google" title="Category:Google">Google</a></li><li><a href="/wiki/Category:XML_markup_languages" title="Category:XML markup languages">XML markup languages</a></li><li><a href="/wiki/Category:GIS_file_formats" title="Category:GIS file formats">GIS file formats</a></li><li><a href="/wiki/Category:Open_Geospatial_Consortium" title="Category:Open Geospatial Consortium">Open Geospatial Consortium</a></li><li><a href="/wiki/Category:Open_formats" title="Category:Open formats">Open formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_example_code" title="Category:Articles with example code">Articles with example code</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Keyhole+Markup+Language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Keyhole+Markup+Language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Keyhole_Markup_Language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Keyhole_Markup_Language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Keyhole_Markup_Language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Keyhole_Markup_Language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Keyhole_Markup_Language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Keyhole_Markup_Language&amp;oldid=882292644" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Keyhole_Markup_Language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79587" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Keyhole_Markup_Language&amp;id=882292644" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Keyhole+Markup+Language">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Keyhole+Markup+Language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Keyhole_Markup_Language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%87_%D8%A5%D9%85_%D8%A5%D9%84" title="كيه إم إل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/KML" title="KML – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%82%A4%ED%99%80_%EB%A7%88%ED%81%AC%EC%97%85_%EC%96%B8%EC%96%B4" title="키홀 마크업 언어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/KML" title="KML – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/KML" title="KML – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/KML" title="KML – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/KML" title="KML – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/KML" title="KML – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79587#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 February 2019, at 02:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Keyhole_Markup_Language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.404","ppvisitednodes":{"value":1009,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75753,"limit":2097152},"templateargumentsize":{"value":894,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31767,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  284.461      1 -total"," 49.56%  140.990      1 Template:Reflist"," 39.94%  113.623      9 Template:Cite_web"," 18.01%   51.243      1 Template:Infobox_file_format"," 14.55%   41.394      1 Template:Redirect"," 12.61%   35.867      1 Template:Infobox"," 11.40%   32.420      4 Template:Navbox","  9.70%   27.596      1 Template:Google_Inc.","  5.02%   14.294      1 Template:OGC","  3.85%   10.951      2 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":3803187,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190217093735","ttl":2073600,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Keyhole Markup Language","url":"https:\/\/en.wikipedia.org\/wiki\/Keyhole_Markup_Language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q79587","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q79587","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-29T22:28:04Z","dateModified":"2019-02-08T02:17:49Z","headline":"notation for expressing geographic annotation and visualization within Internet-based maps"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1327"});});</script>
+	</body>
+</html>

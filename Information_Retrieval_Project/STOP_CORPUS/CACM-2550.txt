@@ -1,0 +1,1 @@
+multidimensional monte carlo quadrature adaptive stratified sampling d1 algorithm a440 cacm january 1973 gallaher carloquadrature stratified sampling adaptive quadrature sequential stratification 5 16 ca730111 jb 24 1978 3 44 pm 1352 4 2550 2048 2074 2093 2415 1573 429  

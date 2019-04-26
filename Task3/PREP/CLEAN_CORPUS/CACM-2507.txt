@@ -1,0 +1,1 @@
+exact solution of linear equations using residue arithmetic algorithm r406 cacm may 1973 howell j residue arithmetic symmetric modulus mixed radix representation conversion prime number linear equations gaussian elimination matrix inversion determinant adjoint ill condition 3 5 14 ca730513 jb january 23 1978 4 34 pm 2507 

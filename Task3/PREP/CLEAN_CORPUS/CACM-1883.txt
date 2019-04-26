@@ -1,0 +1,1 @@
+modified romberg quadrature algorithm d1 cacm june 1969 fair weather g numerical integration quadrature trapezoid values rectangle error bound 5 16 ca690610 jb february 17 1978 9 55 am 1352 4 1883 1356 2040 1241 1982 2355 1 6 1273 1418 1521 1597 324 2350 2354 

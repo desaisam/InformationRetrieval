@@ -1,0 +1,1 @@
+indirect threaded code an efficient arrangement for interpretive code is described it related to bell s notion of threaded but requires less space and more amenable machine independent implementations cacm june 1975 dewar r b k snobol4 interpretors generation 4 12 13 ca750605 jb january 9 1978 1 11 pm 2748 3144 2491 5 

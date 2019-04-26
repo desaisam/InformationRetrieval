@@ -1,0 +1,1 @@
+complex matrix inversion versus real comparison complex matrix real inversion made shown fast rounding error bound eighth gaussian elimination extended product accumulation half system cacm september 1970 ehrlich errors bounds 5 14 11 10 ca700907 jb february 1978 19 1998  

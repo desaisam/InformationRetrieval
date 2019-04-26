@@ -1,0 +1,100 @@
+5 Q0 Mars to Stay 1 0.25189278 LUCENE
+5 Q0 List of missions to Mars 2 0.2116358 LUCENE
+5 Q0 Exploration of Uranus 3 0.2046907 LUCENE
+5 Q0 Aurora Programme 4 0.1710749 LUCENE
+5 Q0 Space exploration 5 0.16089475 LUCENE
+5 Q0 Space missions 6 0.16089475 LUCENE
+5 Q0 List of artificial objects on Mars 7 0.15957876 LUCENE
+5 Q0 Exploration of Mars 8 0.15889576 LUCENE
+5 Q0 Mars Curse 9 0.15889576 LUCENE
+5 Q0 List of Mars orbiters 10 0.15696287 LUCENE
+5 Q0 Mars probe program 11 0.15474838 LUCENE
+5 Q0 Astrobiology 12 0.15285046 LUCENE
+5 Q0 Dawn (spacecraft) 13 0.14982672 LUCENE
+5 Q0 Mars sample return mission 14 0.14662713 LUCENE
+5 Q0 Landings on other planets 15 0.1351217 LUCENE
+5 Q0 List of landings on extraterrestrial bodies 16 0.1351217 LUCENE
+5 Q0 Mars 3 17 0.13174808 LUCENE
+5 Q0 Mars 18 0.12112494 LUCENE
+5 Q0 List of artificial objects in heliocentric orbit 19 0.1201812 LUCENE
+5 Q0 Flexible path 20 0.11794171 LUCENE
+5 Q0 Outline of space exploration 21 0.115617335 LUCENE
+5 Q0 Discovery program 22 0.1136806 LUCENE
+5 Q0 Mars Orbiter Mission 23 0.113519475 LUCENE
+5 Q0 Lander (spacecraft) 24 0.112839215 LUCENE
+5 Q0 Colonization of Mars 25 0.11159587 LUCENE
+5 Q0 Sample return mission 26 0.1113744 LUCENE
+5 Q0 Sample-return mission 27 0.1113744 LUCENE
+5 Q0 Colonization of the Moon 28 0.107856296 LUCENE
+5 Q0 Deimos (moon) 29 0.105037116 LUCENE
+5 Q0 Exploration of Phobos 30 0.1048642 LUCENE
+5 Q0 Phobos (moon) 31 0.1048642 LUCENE
+5 Q0 Moons of Mars 32 0.098273724 LUCENE
+5 Q0 Rover (space exploration) 33 0.09713509 LUCENE
+5 Q0 Psychological and sociological effects of spaceflight 34 0.09695359 LUCENE
+5 Q0 Emirates Mars Mission 35 0.09663284 LUCENE
+5 Q0 Space Research Centre of Polish Academy of Sciences 36 0.0953764 LUCENE
+5 Q0 Interplanetary contamination 37 0.09516247 LUCENE
+5 Q0 Timeline of planetary exploration 38 0.0942156 LUCENE
+5 Q0 Timeline of Solar System exploration 39 0.0942156 LUCENE
+5 Q0 Mariner 4 40 0.09094106 LUCENE
+5 Q0 List of active Solar System probes 41 0.08963734 LUCENE
+5 Q0 Swiss Space Office 42 0.08927177 LUCENE
+5 Q0 List of NASA missions 43 0.0863302 LUCENE
+5 Q0 Review of United States Human Space Flight Plans Committee 44 0.085664794 LUCENE
+5 Q0 Phobos program 45 0.08339739 LUCENE
+5 Q0 Vision for Space Exploration 46 0.07731163 LUCENE
+5 Q0 Space probe 47 0.07706676 LUCENE
+5 Q0 List of Solar System probes 48 0.07702499 LUCENE
+5 Q0 Near-Earth object 49 0.07538939 LUCENE
+5 Q0 Future of space exploration 50 0.074700624 LUCENE
+5 Q0 In-situ resource utilization 51 0.074269384 LUCENE
+5 Q0 Romanian Space Agency 52 0.07053229 LUCENE
+5 Q0 NASA 53 0.070362836 LUCENE
+5 Q0 National Aeronautics and Space Administration 54 0.070362836 LUCENE
+5 Q0 Valeri Polyakov 55 0.069876164 LUCENE
+5 Q0 Space architecture 56 0.06966194 LUCENE
+5 Q0 Constellation program 57 0.06940425 LUCENE
+5 Q0 Zond program 58 0.06930699 LUCENE
+5 Q0 Interplanetary spaceflight 59 0.068681106 LUCENE
+5 Q0 Life support system 60 0.06721398 LUCENE
+5 Q0 Fobos-Grunt 61 0.06676917 LUCENE
+5 Q0 Theia (planet) 62 0.066741765 LUCENE
+5 Q0 Soviet space program 63 0.06492479 LUCENE
+5 Q0 Spacecraft 64 0.064632736 LUCENE
+5 Q0 Colonization of Venus 65 0.0645996 LUCENE
+5 Q0 Discovery and exploration of the Solar System 66 0.06447561 LUCENE
+5 Q0 Mars Exploration Rover 67 0.06421663 LUCENE
+5 Q0 Gemini program 68 0.06404347 LUCENE
+5 Q0 Project Gemini 69 0.06404347 LUCENE
+5 Q0 Jet Propulsion Laboratory 70 0.063917816 LUCENE
+5 Q0 In-space propulsion technologies 71 0.06341868 LUCENE
+5 Q0 List of Mars-crossing minor planets 72 0.06278262 LUCENE
+5 Q0 Russian Space Research Institute 73 0.061823234 LUCENE
+5 Q0 Japan Aerospace Exploration Agency 74 0.061765146 LUCENE
+5 Q0 JAXA 75 0.061765146 LUCENE
+5 Q0 Space Exploration Technologies 76 0.0615261 LUCENE
+5 Q0 SpaceX 77 0.0615261 LUCENE
+5 Q0 Mars trojan 78 0.061444372 LUCENE
+5 Q0 Health threat from cosmic rays 79 0.059085727 LUCENE
+5 Q0 Age of Discovery 80 0.055175435 LUCENE
+5 Q0 List of objects at Lagrangian points 81 0.05459742 LUCENE
+5 Q0 Deep space exploration 82 0.05410686 LUCENE
+5 Q0 Italian Space Agency 83 0.05264411 LUCENE
+5 Q0 List of missions to comets 84 0.052635208 LUCENE
+5 Q0 Orbiter 85 0.052399933 LUCENE
+5 Q0 List of crewed spacecraft 86 0.05235078 LUCENE
+5 Q0 List of manned spacecraft 87 0.05235078 LUCENE
+5 Q0 Flyby (spaceflight) 88 0.05178223 LUCENE
+5 Q0 Self-replicating spacecraft 89 0.051327765 LUCENE
+5 Q0 Delta-v budget 90 0.05015093 LUCENE
+5 Q0 Atmospheric reentry 91 0.04972137 LUCENE
+5 Q0 List of missions to Venus 92 0.04962495 LUCENE
+5 Q0 Timeline of Space Shuttle missions 93 0.04962495 LUCENE
+5 Q0 CubeSat 94 0.048793674 LUCENE
+5 Q0 Exploration of Africa 95 0.048758354 LUCENE
+5 Q0 German colonial empire 96 0.048758354 LUCENE
+5 Q0 Spaceport 97 0.047772743 LUCENE
+5 Q0 Indian Space Research Organisation 98 0.047690105 LUCENE
+5 Q0 Spacefaring 99 0.0476882 LUCENE
+5 Q0 Asia's Space Race 100 0.047628906 LUCENE

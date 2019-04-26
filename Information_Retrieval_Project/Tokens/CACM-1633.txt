@@ -1,0 +1,1 @@
+a modified newton method for polynomials modified method polynomials is discussed it assumed one has approximations all the roots of polynomial three variations are described if simple it shown that under appropriate conditions two cubically convergent cacm february 1967 ehrlich l w ca670209 jb 28 1978 2 33 pm 1633 4 1452 5 

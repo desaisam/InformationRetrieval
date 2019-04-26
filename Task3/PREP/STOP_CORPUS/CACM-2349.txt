@@ -1,0 +1,1 @@
+generation random correlated normal variables g5 algorithm a425 cacm 1972 hurst knop random number normal density distribution gaussian simulation monte carlo 5 ca720511 jb january 31 1978 9 35 1663 4 2349 2057 2565 1648 1716 1794 1894 2043 501 613 774  

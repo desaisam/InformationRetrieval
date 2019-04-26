@@ -1,0 +1,1 @@
+romberg integration algorithm 60 cacm march 1962 thacher jr ca620311 jb 20 1978 3 01 pm 1040 5 621 1352 2040 834 6 872 885 1092 1241 1273 1356 324 429 570 587 786  

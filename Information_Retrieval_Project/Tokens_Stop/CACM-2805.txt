@@ -1,0 +1,1 @@
+perturbations eigenvalues non normal matrices problem considered give bounds finite perturbations simple multiple eigenvalues nonnormal matrices terms departure normality frobenius norm perturbation matrix eigen system derived shown attainable set cacm january 1975 van der sluis non gershgorin circles 5 14 ca750106 jb 12 1978 10 31 2805  

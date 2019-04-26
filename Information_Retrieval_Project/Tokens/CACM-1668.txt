@@ -1,0 +1,1 @@
+an algol procedure for the fast fourier transform with arbitrary factors algorithm 339 c6 cacm november 1968 singleton r c fast transform multivariate series harmonic analysis spectral orthogonal polynomials transformation virtual core memory permutation 3 15 83 5 12 14 ca681111 jb february 21 1978 2 26 pm 1668 4 1669 1679 1728 2859 1525 

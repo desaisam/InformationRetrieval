@@ -1,0 +1,1 @@
+greatest common divisor of n integers and multipliers a1 algorithm 386 cacm july 1970 bradley g h greatest common divisor euclidean algorithm number theory diophantine equations 3 15 5 10 ca700709 jb february 1978 4 31 pm 2028 2521 3099 2031 6 3135 

@@ -1,0 +1,1 @@
+number of doubly restricted partitions algorithm 373 a1 cacm february 1970 white j s partitions restricted sums integers 5 39 ca700211 jb 14 1978 9 52 am 2104 4 2489 1219 6 

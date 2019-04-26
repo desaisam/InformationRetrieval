@@ -1,0 +1,1 @@
+an automatic loader for subroutine nests a method automatic loading of library subroutines which can be adapted to operate in conjunction with any conventional two pass assembler is described the specifically designed cope a nested structure cacm july 1964 kanner h ca640703 jb march 9 1978 8 27 pm 1044 5 1332 6 

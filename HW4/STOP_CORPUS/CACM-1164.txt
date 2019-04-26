@@ -1,0 +1,1 @@
+emulation large systems conversion problem technique called emulation discussed developed includes sections central processing unit cpu input output unit general treatment describe greater detail implementation compatibility features techniques ibm 7074 7080 7090 systems system 360 cacm december 1965 tucker ca651205 jb march 6 1978 4 09 pm 1164 5  

@@ -1,0 +1,1 @@
+character structure and parity sense for serial by bit data communication in the american standard code information interchange proposed cacm september 1965 ca650902 jb march 6 1978 7 41 pm 1204 5 

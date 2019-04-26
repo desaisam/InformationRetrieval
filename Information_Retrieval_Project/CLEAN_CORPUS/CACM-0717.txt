@@ -1,0 +1,1 @@
+partitioning algorithms for finite sets the partitions of a set with n elements are represented by certain tuples positive integers algorithm described which generate without repetitions the corresponding to 1 all given 2 into m or fewer sets and 3 exactly cacm october 1963 hutchinson g ca631008 jb march 13 1978 5 57 pm 717 

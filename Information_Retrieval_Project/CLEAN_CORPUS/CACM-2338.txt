@@ -1,0 +1,1 @@
+a starting method for solving nonlinear volterra integral equations of the second kind fourth order starting method is given integral equations second kind and numerical examples are presented cacm june 1972 iguchi k algorithm 5 18 ca720607 jb january 30 1978 4 17 pm 2338 

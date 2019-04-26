@@ -1,0 +1,1 @@
+an algorithm for generating root locus diagrams a technique using a digital computer to draw both ordinary and time lag root locus diagrams is described ordinary are drawn much faster more accurately than ever before time which had been impossible obtain with the same speed accuracy as cacm march 1967 krall m fornaro r ca670313 jb february 28 1978 12 57 pm 1615 5 

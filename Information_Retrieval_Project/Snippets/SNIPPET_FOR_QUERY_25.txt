@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2318
+the role of ***computer*** system models in ***performance*** ***evaluation*** models constitute a useful means of investigating ***computer*** system 
+... modeling ***evaluation*** ***performance*** analytic models simulation models system models 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+***computer*** aided analysis and design of information ***systems*** this paper describes the use of ***computer*** aided analysis for 
+... ***computer*** aided analysis consists of a set of procedures and ***computer*** programs specifically designed to aid in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2268
+a comparative study of ***computer*** programs for integrating differential equations a study comparing the ***performance*** of several ***computer*** 
+... ordinary differential equations integration program comparison certification validation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid simulation models of ***computer*** ***systems*** this paper describes the structure and operation of a hybrid simulation model 
+... ***performance*** ***evaluation*** simulation queueing network models central server model 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2634
+an ***evaluation*** of statistical software in the social sciences several hundred college and university ***computer*** installations now offer 
+... statistical computation statistical software descriptive statistics bivariate tables pearson correlation regression factor analysis one way analysis of variance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+response time monitor ***computer*** networks time sharing ***systems*** comparative response time arpa network anlytic modeling simulation benchmark jobs 
+... dynamic response time prediction for ***computer*** networks if the ultimate aim of a computing network is resource sharing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1938
+time sharing ***performance*** criteria time sharing system operation time sharing ***performance*** analysis 2 
+... six criteria are described which have been successfully used to perform first level quantitative time sharing system ***performance*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2984
+***computer*** system ***performance*** ***evaluation*** costutilization system balance 2 
+... costutilization a measure of system ***performance*** a method is presented for evaluating ***computer*** system ***performance*** in terms of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3089
+***performance*** of rollback recovery ***systems*** under intermittent failures a mathematical model of a transaction oriented system under intermittent 
+... database reliability file ***systems*** checkpoints recovery procedures checking techniques reliability and system ***performance*** ***evaluation*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2319
+operating system ***performance*** an overview of the current and future positions with respect to operating system ***performance*** is 
+... because of the severe interactions between the various subsystems of an operating system an overall model of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3119
+the impact of distributions and disciplines on multiple processor ***systems*** simple queueing models are used to study the 
+... issues considered include the impact of cpu service disciplines and distributions level of multiprogramming multitasking and job priorities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3136
+priceperformance patterns of u 
+... ***computer*** ***systems*** econometric models of the u 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2894
+a methodology for interactive ***computer*** service measurement a measurement methodology applicable to in teractive ***computer*** service is described 
+... in teractive system ***computer*** service measurement ***performance*** external measurement methodology measurement modelnetwork measurement system measures figure of merit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical considerations in information retrieval ***systems*** information storage and retrieval ***systems*** are composed of three major components a 
+... for identification of information the paper suggests that a metalanguage recently discussed in a paper by goffman verhoeff 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2882
+a stochastic ***evaluation*** model for database organization in data retrieval ***systems*** experimental work in the valuation of large 
+... this paper discusses a simulation model of a data retrieval system which has the effect of significantly reducing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2542
+a software design and ***evaluation*** system a critical failure of current software system design and implementation methodology is 
+... in this paper the reasons for this failure are explored and a new methodology which overcomes many of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2990
+effective information retrieval using term accuracy the ***performance*** of information retrieval ***systems*** can be evaluated in a number 
+... information retrieval automatic indexing content analysis term accuracy frequency weighting thesaurus and phrase transformations 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3091
+programmer ***performance*** standards predicting program development time program estimation techniques program development equation value of programming experience programmer 
+... some basic determinants of ***computer*** programming productivity the propose of this research was to examine the relationship between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2892
+a study of line overhead in the arpanet the form extent and effect of the communication line overhead 
+... some measurements of line efficiency for the arpanet are presented and by extrapolation these measurements are used to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2741
+this approach is taken in order to identify in multiprogramming paging ***systems*** i unstable regimes of operations and 
+... multiprogramming paging ***performance*** ***evaluation*** saturation instabilities thrashing aggregation system levels hierarchynetworks of queues 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1030
+techniques for the simulation of ***computer*** logic the simulation of a digital ***computer*** is an integral part of 
+... the ***evaluation*** of the boolean functions which characterize the ***computer*** being simulated constitutes one major portion of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2522
+the design implementation and ***evaluation*** of a working set dispatcher the behavior of a ***computer*** system is largely 
+... working set dispatcher scheduler time sharing ***systems*** resource allocation software ***evaluation*** operating ***systems*** supervisory ***systems*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1347
+general time varying ***systems*** error sensitivities program the ***evaluation*** by the propagation of variance technique of the sensitivity 
+... a new program through utilization of the wengert differentiation technique automatically determines the required matrices from specific system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2535
+the effects of multiplexing on a ***computer*** communications system a study is made of the way in which 
+... it is concluded that while for certain values of system parameters there is noticeable improvement in the ***performance*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2852
+the technology of ***computer*** center management a proposed course for graduate professional programs in ***computer*** science or in 
+... the course is suitable either for graduate professional programs in information ***systems*** or for graduate professional programs in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1653
+system ***performance*** ***evaluation*** survey and appraisal the state of the art of system ***performance*** ***evaluation*** is reviewed and 
+... the central role of measurement in ***performance*** ***evaluation*** and in the development of ***evaluation*** methods is explored 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2298
+an environment for research in microprogramming and emulation the development of the research project in microprogramming and emulation 
+... microprogramming emulation ***computer*** ***systems*** language processors input output ***systems*** nano program project management hardware ***evaluation*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1518
+the paper describes an experimental model of system360 its hardware software and its environment 
+... an experimental model of system360 the problem of predicting the ***performance*** of modern ***computer*** ***systems*** is formidable 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2151
+user program measurement in a time shared environment a general discussion of the measurement of software ***systems*** is 
+... operating ***systems*** multiprogramming ***systems*** time sharing ***systems*** software measurement user program measurement measurement technology tx 2 ***computer*** virtual 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2988
+memory management and response time this paper presents a computationally tractable methodology for including accurately the effects of 
+... relations between workload variables such as memory requirement distribution and job swap time and ***performance*** measures such as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3028
+the manchester mark i and atlas a his torical perspective in 30 years of ***computer*** design at manchester 
+... this paper places each ***computer*** in its his torical context and then describes the architecture and system software 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3088
+general equations for idealized cpu io overlap configurations general equations are derived for estimating the maximum possible utilization 
+... blocking buffering inputoutput overlap ***performance*** resource allocation throughput timesharing 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1728
+further experimental data on the behavior of programs in a paging environment results are summarized from an empirical 
+... paging ***systems*** paging dynamic program behavior program behavior virtual memory ***systems*** single level storage one level storage operating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2017
+sorting in a paging environment this sorting study was part of an extensive measurement project undertaken on the 
+... the insight gained from the experimental effort is used to arrive at a set of broad guidelines for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2859
+memory memory interference multiprocessing interleaved memory trace driven simulation 4 
+... interference in multiprocessor ***computer*** ***systems*** with interleaved memory this paper analyzes the memory interference caused by several processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class ***systems*** by memory allocations the possibility of giving different quality 
+... numerical solutions and economical lower bounds for the expected response times as functions of the control parameters are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2106
+***computer*** education in a graduate school of management several years of experience have led to the belief that 
+... concepts such as paging and priority interrupt ***systems*** can best be explained at the machine language level 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1750
+multiple ***computer*** ***systems*** extended core storage multiprogrammed operating ***systems*** multiprocessor operating ***systems*** control data corporation 6600 operating system 
+... the general design of the hardware arrangement and the software components and functions of such a system are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2849
+ethernet distributed packet switching for local ***computer*** networks ethernet is a branching broadcast communication system for carrying digital 
+... the packet transport mechanism provided by ethernet has been used to build ***systems*** which can be viewed as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3072
+feedback coupled resource allocation policies in the multiprogramming multiprocessor ***computer*** system model studies of some integrated feedback driven 
+... integrated schedulers feedback scheduling multiprogramming ***systems*** io system scheduling 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1805
+productivity prediction multiprogramming simulation equipment ***evaluation*** hardware ***evaluation*** monitor operating system system software supervisors ***performance*** time sharing time 
+... productivity of multiprogrammed computers progress in developing an analytic prediction method multiprogramming as it is discussed here is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3048
+***performance*** ***evaluation*** of highly concurrent computers by deterministic simulation simulation is presented as a practical technique for ***performance*** 
+... ***performance*** ***evaluation*** deterministic simulation control stream concurrent computers 6 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1267
+***performance*** of ***systems*** used for data transmission transfer rate of information bits an asa tutorial standard information thruput 
+... this discussion includes the pertinent aspects of information transfer of determination of transfer rate of information bits trib 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1671
+a phonological rule tester the design and implementation of a system to alleviate the problem of rule ***evaluation*** 
+... phonology rule tester linguistics transformational grammar lisp format directed list processing on line ***systems*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1908
+time sharing and batch processing an experimental comparison of their values in a problem solving situation an experimental 
+... time sharing vs batch processing user ***performance*** manmachine communications cost effectiveness on line vs off line ***performance*** decision 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2016
+the instrumentation of multics an array of measuring tools devised to aid in the implementation of a prototype 
+... instrumentation ***performance*** measurement multiprogramming ***systems*** measuring tools system analysis multics metering event tracing demand paging script driven measurement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0436
+ca621203 jb march 17 1978 516 pm 
+... ***evaluation*** of polynomials by ***computer*** cacm december 1962 knuth d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2317
+programming ***systems*** and languages 1965 1975 in spite of impressive gains by pli fortran and cobol remain the 
+... languages operating ***systems*** programming ***systems*** multiprogramming history 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2798
+analysis of interleaved memory ***systems*** using blockage buffers a model of interleaved memory ***systems*** is presented and the 
+... the simulations investigate the ***performance*** of various system structures i 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2452
+***evaluation*** and selection of file organization a model and system this work first discusses the factors that affect 
+... file organization file structures file management file organization ***performance*** file organization model file structure design secondary index organization 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1827
+***performance*** monitoring in a time sharing system a software measurement facility which is part of a general purpose 
+... the date collection facility dcf has been implemented in the michigan terminal system mts for the system360 model 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2048
+comparison of several adaptive newton cotes quadrature routines in evaluating definite integrals with peaked integrands this report compares 
+... adaptive newton cotes quadrature quadrature scheme comparison definite integral ***evaluation*** adaptive numerical in tegration newton cotes integration peaked 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2571
+an analytic model of the hasp execution task monitor the hasp execution task monitor periodically rearranges the os360 
+... this paper develops a simple model of the execution task monitor and employs it to study the effectiveness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2711
+a vector space model for automatic indexing in a document retrieval or other pattern matching environment where stored 
+... typical ***evaluation*** results are shown demonstrating the usefulness of the model 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1699
+information retrieval testing information system ***evaluation*** experimental document retrieval document retrieval document perusal man machine communication remote console 
+... experimental ***evaluation*** of information retrieval through a teletypewriter experiments designed to evaluate the capabilities of mechanized information retrieval 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of ***performance*** of time sharing ***systems*** by simulation a simulation model of a time sharing 
+... the effects of these variations on a measure of system ***performance*** is used to ascertain which of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1931
+interval arithmetic determinant ***evaluation*** and its use in testing for a chebyshev system two recent papers one by 
+... r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0096
+on computing radiation integrals the relative merit and cost of four ways of evaluating typical radiation integrals containing 
+... these methods are desk machine ***evaluation*** of a finite series integration of the appropriate differential equation by a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2217
+experiments in automatic learning for a multipurpose heuristic program an automatic learning capability has been developed and implemented 
+... multiples proving program pp uses two ***evaluation*** functions to guide its search for a proof of whether or 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1719
+real time system analysis real time system design real time system ***performance*** criteria real time system cost ***performance*** 
+... a methodology for calculating and optimizing real time system ***performance*** the continually increasing size complexity number of types 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0893
+the manner in which floating point arithmetic is handled in this mode is discussed 
+... several numerical experiments using this mode are described and comparisons are made with the ordinary normalized mode 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1933
+coding the lehmer pseudo random number generator an algorithm and coding technique is presented for quick ***evaluation*** of 
+... prime factorization for 261 2 and a primitive root for 261 1 the next largest prime mersenne number 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2286
+error analysis interval arithmetic precision control 5 
+... automatic error analysis for determining precision the problem considered is that of evaluating a rational expression to within 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0671
+telefile a case study of an on line savings bank application the development of an on line ***computer*** 
+... benefits to the bank are discussed from the bankers point of view an indication of future trends in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1526
+multiprogramming under a page on demand strategy a model of multiprogramming for a particular ***computer*** system using a 
+... a parameter readily calculated from the hardware characteristics and the program statistics is proposed for gauging the effect 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2989
+empirical ***evaluation*** of some features of instruction set processor architectures this paper presents methods for empirical ***evaluation*** of 
+... isp features are evaluated in terms of the time used or saved by having or not having the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1236
+the smart automatic document retrieval system an illustration a fully automatic document retrieval system operating on the ibm 
+... the system is used not only to simulate an actual operating environment but also to test the effectiveness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3035
+a strategic planning methodology for the computing effort in higher education an empirical ***evaluation*** the findings of a 
+... ***computer*** management ***computer*** budget university computing ***computer*** planning 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1792
+exploratory experimental studies comparing online and off line programming ***performance*** two exploratory experiments were conducted at system development 
+... off line ***performance*** programmercomputer communication programming experimental empirical studies programming cost effectiveness programming ***performance*** debugging effectiveness time sharing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0533
+digital synthesis of correlated stationary noise in this note we propose a method of generating stationary noise with 
+... the technique is quite simple and produces strict sense stationary noise which agrees approximately with rt the prescribed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1410
+interarrival statistics for time sharing ***systems*** the optimization of time shared system ***performance*** requires the description of the 
+... the data do not appear to justify except as a very rough approximation the usual assumption off an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the simulation event set recently algorithms have been presented for the realization of 
+... simulation time flow mechanisms event scanning mechanisms multilinked lists 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3059
+multiprogramming parallel processing queueing network models multiprocessing of computation and io  4 
+... models for parallel processing within programs application to cpuio and ioio overlap approximate queueing models for internal parallel 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3027
+the development of the mu5 ***computer*** system following a brief outline of the background of the mu5 project 
+... architecture naming virtual storage instruction set descriptor pipeline instruction buffering associative storage function queue ***computer*** complex 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0143
+a list of ***computer*** ***systems*** programs for the ibm 650 datatron 205 and univac ss 80 cacm october 
+... ca601005 jb march 20 1978 821 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2818
+ca761105 jb january 3 1978 318 pm 
+... interference in multiprocessor ***computer*** ***systems*** with interleaved memory corrigendum cacm november 1976 baskett f 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1572
+the simulation of time sharing ***systems*** the development of new large scale time sharing ***systems*** has raised a 
+... the use of the simulation is demonstrated by a study of the ibm 36067 time sharing system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2502
+education ***computer*** engineering ***computer*** sciences curriculum ***systems*** design 1 
+... a comment on the practical aspects of ***computer*** science education cacm may 1973 estell r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2553
+the practical aspect of ***computer*** science education discussion cacm january 1973 blount s 
+... education ***computer*** engineering ***computer*** science curriculum ***systems*** design 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1071
+***computer*** usage accounting for generalized time sharing ***systems*** the current development of general time sharing ***systems*** requires a 
+... the various cost factors which should be considered for ***computer*** usage accounting in generalized time sharing ***systems*** are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1341
+levels of ***computer*** ***systems*** in building current ***computer*** ***systems*** we tend to break them down into levels of 
+... the continued use of such a structure raises questions about its effects on the usefulness of future ***systems*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1435
+design of ***computer*** simulation experiments for industrial ***systems*** the aim of this paper is to provide background information 
+... the four experimental design problems are 1 the problem of stochastic convergence 2 the problem of factor selection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2262
+garbage collection virtual memory list processing paging segmentation page tables 4 
+... garbage collection for virtual memory ***computer*** ***systems*** in list processing there is typically a growing demand for space 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1272
+this paper discusses the economy of editing as a function of the amount of condensation of text in 
+... expanding the editing function in language data processing in automatic abstracting citation indexing mechanical translation and other such 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2592
+on generation of test problems for linear programming codes users of linear programming ***computer*** codes have realized the 
+... large scale linear programming codes at most installations are assumed to be generating correct solutions without ever having 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2669
+a simple linear model of demand paging ***performance*** predicting the ***performance*** of a proposed automatically managed multilevel memory 
+... paging demand paging memory models program models ***performance*** measurement multilevel memory ***systems*** virtual memory associative memory memory usage 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0040
+fingers or fists the choice of decimal or binary representation the binary number system offers many advantages over 
+... a careful review of the significance of decimal and binary addressing and both binary and decimal data arithmetic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0462
+***computer*** pattern recognition techniques electrocardiographic diagnosis the use of programmed digital computers as general pattern classification and recognition 
+... it is important to choose a class of signals which is at present undergoing a good deal of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1926
+description of format a text processing program format is a production program which facilitates the editing and printing 
+... text processing indexing printing documentation text editing formatting frequency dictionary right justification vocabulary 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3176
+storing a sparse table the problem of storing and searching large sparse tables is ubiquitous in ***computer*** science 
+... gaussian elimination parsing searching sparse matrix table compression table lookup 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2967
+a comparison of hardware and software associative memories in the context of ***computer*** graphics the associative processing of 
+... the apld functions were duplicated on the tx 2 ***computer*** at m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1415
+to explore the prospects of such a step the authors attempted in 1963 to prepare a general program 
+... a program is described in this paper which was designed to operate on the tree structure output of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1752
+resource management for a medium scale time sharing operating system task scheduling and resource balancing for a medium 
+... time sharing operating ***systems*** resource management task scheduling paging system simulation memory management virtual memories 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1810
+is automatic folding of programs efficient enough to displace manual the operation of folding a program into the 
+... paging automatic paging demand paging folding automatic folding storage hierarchies memory hierarchies replacement algorithms ***performance*** measurement 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2375
+a comparative analysis of disk scheduling policies five well known scheduling policies for movable head disks are compared 
+... access time analytical models auxiliary storage direct access storage disk analysis disk scheduling ***performance*** criteria peripheral memory devices 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2863
+vmin an optimal variable space page replacement algorithm a criterion for comparing variable space page replacement algorithms is 
+... the results of simulating vmin dennings working set and the page partitioning replacement algorithms on five virtual memory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0300
+language bros 
+... is programming in the cobol language one of the many runs on its ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1345
+tensor calculations on the ***computer*** a formac program has been written which is capable of calculating various quantities 
+... using this code christoffel symbols have been calculated for 12 basic orthogonal coordinate ***systems*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2309
+computers in the instructional process directions for research and development a survey is given of ***computer*** applications to 
+... cacm july1972 zinn k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2735
+discrimination in the employment of women in the ***computer*** industry cacm july 1975 weber r 
+... discrimination against women salaries employment programmers ***systems*** analysis keypunch operators machine operators 2 

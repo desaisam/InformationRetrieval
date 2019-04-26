@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1658
+analysis of algorithms for the zero one programming problem this paper is concerned with a review and examination 
+... the ***machine*** time and storage requirements of several of the algorithms are compared over several test problems of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1223
+***optimization*** such as the effective use of index registers although as important is not discussed since the object 
+... high speed compilation of efficient object ***code*** a three pass compiler with the following properties is briefly described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2253
+index ranges for matrix calculi the paper describes a scheme for symbolic manipulation of index expressions which arise 
+... address calculations algorithm transformation compilation data structures indexing by name indexing by position index domain index map index 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1947
+compilers data flow analysis dominance efficiency fortran graph theory loop structure ***machine*** instructions object ***code*** ***optimization*** redundancy elimination 
+... object ***code*** ***optimization*** methods of analyzing the control flow and data flow of programs during compilation are applied 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1795
+optimal ***code*** for serial and parallel computation cacm december 1969 fateman r 
+... 12 ca691217 jb february 15 1978 159 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2495
+arithmetic expressions ***code*** generation compilers object ***code*** ***optimization*** register assignment trees 4 
+... adapting optimal ***code*** generation for arithmetic expressions to the instruction sets available on present day computers cacm june 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2748
+threaded ***code*** snobol4 interpretors ***code*** generation 4 
+... it is related to bells notion of threaded ***code*** but requires less space and is more amenable to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1757
+data ***code*** for calendar date for ***machine*** to ***machine*** data interchange proposed usa standard cacm april 1968 usa 
+... 0 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1154
+multi tape and infinite state automata a survey a survey of machines which are more powerful than finite 
+... ***intermediate*** machines can be created by adjoining on infinite state memory to a finite state ***machine*** and then 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2491
+threaded ***code*** the concept of threaded ***code*** is presented as an alternative to ***machine*** language ***code*** 
+... interpreter ***machine*** ***code*** time tradeoff space tradeoff compiled ***code*** subroutine calls threaded ***code*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2904
+an algorithm for reduction of operator strength a simple algorithm which uses an indexed temporary table to perform 
+... compilers ***optimization*** of compiled ***code*** program analysis operator strength reduction test replacement strongly connected region 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1134
+some effects of the 6600 computer on language structures the problem of compiling efficient 6600 codes prompted the 
+... the subject of this paper is the ***intermediate*** language and methods of manipulating it 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1807
+***optimization*** of expressions in fortran a method of optimizing the computation of arithmetic and indexing expressions of a 
+... fortran ***optimization*** expressions compilers compilation subscripts register allocation do loops common subexpressions invariant calculations 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1886
+generation of optimal ***code*** for expressions via factorization given a set of expressions which are to be compiled 
+... factorization algorithms ***code*** ***optimization*** sequencing of operations detection of common subexpressions factorization of boolean expressions 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2897
+a case study of a new ***code*** generation technique for compilers recent developments in optimizing techniques have allowed 
+... such a compiler translates the parsed source ***code*** into lower level ***code*** by a sequence of steps 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3080
+proving the correctness of heuristically optimized ***code*** a system for proving that programs written in a high level 
+... compilers correctness ***code*** ***optimization*** debugging program verification lisp 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1564
+description of basic algorithm in detab65 preprocessor the basic algorithm for the conversion of decision tables into cobol 
+... since the preprocessor and this language associated with it were developed for cobol users the preprocessor was written 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2433
+control structures in illiac iv fortran as part of an effort to design and implement a fortran compiler 
+... language structures to utilize this storage method and express parallel algorithms are described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2858
+variable length addressing assembler paging 4 
+... a process for the determination of addresses in variable length addressing an algorithm is presented for the assignment 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2944
+shifting garbage collection overhead to compile time this paper discusses techniques which enable automatic storage reclamation overhead to 
+... it is shown that at compile time certain program actions that affect the reference counts of cells can 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3171
+line numbers made cheap a technique is described for run time line number administration to be used for 
+... line number administration diagnostic messages abstract ***machine*** ***code***  4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1676
+the lrltran compiler extensive software problems confront an organization which possesses a number of different computers and which 
+... to maintain cohesion a system must be developed written in a high level language which minimizes ***machine*** dependencies 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2423
+a parser generating system for constructing compressed compilers this paper describes a parser generating system pgs currently in 
+... typical one pass compilers constructed by the pgs translate source programs at speeds approaching 14000 cards per minute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2701
+a fast and usually linear algorithm for global flow analysis abstract only complete paper jacm 231 january 1976 
+... the algorithm is shown to treat a very general class of function spaces 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3054
+analytic results describing the performance of the programs are summarized 
+... implementing quicksort programs this paper is a practical study of how to implement the quicksort sorting algorithm and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3005
+***machine*** architecture computer architecture computer organization instruction set design program characteristics 4 
+... implications of structured programming for ***machine*** architecture based on an empirical study of more than 10000 lines of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1389
+a programmers description of l6 bell telephone laboratories low linked list language l6 pronounced l six is a 
+... it contains many of the facilities which underlie such list processors as ipl lisp comit ad snobol but 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2929
+an analysis of inline substitution for a structured programming language an ***optimization*** technique known as inline substitution is 
+... inline substitution open coding open compilation program ***optimization*** compilers structured programming languages run time statistics 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3053
+packed scatter tables scatter tables for open addressing benefit from recursive entry displacements cutoffs for unsuccessful searches and 
+... compared with conventional methods the new techniques provide substantially improved tables that resemble exact solution optimal packings 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1523
+sharer a time sharing system for the cdc 6600 a time sharing system embedded within the standard batch 
+... the system is general purpose and file based providing facilities for file input manipulation editing compilation and conversational 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1542
+the system consists of a microprogrammed compiler and a microprogrammed string language interpreter and of an io control 
+... a microprogrammed implementation of euler on ibm system360 model 30 an experimental processing system for the algorithmic language 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2138
+bliss a language for systems programming a language bliss is described 
+... programming languages implementation language systems programming data structures 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2968
+a comparison of tree balancing algorithms several algorithms height balance i 
+... e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3150
+programming programming languages programming systems systems development 4 
+... this paper analyzes some of the shortcomings of programming languages as they now exist and lays out some 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2464
+***optimization*** constrained ***optimization*** boxs algorithm 5 
+... the complex method for constrained ***optimization*** e4 algorithm a454 cacm august 1973 richardson j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0123
+compilation for two computers with neliac neliac a compiler based on algol was developed at the u 
+... navy electronics laboratory san diegocalifornia as aboot strap compiler for the remington rand univac countess computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1726
+preliminary investigation of techniques for automated reading of unformatted text methods for converting unstructured printed material into computer 
+... an operator controlled mode depending on human demarcation of the various regions of the page for guiding the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1231
+peephole ***optimization*** redundant instructions may be discarded during the final stage of compilation by using a simple optimizing 
+... the method is described and examplesare given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2611
+the complex method for constrained ***optimization*** algorithm r454 cacm august 1974 shere k 
+... ca740813 jb january 17 1978 928 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0252
+programming a duplex computer system this paper describes a method of duplex computer programming that has been used 
+... the duplex operation gives the system greater reliability 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1402
+partial step integration a partial step integration equation is derived for use with the adams or adams bashforth 
+... this method of obtaining functional values at points ***intermediate*** to the integration points yields accuracy comparable to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1783
+for all combinations of rounding and truncation conversions the question is considered of how many significant digits are 
+... in and out conversions byan in and out conversion we mean that a floating point number in one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0195
+ca600502 jb march 22 1978 133 pm 
+... what is a ***code*** cacm may 1960 patterson g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1665
+automatic generation of efficient lexical processors using finite state techniques the practical application of the theory of finite 
+... as part of the aed 1 system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2233
+signature simulation and certain cryptographic codes three cyphers allegedly authored by thomas jefferson beale in 1822 have been 
+... generations of cryptanalysts have expended untold man years thus far without success attempting tode ***code*** them vast armies 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2964
+an approach to optimal design of storage parameters in databases cacm may 1977 milman y 
+... database organization storage parameter ***optimization*** resident overflow storage 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2533
+gray ***code*** and the  sign sequence when f f f 
+... gray ***code*** sign sequences ordering positive monotonic functions binary system galois sum 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1062
+function type subroutines are included for ***intermediate*** manipulations which are performed on the strings which are stored in 
+... symbol manipulation in fortran sasp i subroutines a set of subroutines for use in fortran are described whose 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2871
+logical analysis invariants program verification correctness incorrectness termination automatic debugging 3 
+... as a unified solution to these problems this paper suggests conducting a logical analysis of programs by using 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3130
+curriculum 78 recommendations for the undergraduate program in computer science contained in this report are the recommendations for 
+... computer sciences courses computer science curriculum computer science education computer science undergraduate degree programs service courses continuing education 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0031
+ca580301 jb march 22 1978 921 pm 
+... ibm 704 ***code*** nundrums cacm march 1958 grumette m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0066
+a proposal for a generalized card ***code*** for 256 characters cacm september 1959 bemer r 
+... ca590903 jb march 22 1978 450 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0230
+ca600202 jb march 22 1978 225 pm 
+... a proposal for character ***code*** compatibility cacm february 1960 bemer r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1064
+perforated tape ***code*** for information interchange proposed american standard cacm june 1964 ca640603 jb march 9 1978 946 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1187
+note on an ascii octal ***code*** table standards cacm october 1965 crosby w 
+... ca651008 jb march 6 1978 642 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1289
+proposed revised american standard ***code*** for information interchange cacm april 1965 ca650402 jb march 7 1978 403 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2835
+recursion analysis for compiler ***optimization*** a relatively simple method for the detection of recursive use of procedures is 
+... recursion compiler ***optimization*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1029
+a simple automatic derivative evaluation program a procedure for automatic evaluation of totalpartial derivatives of arbitrary algebraic functions 
+... a library of elementary function subroutines is provided for the automatic evaluation and differentiation of these new variables 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1387
+solution of systems of polynomial equations by elimination the elimination procedure as described by williams has been coded 
+... the method by itself appears in appropriate however in the solution of large systems of equation due to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1392
+experience with formac algorithm design various facets of the design and implementation of mathematical expression manipulation algorithms are 
+... although many details from the formac implementation are presented an attempt is made to stress principles and ideas 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3115
+orderly enumeration of nonsingular binary matrices applied to text encryption nonsingular binary matrices of order n i 
+... e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0693
+an extension of fibonaccian search to several variables a technique which uses fibonaccian search concepts has been developed 
+... the technique has not been proven to be optimal in the sense that the one dimensional fibonaccian search 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2133
+algorithm for the assignment problem rectangular matrices h algorithm 415 cacm december 1971 bourgeois f 
+... operations research ***optimization*** theory assignment problem rectangular matrices 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0333
+design of an improved transmissiondata processing ***code*** cacm may 1961 bemer r 
+... w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0797
+american standard ***code*** for information interchange cacm august 1963 ca630801 jb march 13 1978 855 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1065
+bit sequencing of the american standard ***code*** for information interchange ascii in serial by bit data transmission proposed 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1204
+character structure and character parity sense for serial by bit data communication in the american standard ***code*** for 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1232
+representation of the standard ecma 7 bit ***code*** in punched cards ecma standard cacm july 1965 ca650703 jb 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1275
+***code*** structures for protection and manipulation of variable length items corrigendum cacm april 1965 ramamoorthy c 
+... ca650416 jb march 7 1978 331 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1414
+twelve row punched card ***code*** for information interchange proposed american standard cacm june 1966 ca660607 jb march 3 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2586
+adapting optimal ***code*** generation for arithmetic expressions to the instruction sets available on present day computers errata cacm 
+... ca741012 jb january 16 1978 1105 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3125
+optimizer ***optimization*** compiler compilation redundancy elimination invariant computation elimination partial redundancy data flow analysis boolean systems 4 
+... global ***optimization*** by suppression of partial redundancies the elimination of redundant computations and the moving of invariant computations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2117
+representation for calen dar date for ***machine*** to ***machine*** data interchange proposed american national standard cacm january 1970 
+... 70 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1331
+***code*** structures for protection and manipulation of variable length items when items are made up of a variable 
+... a 6 bit ***code*** assignment of alphanumeric characters for fixed word length computers is given and its suitability 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1655
+***code*** extension procedures for information interchange proposed usa standard cacm december 1968 standard ***code*** ***code*** information interchange characters 
+... 0 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1756
+hollerith punched card ***code*** proposed usa standard cacm april 1968 usa standard card ***code*** punched card punched card 
+... 4 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1992
+hashing hash ***code*** scatter storage calculated address clustering search symbol table keys table look up 3 
+... comment on bells quadratic quotient method for hash ***code*** searching cacm september 1970 lamport l 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2834
+efficient generation of the binary reflected gray ***code*** and its applications algorithms are presented to generate the n 
+... both algorithms are efficient in that the time required to generate the next element from the current one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0593
+ca620512 jb march 20 1978 139 pm 
+... an introduction to a ***machine*** independent data division cacm may 1962 mullin j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2079
+ca700405 jb february 13 1978 305 pm 
+... on multiprogramming ***machine*** coding and computer organization cacm april 1970 wirth n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the ***optimization*** of performance of time sharing systems by simulation a simulation model of a time sharing 
+... the effects of these variations on a measure of system performance is used to ascertain which of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+computer aided analysis and design of information systems this paper describes the use of computer aided analysis for 
+... computer aided analysis consists of a set of procedures and computer programs specifically designed to aid in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1350
+the augmented predictive analyzer for context free languages its relative efficiency it has been proven by greibach that 
+... since the predictive analyzer at harvard uses a standard form grammar it can accept the language of any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2053
+on the conversion of decision tables to computer programs the use of execution time diagnostics in pinpointing ambiguities 
+... it is pointed out that any attempt at resolving ambiguities at compile time will in general be impossible 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0093
+from formulas to computer oriented language a technique is shown for enabling a computer to translate simple algebraic 
+... ca590303 jb march 22 1978 803 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1345
+tensor calculations on the computer a formac program has been written which is capable of calculating various quantities 
+... using this ***code*** christoffel symbols have been calculated for 12 basic orthogonal coordinate systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1362
+***code*** extension in ascii an asa tutorial the american standard ***code*** for information interchange ascii contains a number 
+... this paper presents a set of mutually consistent philosophies regarding ***code*** extension applications and suggests a corollary set 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1786
+hash ***code*** hash table scatter storage searching  3 
+... an improved hash ***code*** for scatter storage introduced is a hash coding method based on fixed point division 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3066
+software reliability program verification debugging testing ***code*** walkthroughs ***code*** inspections personnel selection 4 
+... a controlled experiment in program testing and ***code*** walkthroughsinspections this paper describes an experiment in program testing employing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3110
+assembling ***code*** for machines with span dependent instructions many modern computers contain instructions whose lengths depend on the 
+... span dependent instructions variable length addressing ***code*** generation assemblers compilers np complete computational complexity 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0035
+ca580101 jb march 22 1978 927 pm 
+... a ***machine*** method for square root computation cacm january 1958 bemer r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0079
+ca590605 jb march 22 1978 631 pm 
+... programming for a ***machine*** with an extended address calculational mechanism cacm june 1959 schecher h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0091
+ca590401 jb march 22 1978 714 pm 
+... a mathematical procedure for ***machine*** division cacm april 1959 gilman r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0537
+a ***machine*** program for theorem proving the program of a proof procedure is discussed in connection with trial 
+... cacm july 1962 davis m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1195
+uplifts university of pittsburgh linear file tandem system a series of computer programs has been developed and is 
+... the program are note worthy in that they create fixed length logical records and fixed length blocks from 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2000
+a variation of the goodman lance method for the solution of two point boundary value problems a recently 
+... goodman lance boundary value problems newtons method nonlinear equations optimal control ***optimization*** ordinary differential equations secant method interpolative 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2134
+an extension of the munkres algorithm for the assignment problem to rectangular matrices the assignment problem together with 
+... then the authors develop an extension of this algorithm which permits a solution for rectangular matrices 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2290
+immediate predominators in a directed graph h algorithm a430 cacm august 1972 purdom jr 
+... predominator immediate predominator graph theory directed graph shortest path articulation connectivity program ***optimization*** optimizing compiler 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2411
+tree structured programs cacm november 1973 wegner e 
+... control structures flowcharts goto statements inductive assertion least fix points ***optimization*** in compilers program documentation program flow graphs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2579
+register allocation via usage counts this paper introduces the notion of usage counts shows how usage counts can 
+... the paper compares register allocation based on usage counts to other commonly used register allocation techniques and presents 

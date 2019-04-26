@@ -1,0 +1,1 @@
+an algorithm for reasoning about equality a simple technique reasoning about equalities that is fast and complete ground formulas with function symbols equality presented proof of correctness given as well cacm july 1978 shostak r theorem proving deduction program verification 3 64 66 5 21 ca780709 dh february 7 1979 41 pm 3079 

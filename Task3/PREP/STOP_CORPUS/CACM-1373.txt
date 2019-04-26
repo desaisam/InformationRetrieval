@@ -1,0 +1,1 @@
+gamma function range 1 2 reciprocal real argument logarithm algorithms 34 s14 54 80 221 291 cacm september 1966 pike hill ca660909d jb march 23 1978 4 28 pm 1373 5  

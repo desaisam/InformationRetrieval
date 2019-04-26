@@ -1,0 +1,1 @@
+an iterative method for fitting the logistic curve iterative method is given finding a logistic curve of best least squares fit to set two dimensional points cacm march 1959 howell j ca590302 jb 22 1978 8 04 pm 75 5 94 15 6 

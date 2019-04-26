@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2327
+toward an ***automata*** ***theory*** of brains a source of ideas for ***automata*** ***theory*** the ***study*** of the brain 
+... ***automata*** ***theory*** brain ***theory*** network complexity resolution of redundancy of potential command frog visual system reticular formation mode 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic and programming ***languages*** logic has been long in terested in whether answers to certain questions are computable 
+... more recently precise comparisons in the efficiency of decision methods have become available through the developments in complexity 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2650
+error correction ***regular*** ***languages*** ***regular*** events finite state ***automata*** compiler error recovery spelling correction string best match problem 
+... order n correction for ***regular*** ***languages*** a method is presented for calculating a string b belonging to a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1678
+computer science program a number of courses are listed in the area describe as ***automata*** formal ***languages*** abstract 
+... ***automata*** formal ***languages*** abstract switching and computability in a ph 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2921
+***regular*** right part grammars and their parsers this paper in troduces an alternative to context free grammars called 
+... also in troduced is a class of parsers rrp lrm k parsers which includes the cf lrk parsers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2112
+a formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+... translation equations input limited transduction expressions or translation equations are used to describe the syntax and left context 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1665
+automatic generation of efficient lexical processors using finite state techniques the practical application of the ***theory*** of finite 
+... as part of the aed 1 system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1453
+a nonrecursive method of syntax specification the use of the kleene ***regular*** expression notation for describing ***algebraic*** language 
+... a hand calculation result of the application of the algorithm to all of algol is given thus expressing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2061
+an algorithm for the construction of bounded context parsers an algorithm is described which accepts an arbitrary context 
+... bounded context parsing bounded context syntactic analysis parser construction syntactical analyzer construction generators compiler compilers compiler writing systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two ***languages*** for estimating program efficiency two ***languages*** enabling their users to estimate the efficiency of computer programs 
+... the program whose efficiency one wishes to estimate is written in the first language a go to less 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2449
+a simple technique for structured variable lookup a simple technique for the symbol table lookup of structured variables 
+... symbol table organization pli and cobol structured variables 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2470
+fen an axiomatic basis for program semantics a formal system is presented which abstracts the notions of data 
+... it is argued that the system is more suitable than set ***theory*** or its derivatives for the concise 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2932
+complexity of computations ***algebraic*** complexity in tractable problems probabilistic algorithms 5 
+... complexity of computations the framework for research in the ***theory*** of complexity of computations is described emphasizing the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2166
+automated ***algebraic*** manipulation in celestial mechanics in this paper we consider some of the applications of automated ***algebraic*** 
+... series manipulation automated algebra celestial mechanics 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1867
+on the expected lengths of sequences generated in sorting by replacement selecting in the replacement selecting technique of 
+... replacement selecting sorting sequence lengths asymptotic expected length recursion ***relation*** generating function meromorphic function 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2134
+an extension of the munkres algorithm for the assignment problem to rectangular matrices the assignment problem together with 
+... then the authors develop an extension of this algorithm which permits a solution for rectangular matrices 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2323
+such a ***theory*** is preferable to a less general effort to make ***algebraic*** manipulation systems knowledgeable about the 
+... toward a general ***theory*** of special functions a list of a number of natural developments for the field 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1258
+in such cases an extended arithmetic package provides a comprehensive and easy to use way of performing such 
+... in discussing the general problems associated with the design of an extended arithmetic package specific reference is made 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2809
+new results concerning norms with values in an archimedian vector lattice not necessarily being totally ordered are given 
+... matrices norms positivity numerical range positivity cones vector latticeabsolute monotonic 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1961
+an efficient search algorithm to find the elementary circuits of a graph a theoretically most efficient search algorithm 
+... the algorithm can be easily modified to find all of the elementary circuits with a particular attribute such 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1896
+coulomb wave functions wave functions ***regular*** coulomb wave functions 5 
+... ***regular*** coulomb wave functions algorithm 292 s22 cacm may 1969 gautschi w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1898
+coulomb wave functions wave functions ***regular*** coulomb wave functions 5 
+... ***regular*** coulomb wave functions algorithm 292 s22 cacm may 1969 kolbig k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1993
+coulomb wave functions wave functions ***regular*** coulomb wave functions 5 
+... ***regular*** coulomb wave functions algorithm 292 s22 cacm september 1970  cody w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2051
+a pli program to assist the comparative linguist a practical pli program is described which can assist comparative 
+... comparative linguistics natural language processing comparative method historical linguistics diachronic linguistics genetic relationship sound change sound correspondence ***regular*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1048
+approximate solution of axially symmetric problems a variety of physical problems in such diverse fields as electrostatic field 
+... dirichlet type problems associated with this equation are studied on regions whose boundaries include a nondegenerate portion of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1334
+mechanization of tedious algebra the newcomb operators of planetary ***theory*** a computer program has been written to generate 
+... formulas for over 100 newcomb operators have been produced by the program and typeset photographically on an s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1253
+quikscript a simscript like language for the g 20 quikscript is a simulation language based on simscript and 
+... the quikscript language its internal implementation and major differences between quikscript and simscript are presented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1806
+on the downhill method the downhill method is a numerical method for solving complex equations fz 0 on 
+... downhill method complex relaxation method complex iteration complex equation transcendental complex equation ***algebraic*** complex equation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+the conference was sponsored by the acm special interest committee on symbolic and ***algebraic*** manipulation 
+... proceedings of the acm symposium on symbolic and ***algebraic*** manipulation the acm symposium on symbolic and ***algebraic*** manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2302
+computers and employment the relationship of computers and automation to employment is part of the more general ***relation*** 
+... employment unemployment social implications attitudes skills obsolescence technology unions displacement 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2305
+higher programming ***languages*** programming ***theory*** of programming history of programming 1 
+... although this early approach to a programming language did not lead to practical use the plan is described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3124
+nested arrays apl arrays recursive data structures trees data driven algorithms ***theory*** of arrays 4 
+... recursive data structures in apl a mathematical ***study*** of three approaches for defining nested arrays in apl is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1216
+symbolic derivatives without list processing subroutines or recursion a routine has been developed which computes and prints out 
+... no use is made of list processing ***languages*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2326
+fix point approach to the ***theory*** of computation following the fix point ***theory*** of scott the semantics of 
+... verification techniques semantics of programming ***languages*** least fix points recursive programs computational induction 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1834
+an axiomatic basis for computer programming in this paper an attempt is made to explore the logical foundations 
+... this involves the elucidation of sets of axioms and rules of inference which can be used in proofs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1911
+natural ***languages*** generative grammar transformational ***theory*** syntax coordination sentence coordination sentence coordination coordination reduction syntactic analysis grammar testing 
+... on coordination reduction and sentence analysis a class of coordination phenomena in natural ***languages*** is considered within the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2580
+a method for composing simple traditional music by computer a method is described for composing musical rounds by 
+... this method uses some music ***theory*** plus additional heuristics 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1355
+***regular*** coulomb wave functions algorithm 292  cacm november 1966 gautschi w 
+... ca661103a jb march 2 1978 343 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1739
+search match ***regular*** expression 3 
+... ***regular*** expression search algorithm a method for locating specific character strings embedded in character text is described and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0464
+syntactic analysis by digital computer this paper provides an account of the shadow language that is used to 
+... the output consists of a trace table that expresses the results of the syntactic analysis in a tabular 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+a card format for reference files in information processing this paper proposes a card format suitable for a 
+... it is suitable as a standard for card reference files in information processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0724
+turnover among themselves is attributed primarily to poor management salary is seen as the principal motivating factor in 
+... nature of the work offered and salary are principal determinants in accepting a new job 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+simulation time flow mechanisms event list algorithm simulation time flow mechanisms event list algorithm simulation executive event scheduling 
+... a comparison of simulation event list algorithms four algorithms are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2998
+an empirical ***study*** of list structure in lisp static measurements of the list structure of five large lisp 
+... these measurements reveal substantial regularity or predictability among poin ters to atoms and especially among poin ters to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1425
+two normalization methods of flow diagrams are given 
+... flow diagrams turing machines and ***languages*** with only two formation rules in the first part of the paper 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1887
+a recursive ***relation*** for the determinant of a pentadiagonal matrix a recursive ***relation*** relating leading principal minors is 
+... pentadiagonal matrix quindiagonal matrix quindiagonal matrix band matrix determinant characteristic polynomial eigenvalues 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1991
+***automata*** finite ***automata*** singly generated ***automata*** automorphisms generators length of state minimal length generators orbit 5 
+... on the number of automorphisms of a singly generated automaton cacm september 1970 bavel z 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1154
+multi tape and infinite state ***automata*** a survey a survey of machines which are more powerful than finite 
+... intermediate machines can be created by adjoining on infinite state memory to a finite state machine and then 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1824
+aparel a parse request language aparel is described this language is an extension to an algorithmic language pli 
+... this capability is provided through parse requests stated in a bnf like format 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2719
+analysis of programs performance analysis execution time execution behavior difference equations generating functions list processing lisp ***algebraic*** manipulation 
+... mechanical program analysis one means of analyzing program performance is by deriving closed form expressions for their execution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2090
+symbolic expansion of ***algebraic*** expressions algorithm 377 r2 cacm march 1970 levine m 
+... algebra symbolic algebra symbolic multiplication ***algebraic*** distribution ***algebraic*** multiplication distribution algorithm multiplication algorithm product algorithm polynomial distribution polynomial 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0099
+ca590202 jb march 22 1978 822 pm 
+... possible modifications to the international ***algebraic*** language cacm february 1959 green j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2842
+the denotational semantics of programming ***languages*** this paper is a tutorial introduction to the ***theory*** of programming language 
+... semantics programming language applicative imperative environment store continuation ***theory*** of computation higher order function recursive definition loop gedanken 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1223
+optimization such as the effective use of index registers although as important is not discussed since the object 
+... high speed compilation of efficient object code a three pass compiler with the following properties is briefly described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3077
+can programming be liberated from the von neumann style a functional style and its algebra of programs conventional 
+... inherent defects at the most basic level cause them to be both fat and weak their primitive word 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+a compiler building system developed by brooker and morris in a number of ***articles*** published during the past 
+... rohl in their most recent paper have presented a very interesting programming system that they have developed for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0021
+ca580601 jb march 22 1978 910 pm 
+... ***algebraic*** formulation of flow diagrams cacm june 1958 voorhees e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0054
+sale a simple ***algebraic*** language for engineers cacm october 1959 brittenham w 
+... r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0055
+ca591004 jb march 22 1978 415 pm 
+... an ***algebraic*** translator cacm october 1959 kaner h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0393
+two subroutines for symbol manipulation with an ***algebraic*** compiler cacm february 1961 carr iii j 
+... w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2779
+discrete least squares polynomial fits the recurrence ***relation*** between orthogonal polynomials is widely used for discrete least squares 
+... a variant of the classical algorithm which has better numerical properties is presented and the reason for its 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2165
+general relativity and the application of ***algebraic*** manipulative systems the paper describes some applications of symbolic algebra systems 
+... symbolic mathematicsnonnumerical mathematics general relativity ***algebraic*** manipulation equation manipulation 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3189
+an ***algebraic*** compiler for the fortran assembly program an ***algebraic*** compiler has been written which may be added 
+... this compiler will expand all ***algebraic*** statements with the following operations addition subtraction multiplication and division 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1101
+the place of logical design and switching ***theory*** in the computer curriculum cacm april 1964 muller d 
+... ca640407 jb march 10 1978 149 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1906
+automated printed circuit routing with a stepping aperture a computer program for routing interconnections on a two sided 
+... routing printed circuit interconnections aperture stepping aperture computer program circuit board lines vias pins 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0044
+ca591104 jb march 22 1978 352 pm 
+... runcible ***algebraic*** translation on a limited computer cacm november 1959 knuth d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0093
+from formulas to computer oriented language a technique is shown for enabling a computer to translate simple ***algebraic*** 
+... ca590303 jb march 22 1978 803 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1803
+downhill method complex relaxation method complex iteration complex equation transcendental complex equation ***algebraic*** complex equation 5 
+... complex root finding algorithm 365 c5 cacm december 1969 bach h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1214
+some experiments in ***algebraic*** manipulation by computer a set of subroutines to allow ***algebraic*** manipulations on the ibm 
+... a series of four problems of increasing difficulty were solved using these routines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2663
+education management business schools 1 
+... a ***study*** of computer use in a graduate school of business cacm april 1974 lucas h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1781
+translator writing systems a critical review of recent efforts to automate the writing of translators of programming ***languages*** 
+... the formal ***study*** of syntax and its application to translator writing are discussed in section ii 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2423
+a parser generating system for constructing compressed compilers this paper describes a parser generating system pgs currently in 
+... typical one pass compilers constructed by the pgs translate source programs at speeds approaching 14000 cards per minute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1136
+beginnings of a ***theory*** of information handling cacm february 1964 steel jr 
+... ca640207 jb march 10 1978 410 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2121
+partitions in natural order algorithm 371 a1 cacm january 1970 mckay j 
+... k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2291
+localization of the roots of a polynomial c2 algorithm a429 cacm august 1972 squire w 
+... polynomials roots of polynomialstheory of equations routh hurwitz criterion 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2129
+recursive computation of certain derivatives a ***study*** of error propagation a brief ***study*** is made of the propagation 
+... recursive computation successive derivatives error propagation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2813
+the computer science and engineering research ***study*** cosers the computer science and engineering research ***study*** cosers is briefly 
+... computer science research computer engineering research national research ***study*** 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0124
+an algorithm for the assignment problem the assignment problem is formulated and briefly discussed 
+... an efficient algorithm for its solution is presented in algol code 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0536
+nonlinear regression and the solution of simultaneous equations if one has a set of observables z1 
+... it is shown here that this same minimization technique may be used for the solution of simultaneous not 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0850
+conversion reconversion and comparison techniques in variable length sorting the logic is described for converting highly variable input 
+... the internal record formats are discussed in ***relation*** to 1 their conversion from input formats 2 their reconversion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1072
+an improved equivalence algorithm an algorithm for assigning storage on the basis of equivalence dimension and common declarations 
+... the algorithm is based on a tree structure and has reduced computation time by 40 percent over a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1211
+a note on storage of strings a method for storing strings is described which uses blocks of indefinite 
+... its ***relation*** to similar schemes is discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1649
+data directed input output in fortran a statement which is similar to the namelist statement of fortran iv 
+... methods of using this information are illustrated in ***relation*** to general purpose data directed input and output routines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1932
+the logarithmic error and newtons method for the square root the problem of obtaining optimal starting values for 
+... square root newtons method relative error logarithmic error best fit optimal approximation maximal error recurrence ***relation*** integer root 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2052
+scheduling to reduce conflict in meetings conflicts in scheduling can be treated as defining an undirected linear graph 
+... allocation conflict matrix connected component scheduling spanning tree undirected linear graph 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2288
+file organization the consecutive retrieval property the consecutive retrieval property is an important ***relation*** between a query set 
+... some important theorems on the consecutive retrieval property are proved in this paper 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2769
+a modification of warshalls algorithm for the transitive closure of binary relations an algorithm is given for computing 
+... warshalls algorithm transitive closure reachability matrix directed graph digraph boolean matrix binary ***relation*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2974
+comment on weighted increment linear search for scatter tables cacm april 1977 bandyopadhyay s 
+... k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2648
+a design for a number ***theory*** package with an optimized trial division routine a number ***theory*** package is 
+... number ***theory*** package trial division multiprecise arithmetic factorization doubly linked lists pseudoprime 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1394
+computation of ***algebraic*** properties of elementary particle reactions using a digital computer a large number of calculations in 
+... the manner in which these problems are encountered is outlined and their representation in the computer discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+***algebraic*** simplification a guide for the perplexed ***algebraic*** simplification is examined first from the point of view of 
+... first we describe various techniques akin to substitution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3199
+algem an ***algebraic*** manipulator algem is a package of subprograms written in slip fortran iv and map 7094 
+... algems basic ***algebraic*** operations are additions subtractions multiplications division and exponentiation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3203
+grad assistant a program for symbolic ***algebraic*** manipulation and differentiation the general recursive algebra and differentiation assistant grad 
+... it is designed for use with problemms in which a large amount of routine manipulation is to be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0164
+ca600802 jb march 20 1978 902 pm 
+... a short ***study*** of notation efficiency cacm august 1960 smith jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2803
+pseudoinverses and conjugate gradients this paper is devoted to the ***study*** of connections between pseudoinverses of matrices and 
+... pseudoinverse conjugate gradients hermitian matrix minimization 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0628
+ca620304 jb march 20 1978 309 pm 
+... on a floating point number representation for use with algorithmic ***languages*** cacm march 1962 grau a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0651
+ca620108 jb march 20 1978 436 pm 
+... a survey of ***languages*** and systems for information retrieval cacm january 1962 grems m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0920
+toward better documentation of programming ***languages*** cacm march 1963 yngve v 
+... h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2814
+roster of programming ***languages*** for 1974 75  cacm december 1976 sammet j 
+... ca761201 jb january 3 1978 238 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2268
+a comparative ***study*** of computer programs for integrating differential equations a ***study*** comparing the performance of several computer 
+... ordinary differential equations integration program comparison certification validation 5 

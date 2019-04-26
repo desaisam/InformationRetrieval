@@ -1,0 +1,1 @@
+remarks reducing truncation errors cacm january 1965 kahan ca650109 jb march 8 1978 2 37 pm 1328 4 1333 2144 1052 5 2282 2860 3083 6 1973 2049 2107 2203 2543 2552 492  

@@ -1,0 +1,100 @@
+3 Q0 List of International Space Station expeditions 1 0.62522006 LUCENE
+3 Q0 List of human spaceflights to the International Space Station 2 0.5336355 LUCENE
+3 Q0 Orbital Technologies Commercial Space Station 3 0.5179786 LUCENE
+3 Q0 List of unmanned spaceflights to Mir 4 0.49429044 LUCENE
+3 Q0 List of spaceflights to the International Space Station 5 0.44845977 LUCENE
+3 Q0 List of Mir expeditions 6 0.42465466 LUCENE
+3 Q0 List of Salyut expeditions 7 0.41915387 LUCENE
+3 Q0 List of Muslim astronauts 8 0.41268107 LUCENE
+3 Q0 List of International Space Station spacewalks 9 0.41262797 LUCENE
+3 Q0 Space Station 10 0.4115274 LUCENE
+3 Q0 Timeline of longest spaceflights 11 0.4077688 LUCENE
+3 Q0 Norwegian Space Centre 12 0.39868975 LUCENE
+3 Q0 List of human spaceflights to Salyut space stations 13 0.39181274 LUCENE
+3 Q0 List of TDRS satellites 14 0.38363552 LUCENE
+3 Q0 List of human spaceflights to Mir 15 0.38300747 LUCENE
+3 Q0 List of Russian manned space missions 16 0.37471506 LUCENE
+3 Q0 Outline of space science 17 0.3689453 LUCENE
+3 Q0 List of crewed spacecraft 18 0.36672866 LUCENE
+3 Q0 List of manned spacecraft 19 0.36672866 LUCENE
+3 Q0 Ground station 20 0.36019185 LUCENE
+3 Q0 Salyut programme 21 0.35641304 LUCENE
+3 Q0 Salyut 22 0.35641304 LUCENE
+3 Q0 Bigelow Commercial Space Station 23 0.35070494 LUCENE
+3 Q0 Tiangong program 24 0.35018596 LUCENE
+3 Q0 List of Salyut spacewalks 25 0.34810674 LUCENE
+3 Q0 Space research 26 0.33981895 LUCENE
+3 Q0 NASA Authorization Act of 2010 27 0.3383771 LUCENE
+3 Q0 List of Mir spacewalks 28 0.33087477 LUCENE
+3 Q0 List of unmanned spaceflights to Salyut space stations 29 0.32883045 LUCENE
+3 Q0 Human outpost 30 0.32588863 LUCENE
+3 Q0 List of human spaceflights, 1991–2000 31 0.3183012 LUCENE
+3 Q0 List of human spaceflights, 2001–2010 32 0.31398937 LUCENE
+3 Q0 List of Space Shuttle crews 33 0.31226254 LUCENE
+3 Q0 Shuttle–Mir Program 34 0.3106573 LUCENE
+3 Q0 Space law 35 0.31054747 LUCENE
+3 Q0 List of unmanned spaceflights to the International Space Station 36 0.30941296 LUCENE
+3 Q0 Canadian Space Agency 37 0.2938277 LUCENE
+3 Q0 Mission control center 38 0.2870794 LUCENE
+3 Q0 Mission Control 39 0.2870794 LUCENE
+3 Q0 Review of United States Human Space Flight Plans Committee 40 0.27795178 LUCENE
+3 Q0 Space policy of the United States 41 0.2695188 LUCENE
+3 Q0 Space policy 42 0.26886746 LUCENE
+3 Q0 List of spaceflight records 43 0.26571226 LUCENE
+3 Q0 Belgian Institute for Space Aeronomy 44 0.26346445 LUCENE
+3 Q0 Religion in space 45 0.26165783 LUCENE
+3 Q0 List of human spaceflight programs 46 0.2606568 LUCENE
+3 Q0 List of human spaceflights by program 47 0.2606568 LUCENE
+3 Q0 KazCosmos 48 0.2603634 LUCENE
+3 Q0 Pass (spaceflight) 49 0.26018998 LUCENE
+3 Q0 Romanian Space Agency 50 0.25788054 LUCENE
+3 Q0 Italian Space Agency 51 0.2571224 LUCENE
+3 Q0 Flexible path 52 0.2561454 LUCENE
+3 Q0 South African National Space Agency 53 0.2555695 LUCENE
+3 Q0 Salyut 1 54 0.25185698 LUCENE
+3 Q0 Outline of space exploration 55 0.2511133 LUCENE
+3 Q0 Space Shuttle program 56 0.2506047 LUCENE
+3 Q0 Spacelab 57 0.24857938 LUCENE
+3 Q0 Space architecture 58 0.24748597 LUCENE
+3 Q0 International Space Station 59 0.24216159 LUCENE
+3 Q0 Private spaceflight 60 0.24200362 LUCENE
+3 Q0 Soyuz program 61 0.23974314 LUCENE
+3 Q0 Soyuz programme 62 0.23974314 LUCENE
+3 Q0 Timeline of private spaceflight 63 0.23861365 LUCENE
+3 Q0 Valeri Polyakov 64 0.23581776 LUCENE
+3 Q0 Chinese space program 65 0.23560268 LUCENE
+3 Q0 National Space Agency (Malaysia) 66 0.23149167 LUCENE
+3 Q0 Space policy of the European Union 67 0.2310992 LUCENE
+3 Q0 Space tourism 68 0.22979572 LUCENE
+3 Q0 Azerbaijan National Aerospace Agency 69 0.22937033 LUCENE
+3 Q0 Halley Armada 70 0.22937033 LUCENE
+3 Q0 Brazilian Space Agency 71 0.22704288 LUCENE
+3 Q0 NASA 72 0.22401941 LUCENE
+3 Q0 National Aeronautics and Space Administration 73 0.22401941 LUCENE
+3 Q0 Marshall Space Flight Center 74 0.22255136 LUCENE
+3 Q0 Rescue Agreement 75 0.22145161 LUCENE
+3 Q0 Life support system 76 0.22037883 LUCENE
+3 Q0 Mir 77 0.2189628 LUCENE
+3 Q0 Space Research and Technology Institute 78 0.21875174 LUCENE
+3 Q0 Space toilet 79 0.2184082 LUCENE
+3 Q0 Vision for Space Exploration 80 0.21806058 LUCENE
+3 Q0 Russian Space Research Institute 81 0.21704364 LUCENE
+3 Q0 History of spaceflight 82 0.21539915 LUCENE
+3 Q0 Human spaceflight 83 0.21529496 LUCENE
+3 Q0 Skylab 84 0.21462251 LUCENE
+3 Q0 Columbus Module 85 0.2144354 LUCENE
+3 Q0 List of European astronauts 86 0.21077406 LUCENE
+3 Q0 TÜB?TAK Space Technologies Research Institute 87 0.21070425 LUCENE
+3 Q0 List of Space Shuttle missions 88 0.21052268 LUCENE
+3 Q0 Interkosmos 89 0.21003658 LUCENE
+3 Q0 Iranian Space Agency 90 0.20917517 LUCENE
+3 Q0 Commercial use of space 91 0.20899242 LUCENE
+3 Q0 Commercialization of space 92 0.20899242 LUCENE
+3 Q0 Comisión Nacional de Actividades Espaciales 93 0.20808704 LUCENE
+3 Q0 NewSpace 94 0.20676833 LUCENE
+3 Q0 European Space Agency 95 0.20660108 LUCENE
+3 Q0 Timeline of rocket and missile technology 96 0.20417023 LUCENE
+3 Q0 Roscosmos 97 0.20213097 LUCENE
+3 Q0 Space and Upper Atmosphere Research Commission 98 0.20201251 LUCENE
+3 Q0 Australian Space Agency 99 0.19931903 LUCENE
+3 Q0 List of upper stages 100 0.19929223 LUCENE

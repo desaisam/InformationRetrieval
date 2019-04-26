@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2651
+the resulting treatment of data types includes provision for programmer defined data types data types and generic routines 
+... the treatment of data types in ***el1*** in constructing a general purpose programming language a key issue is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+a card format for reference files in information processing this paper proposes a card format suitable for a 
+... it is suitable as a standard for card reference files in information processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1307
+a lightpen controlled program for on line data analysis this paper describes a technique designed to ease the 
+... the program restricts the user severely in the particular language he can use but the method for communicating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+a compiler building system developed by brooker and morris in a number of ***articles*** published during the past 
+... rohl in their most recent paper have presented a very interesting programming system that they have developed for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2361
+***list*** compacting garbage collection 4 
+... a note on cheneys nonrecursive ***list*** compacting algorithm cacm april 1972 walden d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0482
+tall a ***list*** processor for the philco 200 computer cacm september 1962 feldman j 
+... ca620910 jb march 17 1978 731 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0143
+a ***list*** of computer systems programs for the ibm 650 datatron 205 and univac ss 80 cacm october 
+... ca601005 jb march 20 1978 821 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0572
+add item to chain linked ***list*** algorithm 100 cacm june 1962 kiviat p 
+... ca620612 jb march 17 1978 926 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0573
+remove item from chain linked ***list*** algorithm 101 cacm june 1962 kiviat p 
+... ca620613 jb march 17 1978 927 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2725
+a comparison of simulation event ***list*** algorithms corrigendum cacm august 1975 vaucher j 
+... ca750810 jb january 6 1978 343 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0367
+topological ordering of a ***list*** of randomly numbered elements of a network a network of directed line segments 
+... given a ***list*** of these lines in numeric order a simple technique can be used to create at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0527
+the ***list*** structures obtained this way are compared with the description ***list*** structure discussed by the author in 
+... the description ***list*** of concepts a concept is defined as a class of objects whose members can be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1255
+the most commonly performed ***list*** operations are outlined and logically arranged into five groups 
+... a method of data ***list*** processing with application to eeg analysis a set of subroutines is discussed which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1288
+clp the cornell ***list*** processor presented in this paper are the highlights of clp a teaching language which 
+... the various advantages of clp are discussed and examples are given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1424
+automatic analysis of electronic digital circuits using ***list*** processing a mapping from black diagrams of digital circuits to 
+... ca660513 jb march 3 1978 924 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1588
+pli ***list*** processing the concepts of ***list*** processing have been introduced into the pli language 
+... these two problems have been eliminated in the ***list*** processing facilities of pli 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2156
+comment on cheneys ***list*** compaction algorithm cacm september 1971 fenichel r 
+... r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2513
+a nonrecursive ***list*** moving algorithm an efficient nonrecursive algorithm is given for moving any lisp type ***list*** 
+... ***list*** moving ***list*** copying ***list*** traversal garbage collection lisp 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2772
+on maintenance of the opportunity ***list*** for class teacher timetable problems one of the principal components of procedures 
+... combinatorial necessary conditions opportunity ***list*** scheduleschool timetable timetable 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1878
+recovery of reentrant ***list*** structures in slip one consequence of the reference count based space recovery system employed 
+... given this modification a lisp like garbage collector that recovers abandoned reentrant ***list*** structures may then be appended 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0100
+recursive subscripting compilers and ***list*** types memories cacm february 1959 carr iii j 
+... ca590201 jb march 22 1978 823 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0793
+ca630805 jb march 13 1978 843 pm 
+... mapped ***list*** structures cacm august 1963 baecker h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1830
+retrieval times for a packed direct access inverted file cacm october 1969 bayes a 
+... information retrieval direct access memory data base inverted ***list*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2607
+a problem ***list*** of issues concerning computers and public policy cacm september 1974 acm committee economic and sociological 
+... 12 ca740901 jb january 17 1978 908 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2756
+a problem ***list*** of public policy issues concerning computers and health care cacm may 1975 wasserman a 
+... economic and social implications the public and computing medicine and health care 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3061
+searching ***list*** processing sequential searching dynamic reordering simulation  3 
+... simulations of dynamic sequential search algorithms none cacm september 1978 tenenbaum a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1184
+this scheme used in the llllll or l6 bell telephone laboratories low level ***list*** language makes available blocks 
+... a fast storage allocator a fast storage bookkeeping method is described which is particularly appropriate for ***list*** structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1216
+symbolic derivatives without ***list*** processing subroutines or recursion a routine has been developed which computes and prints out 
+... no use is made of ***list*** processing languages 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1389
+a programmers description of l6 bell telephone laboratories low linked ***list*** language l6 pronounced l six is a 
+... it contains many of the facilities which underlie such ***list*** processors as ipl lisp comit ad snobol but 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1957
+the ***list*** set generator a construct for evaluating set expressions the ***list*** set generator is defined and algorithms 
+... the ***list*** set generator is a construct which may be added to a ***list*** processing system or any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1972
+a nonrecursive ***list*** compacting algorithm a simple nonrecursive ***list*** structure compacting scheme or garbage collector suitable for both 
+... ***list*** compacting garbage collection compact ***list*** lisp 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2570
+a comparison of ***list*** schedules for parallel processing systems the problem of scheduling two or more processors to 
+... cases where task execution times are deterministic and others in which execution times are random variables are analyzed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2766
+copying cyclic ***list*** structures in linear time using bounded workspace a bounded workspace copying algorithm for arbitrary ***list*** 
+... ***list*** processing copying linear time space complexity 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3164
+progressive acyclic digraphs a tool for database integrity a progressive acyclic digraph pad algorithm accepts are requests and 
+... ***list*** processing data structures topological sort acyclic digraph database integrity network deadlock 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0731
+symmetric ***list*** processor a ***list*** processing system in which each ***list*** cell contains both a forward and a 
+... this system is intended for imbeding in higher level languages capable of calling functions and subroutines coded in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1853
+compact ***list*** representation definition garbage collection and system implementation compact lists are stored sequentially in memory rather than 
+... since this is not always convenient the swym system permits a ***list*** to be chained compact or any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2168
+***list*** tracing in systems allowing multiple cell types ***list*** processing systems have each allowed the use of only 
+... ***list*** processing storage allocation lisp slip based storage pointers 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2665
+copying ***list*** structures using bounded workspace two new algorithms are presented for ***list*** structure copying using bounded workspace 
+... ***list*** processing copying marking space complexity 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+simulation time flow mechanisms event ***list*** algorithm simulation time flow mechanisms event ***list*** algorithm simulation executive event scheduling 
+... a comparison of simulation event ***list*** algorithms four algorithms are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2855
+an efficient ***list*** moving algorithm using constant workspace an efficient algorithm is presented for moving arbitrary ***list*** structures 
+... ***list*** moving ***list*** copying lisp space complexity constant workspace 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2998
+an empirical study of ***list*** structure in lisp static measurements of the ***list*** structure of five large lisp 
+... these measurements reveal substantial regularity or predictability among poin ters to atoms and especially among poin ters to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3106
+a fast algorithm for copying ***list*** structures an algorithm is presented for copying an arbitrarily linked ***list*** structure 
+... ***list*** copying lisp space complexity constant workspace 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0794
+a ***list*** type storage technique for alphameric information a method which is economic in terms of space and 
+... the method is illustrated in an application to algol type identifiers in an algol like block structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1024
+ca640806 jb march 9 1978 720 pm 
+... a note on the formation of free ***list*** cacm august 1964 waite w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1035
+characteristics of the fortran cep language the fortran cep languages differs from fortran ii mainly because 1 it 
+... cacm july 1964 mancino 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1050
+a parts breakdown technique using ***list*** structures ***list*** structured parts breakdown is proposed and discussed 
+... implementation facts are presented on operating program using these techniques 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1162
+thus this meta language can be used to map from one assembly language into another or from the 
+... an assembly language for reprogramming complete reprogramming of compiler language programs is seldom necessary 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1457
+data manipulation and programming problems in automatic information retrieval automatic information retrieval programs require the manipulation of a 
+... advantages of these programming languages for the retrieval application are examined and suggestions are made for the design 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2114
+a formal system for information retrieval from files a generalized file structure is provided by which the concepts 
+... two algorithms which retrieve records from the generalized file structure are presented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2262
+garbage collection virtual memory ***list*** processing paging segmentation page tables 4 
+... garbage collection for virtual memory computer systems in ***list*** processing there is typically a growing demand for space 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2648
+a design for a number theory package with an optimized trial division routine a number theory package is 
+... number theory package trial division multiprecise arithmetic factorization doubly linked lists pseudoprime 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2885
+on self organizing sequential search heuristics this paper examines a class of heuristics for maintaining a sequential ***list*** 
+... searching self organizing ***list*** processing heuristics 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3095
+a selective traversal algorithm for binary search trees the problem of selecting data items from a binary search 
+... data retrieval range conditions binary search tree tree traversal selective traversal 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1051
+multiword ***list*** items the ***list*** concept as originally proposed by newell simon and shaw specified single computer words 
+... following a brief description of standard ***list*** structures with single word items the multiword items are introduced 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1098
+a comparison of ***list*** processing computer languages including a detailed comparison of comit ipl v lisp 1 
+... 5 and slip four well known computer programming languages which among them exhibit all the principal characteristics of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1549
+an efficient machine independent procedure for garbage collection in various ***list*** structures a method for returning registers to 
+... finally the application of the algorithm to a number of different ***list*** structures appearing in the literature is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1641
+a use of fast and slow memories in ***list*** processing languages a scheme is described which permitting a 
+... it consists in reducing to one level a nonhomogeneous store composed of fast core and slow disk or 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2314
+requirements for advanced programming systems for ***list*** processing ***list*** processing systems should be designed to facilitate production of 
+... this paper presents an overview of a number of system features which the author feels are important to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3112
+***list*** processing in real time on a serial computer a real time ***list*** processing system is one in 
+... g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0944
+storage and search properties of a tree organized memory system a memory with ***list*** properties 1 may be 
+... the purpose of this paper is to examine the storage and search properties of a tree organized storage 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1214
+some experiments in algebraic manipulation by computer a set of subroutines to allow algebraic manipulations on the ibm 
+... a series of four problems of increasing difficulty were solved using these routines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1247
+an operating environment for dynamic recursive computer programming systems presented in this paper is a brief nontechnical introduction 
+... the available services include dynamic allocation of storage for contiguous blocks of arbitrary size input and output for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1485
+the advantages disadvantages and factors influencing the choice of a form of component for a language are discussed 
+... many examples frequently from ***list*** processing languages illustrate the forms described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1590
+pitch period determination of speech sounds a computer procedure which determines pitch periods by the recognition of the 
+... speech sounds were sampled by a microphone and an analog to digital converter attached to an interconnected ibm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1708
+a note on the efficiency of a lisp computation in a paged machine the problem of the use 
+... storage management ***list*** processor implementation lisp paging secondary storage utilization efficiency of paged computation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1710
+associative data structure ring structure lists ***list*** structure set languages modeling graphics 4 
+... asp a ring implemented associative structure package asp is a general purpose associative data structure package in which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1890
+simulation of traffic flows in a network a computer simulation program which deals with traffic flows in the 
+... traffic simulation traffic flow traffic network traffic control traffic density intersection signal setting vehicle road network ***list*** structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1935
+the search method described is binary in nature and offers new potential for information retrieval systems 
+... randomized binary search technique a mathematical model is developed for the mean and variance of the number of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2137
+lisp ***list*** processing paging virtual memory garbage collection core fragmentation compact ***list*** structures block segment 4 
+... new lisp techniques for a paging environment the system described herein employs the block concept and that of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2162
+an efficient bit table technique for dynamic storage allocation of 2n word blocks an efficient bit table technique 
+... bit table dynamic storage allocation buddy system l6 ***list*** processing free storage 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2184
+on the meaning of names in programming systems it is assumed that there is a similarity of function 
+... file operating system programming language functions names context file directory file dictionary lambda calculus theory of programming 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2323
+such a theory is preferable to a less general effort to make algebraic manipulation systems knowledgeable about the 
+... toward a general theory of special functions a ***list*** of a number of natural developments for the field 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2339
+computer assigned codes from verbal responses it is often desirable to convert verbal responses to multidigit codes 
+... this conversion is generally accomplished by clerk coders 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2484
+thus the problem of information organization and storage is reduced to that of defining relations and formulating algorithms 
+... data base data base management information retrieval information structure file organization storage allocation tree graph 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2561
+inference inductive inference clustering fact retrieval heuristics 3 
+... a heuristic approach to inductive inference in fact retrieval systems heuristic procedures are presented which have been developed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2605
+a precise numerical analysis program a description is given of a program for computing the solution to a 
+... interval arithmetic multiple precision ***list*** structure error control 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2742
+discrete event simulation simulation event scanning mechanisms 4 
+... improved event scanning mechanisms for discrete event simulation simulation models of large complex real world applications have occasionally 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2879
+computer science as empirical inquiry symbols and search cacm march 1976 newell a 
+... symbols search science computer science empirical turing artificial intelligence intelligence ***list*** processing cognition heuristics problem solving 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2927
+some new upper bounds on the generation of prime numbers given an integer n what is the computational 
+... this upper bound is shown to be equivalent to the theoretical lower bound for sieve methods without preprocessing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the simulation event set recently algorithms have been presented for the realization of 
+... simulation time flow mechanisms event scanning mechanisms multilinked lists 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2944
+shifting garbage collection overhead to compile time this paper discusses techniques which enable automatic storage reclamation overhead to 
+... it is shown that at compile time certain program actions that affect the reference counts of cells can 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2954
+a bounded storage algorithm for copying cyclic structures a new algorithm is presented which copies cyclic ***list*** structures 
+... copying shared subtrees cyclic structures 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3008
+average loss of proximity is then considered and it is shown that arrays cannot be stored as linear 
+... arrays graph embedding linear lists proximity average proximity trees 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+reverse path forwarding broadcast packets routing computer networks store and forward packet switching broadcast protocols 3 
+... reverse path forwarding of broadcast packets a broadcast packet is for delivery to all nodes of a network 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0106
+a method for overlapping and erasure of lists an important property of the newell shaw simon scheme for 
+... the present paper describes a general method which enables efficient erasure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0627
+ca620305 jb march 20 1978 307 pm 
+... knotted ***list*** structures cacm march 1962 weizenbaum j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1264
+blnsys a 1401 operating system with braille capabilities blnsys is an operating system designed for a 4k 1401 
+... input ouput subroutines are also included in the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1324
+the systems range from a conversation machine to programs which make sentences about pictures and systems which translate 
+... answering english questions by computer a survey fifteen experimental english language question answering systems which are programmed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1456
+an important conclusion is that although lisp and other ***list*** processing languages are ideally suited for producing complex 
+... storage and retrieval of aspects of meaning in directed graph structures an experimental system that uses lisp to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1671
+a phonological rule tester the design and implementation of a system to alleviate the problem of rule evaluation 
+... phonology rule tester linguistics transformational grammar lisp format directed ***list*** processing on line systems 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1826
+a lisp garbage collector for virtual memory computer systems in this paper a garbage collection algorithm for ***list*** 
+... garbage collector virtual memory ***list*** processing storage allocation 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1847
+an algorithm for finding a fundamental set of cycles of a graph a fast method is presented for 
+... fundamental cycle set graph algorithm cycle spanning tree 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2051
+a pli program to assist the comparative linguist a practical pli program is described which can assist comparative 
+... comparative linguistics natural language processing comparative method historical linguistics diachronic linguistics genetic relationship sound change sound correspondence regular 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2065
+a programming system for the on line analysis of biomedical images a preliminary description of the software for 
+... this system is intended for a wide variety of biomedical applications 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2177
+an algorithm for the blocks and cutnodes of a graph an efficient method is presented for finding blocks 
+... for both representations the time required to analyze a graph on n nodes increases as ng where g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2299
+an extensible editor for a small machine with disk storage a design philosophy for developing a sophisticated utility 
+... a versatile data structure is employed so that only a small number of programmed subroutines are necessary for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2359
+an improved index sequential access method using hashed overflow the index sequential access method isam is one of 
+... using hashed overflow the time to locate a record is dependent not on the total volume of overflow 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2538
+a computer science course program for small colleges the acm subcommittee on small college programs of the committee 
+... computer science education course proposals small colleges programming course social implications course computer organization course file organization course 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2594
+structured programming data structures data base management system 3 
+... structured data structures programming systems which permit arbitrary linked ***list*** structures enable the user to create complicated structures 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2857
+referencing lists by an edge an edge reference into a ***list*** structure is a pair of pointers to 
+... edge references also allow threading of nonrecursive lists can replace some header cells and enhance the famous exclusive 

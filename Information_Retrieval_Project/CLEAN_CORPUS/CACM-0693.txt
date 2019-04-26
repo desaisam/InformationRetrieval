@@ -1,0 +1,1 @@
+an extension of fibonaccian search to several variables a technique which uses search concepts has been developed to solve optimization problems involving unimodal functions several variables the not proven be optimal in the sense that one dimensional is however it valuable for certain kinds calculations cacm october 1963 krolak p cooper l ca631032 jb march 13 1978 4 19 pm 693 5 

@@ -1,0 +1,1 @@
+accurate floating point summation this paper describes an alternate method for summing a set of floating point numbers comparison the error bound this with that standard summation shows it is considerably less sensitive to propagation round off cacm june 1970 linz p addition 5 11 ca700606 jb february 13 1978 36 am 2049 2183 2282 1328 6 

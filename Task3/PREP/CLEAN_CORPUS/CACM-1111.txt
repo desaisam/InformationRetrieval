@@ -1,0 +1,1 @@
+a class of iterative techniques for the factorization polynomials method iteration is developed in terms a function somewhat arbitrary character sufficient conditions are given for convergence process yielding factors degree polynomials one variable both lin s and newton occur as special cases cacm march 1964 luther h ca640321 jb 10 1978 2 am 1111 4 5 894 

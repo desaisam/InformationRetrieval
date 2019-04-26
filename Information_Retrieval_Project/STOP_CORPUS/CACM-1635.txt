@@ -1,0 +1,1 @@
+parameters pseudo runge kutta methods object note present choice free parameters fourth order pseudo methods involving points bound principal part truncation error term minimum method cacm february 1967 byrne ca670207 jb 28 1978 3 20 pm 1635 5  

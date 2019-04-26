@@ -1,0 +1,1 @@
+eigenvalues eigen vectors real general matrix algorithm 343 cacm february 1970 knoble norm characteristic equation degenerate eigen system diagonalizable matrix defective 5 14 ca700216 jb 1978 9 43 1876 4 2099 1968 2335 1662 1707 6  

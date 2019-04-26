@@ -1,0 +1,1 @@
+non linear extrapolation and two point boundary value problems it is suggested that the convergence properties of usual picard successive approximation scheme may be improved through use non linrar extrapolation techniques a numerical example provided cacm august 1965 bellman r kagiada h kalba ca650812 jb march 6 1978 8 05 pm 1212 5 

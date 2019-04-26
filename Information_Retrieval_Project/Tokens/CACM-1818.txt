@@ -1,0 +1,1 @@
+associated legendre functions of the first kind for real or imaginary arguments algorithm 47 s16 cacm november 1969 cobb s m function associated real imaginary arguments 5 12 ca691112 jb february 15 1978 11 pm 1818 4 2222 778 970 6 1800 1834 2042 

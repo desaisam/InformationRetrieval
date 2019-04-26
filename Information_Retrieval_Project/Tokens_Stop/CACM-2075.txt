@@ -1,0 +1,1 @@
+discretized newton method solving system simultaneous nonlinear equations algorithm 378 c5 cacm april 1970 pankiewicz method nonlinear equations interpolating polynomials 5 15 13 ca700409 jb february 1978 2 48 pm 2075 4 472 3011 6 2302 2345 2485  

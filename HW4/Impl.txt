@@ -1,0 +1,25 @@
+BM25 score is calculated by the following formula: 
+
+log((ri + 0.5) / (R - ri + 0.5)) / ((ni - ri + 0.5) / (N - ni - R + ri + 0.5))* (((k1 + 1) * fi) / (K + fi)) * (((k2 + 1) * qfi) / (k2 + qfi))
+where K = k1 * ((1 - b) + b * (dl) / (avdl))
+
+we have the information about b,k1,k2. R and ri is zero since we dont have relevance information. 
+N is the size of the corpus which is 1000.
+First inverted index is created for the unigrams present in the corpus.
+In this process information of number of terms present in each document is calculated. This is later used to find out dl which is the length of the document.
+The main program BM25.py uses this information to compute the BM25 score.
+Also Summation of all the values then dividing this summation by N gives avdl.
+The inverted index is stored in a dictionary with key being the term and value being the index ( in the format : docId, tf..) as string.
+This string is split using string maipulations to later find out the number of times the term occurs in that document , This is nothing but fi in the equation.
+ni is the number of documents containing the term i, this is calculated using the information from unigram_df.txt which is generated during indexing. This document already has the 
+information about number of documents in which this term is present is fetched again by performing suitable stirng manipulation.
+
+Read the query one by one , split the terms and find out qfi using the count function from python.
+For each term in the query , get the list of documents which has the term. Store in a list. Then iterate thhrough this list ,
+We have all the information needed to calculate the score. 
+The result is stored in a dictionary with key being the document and value being the score.
+If for other terms, the document is already present, add the score calculated to already existing score.
+
+This is the short summay of implementaion.
+Please mail to desai.sam@husky.neu.edu for more clarifications.
+

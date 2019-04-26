@@ -1,0 +1,1 @@
+a note on the use of a digital computer for doing tedious algebra and programming special purpose compiler was written with fortran ii language made possible writing very long programs by computer the procedure is based straight forward use format statements generating machine cacm october 1965 veronis g ca651012 jb march 6 1978 31 pm 1183 5 

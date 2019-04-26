@@ -1,0 +1,1 @@
+algol convolution procedure based fast fourier transform algorithm 345 c6 cacm october 1969 singleton fast transform complex multivariate series harmonic analysis spectral orthogonal polynomials transformation convolution auto covariance autocorrelation cross correlation digital filtering permutation 3 15 83 5 12 14 ca691009 jb february 1978 17 pm 1837  

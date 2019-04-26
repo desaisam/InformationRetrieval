@@ -1,0 +1,1 @@
+hadamard numbers matrices discussion functions entries square matrix related determinant theorem merits alternatives norm bound condition numbers linear systems known eigen cacm january 1975 birkhoff matrices eigenvalues norms error analysis gram schmidt orthogonalization 5 11 14 ca750105 jb 12 1978 10 37 2806  

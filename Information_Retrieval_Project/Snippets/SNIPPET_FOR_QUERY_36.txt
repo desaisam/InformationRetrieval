@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2030
+context sensitive grammars context sensitive ***parsing*** formal grammars formal ***language*** theory ***parsing*** ***parsing*** algorithms ***recognition*** algorithms 3 
+... context sensitive ***parsing*** this paper presents a canonical form for context sensitive derivations and a ***parsing*** ***algorithm*** which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2110
+an efficient context free ***parsing*** ***algorithm*** a ***parsing*** ***algorithm*** which seems to be the most efficient general context 
+... it is similar to both knuths lrk ***algorithm*** and the familiar top down ***algorithm*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2698
+syntax directed least errors analysis for context free languages a practical approach a least errors recognizer is developed 
+... arbitrary input strings context free grammars ***parsing*** dynamic programming stored subanalyses separability state merging least errors correction 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1350
+the augmented predictive analyzer for context free languages its relative efficiency it has been proven by greibach that 
+... since the predictive analyzer at harvard uses a standard form grammar it can accept the ***language*** of any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2112
+a formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+... translation equations input limited transduction expressions or translation equations are used to describe the syntax and left context 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2061
+an ***algorithm*** for the construction of bounded context parsers an ***algorithm*** is described which accepts an arbitrary context 
+... bounded context ***parsing*** bounded context syntactic analysis parser construction syntactical analyzer construction generators compiler compilers compiler writing systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1012
+every program for automatic syntactic analysis determines a formal ***parsing*** system 
+... formal ***parsing*** systems automatic syntactic analysis has recently become important for both natural ***language*** data processing and syntax 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1265
+on the relative efficiencies of context free grammar recognizers a number of diverse ***recognition*** procedures that have been 
+... each procedure is defined by giving an ***algorithm*** for obtaining a nondeterministic turing machine recognizer that is equivalent 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2794
+state space problem reduction and theorem proving some relationships this paper suggests a bidirectional relationship between state space 
+... artificial intelligence state space representation problem reduction representation theorem proving ***language*** ***recognition*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2836
+weighted derivation trees the nodes of a weighted derivation tree are associated with weighting functions over the vocabulary 
+... an ***algorithm*** is presented for constructing the optimal derivation tree having the same structure as a given weighted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1825
+a practical method for constructing lrk processors a practical method for constructing lrk processors is developed 
+... these processors are capable of recognizing and ***parsing*** an input during a single no backup scan in a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2733
+these methods involve the use of ambiguous context free grammars together with rules to resolve syntactic ambiguities 
+... programming ***language*** specification parser generation translator writing systems syntax analysis lr ***parsing*** ll ***parsing*** ambiguous grammars 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2754
+a syntactic ***algorithm*** for peak detection in waveforms with applications to cardiography peaks in a digitized waveform are 
+... several parameters serve to identify the waveform context enabling accurate measurement of peak amplitude duration and shape 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2340
+a boolean matrix method for the computation of linear precedence functions a modified version of bells boolean matrix 
+... necessary and sufficient conditions for the existence of precedence functions are given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2702
+on the complexity of lrk testing the problem of determining whether an arbitrary context free grammar is a 
+... the time complexity of this problem is analyzed both when k is considered to be a fixed integer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2739
+the restriction ***language*** for computer grammars of natural ***language*** over the past few years a number of systems 
+... this paper presents a programming ***language*** designed specifically for the compact and perspicuous statement of restrictions of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2084
+a note on the complement of inherently ambiguous context free languages cacm march 1970 maurer h 
+... ambiguity inherent ambiguity complement context free ***language*** chomsky ***language*** phrase structure ***language*** production system type 2 ***language*** bounded 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2476
+equivalence between andor graphs and context free grammars cacm july 1973 hall p 
+... artificial intelligence andor graphs ***language*** theory context free grammars 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2921
+regular right part grammars and their parsers this paper in troduces an alternative to context free grammars called 
+... also in troduced is a class of parsers rrp lrm k parsers which includes the cf lrk parsers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1768
+a global parser for context free phrase structure grammars an ***algorithm*** for analyzing any context free phrase structure 
+... parser syntax directed compiler context free grammars syntactic analysis translators 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1836
+a new method for determining linear precedence functions for precedence grammars the precedence relations of a precedence grammar 
+... often the information in the matrix can be represented more concisely by a pair of vectors called linear 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1855
+a program for the syntactic analysis of english sentences a program is described which produces syntactic analyses of 
+... syntactic analysis ***language*** processing ***language*** analysis ***parsing*** analysis procedure ***recognition*** procedure english sentences linguistics psycholinguistics transformational grammar limited 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1399
+on top to bottom ***recognition*** and left recursion a procedure is given for obtaining structural descriptions in a 
+... the effect of allowing null strings in the rewriting rules is discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1612
+top to bottom ***parsing*** rehabilitated this note is concerned with the efficiency of the top to bottom ***parsing*** 
+... it is shown for instance that retracing of unprofitable paths can often be eliminated by a suitable rearrangement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2703
+attribute grammars circularity problem context free grammars computational complexity exponential time semantics 4 
+... the intrinsically exponential complexity of the circularity problem for attribute grammars attribute grammars are an extension of context 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2179
+simple lrk grammars a class of context free grammars called the simple lrk or slrk grammars is defined 
+... this class has been shown to include weak precedence and simple precedence grammars as proper subsets 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1184
+this scheme used in the llllll or l6 bell telephone laboratories low level list ***language*** makes available blocks 
+... a ***fast*** storage allocator a ***fast*** storage bookkeeping method is described which is particularly appropriate for list structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2811
+structural pattern ***recognition*** of carotid pulse waves using a general waveform ***parsing*** system a general waveform ***parsing*** system 
+... structural pattern ***recognition*** ***parsing*** waveform analysis pulse waves 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1787
+transition matrices compilation translation grammar context free ***language*** formal ***language*** ***parsing*** 4 
+... use of transition matrices in compiling an algorithms is described which constructs from a suitable bnf grammar an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2113
+the multistore parser for hierarchical syntactic structures a syntactic parser is described for hierarchical concatenation patterns that are 
+... the method could be implemented with any interpretive grammar provided it can be expressed by the functional classification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2301
+generating parsers for affix grammars affix grammars are two level grammars which are similar to van wijngaardens two 
+... affix grammars are shown by koster to be equal in power to van wijngaarden grammars 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1453
+a nonrecursive method of syntax specification the use of the kleene regular expression notation for describing algebraic ***language*** 
+... a hand calculation result of the application of the ***algorithm*** to all of algol is given thus expressing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2546
+the use of grammatical inference for designing programming languages both in designing a new programming ***language*** and in 
+... we are proposing an interactive approach to the grammar design problem wherein the designer presents a sample of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2886
+attribute grammars semantics of programming languages semantic attributes left to right ***parsing*** multipass compilers semantic evaluation semantic conditions 
+... semantic evaluation from left to right this paper describes attribute grammars and their use for the definition of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2643
+the minimization of spatially multiplexed character sets the paper describes a technique for compacting character sets in a 
+... it considers the problem of minimizing the storage needed to contain such tables 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2980
+the editing of picture segmentations using local analysis of graphs a major problem in picture processing is the 
+... picture processing pattern ***recognition*** segmentation region editing  3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1548
+***parsing*** of decision tables reduction in the size of decision tables can be accomplished by several techniques 
+... such ***parsing*** rests upon some conventions for the linkage of decision tables 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3094
+analyses of deterministic ***parsing*** algorithms this paper describes an approach for determining the minimum maximum and average times 
+... these quantities are presented in the form of symbolic formulas called time formulas 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1683
+syntax analysis precedence analysis simple precedence grammar simple precedence ***language*** operator grammar operator precedence compilers bounded context syntactic 
+... boolean matrix methods for the detection of simple precedence grammars a mechanical procedure is derived for determining whether 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2581
+the system is locally organized in the sense that it builds local parse structures from reliable word candidates 
+... a locally organized parser for spoken input this paper describes lpars a locally organized ***parsing*** system designed for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2423
+a parser generating system for constructing compressed compilers this paper describes a parser generating system pgs currently in 
+... typical one pass compilers constructed by the pgs translate source programs at speeds approaching 14000 cards per minute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1665
+automatic generation of efficient lexical processors using finite state techniques the practical application of the theory of finite 
+... as part of the aed 1 system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2050
+content analysis ***parsing*** syntactic analysis natural ***language*** processing information retrieval ***language*** analysis text processing 3 
+... automatic ***parsing*** for content analysis although automatic syntactic and semantic analysis is not yet possible for all of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0949
+integer and signed constants in algol a few remarks are given on the relations between syntax and semantics 
+... the aim is to point out that if it is true that the grammar of a context free 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2786
+a system for typesetting mathematics this paper describes the design and implementation of a system for typesetting mathematics 
+... the ***language*** has been designed to be easy to learn and to use by people for example secretaries 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2795
+sentence paraphrasing from a conceptual base a model of natural ***language*** based on an underlying ***language*** free representation 
+... the model encompasses several diverse classes of linguistic knowledge which include 1 executable tests of conceptual properties stored 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2922
+two level control structure for nondeterministic programming the basic ideas of nondeterministic programming are critically reconsidered to single 
+... the proposed attitude aims at retaining the purity of the nondeterministic formulation of search processes on one level 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1170
+analyzing english syntax with a pattern learning parser a dependency analysis system based on pattern ***recognition*** and learning 
+... syntactic rules of combination show the relation of a word to its governor in the depth pattern of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2641
+clustering pattern ***recognition*** feature selection minimal spanning trees 3 
+... a minimal spanning tree clustering method z ***algorithm*** a479 cacm june 1974 page r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1668
+***fast*** fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal transformation virtual core 
+... an algol procedure for the ***fast*** fourier transform with arbitrary factors ***algorithm*** 339 c6 cacm november 1968 singleton 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1669
+***fast*** fourier transform complex fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal 
+... algol procedures for the ***fast*** fourier transform ***algorithm*** 338 c6 cacm november 1968 singleton r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1837
+***fast*** fourier transform complex fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal 
+... an algol convolution procedure based on the ***fast*** fourier transform ***algorithm*** 345 c6 cacm october 1969 singleton r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1917
+***fast*** fourier transform complex fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal 
+... an algol procedure for the ***fast*** fourier transform with arbitrary factors ***algorithm*** 339 c6 cacm march 1969 singleton 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1921
+***fast*** fourier transform complex fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal 
+... an algol convolution procedure based on the ***fast*** fourier transform ***algorithm*** 345 c6 cacm march 1969 singleton r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2880
+a ***fast*** division technique for constant divisors a ***fast*** ***algorithm*** for division by constant divisors is presented 
+... constant divisors division algorithms bit addressable memory microprogram 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on sparse relations various computations on relations boolean matrices or directed graphs such as the computation of 
+... the heart of the algorithms is a general theorem giving sufficient conditions under which an expression whose operands 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1902
+automatic grading program programming exercises 1 
+... an automatic grading scheme for simple programming exercises a discussion is given of alterations that were made to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2310
+this paper argues that the computers major role as to ***language*** analysis in the humanities will be the 
+... ***language*** analysis humanities science of the humanities pattern ***recognition*** pattern generation interdisciplinary cooperation 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2000
+a variation of the goodman lance method for the solution of two point boundary value problems a recently 
+... goodman lance boundary value problems newtons method nonlinear equations optimal control optimization ordinary differential equations secant method interpolative 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1737
+a global parser for context free phrase structure grammars cacm june 1968 unger s 
+... ca680608 jb february 22 1978 408 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2350
+quadrature chebyshev series cosine transform ***fast*** fourier transform 5 
+... clenshaw curtis quadrature d1 ***algorithm*** a424 cacm may 1972 gentleman w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3079
+an ***algorithm*** for reasoning about equality a simple technique for reasoning about equalities that is ***fast*** and complete 
+... a proof of correctness is given as well 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1131
+ca640212 jb march 10 1978 343 am 
+... on context and ambiguity in ***parsing*** cacm february 1964 ross d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2545
+a theory of discrete patterns and their implementation in snobol4 the notion of a discrete pattern is formalized 
+... patterns snobol4 pattern theory ***parsing*** pattern matching string processing pattern implementation 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1527
+a grammar base question answering procedure the subject of this paper is a procedure for the automatic retrieval 
+... since the ***recognition*** function succeeds just in case the posed question is drawn from the set of sentences 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1989
+transition network grammars for natural ***language*** analysis the use of augmented transition network grammars for the analysis of 
+... computational linguistics grammars grammar models linguistics natural ***language*** analysis ***parsing*** semantic interpretation transition network grammars transformational grammars 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2211
+computer graphics scanned display scan conversion raster displays 4 
+... scanned display computer graphics a television like scanned display system has been successfully implemented on a honeywell ddp 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1309
+a computer user oriented system a computer ***language*** system has been developed which makes possible ***fast*** preparation of 
+... the system requires initial preparation of large data banks containing data in elementary form 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1679
+a ***fast*** fourier transform ***algorithm*** for real valued series a new procedure is presented for calculating the complex 
+... this ***algorithm*** preserves the order and symmetry of the cooley turkey ***fast*** fourier transform ***algorithm*** while effecting the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1910
+an ***algorithm*** for solving a special class of tridiagonal systems of linear equations an ***algorithm*** is presented for 
+... it is shown that this ***algorithm*** is almost twice as ***fast*** as the gaussian elimination method usually suggested 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2208
+storage utilization in a memory hierarchy when storage assignment is performed by a hashing ***algorithm*** the utilization of 
+... hashing algorithms memory allocation memory hierarchy memory utilization storage allocation storage hierarchy storage utilization 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2963
+a ***fast*** ***algorithm*** for computing longest common subsequences previously published algorithms for finding the longest common subsequence of 
+... longest common subsequence efficient algorithms 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1179
+***language*** compatibility has been maintained so that programs may be debugged in the pufft system and then recompiled 
+... in little more than half of the 32k word core memory pufft provides a monitor for job sequencing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1569
+implementing phrase structure productions in pli a method is described for implementing the productions of a context free 
+... ca670704 jb february 28 1978 901 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3001
+detection of combined occurrences in this paper it is supposed that the variables x1 
+... xn each have finite range with the variable xi taking on pi possible values and that the values 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2556
+adaptive correction of program statements a method of analyzing statements in a programming ***language*** which can tolerate a 
+... adaptive linguistic pattern matching automatic ***parsing*** approximate match compiler program statement analysis syntax analysis 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1525
+on computing the ***fast*** fourier transform cooley and tukey have proposed a ***fast*** ***algorithm*** for computing complex fourier 
+... in this paper the ***fast*** fourier transform ***algorithm*** is briefly reviewed and ***fast*** difference equation methods for accurately 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2149
+entcaf and entcre evaluation of normalized taylor coefficients of an analytic function c5 ***algorithm*** 413 cacm october 1971 
+... taylor coefficients taylor series cauchy integral numerical integration numerical differentiation interpolation complex variable complex arithmetic ***fast*** fourier transform 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3075
+parallel processing sorting algorithms bucket sort 3 
+... ***fast*** parallel sorting algorithms a parallel bucket sort ***algorithm*** is presented that requires time olog n and the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3176
+storing a sparse table the problem of storing and searching large sparse tables is ubiquitous in computer science 
+... gaussian elimination ***parsing*** searching sparse matrix table compression table lookup 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2287
+automatic scanning contour maps digitizing contour lines topology detection and ***recognition*** 3 
+... a new approach to automatic scanning of contour maps the problem of automatic digitizing of contour maps is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3132
+experiments with some algorithms that find central solutions for pattern classification in two class pattern ***recognition*** it is 
+... pattern ***recognition*** pattern classification linear discriminants central hyperplanes centering centrality criteria dead zone hyperplane linearly separable relaxation ***algorithm*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1915
+an ***algorithm*** for hidden line elimination the ***algorithm*** presented causes the elimination of hidden lines in the representation 
+... hidden line elimination back line ***recognition*** three dimensional representation plane faced objects perspective view machine rendering of solids 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0185
+multiprogram scheduling parts 1 and 2 
+... the scheduling routine must be capable of extremely rapid execution if it is not to prove self defeating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1088
+menu planning by computer a computer code has been developed which plans menus by finding minimum cost combinations 
+... a ***fast*** special integer programming ***algorithm*** is described which approximates the theoretical solution to the problem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2355
+this paper is in two parts a companion paper ii computing the cosine transformation shows that this objection 
+... however it has received little use because it requires the computation of a cosine transformation and the arithmetic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2903
+these algorithms are then subjected to a second transformation a method of recursion elimination called tabulation to produce 
+... improving programs by the introduction of recursion a new technique of program transformation called recursion in troduction is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1549
+an efficient machine independent procedure for garbage collection in various list structures a method for returning registers to 
+... finally the application of the ***algorithm*** to a number of different list structures appearing in the literature is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2252
+a method for incrementally compiling languages with nested statement structure a method of incremental compilation is presented which 
+... the essential points of the method are 1 the syntax of the ***language*** is restricted insof ar as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0204
+ca600407 jb march 22 1978 147 pm 
+... proving theorems by pattern ***recognition*** i cacm april 1960 wang h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2195
+on the optimal detection of curves in noisy pictures a technique for recognizing systems of lines is presented 
+... picture processing picture ***recognition*** picture description curve detection line detection edge detectionoptimal detection heuristic methods global ***recognition*** parallel 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3135
+detection of three dimensional patterns of atoms in chemical structures an ***algorithm*** for detecting occurrences of a three 
+... several applications of this technique in the field of chemistry are 1 in pharmacology searching for a common 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3165
+approximation of polygonal maps by cellular maps the approximation of polygonal thematic maps by cellular maps an important 
+... the approximation ***algorithm*** presented operates on such an organization eliminating the need for the ***recognition*** of region boundaries 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2060
+gedanken a simple typeless ***language*** based on the principle of completeness and the reference concept gedanken is an 
+... 1 any value which is permitted in some context of the ***language*** is permissible in any other meaningful 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1020
+free field read ***algorithm*** 239 i5 cacm august 1964 mckeeman w 
+... ca640810 jb march 9 1978 656 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1553
+the importance of context to both human and machine understanding is stressed 
+... contextual understanding by computers a further development of a computer program eliza capable of conversing in natural ***language*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1847
+an ***algorithm*** for finding a fundamental set of cycles of a graph a ***fast*** method is presented for 
+... fundamental cycle set graph ***algorithm*** cycle spanning tree 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2701
+a ***fast*** and usually linear ***algorithm*** for global flow analysis abstract only complete paper jacm 231 january 1976 
+... the ***algorithm*** is shown to treat a very general class of function spaces 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2916
+a ***fast*** string searching ***algorithm*** an ***algorithm*** is presented that searches for the location i of the first 
+... during the search operation the characters of pat are matched starting with the last character of pat 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3106
+a ***fast*** ***algorithm*** for copying list structures an ***algorithm*** is presented for copying an arbitrarily linked list structure 
+... list copying lisp space complexity constant workspace 4 

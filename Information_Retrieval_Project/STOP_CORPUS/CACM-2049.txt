@@ -1,0 +1,1 @@
+accurate floating point summation paper describes alternate method summing set floating point numbers comparison error bound standard summation shows considerably sensitive propagation round cacm june 1970 linz addition 5 11 ca700606 jb february 13 1978 36 2049 2183 2282 1328 6  

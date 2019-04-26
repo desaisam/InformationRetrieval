@@ -1,0 +1,1 @@
+romberg integration algorithm 60 d1 cacm july 1964 thacher jr h c ca640707 jb march 9 1978 8 17 pm 1040 4 1352 2040 5 2415 587 621 885 834 6 872 1092 1241 1273 1982 324 2074 429 570 786 

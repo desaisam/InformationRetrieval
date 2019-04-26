@@ -1,0 +1,100 @@
+2 Q0 311P_PANSTARRS 1 0.51907605 LUCENE
+2 Q0 List of TDRS satellites 2 0.5049883 LUCENE
+2 Q0 Hubble Space Telescope 3 0.46003887 LUCENE
+2 Q0 Space observatory 4 0.45799476 LUCENE
+2 Q0 Space telescope 5 0.45799476 LUCENE
+2 Q0 Swiss Space Office 6 0.37211657 LUCENE
+2 Q0 354P_LINEAR 7 0.35287988 LUCENE
+2 Q0 GN-z11 8 0.33607534 LUCENE
+2 Q0 Great Dark Spot 9 0.33550283 LUCENE
+2 Q0 Space research 10 0.32877088 LUCENE
+2 Q0 Hubble Ultra Deep Field 11 0.31093234 LUCENE
+2 Q0 Telescope 12 0.28260064 LUCENE
+2 Q0 (300163) 2006 VW139 13 0.2624087 LUCENE
+2 Q0 Marshall Space Flight Center 14 0.2484997 LUCENE
+2 Q0 Nix (moon) 15 0.24795529 LUCENE
+2 Q0 Exploration of Neptune 16 0.2394306 LUCENE
+2 Q0 List of objects at Lagrangian points 17 0.23031144 LUCENE
+2 Q0 Satellite galaxies of the Milky Way 18 0.23009647 LUCENE
+2 Q0 Mission control center 19 0.22834797 LUCENE
+2 Q0 Mission Control 20 0.22834797 LUCENE
+2 Q0 Hydra (moon) 21 0.21696088 LUCENE
+2 Q0 List of NASA missions 22 0.21492326 LUCENE
+2 Q0 Space Shuttle program 23 0.2075563 LUCENE
+2 Q0 Dysnomia (moon) 24 0.20342034 LUCENE
+2 Q0 Hi?iaka (moon) 25 0.2018676 LUCENE
+2 Q0 Moons of Haumea 26 0.2018676 LUCENE
+2 Q0 Namaka (moon) 27 0.2018676 LUCENE
+2 Q0 Styx (moon) 28 0.1920186 LUCENE
+2 Q0 Galaxy 29 0.18914843 LUCENE
+2 Q0 Kerberos (moon) 30 0.18671721 LUCENE
+2 Q0 List of Space Shuttle missions 31 0.1839457 LUCENE
+2 Q0 Ceres (dwarf planet) 32 0.18217869 LUCENE
+2 Q0 Exploration of Ceres 33 0.18217869 LUCENE
+2 Q0 4 Vesta 34 0.17658542 LUCENE
+2 Q0 Minor-planet moon 35 0.17472667 LUCENE
+2 Q0 Rings of Neptune 36 0.17080234 LUCENE
+2 Q0 Rings of Uranus 37 0.17005812 LUCENE
+2 Q0 9P_Tempel 38 0.16521211 LUCENE
+2 Q0 Low Earth orbit 39 0.1648313 LUCENE
+2 Q0 Outer space 40 0.15872845 LUCENE
+2 Q0 Moons of Pluto 41 0.15744524 LUCENE
+2 Q0 Europa (moon) 42 0.15658855 LUCENE
+2 Q0 Exploration of Europa 43 0.15658855 LUCENE
+2 Q0 Main-belt comet 44 0.15469345 LUCENE
+2 Q0 Charon (moon) 45 0.15447819 LUCENE
+2 Q0 European Space Agency 46 0.1539998 LUCENE
+2 Q0 Deep space exploration 47 0.15297312 LUCENE
+2 Q0 Makemake 48 0.1482925 LUCENE
+2 Q0 S_2015 (136472) 1 49 0.1482925 LUCENE
+2 Q0 NASA 50 0.14462636 LUCENE
+2 Q0 National Aeronautics and Space Administration 51 0.14462636 LUCENE
+2 Q0 Moons of Uranus 52 0.14251044 LUCENE
+2 Q0 Milky Way 53 0.14220606 LUCENE
+2 Q0 John Young (astronaut) 54 0.13980693 LUCENE
+2 Q0 Spacecraft 55 0.13962388 LUCENE
+2 Q0 Observable universe 56 0.13412562 LUCENE
+2 Q0 Space architecture 57 0.13383296 LUCENE
+2 Q0 Neptune 58 0.13355486 LUCENE
+2 Q0 67P_Churyumov–Gerasimenko 59 0.13194925 LUCENE
+2 Q0 NGC 1952 60 0.12873182 LUCENE
+2 Q0 Uranus 61 0.12818912 LUCENE
+2 Q0 2 Pallas 62 0.12602824 LUCENE
+2 Q0 Rings of Jupiter 63 0.12197799 LUCENE
+2 Q0 Jupiter 64 0.1219377 LUCENE
+2 Q0 Timeline of planetary exploration 65 0.120524466 LUCENE
+2 Q0 Timeline of Solar System exploration 66 0.120524466 LUCENE
+2 Q0 Flight controller 67 0.11994488 LUCENE
+2 Q0 Kuiper belt 68 0.119686946 LUCENE
+2 Q0 Moons of Neptune 69 0.119071014 LUCENE
+2 Q0 Universe 70 0.11874751 LUCENE
+2 Q0 Ghana Space Science and Technology Centre 71 0.11721738 LUCENE
+2 Q0 Deep Impact (spacecraft) 72 0.11578413 LUCENE
+2 Q0 Ring system 73 0.11504824 LUCENE
+2 Q0 Extraterrestrial life 74 0.11284454 LUCENE
+2 Q0 Saturn 75 0.11226123 LUCENE
+2 Q0 Space Shuttle 76 0.11100919 LUCENE
+2 Q0 Voyager 2 77 0.10715956 LUCENE
+2 Q0 New Horizons 78 0.1068703 LUCENE
+2 Q0 List of astronauts by year of selection 79 0.10613775 LUCENE
+2 Q0 Centaur (minor planet) 80 0.10563974 LUCENE
+2 Q0 Io (moon) 81 0.10421386 LUCENE
+2 Q0 Interplanetary contamination 82 0.10301956 LUCENE
+2 Q0 Orbiting Astronomical Observatory 2 83 0.098588906 LUCENE
+2 Q0 Ganymede (moon) 84 0.098232344 LUCENE
+2 Q0 Asteroid 85 0.098015726 LUCENE
+2 Q0 Exploration of the asteroids 86 0.098015726 LUCENE
+2 Q0 Van Allen radiation belt 87 0.09680321 LUCENE
+2 Q0 Callisto (moon) 88 0.096721664 LUCENE
+2 Q0 Colonization of Callisto 89 0.096721664 LUCENE
+2 Q0 Exploration of Callisto 90 0.096721664 LUCENE
+2 Q0 Rings of Saturn 91 0.09557501 LUCENE
+2 Q0 243 Ida 92 0.09534196 LUCENE
+2 Q0 Exploration of Pluto 93 0.09534196 LUCENE
+2 Q0 Ariel (moon) 94 0.09337004 LUCENE
+2 Q0 Exploration of Titan 95 0.093006335 LUCENE
+2 Q0 Titan (moon) 96 0.093006335 LUCENE
+2 Q0 118401 LINEAR 97 0.09298464 LUCENE
+2 Q0 Mercury (planet) 98 0.09210925 LUCENE
+2 Q0 STS-122 99 0.09197285 LUCENE
+2 Q0 Comet 100 0.090236805 LUCENE

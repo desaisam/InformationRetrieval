@@ -1,0 +1,1 @@
+ten subroutines for the manipulation of chebyshev series c1 algorithm a446 cacm april 1973 broucke r series differentiation integration curve fitting approximations negative powers 5 12 13 16 ca730407 jb january 24 1978 9 29 am 2028 4 2521 3099 2031 2762 3135 6 

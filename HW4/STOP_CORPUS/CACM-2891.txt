@@ -1,0 +1,1 @@
+anomaly disk scheduling comparison fcfs sstf seek empirical model accesses model disk accesses based published measurements developed show highly probable conditions seek scheduling superior sense lower mean queue length simple arrival sequence illustration anomaly presented cacm january 1976 wilhelm disks 3 72 4 35 41 6 ca760102 jb 5 1978 10 42 2628 2891 3072 2375 3153 2741  

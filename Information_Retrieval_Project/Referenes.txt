@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/21209024/python-regex-remove-all-punctuation-except-hyphen-for-unicode-string
+https://www.peterbe.com/plog/uniqifiers-benchmark

@@ -1,0 +1,1 @@
+multiple precision arithmetic and the exact calculation of 3 j 6 9 symbols described in this paper is a system general purpose multiple precision fixed point routines their use subroutines which calculate exactly quantum mechanical symbols large arguments cacm november 1964 maer r m redlich g ca641103 jb march 1978 4 13 pm 980 5 

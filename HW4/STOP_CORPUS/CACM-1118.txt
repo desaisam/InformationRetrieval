@@ -1,0 +1,1 @@
+fortran subroutines time series data reduction cacm march 1964 macgowan ca640314 jb 10 1978 2 39 1118 4 826 948 942 5  

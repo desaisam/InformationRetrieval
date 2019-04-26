@@ -1,0 +1,1 @@
+modified havie integration algorithm 400 d1 cacm october 1970 wallick numerical integration romberg quadrature modified trapezoid values rectangle 5 16 ca701008 jb february 10 1978 9 22 205 4 1982 210 214 1352 398 2040 2355 642 669 100 123 164 1 1273 1883 324 2415 1040 6 2074  

@@ -1,0 +1,1 @@
+accelerating convergence of iterative processes a technique is discussed which when applied to an iterative procedure for the solution equation accelerates rate convergence if iteration converges and induces diverges an illustrative example given cacm june 1958 wegstein j h ca580602 jb march 22 1978 9 09 pm 20 5 

@@ -1,0 +1,1 @@
+a note on modification of nordsieck s method using an off step point cacm december 1971 blumberg j w foulk c r ordinary differential equations multi step methods predictor corrector round off error method gragg stetter modification 5 11 16 17 ca711207 jb february 2 1978 9 52 am 2136 

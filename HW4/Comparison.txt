@@ -1,0 +1,94 @@
+Query : "milky way galaxy" 
+BM25  :
+1 Q0  Galaxy 1 13.14693636959094 BM25
+1 Q0  Milky Way 2 13.05079824266437 BM25
+1 Q0  Local Group 3 13.03326431883616 BM25
+1 Q0  Satellite galaxies of the Milky Way 4 12.91513412384165 BM25
+1 Q0  Virgo Supercluster 5 12.363812456160325 BM25
+Lucene : 
+1 Q0 Satellite galaxies of the Milky Way.txt 1 0.9378933 LUCENE
+1 Q0 Local Group 2 0.9326278 LUCENE
+1 Q0 Milky Way 3 0.6832869 LUCENE
+1 Q0 Galaxy 4 0.6817189 LUCENE
+1 Q0 GN-z11 5 0.6216773 LUCENE
+
+4 out 5 documents overlap. The top ranking document with BM25 scores id Galaxy.txt with score of 13.14 and the top ranking document with Lucene is Satellite galaxies of the Mily way.txt 
+with score of 0.93. Lucene uses Vector space model to compute the score.fi of the term should be high for Galaxy.txt hence BM25 scoring scheme, it has maximum score.
+Lucene considers many other aspects while scoring . Hence its 4th highest scoring document in its score scheme.
+Even though both uses differenct scoring mechanism, there is agreement with respect to top 5 retrieved documents.
+
+===================================================================================================================================================================
+
+Query : hubble space telescope
+BM25 : 
+2 Q0  Hubble Space Telescope 1 4.827047686317913 BM25
+2 Q0  311P_PANSTARRS 2 4.565353674386541 BM25
+2 Q0  354P_LINEAR 3 4.4805650209261 BM25
+2 Q0  Hubble Ultra Deep Field 4 4.437676107371653 BM25
+2 Q0  Great Dark Spot 5 4.426100663326219 BM25
+
+LUCENE : 
+2 Q0 311P_PANSTARRS 1 0.51907605 LUCENE
+2 Q0 List of TDRS satellites 2 0.5049883 LUCENE
+2 Q0 Hubble Space Telescope 3 0.46003887 LUCENE
+2 Q0 Space observatory 4 0.45799476 LUCENE
+2 Q0 Space telescope 5 0.45799476 LUCENE
+
+2 out of 5 documents overlap. The top ranking document with BM25 score is Hubble Space Telescope , this document has the third highest scoring when scored under Lucene soring scheme.
+The documents which do not overlap are prsent with in top 10 in both ranking scheme. This is due to difference in scoring mechanism. But in general for large set both scoring scehemes gives 
+almost same documents.
+
+===================================================================================================================================================================
+Query : international space station
+BM25 : 
+3 Q0  Venera 4 1 1.095506294252523 BM25
+3 Q0  Colonization of Antarctica 2 0.9515193393222474 BM25
+3 Q0  BBC 3 0.9333061117715441 BM25
+3 Q0  Australian Broadcasting Corporation 4 0.9138745336135087 BM25
+3 Q0  RTV-G-4 Bumper 5 0.9062318281141721 BM25
+Lucene :
+3 Q0 List of International Space Station expeditions 1 0.62522006 LUCENE
+3 Q0 List of human spaceflights to the International Space Station.txt 2 0.5336355 LUCENE
+3 Q0 Orbital Technologies Commercial Space Station.txt 3 0.5179786 LUCENE
+3 Q0 List of unmanned spaceflights to Mir.txt 4 0.49429044 LUCENE
+3 Q0 List of spaceflights to the International Space Station.txt 5 0.44845977 LUCENE 
+
+None of the documents overlap. Glancing from the list of documents , I feel the document retrieved using Lucene socring scheme to be more relevant than others.
+===================================================================================================================================================================
+
+Query : big bang theory
+BM25: 
+4 Q0  Universe 1 13.4804252972005 BM25
+4 Q0  Stephen Hawking 2 12.064130639784564 BM25
+4 Q0  Observable universe 3 11.271330714064742 BM25
+4 Q0  Outer space 4 10.864112718833727 BM25
+4 Q0  Astronomy 5 10.499449324618546 BM25
+Lucene : 
+4 Q0 Universe 1 0.34519708 LUCENE
+4 Q0 Stephen Hawking 2 0.24447136 LUCENE
+4 Q0 Observable universe 3 0.24118468 LUCENE
+4 Q0 Hubble Ultra Deep Field 4 0.20391327 LUCENE
+4 Q0 GN-z11 5 0.20213562 LUCENE
+
+Three of the five documents overlap. Moreover the top ranking documents using both the scoring mechanism is same! 
+===================================================================================================================================================================
+
+Query :mars exploratory missions
+BM25:
+5 Q0  Exploration of Uranus 1 6.756573331356343 BM25
+5 Q0  Dawn spacecraft 2 6.703835191552748 BM25
+5 Q0  Mars to Stay 3 6.044438309136515 BM25
+5 Q0  Space missions 4 5.181591704910723 BM25
+5 Q0  Space exploration 5 5.181591704910723 BM25 
+Lucene : 
+5 Q0 Mars to Stay 1 0.25189278 LUCENE
+5 Q0 List of missions to Mars 2 0.2116358 LUCENE
+5 Q0 Exploration of Uranus 3 0.2046907 LUCENE
+5 Q0 Aurora Programme 4 0.1710749 LUCENE
+5 Q0 Space exploration 5 0.16089475 LUCENE
+Only two of the five douments overlap.Only two documents (Space missions and Dawn spacecraft) are present in top 20 ranking using Lucene mechanism.
+Upon obervation documents retrieved using Lucene scoring mechanism are more relevant than using BM25 Scoring.
+This is proably the Lucene uses much more computationally complex scoring criterion.Another oberservation is the top ranking document Exploration of Uranus , which is 
+raked higher in both scoring mechanism is not relevant. The document seems to give information about Uranus! That was not the query asked for. 
+
+	

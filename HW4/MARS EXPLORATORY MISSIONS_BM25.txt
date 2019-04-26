@@ -1,0 +1,100 @@
+5 Q0  Exploration of Uranus 1 6.756573331356343 BM25
+5 Q0  Dawn spacecraft 2 6.703835191552748 BM25
+5 Q0  Mars to Stay 3 6.044438309136515 BM25
+5 Q0  Space missions 4 5.181591704910723 BM25
+5 Q0  Space exploration 5 5.181591704910723 BM25
+5 Q0  Astrobiology 6 5.064071239299767 BM25
+5 Q0  Age of Discovery 7 4.4094595474476055 BM25
+5 Q0  Colonization of the Moon 8 4.249258867037365 BM25
+5 Q0  Romanian Space Agency 9 4.022996206513418 BM25
+5 Q0  Project Gemini 10 3.6292739215970213 BM25
+5 Q0  Gemini program 11 3.6292739215970213 BM25
+5 Q0  Self-replicating spacecraft 12 3.4799100018646074 BM25
+5 Q0  Exploration of Africa 13 3.3951311846699808 BM25
+5 Q0  Near-Earth object 14 3.326370678543781 BM25
+5 Q0  German colonial empire 15 3.246377519443418 BM25
+5 Q0  Observable universe 16 3.1425929057856243 BM25
+5 Q0  Indigenous peoples 17 2.8346877199875586 BM25
+5 Q0  List of missions to Mars 18 2.572113182375047 BM25
+5 Q0  Mars Curse 19 2.567520470635574 BM25
+5 Q0  Exploration of Mars 20 2.567520470635574 BM25
+5 Q0  Aurora Programme 21 2.5322337530444843 BM25
+5 Q0  Discovery program 22 2.530731819160917 BM25
+5 Q0  Outline of space exploration 23 2.529914964416618 BM25
+5 Q0  List of artificial objects on Mars 24 2.508545359686935 BM25
+5 Q0  Mars sample return mission 25 2.5084044115331543 BM25
+5 Q0  Mars probe program 26 2.5047684013973197 BM25
+5 Q0  Sample-return mission 27 2.4949863944560127 BM25
+5 Q0  Sample return mission 28 2.4949863944560127 BM25
+5 Q0  Psychological and sociological effects of spaceflight 29 2.4904987560129292 BM25
+5 Q0  Lander spacecraft 30 2.486098589511212 BM25
+5 Q0  List of Mars orbiters 31 2.4831648233797674 BM25
+5 Q0  Colonization of Mars 32 2.481406958154386 BM25
+5 Q0  Future of space exploration 33 2.477742496976798 BM25
+5 Q0  Phobos moon 34 2.4702591083555427 BM25
+5 Q0  Exploration of Phobos 35 2.4702591083555427 BM25
+5 Q0  Interplanetary contamination 36 2.469860244456897 BM25
+5 Q0  Mars Orbiter Mission 37 2.4674381952686937 BM25
+5 Q0  List of NASA missions 38 2.457728163591021 BM25
+5 Q0  List of artificial objects in heliocentric orbit 39 2.4567734221240234 BM25
+5 Q0  Timeline of Solar System exploration 40 2.4527354746896037 BM25
+5 Q0  Timeline of planetary exploration 41 2.4527354746896037 BM25
+5 Q0  Rover space exploration 42 2.4454654377508733 BM25
+5 Q0  Mars 3 43 2.442575888773849 BM25
+5 Q0  Phobos program 44 2.4375495007029695 BM25
+5 Q0  Constellation program 45 2.4367648161728264 BM25
+5 Q0  National Aeronautics and Space Administration 46 2.435564533658113 BM25
+5 Q0  NASA 47 2.435564533658113 BM25
+5 Q0  Fobos-Grunt 48 2.43010828982526 BM25
+5 Q0  Space architecture 49 2.4214748380740345 BM25
+5 Q0  Interplanetary spaceflight 50 2.4118141360918544 BM25
+5 Q0  Mariner 4 51 2.4071467375431266 BM25
+5 Q0  Review of United States Human Space Flight Plans Committee 52 2.4044406326544463 BM25
+5 Q0  Soviet space program 53 2.402987622462531 BM25
+5 Q0  List of active Solar System probes 54 2.398031378316139 BM25
+5 Q0  Health threat from cosmic rays 55 2.3957904072787617 BM25
+5 Q0  Life support system 56 2.387736012464488 BM25
+5 Q0  Mars 57 2.3773600207099292 BM25
+5 Q0  Spacecraft 58 2.3750136098698804 BM25
+5 Q0  Discovery and exploration of the Solar System 59 2.371217102771838 BM25
+5 Q0  Space probe 60 2.370698524217259 BM25
+5 Q0  Flexible path 61 2.360498031333161 BM25
+5 Q0  Vision for Space Exploration 62 2.3491878090495852 BM25
+5 Q0  Mars Exploration Rover 63 2.348668338833475 BM25
+5 Q0  Jet Propulsion Laboratory 64 2.340928534819998 BM25
+5 Q0  Deimos moon 65 2.337184571370807 BM25
+5 Q0  SpaceX 66 2.335246762105352 BM25
+5 Q0  Space Exploration Technologies 67 2.335246762105352 BM25
+5 Q0  Colonization of Venus 68 2.3305600619764055 BM25
+5 Q0  Valeri Polyakov 69 2.3149028860142224 BM25
+5 Q0  Emirates Mars Mission 70 2.3122812989824255 BM25
+5 Q0  Mir 71 2.3104358536487792 BM25
+5 Q0  Indian Space Research Organisation 72 2.3079250677154217 BM25
+5 Q0  Moons of Mars 73 2.298710893324124 BM25
+5 Q0  Zond program 74 2.276345570272934 BM25
+5 Q0  Atmospheric reentry 75 2.2694823067673813 BM25
+5 Q0  In-situ resource utilization 76 2.2680185457575037 BM25
+5 Q0  JAXA 77 2.266491614668877 BM25
+5 Q0  Japan Aerospace Exploration Agency 78 2.266491614668877 BM25
+5 Q0  Portuguese Empire 79 2.2562665265299566 BM25
+5 Q0  Space Research Centre of Polish Academy of Sciences 80 2.232621859179087 BM25
+5 Q0  Russian Space Research Institute 81 2.229744295629643 BM25
+5 Q0  Space Launch System 82 2.2284207601719115 BM25
+5 Q0  History of spaceflight 83 2.2266181653114474 BM25
+5 Q0  CubeSat 84 2.2225251457076527 BM25
+5 Q0  Delta-v budget 85 2.221482585000376 BM25
+5 Q0  Chinese space program 86 2.212368921889353 BM25
+5 Q0  Swiss Space Office 87 2.211904153561709 BM25
+5 Q0  Italian Space Agency 88 2.211729297808792 BM25
+5 Q0  List of landings on extraterrestrial bodies 89 2.1899869125085325 BM25
+5 Q0  Landings on other planets 90 2.1899869125085325 BM25
+5 Q0  Theia planet 91 2.1723618625474312 BM25
+5 Q0  Private spaceflight 92 2.1540847868508903 BM25
+5 Q0  Imperialism 93 2.1533839284202005 BM25
+5 Q0  Spaceport 94 2.1529258816608814 BM25
+5 Q0  List of manned spacecraft 95 2.1416744880505547 BM25
+5 Q0  List of crewed spacecraft 96 2.1416744880505547 BM25
+5 Q0  Comparison of Asian national space programs 97 2.1340114601253997 BM25
+5 Q0  Asia's Space Race 98 2.1340114601253997 BM25
+5 Q0  Exploration of Pluto 99 2.1305326929298083 BM25
+5 Q0  Space colonization 100 2.1300669083506163 BM25

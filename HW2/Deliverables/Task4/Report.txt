@@ -1,0 +1,36 @@
+Experiment 4a ) Running the page rank algorithm for different baseline values d = 0.25, d = 0.35, d = 0.5. Please uncomment 
+and comment appropriatley in the code to conduct this experiment.
+Increasing the baseline reduces the number of iterations to converge.
+
+
+Re-run the PageRank algorithm in Task3-d) for exactly 4 iterations.
+Discuss the results obtained with respect to the baseline.
+Answer :
+The base line chosen was 0.15 , I infer my findings by inspecting the L2Norm , Page Rank for Grapgh G1 and G2 in the 
+folder FourIter.
+The Sum of page rank tends to go to 1 , but L2norm of the difference vector suggests that the ranks have not converged.
+We should increase the number of interations . Limiting the iterations to 4 fails the convergence test and hence the 
+probabilities have not been distributed evenly (The random surfer).
+For G2 (Focused) The apart from the difference in the values the tendency remains same and its evident from the 
+L2Norm that the diff vector I and R has not converged.	Running 4 iterations is not enough to achieve convergence.
+
+
+Sort the documents based on their raw in-link count. Compare the top
+25 documents in this sorted list to those obtained in Task 3-d) sorted
+by PageRank. Discuss the pros and cons of using the in-link count as
+an alternative to PageRank (address at least 2 pros and 2 cons).
+
+Answer : 
+
+The page has 448 inlinks , which suggests that this page is very popular.
+https://en.wikipedia.org/wiki/Mars ||  Number of incoming links ||  : 448
+From page Rank algortihm : 
+https://en.wikipedia.org/wiki/Mars ||   Page Rank ||  : 0.005473874215957815
+Surprsingly the page which has max no of inlinks is popular . There is  a handshake between Page Rank and 
+maximum number of inlinks.
+
+Pros : Faster than page rank, spends less time since there is no Probablity computation and check for convergence .
+	New pages are with max incomng links can rank higher than more importatn pages.
+Cons : Cannot adapt to frequently updted pages
+	Can be misued 
+

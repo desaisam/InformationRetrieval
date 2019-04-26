@@ -1,0 +1,1 @@
+quikscript simscript language 20 simulation language based programmed entirely algebraic gate internal implementation major differences presented paper programming guide attempt present flavor description included sufficient render material understandable reader familiar languages cacm june 1965 tonge keller newell ca650602 jb march 7 1978 12 45 pm 1253 5  

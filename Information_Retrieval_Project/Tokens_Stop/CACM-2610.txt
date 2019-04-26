@@ -1,0 +1,1 @@
+gauss harmonic interpolation formulas let open bounded simply connected region plane let point assuming starlike respect discuss method computing harmonic interpolation formulas approximate function terms linear combination values selected points boundary approximating solution dirichlet problem cacm august 1974 stroud quadrature 5 13 16 17 ca740814 jb january 1978 9 23 2610  

@@ -1,0 +1,1 @@
+some remarks on lookup of structured variables cacm april 1974 abrahams p w pl 1 symbol table structured variables qualified references compilers 4 12 22 ca740411 jb february 1978 10 34 am 2659 2449 5 
