@@ -1,0 +1,27 @@
+Compare the two crawls in terms of URL overlap, coverage of the crawl topic, 
+and efficiency.
+===========================================================================================
+		BFS				|		DFS
+-------------------------------------------------------------------------------------------
+Time taken to crawl 1000urls : 			|
+						|
+********TOTAL TIME TAKEN*******			|	********TOTAL TIME TAKEN********  
+304.31559324264526  seconds			|	  285.23583006858826  seconds		
+						|
+
+						
+Files overlapping between BFS and DFs ~25
+Compared to 1000 urls , 25 is significantly low. This implies there is almost no overlap between the two searches.
+This is because of the nature of different traveral.
+In Breadth first search, all the child nodes are visited first before visiting its grandchildren.
+In depth first serch, the node explores to depth 6, before backtracking to root.
+This is done recursively in the code.
+
+> Which is better ?
+In terms of speed -DFS is better.
+In terms of stack space - BFS is better (according to implementation in this code which is done recursivley)
+> Coverage of crawl topic
+ Since its not focused search, both crawls are equally divergent.
+But according to hypothesis,  further you go from the topic the  less relevent your crawl is.
+This implies, BFS is better wrt to coverage of crawltopic.  
+						

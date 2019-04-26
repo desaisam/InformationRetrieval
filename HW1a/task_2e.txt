@@ -1,0 +1,40 @@
+The topic under the lens is : Mars.
+I considered these words in my keys : 
+Mars
+Rover
+Orbiter
+orbit
+Pathfinder
+Mars_Mission
+Mars_Exploration
+martian
+Odyssey
+MAVEN
+Spirit
+Curiosity
+Marco
+CubeSat
+ExoMars
+Red_Planet
+Ares
+Mars_Express
+
+>The total links crawled is - 799 upto depth 6.
+> Out of this 499 urls contained 'mars' in the url. This implies that 62.4 percent which coverage.
+> 53 contained the word 'martian' which is the synonymus of mars
+> 4 contained word 'red_planet' which is also synonymus of mars
+> 23 Contained word Rover -- which stems from mars_rover
+> 1 Contained word Orbiter
+> 7 contained Pathfinder
+> 7 contained Odyssey
+> 9 contained MAVEN
+> 34Contained Ares
+> 2 contained Marco
+
+
+Discuss your choice and your overall results.?
+I Chose words which is related to word mars . Ares - Latin name of mars, martian is also related to mars.
+Red_planet is another name of mars. Odyssey, spirit,curiosity,cubesat all are space mission on mars. I used these words in anticipation that
+i can find more information related to mars.
+
+********TOTAL TIME TAKEN********  1071.460153579712  seconds
